@@ -23,6 +23,18 @@
   ul { margin: 2px 0; padding-left: 18px; }
   .next { opacity: .65; font-size: 12px; border-top: 1px solid rgba(255,255,255,.2); margin-top: 10px; padding-top: 6px; }
   footer { padding: 5px 10px; font-size: 11px; background: rgba(0,0,0,.35); display: flex; justify-content: space-between; }
+  #nav { display: none; margin-top: 10px; padding: 8px; border: 1px solid rgba(255,215,94,.5); border-radius: 8px; background: rgba(0,0,0,.25); align-items: center; gap: 12px; }
+  #nav.on { display: flex; }
+  #compass { position: relative; width: 64px; height: 64px; border: 2px solid #8fd0ff; border-radius: 50%; flex: none; }
+  #compass i { position: absolute; top: 2px; left: 50%; font-size: 10px; font-style: normal; transform: translateX(-50%); color: #8fd0ff; }
+  #arrow { position: absolute; inset: 0; transition: transform .25s; }
+  #arrow::before { content: ""; position: absolute; left: 50%; top: 8px; margin-left: -8px; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 24px solid #ffd75e; }
+  #arrow::after { content: ""; position: absolute; left: 50%; top: 30px; width: 4px; height: 20px; margin-left: -2px; background: #ffd75e; }
+  #navtxt b { font-size: 16px; color: #ffd75e; display: block; }
+  #navtxt small { opacity: .8; }
+  #posrow { display: none; margin-top: 6px; }
+  #posrow.edit { display: block; }
+  #pos { width: 100%; background: #0b1235; color: #fff; border: 1px solid #5a6fb8; border-radius: 4px; padding: 3px 6px; user-select: text; }
   #list { display: none; }
   #list.open { display: block; }
   #list div { padding: 3px 4px; cursor: pointer; border-radius: 4px; }
@@ -42,8 +54,10 @@
   <main>
     <div id="list"></div>
     <div id="step"></div>
+    <div id="nav"><div id="compass"><i>N</i><div id="arrow"></div></div><div id="navtxt"></div></div>
+    <div id="posrow"><input id="pos" placeholder="Your coords, e.g. 11.2, 13.5 (Enter)"></div>
   </main>
-  <footer><span id="reset"></span><span>F6/F7 step · F8 hide · F9 lock · F10 fade</span></footer>
+  <footer><span id="reset"></span><span>F6/F7 step · F8 hide · F9 lock · F10 fade · F11 coords</span></footer>
 </div>
 <script src="overlay.js"></script>
 </body>

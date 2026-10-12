@@ -1,0 +1,48 @@
+{
+  "title": "FFXIV – Stormblood",
+  "steps": [
+    {
+      "section": "Overview",
+      "title": "Levels 60–70",
+      "text": "Follow the blue-marker Main Scenario Quest; it unlocks each zone and duty in order.",
+      "tips": [
+        "Hub cities are Kugane and Rhalgr's Reach. Start the expansion from Ul'dah/Gridania/Limsa after Heavensward."
+      ]
+    },
+    {
+      "section": "Zones",
+      "title": "Zones to visit",
+      "items": [
+        "The Fringes",
+        "The Peaks",
+        "The Lochs",
+        "The Ruby Sea",
+        "Yanxia",
+        "The Azim Steppe"
+      ],
+      "tips": [
+        "Attune to each aetheryte as you arrive – it makes teleporting free of travel time later."
+      ]
+    },
+    {
+      "section": "Duties",
+      "title": "Story dungeons",
+      "items": [
+        "The Sirensong Sea",
+        "Shisui of the Violet Tides",
+        "Bardam's Mettle",
+        "Doma Castle",
+        "Castrum Abania",
+        "Ala Mhigo"
+      ],
+      "tips": [
+        "Exact unlock levels are in the Duty Finder; story dungeons are MSQ-gated."
+      ]
+    },
+    {
+      "section": "Waypoints",
+      "title": "Add your own waypoints",
+      "text": "Add a \"target\": {\"zone\":..., \"x\":..., \"y\":..., \"label\":...} to any step to get a direction arrow. See the README."
+    }
+  ]
+}

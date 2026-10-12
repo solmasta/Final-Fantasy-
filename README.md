@@ -43,6 +43,16 @@ Drop a `.json` file in `guides/`. Format:
 }
 ```
 
+### Direction arrow
+
+Add a `target` to any step (map coordinates, as shown under your minimap / on the world map):
+
+```json
+{ "title": "Talk to the NPC", "target": { "zone": "Limsa Lominsa", "x": 10.5, "y": 11.2, "label": "Aetheryte" } }
+```
+
+Tell the overlay where you are in one of two ways: **copy** your coordinates (e.g. `10.5, 11.2`) and press **F11**, or type them in the box in edit mode (F9). The overlay then shows a compass arrow, the 8-way direction and the distance to the target. The arrow is *map-relative*: set the minimap to **fixed north** (minimap right-click → Lock/Fixed North) so up on the arrow = north on your map. Coordinates are entered by you; the overlay does not read the game.
+
 Check your files with `npm run validate`.
 
 > The included `ffxiv-a-realm-reborn.json` is only a short starter – replace or extend it with your own walkthrough notes.

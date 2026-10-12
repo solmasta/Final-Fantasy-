@@ -1,0 +1,50 @@
+{
+  "title": "FFXIV – Dawntrail",
+  "steps": [
+    {
+      "section": "Overview",
+      "title": "Levels 90–100",
+      "text": "Follow the blue-marker Main Scenario Quest; it unlocks each zone and duty in order.",
+      "tips": [
+        "Hub city is Tuliyollal. Level cap is 100."
+      ]
+    },
+    {
+      "section": "Zones",
+      "title": "Zones to visit",
+      "items": [
+        "Tuliyollal",
+        "Urqopacha",
+        "Kozama'uka",
+        "Yak T'el",
+        "Shaaloani",
+        "Heritage Found",
+        "Living Memory",
+        "Solution Nine"
+      ],
+      "tips": [
+        "Attune to each aetheryte as you arrive – it makes teleporting free of travel time later."
+      ]
+    },
+    {
+      "section": "Duties",
+      "title": "Story dungeons",
+      "items": [
+        "Ihuykatumu",
+        "Worqor Zormor",
+        "The Skydeep Cenote",
+        "Vanguard",
+        "Origenics",
+        "Alexandria"
+      ],
+      "tips": [
+        "Exact unlock levels are in the Duty Finder; story dungeons are MSQ-gated."
+      ]
+    },
+    {
+      "section": "Waypoints",
+      "title": "Add your own waypoints",
+      "text": "Add a \"target\": {\"zone\":..., \"x\":..., \"y\":..., \"label\":...} to any step to get a direction arrow. See the README."
+    }
+  ]
+}

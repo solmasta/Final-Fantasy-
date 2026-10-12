@@ -1,0 +1,26 @@
+{
+  "title": "TEMPLATE \u2013 waypoints (example numbers, replace)",
+  "steps": [
+    {
+      "section": "Example",
+      "title": "Walk to a spot",
+      "text": "The target numbers below are placeholders to test the arrow. Replace with real map coordinates.",
+      "target": {
+        "zone": "Any zone",
+        "x": 20.0,
+        "y": 20.0,
+        "label": "Example spot"
+      }
+    },
+    {
+      "section": "Example",
+      "title": "Then here",
+      "target": {
+        "zone": "Any zone",
+        "x": 10.0,
+        "y": 30.0,
+        "label": "Second example spot"
+      }
+    }
+  ]
+}

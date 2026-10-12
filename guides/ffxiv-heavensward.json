@@ -1,0 +1,49 @@
+{
+  "title": "FFXIV – Heavensward",
+  "steps": [
+    {
+      "section": "Overview",
+      "title": "Levels 50–60",
+      "text": "Follow the blue-marker Main Scenario Quest; it unlocks each zone and duty in order.",
+      "tips": [
+        "Hub city is Ishgard (Foundation). Start the expansion from Ishgard after finishing A Realm Reborn."
+      ]
+    },
+    {
+      "section": "Zones",
+      "title": "Zones to visit",
+      "items": [
+        "Coerthas Central Highlands",
+        "Coerthas Western Highlands",
+        "The Dravanian Forelands",
+        "The Dravanian Hinterlands",
+        "The Churning Mists",
+        "The Sea of Clouds",
+        "Azys Lla"
+      ],
+      "tips": [
+        "Attune to each aetheryte as you arrive – it makes teleporting free of travel time later."
+      ]
+    },
+    {
+      "section": "Duties",
+      "title": "Story dungeons",
+      "items": [
+        "Sohm Al",
+        "The Aery",
+        "The Vault",
+        "The Great Gubal Library",
+        "The Aetherochemical Research Facility",
+        "Neverreap"
+      ],
+      "tips": [
+        "Exact unlock levels are in the Duty Finder; story dungeons are MSQ-gated."
+      ]
+    },
+    {
+      "section": "Waypoints",
+      "title": "Add your own waypoints",
+      "text": "Add a \"target\": {\"zone\":..., \"x\":..., \"y\":..., \"label\":...} to any step to get a direction arrow. See the README."
+    }
+  ]
+}

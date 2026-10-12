@@ -1,4 +1,4 @@
-const { app, BrowserWindow, globalShortcut, ipcMain, screen } = require('electron');
+const { app, BrowserWindow, clipboard, globalShortcut, ipcMain, screen } = require('electron');
 const fs = require('fs');
 const path = require('path');
 
@@ -6,7 +6,7 @@ const GUIDES_DIR = path.join(__dirname, '..', 'guides');
 const OPACITIES = [1, 0.8, 0.6, 0.4];
 
 let win;
-let state = { guide: null, step: 0, opacityIdx: 1, clickThrough: true, visible: true, bounds: null };
+let state = { guide: null, step: 0, opacityIdx: 1, clickThrough: true, visible: true, bounds: null, pos: null };
 let statePath;
 
 function loadState() {
@@ -65,12 +65,19 @@ function step(delta, guide) {
   push();
 }
 
+// Accepts "12.3, 14.5", "( 12.3 , 14.5 )", "X: 12.3 Y: 14.5" etc.
+function parseCoords(text) {
+  const m = String(text).match(/(-?\d+(?:\.\d+)?)\D+?(-?\d+(?:\.\d+)?)/);
+  return m ? { x: parseFloat(m[1]), y: parseFloat(m[2]) } : null;
+}
+
 function registerHotkeys() {
   const keys = {
     'F6': () => step(-1),
     'F7': () => step(1),
     'F8': () => { state.visible = !state.visible; state.visible ? win.showInactive() : win.hide(); saveState(); },
     'F9': () => { state.clickThrough = !state.clickThrough; push(); },
+    'F11': () => { const p = parseCoords(clipboard.readText()); if (p) { state.pos = p; push(); } },
     'F10': () => { state.opacityIdx = (state.opacityIdx + 1) % OPACITIES.length; push(); }
   };
   for (const [k, fn] of Object.entries(keys)) globalShortcut.register(k, fn);
@@ -79,6 +86,7 @@ function registerHotkeys() {
 ipcMain.on('select-guide', (_e, id) => { state.guide = id; state.step = 0; push(); });
 ipcMain.on('goto-step', (_e, i) => { state.step = i; push(); });
 ipcMain.on('toggle-click-through', () => { state.clickThrough = !state.clickThrough; push(); });
+ipcMain.on('set-pos', (_e, text) => { state.pos = parseCoords(text); push(); });
 ipcMain.on('quit', () => app.quit());
 
 app.whenReady().then(() => {

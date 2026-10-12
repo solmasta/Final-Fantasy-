@@ -19,6 +19,7 @@ function renderStep(s) {
     else { const ul = el('ul'); v.forEach(x => ul.append(el('li', '', x))); b.append(ul); }
     box.append(b);
   }
+  renderNav(st, s.pos);
   const nxt = guide.steps[s.step + 1];
   if (nxt) box.append(el('div', 'next', 'Next: ' + nxt.title));
   $('bar').style.width = ((s.step + 1) / guide.steps.length * 100) + '%';
@@ -32,6 +33,23 @@ function renderStep(s) {
   });
 }
 
+const DIRS = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'];
+// Map coordinates: X grows east, Y grows south. Arrow is relative to a north-up map.
+function renderNav(st, pos) {
+  const nav = $('nav'), t = st.target;
+  if (!t) { nav.classList.remove('on'); return; }
+  nav.classList.add('on');
+  const txt = $('navtxt');
+  txt.replaceChildren();
+  const where = `${t.label || 'Target'}${t.zone ? ' – ' + t.zone : ''} (${t.x}, ${t.y})`;
+  if (!pos) { $('arrow').style.transform = 'rotate(0deg)'; txt.append(el('b', '', 'Set your position'), el('small', '', where + ' · copy your coords, press F11')); return; }
+  const dx = t.x - pos.x, dy = t.y - pos.y, dist = Math.hypot(dx, dy);
+  const deg = (Math.atan2(dx, -dy) * 180 / Math.PI + 360) % 360;
+  $('arrow').style.transform = `rotate(${deg}deg)`;
+  const arrived = dist < 1.5;
+  txt.append(el('b', '', arrived ? 'You have arrived' : `${DIRS[Math.round(deg / 45) % 8]} · ${dist.toFixed(1)} units`), el('small', '', where));
+}
+
 window.overlay.onState(s => {
   current = s;
   const sel = $('guide');
@@ -39,11 +57,13 @@ window.overlay.onState(s => {
     sel.replaceChildren(...s.guides.map(g => { const o = el('option', '', g.title); o.value = g.id; return o; }));
   }
   sel.value = s.guide;
+  $('posrow').className = s.clickThrough ? '' : 'edit';
   $('mode').textContent = s.clickThrough ? 'locked' : 'edit';
   $('mode').className = s.clickThrough ? '' : 'edit';
   renderStep(s);
 });
 
+$('pos').onkeydown = e => { if (e.key === 'Enter') window.overlay.setPos(e.target.value); };
 $('guide').onchange = e => window.overlay.selectGuide(e.target.value);
 $('menu').onclick = () => $('list').classList.toggle('open');
 $('mode').onclick = () => window.overlay.toggleClickThrough();

@@ -4,5 +4,6 @@ contextBridge.exposeInMainWorld('overlay', {
   selectGuide: id => ipcRenderer.send('select-guide', id),
   gotoStep: i => ipcRenderer.send('goto-step', i),
   toggleClickThrough: () => ipcRenderer.send('toggle-click-through'),
+  setPos: t => ipcRenderer.send('set-pos', t),
   quit: () => ipcRenderer.send('quit')
 });

@@ -1,0 +1,51 @@
+{
+  "title": "FFXIV – Endwalker",
+  "steps": [
+    {
+      "section": "Overview",
+      "title": "Levels 80–90",
+      "text": "Follow the blue-marker Main Scenario Quest; it unlocks each zone and duty in order.",
+      "tips": [
+        "Hub cities are Old Sharlayan and Radz-at-Han."
+      ]
+    },
+    {
+      "section": "Zones",
+      "title": "Zones to visit",
+      "items": [
+        "Old Sharlayan",
+        "Labyrinthos",
+        "Thavnair",
+        "Garlemald",
+        "Mare Lamentorum",
+        "Elpis",
+        "Ultima Thule"
+      ],
+      "tips": [
+        "Attune to each aetheryte as you arrive – it makes teleporting free of travel time later."
+      ]
+    },
+    {
+      "section": "Duties",
+      "title": "Story dungeons",
+      "items": [
+        "The Tower of Zot",
+        "The Tower of Babil",
+        "Vanaspati",
+        "Ktisis Hyperboreia",
+        "The Aitiascope",
+        "The Dead Ends",
+        "Smileton",
+        "The Stigma Dreamscape"
+      ],
+      "tips": [
+        "Exact unlock levels are in the Duty Finder; story dungeons are MSQ-gated."
+      ]
+    },
+    {
+      "section": "Waypoints",
+      "title": "Add your own waypoints",
+      "text": "Add a \"target\": {\"zone\":..., \"x\":..., \"y\":..., \"label\":...} to any step to get a direction arrow. See the README."
+    }
+  ]
+}
