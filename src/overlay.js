@@ -48,3 +48,17 @@ $('guide').onchange = e => window.overlay.selectGuide(e.target.value);
 $('menu').onclick = () => $('list').classList.toggle('open');
 $('mode').onclick = () => window.overlay.toggleClickThrough();
 $('quit').onclick = () => window.overlay.quit();
+
+// FFXIV resets (UTC): daily 15:00, weekly Tuesday 08:00
+function fmt(ms) { const m = Math.floor(ms / 60000); const d = Math.floor(m / 1440), h = Math.floor(m % 1440 / 60); return (d ? d + 'd ' : '') + h + 'h ' + (m % 60) + 'm'; }
+function tickReset() {
+  const now = new Date();
+  let daily = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 15);
+  if (daily <= now) daily += 864e5;
+  let weekly = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 8);
+  weekly += ((2 - new Date(weekly).getUTCDay() + 7) % 7) * 864e5;
+  if (weekly <= now) weekly += 7 * 864e5;
+  $('reset').textContent = `Daily ${fmt(daily - now)} · Weekly ${fmt(weekly - now)}`;
+}
+tickReset();
+setInterval(tickReset, 30000);
