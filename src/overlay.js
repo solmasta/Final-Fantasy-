@@ -10,7 +10,7 @@ function renderStep(s) {
   const st = guide.steps[s.step];
   box.append(el('div', 'section', `${st.section || ''}  ·  ${s.step + 1}/${guide.steps.length}`), el('h2', '', st.title));
   if (st.text) box.append(el('div', 'block', st.text));
-  for (const [key, label] of [['do', 'Do'], ['unlocks', 'Unlocks'], ['items', 'Items'], ['tips', 'Tips'], ['boss', 'Boss']]) {
+  for (const [key, label] of [['do', 'Do'], ['unlocks', 'Unlocks'], ['zones', 'Overworld zones'], ['cities', 'Cities & housing'], ['dungeons', 'Dungeons'], ['trials', 'Trials'], ['raids', 'Raids'], ['other', 'Other duties & areas'], ['items', 'Items'], ['tips', 'Tips'], ['boss', 'Boss']]) {
     const v = st[key];
     if (!v || !v.length) continue;
     const b = el('div', 'block');

@@ -57,7 +57,7 @@ Check your files with `npm run validate`.
 
 ### Included guides
 
-`guides/ffxiv-01…12` cover the entire Main Scenario Quest line from A Realm Reborn through Patch 7.56 (one guide per story arc; every quest with its level and what it unlocks). They are generated from the quest lists in `data/msq-*.txt` – edit those and run `npm run build-guides` to regenerate (e.g. when a new patch adds quests).
+`guides/ffxiv-00-locations.json` is a region-by-region reference (zones, cities, dungeons, trials, raids; from `data/locations.txt`). `guides/ffxiv-01…12` cover the entire Main Scenario Quest line from A Realm Reborn through Patch 7.56 (one guide per story arc; every quest with its level and what it unlocks). They are generated from the quest lists in `data/msq-*.txt` – edit those and run `npm run build-guides` to regenerate (e.g. when a new patch adds quests).
 
 The quest lists do not include map coordinates, so there are no direction arrows in them yet. Add a `target` to any quest line in your own copy, or tell me which quests to add them to.
  – replace or extend it with your own walkthrough notes.
