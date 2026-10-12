@@ -1,0 +1,262 @@
+{
+ "title": "FFXIV MSQ – Post-Heavensward (Patches 3.1-3.56)",
+ "steps": [
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "An Uncertain Future",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "Breaking the Cycle",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "Another Time, Another Place",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "In the Eye of the Beholder",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "A Little Slow, a Little Late",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "Dreams of the Lost",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "Against the Dying of the Light",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
+   "title": "As Goes Light, So Goes Darkness",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "So It Goes"
+   ]
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "As It Once Was",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "The Word of the Mother",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Antitower"
+   ]
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "This War of Ours",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "Staunch Conviction",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "Once More, a Favor",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "For Those We Have Lost",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "Consequences",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "Choices",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "A Spectacle for the Ages",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Victory"
+   ]
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "For Those We Can Yet Save",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.2 (The Gears of Change)",
+   "title": "Causes and Costs",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Battle Stance",
+    "First Gear"
+   ]
+  },
+  {
+   "section": "Patch 3.3 (Revenge of the Horde)",
+   "title": "The Man Within",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.3 (Revenge of the Horde)",
+   "title": "An Ally for Ishgard",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.3 (Revenge of the Horde)",
+   "title": "Winning Over the Wyrm",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Sohr Khai"
+   ]
+  },
+  {
+   "section": "Patch 3.3 (Revenge of the Horde)",
+   "title": "An End to the Song",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Final Steps of Faith"
+   ]
+  },
+  {
+   "section": "Patch 3.3 (Revenge of the Horde)",
+   "title": "Heroes of the Hour",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.3 (Revenge of the Horde)",
+   "title": "Litany of Peace",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Floor the Horde"
+   ]
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "Promises Kept",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "Shadows of the First",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Xelphatol"
+   ]
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "Two Sides of a Coin",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "Unlikely Allies",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "The Beast That Mourned at the Heart of the Mountain",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "Beneath a Star-filled Sky",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "When We Were Free",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "Honorable Heroes",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "One Life for One World",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.4 (Soul Surrender)",
+   "title": "An Ending to Mark a New Beginning",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "No Retreat, No Surrender"
+   ]
+  },
+  {
+   "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
+   "title": "Tidings from Gyr Abania",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
+   "title": "An Envoy for Ishgard",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
+   "title": "An Allied Decision",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
+   "title": "Griffin, Griffin on the Wall",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Baelsar's Wall"
+   ]
+  },
+  {
+   "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
+   "title": "Louisoix's Finest Student",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "School's Out Forever"
+   ]
+  },
+  {
+   "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
+   "title": "The Obvious Solution",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
+   "title": "The Greater Obeisance",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
+   "title": "Fly Free, My Pretty",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
+   "title": "The Far Edge of Fate",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Five Minutes of Fate"
+   ]
+  }
+ ]
+}

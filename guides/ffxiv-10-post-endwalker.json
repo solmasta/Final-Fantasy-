@@ -1,0 +1,286 @@
+{
+ "title": "FFXIV MSQ – Post-Endwalker (Patches 6.1-6.55)",
+ "steps": [
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Newfound Adventure",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Unending Codex"
+   ]
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Bountiful Ruins",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Friends for the Road",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Alzadaal's Legacy",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Alzadaal's Legacy (duty)"
+   ]
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "A Brother's Grief",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Sharing the Wealth",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Bridging the Rift",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Restricted Reading",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "Void Theory",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.1 (Newfound Adventure)",
+   "title": "A Satrap's Duty",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Newfound Adventure"
+   ]
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "In Search of Azdaja",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Fell Court of Troia (duty)"
+   ]
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "Shadowed Remnants",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "Where Everything Begins",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "Groping in the Dark",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "Nowhere to Run",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "The Wind Rises",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Storm's Crown"
+   ]
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "Return from the Void",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "A World with Light and Life",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.2 (Buried Memory)",
+   "title": "Buried Memory",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Into the Light"
+   ]
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "Once More unto the Void",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "A Cold Reunion",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "Kindled Spirit",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "An Unforeseen Bargain",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "King of the Mountain",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Lapis Manalis"
+   ]
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "A Dragon's Resolve",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "Paths Barred",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "Desires Untold",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mount Ordeals"
+   ]
+  },
+  {
+   "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
+   "title": "Gods Revel, Lands Tremble",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Hallowed and Harrowed"
+   ]
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "Currying Flavor",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "Going Haam",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Aetherfont"
+   ]
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "Like Fear to Flame",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "The Fallen Empire",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "Bonds of Trust",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "Lunar Rendezvous",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "The Red Side of the Moon",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "Abyssal Dark",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Voidcast Dais"
+   ]
+  },
+  {
+   "section": "Patch 6.4 (The Dark Throne)",
+   "title": "The Dark Throne",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "You Win or You Dais"
+   ]
+  },
+  {
+   "section": "Patch 6.5 (Growing Light - Part 1)",
+   "title": "Seeking the Light",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.5 (Growing Light - Part 1)",
+   "title": "Appealing to the Masses",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.5 (Growing Light - Part 1)",
+   "title": "In Defiance of Fate",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.5 (Growing Light - Part 1)",
+   "title": "Back to Action",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.5 (Growing Light - Part 1)",
+   "title": "Down in the Dark",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Lunar Subterrane",
+    "The Abyssal Fracture"
+   ]
+  },
+  {
+   "section": "Patch 6.5 (Growing Light - Part 1)",
+   "title": "Reunited at Last",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.5 (Growing Light - Part 1)",
+   "title": "Growing Light",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "For Others to Follow"
+   ]
+  },
+  {
+   "section": "Patch 6.55 (Growing Light - Part 2)",
+   "title": "When One Door Closes...",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.55 (Growing Light - Part 2)",
+   "title": "The Game Is Afoot",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 6.55 (Growing Light - Part 2)",
+   "title": "The Coming Dawn",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Tomorrows Unknown"
+   ]
+  }
+ ]
+}

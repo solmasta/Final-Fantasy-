@@ -1,0 +1,261 @@
+{
+ "title": "FFXIV MSQ – Post-Dawntrail (Patches 7.1-7.56)",
+ "steps": [
+  {
+   "section": "Patch 7.1 (Crossroads)",
+   "title": "A Royal Invitation",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.1 (Crossroads)",
+   "title": "Alexandria Mourns",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.1 (Crossroads)",
+   "title": "In Search of the Past",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Yuweyawata Field Station"
+   ]
+  },
+  {
+   "section": "Patch 7.1 (Crossroads)",
+   "title": "Among the Abandoned",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.1 (Crossroads)",
+   "title": "Guidance of the Hhetso",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.1 (Crossroads)",
+   "title": "The Warmth of Family",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.1 (Crossroads)",
+   "title": "Crossroads",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Crossroads"
+   ]
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "A Glimmer of the Past",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "Memories of a Bygone Age",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "In Search of Meaning",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "A Jewel Shattered",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "The Meeting",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "Descent to the Foundation",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Underkeep",
+    "Recollection"
+   ]
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "Shared Paths",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.2 (Seekers of Eternity)",
+   "title": "Seekers of Eternity",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Seekers of Eternity"
+   ]
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "Targeted Tragedy",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "The Endless Choice",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "My Memories and Yours",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "A Darkness in the Heart",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "Preservation Their Purpose",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "A Calculated Evolution",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "One of Our Own",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "A Terminal Invitation",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Meso Terminal",
+    "The Ageless Necropolis"
+   ]
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "Blades in Waiting",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.3 (The Promise of Tomorrow)",
+   "title": "The Promise of Tomorrow",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "In Memoriam"
+   ]
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "With the Winds",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "Through the Thunder",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "Beyond the Mountains",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mistwake"
+   ]
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "Around the City",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "To Work",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "In Her Heart",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "Toward Trouble",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "Where We Call Home",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Hell on Rails"
+   ]
+  },
+  {
+   "section": "Patch 7.4 (Into the Mist)",
+   "title": "Into the Mist",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Into the Mist"
+   ]
+  },
+  {
+   "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
+   "title": "In Fate's Footsteps",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
+   "title": "Two Worlds Entwined",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Clyteum"
+   ]
+  },
+  {
+   "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
+   "title": "A Grave Presentiment",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Unmaking"
+   ]
+  },
+  {
+   "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
+   "title": "A Beacon from Beyond",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
+   "title": "Trail to the Heavens",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Trail to the Heavens"
+   ]
+  },
+  {
+   "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
+   "title": "A Winter's Dream",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
+   "title": "A Rush of Cold Wind",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
+   "title": "The World Locked in Ice",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
+   "title": "Windborne",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Onward and Upward"
+   ]
+  }
+ ]
+}

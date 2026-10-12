@@ -55,4 +55,9 @@ Tell the overlay where you are in one of two ways: **copy** your coordinates (e.
 
 Check your files with `npm run validate`.
 
-> The included `ffxiv-a-realm-reborn.json` is only a short starter – replace or extend it with your own walkthrough notes.
+### Included guides
+
+`guides/ffxiv-01…12` cover the entire Main Scenario Quest line from A Realm Reborn through Patch 7.56 (one guide per story arc; every quest with its level and what it unlocks). They are generated from the quest lists in `data/msq-*.txt` – edit those and run `npm run build-guides` to regenerate (e.g. when a new patch adds quests).
+
+The quest lists do not include map coordinates, so there are no direction arrows in them yet. Add a `target` to any quest line in your own copy, or tell me which quests to add them to.
+ – replace or extend it with your own walkthrough notes.

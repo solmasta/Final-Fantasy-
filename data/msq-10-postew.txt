@@ -1,0 +1,54 @@
+# Post-Endwalker (Patches 6.1-6.55)|ffxiv-10-post-endwalker
+## Patch 6.1 (Newfound Adventure)
+Newfound Adventure|90|The Unending Codex
+Bountiful Ruins|90
+Friends for the Road|90
+Alzadaal's Legacy|90|Alzadaal's Legacy (duty)
+A Brother's Grief|90
+Sharing the Wealth|90
+Bridging the Rift|90
+Restricted Reading|90
+Void Theory|90
+A Satrap's Duty|90|Newfound Adventure
+## Patch 6.2 (Buried Memory)
+In Search of Azdaja|90|The Fell Court of Troia (duty)
+Shadowed Remnants|90
+Where Everything Begins|90
+Groping in the Dark|90
+Nowhere to Run|90
+The Wind Rises|90|Storm's Crown
+Return from the Void|90
+A World with Light and Life|90
+Buried Memory|90|Into the Light
+## Patch 6.3 (Gods Revel, Lands Tremble)
+Once More unto the Void|90
+A Cold Reunion|90
+Kindled Spirit|90
+An Unforeseen Bargain|90
+King of the Mountain|90|Lapis Manalis
+A Dragon's Resolve|90
+Paths Barred|90
+Desires Untold|90|Mount Ordeals
+Gods Revel, Lands Tremble|90|Hallowed and Harrowed
+## Patch 6.4 (The Dark Throne)
+Currying Flavor|90
+Going Haam|90|The Aetherfont
+Like Fear to Flame|90
+The Fallen Empire|90
+Bonds of Trust|90
+Lunar Rendezvous|90
+The Red Side of the Moon|90
+Abyssal Dark|90|The Voidcast Dais
+The Dark Throne|90|You Win or You Dais
+## Patch 6.5 (Growing Light - Part 1)
+Seeking the Light|90
+Appealing to the Masses|90
+In Defiance of Fate|90
+Back to Action|90
+Down in the Dark|90|The Lunar Subterrane; The Abyssal Fracture
+Reunited at Last|90
+Growing Light|90|For Others to Follow
+## Patch 6.55 (Growing Light - Part 2)
+When One Door Closes...|90
+The Game Is Afoot|90
+The Coming Dawn|90|Tomorrows Unknown

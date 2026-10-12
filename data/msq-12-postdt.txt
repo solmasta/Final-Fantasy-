@@ -1,0 +1,50 @@
+# Post-Dawntrail (Patches 7.1-7.56)|ffxiv-12-post-dawntrail
+## Patch 7.1 (Crossroads)
+A Royal Invitation|100
+Alexandria Mourns|100
+In Search of the Past|100|Yuweyawata Field Station
+Among the Abandoned|100
+Guidance of the Hhetso|100
+The Warmth of Family|100
+Crossroads|100|Crossroads
+## Patch 7.2 (Seekers of Eternity)
+A Glimmer of the Past|100
+Memories of a Bygone Age|100
+In Search of Meaning|100
+A Jewel Shattered|100
+The Meeting|100
+Descent to the Foundation|100|The Underkeep; Recollection
+Shared Paths|100
+Seekers of Eternity|100|Seekers of Eternity
+## Patch 7.3 (The Promise of Tomorrow)
+Targeted Tragedy|100
+The Endless Choice|100
+My Memories and Yours|100
+A Darkness in the Heart|100
+Preservation Their Purpose|100
+A Calculated Evolution|100
+One of Our Own|100
+A Terminal Invitation|100|The Meso Terminal; The Ageless Necropolis
+Blades in Waiting|100
+The Promise of Tomorrow|100|In Memoriam
+## Patch 7.4 (Into the Mist)
+With the Winds|100
+Through the Thunder|100
+Beyond the Mountains|100|Mistwake
+Around the City|100
+To Work|100
+In Her Heart|100
+Toward Trouble|100
+Where We Call Home|100|Hell on Rails
+Into the Mist|100|Into the Mist
+## Patch 7.5 (Trail to the Heavens - Part 1)
+In Fate's Footsteps|100
+Two Worlds Entwined|100|The Clyteum
+A Grave Presentiment|100|The Unmaking
+A Beacon from Beyond|100
+Trail to the Heavens|100|Trail to the Heavens
+## Patch 7.56 (Trail to the Heavens - Part 2)
+A Winter's Dream|100
+A Rush of Cold Wind|100
+The World Locked in Ice|100
+Windborne|100|Onward and Upward

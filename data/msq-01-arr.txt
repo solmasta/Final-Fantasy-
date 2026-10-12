@@ -1,0 +1,219 @@
+# A Realm Reborn – Seventh Umbral Era (Lv 1-50)|ffxiv-01-arr-umbral
+## Gridania start (Lancer / Archer / Conjurer)
+Close to Home|1|Return
+To the Bannock|4
+Passing Muster|5
+Chasing Shadows|5
+Eggs over Queasy|7
+Surveying the Damage|8
+A Soldier's Breakfast|9
+Spirithold Broken|9|Inn Rooms; Guildleves
+On to Bentbranch|10
+You Shall Not Trespass|10
+Don't Look Down|11
+In the Grim Darkness of the Forest|11
+Threat Level Elevated|11
+Migrant Marauders|12
+A Hearer Is Often Late|13
+Salvaging the Scene|13
+Leia's Legacy|14
+Dread Is in the Air|14
+To Guard a Guardian|14
+Festive Endeavors|14
+Renewing the Covenant|14
+The Gridanian Envoy|15|Airships; Gone from Gridania
+Call of the Sea|15
+## Limsa Lominsa start (Marauder / Arcanist)
+Close to Home|1|Return
+On to Summerford|4
+Dressed to Call|5
+Lurkers in the Grotto|5
+Washed Up|7
+Double Dealing|8
+Loam Maintenance|9
+Plowshares to Swords|9
+Just Deserts|9|Inn Rooms; Guildleves
+Sky-high|10
+Thanks a Million|11
+Relighting the Torch|11
+On to the Drydocks|11
+Without a Doubt|12
+Righting the Shipwright|12
+Do Angry Pirates Dream|13
+Victory in Peril|14
+Men of the Blue Tattoos|14
+Feint and Strike|14
+High Society|14
+A Mizzenmast Repast|14
+The Lominsan Envoy|15|Airships; Leaving Limsa Lominsa
+Call of the Sea|15
+## Ul'dah start (Gladiator / Pugilist / Thaumaturge)
+Close to Home|1|Return
+We Must Rebuild|4
+Nothing to See Here|5
+Underneath the Sultantree|5
+Step Nine|6
+Prudence at This Junction|8
+Out of House and Home|9
+Way Down in the Hole|9|Inn Rooms; Guildleves
+Takin' What They're Givin'|10
+Supply and Demands|10
+Give It to Me Raw|10
+The Perfect Swarm|11
+Last Letter to Lost Hope|11
+Heir Today, Gone Tomorrow|12
+Passing the Blade|12
+Following Footfalls|13
+Storms on the Horizon|13
+Oh Captain, My Captain|14
+Secrets and Lies|14
+Duty, Honor, Country|14
+A Matter of Tradition|14
+A Royal Reception|14
+The Ul'dahn Envoy|15|Airships; Out of Ul'dah
+Call of the Sea|15
+## Levels 15-20 (all starting cities)
+It's Probably Pirates|15|Party Finder; Sastasha; Duty Support
+Call of the Forest|15
+Fire in the Gloom|16|The Tam-Tara Deepcroft
+Call of the Desert|16
+Into a Copper Hell|17|Copperbell Mines
+The Scions of the Seventh Dawn|17|Retainers
+A Wild Rose by Any Other Name|17
+Unsolved Mystery|17
+What Poor People Think|18
+A Proper Burial|18
+For the Children|19
+Amalj'aa Wrong Places|19
+Dressed to Deceive|19
+Life, Materia and Everything|19
+Lord of the Inferno|20|The Bowl of Embers
+A Hero in the Making|20
+The Company You Keep (Immortal Flames)|20|The Immortal Flames
+For Coin and Country|20
+The Company You Keep (Maelstrom)|20|The Maelstrom
+Till Sea Swallows All|20
+The Company You Keep (Twin Adder)|20|The Order of the Twin Adder
+Wood's Will Be Done|20
+Sylph-management|20|Job Quests
+We Come in Peace|20
+Sylphic Studies|20
+First Impressions|20
+## Levels 21-30
+First Contact|21
+Dance Dance Diplomacy|21
+Forest Friend|21
+Presence of the Enemy|21
+Brotherly Love|22|Mount Speed Increase
+Spirited Away|22
+Druthers House Rules|22
+Never Forget|23
+Microbrewing|23
+Like Fine Wine|23
+Sylphish Concerns|23
+Nouveau Riche|23
+Into the Beast's Maw|24|The Thousand Maws of Toto-Rak
+A Simple Gift|24
+Believe in Your Sylph|24
+Back from the Wood|24|Back from the Wood
+Shadow of Darkness|24
+Highbridge Times|24
+Where There Is Smoke|25
+On to Little Ala Mhigo|25
+Tea for Three|25
+Foot in the Door|25
+Meeting with the Resistance|26
+Killing Him Softly|26
+Helping Horn|27
+He Ain't Heavy|27
+Come Highly Recommended|27|Mount Speed Increase
+The Bear and the Young'uns' Cares|27
+Wilred Wants You|27
+Big Trouble in Little Ala Mhigo|27
+Back to Square One|27
+Terror at Fallgourd|27
+Ziz Is So Ridiculous|28
+Seeing Eye to Winged Eye|28
+Rock of Rancor|28
+Power of Deduction|28|Mount Speed Increase
+Secret of the White Lily|28
+Skeletons in Her Closet|28|Haukke Manor; Skeletons
+Wrath of the Titan|30
+Tales from the Tidus Slayer|30
+Hungry Hungry Goobbues|30
+The Lominsan Way|30
+Nix That|30
+A Modest Proposal|30
+Trial by Turtle|30
+## Levels 31-40
+The Perfect Prey|31
+When the Worm Turns|31|Mount Speed Increase
+There and Back Again|31
+The Things We Do for Cheese|32|Brayflox's Longstop
+What Do You Mean You Forgot the Wine|32
+An Offer You Can Refuse|32
+It Won't Work|32
+Give a Man a Drink|33
+That Weight|33
+Battle Scars|33
+It Was a Very Good Year|33
+In the Company of Heroes|33|Mount Speed Increase
+As You Wish|33
+Lord of Crags|34|The Navel; Mount Speed Increase
+All Good Things|34|Those Who Wait
+You Can't Take It with You|35
+Bringing out the Dead|35
+Bury Me Not on the Lone Prairie|35
+Eyes on Me|35|Mount Speed Increase
+He Who Waited Behind|36
+Cold Reception|36
+The Unending War|36
+Men of Honor|36
+Three for Three|36
+The Rose and the Unicorn|36
+The Talk of Coerthas|37
+Road to Redemption|38
+Following the Evidence|38
+In the Eyes of Gods and Men|38
+The Final Flight of the Enterprise|38
+Ye of Little Faith|39
+Factual Folklore|39
+The Best Inventions|39
+Influencing Inquisitors|40
+By the Lights of Ishgard|40
+Blood for Blood|40
+The Heretic among Us|40
+## Levels 41-50
+In Pursuit of the Past|41|The Stone Vigil; Mount Speed Increase; History Repeating
+Into the Eye of the Storm|41
+Sealed with Science|41
+With the Utmost Care|41
+A Promising Prospect|41
+It's Probably Not Pirates|42
+Representing the Representative|42
+The Reluctant Researcher|42|The Isles of Umbra
+Sweet Somethings|42
+History Repeating|42|Mount Speed Increase
+The Curious Case of Giggity|43
+Better Late than Never|43
+Lady of the Vortex|44|The Howling Eye; Free Wing Night
+Reclamation|44
+Casing the Castrum|44
+Eyes on the Empire|44
+Footprints in the Snow|44
+Monumental Hopes|44
+Notorious Biggs|44
+Come-Into-My-Castrum|44
+Getting Even with Garlemald|44
+Drowning Out the Voices|46
+Acting the Part|46|Imperial Salute
+Dressed for Conquest|46
+Fool Me Twice|46
+Every Little Thing She Does Is Magitek|46|Mount Speed Increase
+Escape from Castrum Centri|46
+The Black Wolf's Ultimatum|46
+Operation Archon|49
+A Hero in Need|49
+Hearts on Fire|49|Hall of the Novice tactical training
+Rock the Castrum|50|Castrum Meridianum
+The Ultimate Weapon|50|The Praetorium; The Porta Decumana; Mount Speed Increase; Warrior of Light

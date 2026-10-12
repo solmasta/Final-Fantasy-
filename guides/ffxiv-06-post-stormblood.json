@@ -1,0 +1,248 @@
+{
+ "title": "FFXIV MSQ – Post-Stormblood (Patches 4.1-4.56)",
+ "steps": [
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "Arenvald's Adventure",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Box"
+   ]
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "The Darkness Below",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "The Mad King's Trove",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Drowned City of Skalla"
+   ]
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "The Butcher's Blood",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "Echoes of an Echo",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "A Sultana's Strings",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "A Sultana's Duty",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "A Sultana's Resolve",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "Securing the Saltery",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "A Blissful Arrival",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.1 (The Legend Returns)",
+   "title": "Return of the Bull",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "More Heroes"
+   ]
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "Tidings from the East",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Greeting"
+   ]
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "The Sword in the Store",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "Hope on the Waves",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "Elation and Trepidation",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "Storm on the Horizon",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Doman Enclave"
+   ]
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "His Forgotten Home",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "A Guilty Conscience",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.2 (Rise of a New Sun)",
+   "title": "Rise of a New Sun",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Solar Cycle"
+   ]
+  },
+  {
+   "section": "Patch 4.3 (Under the Moonlight)",
+   "title": "Gosetsu and Tsuyu",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.3 (Under the Moonlight)",
+   "title": "Gone Like the Morning Dew",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.3 (Under the Moonlight)",
+   "title": "Fruits of Her Labor",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.3 (Under the Moonlight)",
+   "title": "Conscripts and Contingencies",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.3 (Under the Moonlight)",
+   "title": "The Primary Agreement",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Castrum Fluminis"
+   ]
+  },
+  {
+   "section": "Patch 4.3 (Under the Moonlight)",
+   "title": "Under the Moonlight",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Lunar Cycle"
+   ]
+  },
+  {
+   "section": "Patch 4.3 (Under the Moonlight)",
+   "title": "Emissary of the Dawn",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Ponder"
+   ]
+  },
+  {
+   "section": "Patch 4.4 (Prelude in Violet)",
+   "title": "Sisterly Act",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.4 (Prelude in Violet)",
+   "title": "Feel the Burn",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Burn"
+   ]
+  },
+  {
+   "section": "Patch 4.4 (Prelude in Violet)",
+   "title": "Shadows in the Empire",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.4 (Prelude in Violet)",
+   "title": "A Power in Slumber",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.4 (Prelude in Violet)",
+   "title": "The Will of the Moon",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.4 (Prelude in Violet)",
+   "title": "The Call",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Endure"
+   ]
+  },
+  {
+   "section": "Patch 4.4 (Prelude in Violet)",
+   "title": "Prelude in Violet",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "A History of Violet"
+   ]
+  },
+  {
+   "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+   "title": "Soul Searching",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+   "title": "A Defector's Tidings",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+   "title": "Seiryu's Wall",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+   "title": "Parley on the Front Lines",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
+   "title": "The Face of War",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Ghimlyt Dark",
+    "What Is It Good For"
+   ]
+  },
+  {
+   "section": "Patch 4.56 (A Requiem for Heroes - Part 2)",
+   "title": "A Brief Reprieve",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 4.56 (A Requiem for Heroes - Part 2)",
+   "title": "A Requiem for Heroes",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Swan Song"
+   ]
+  }
+ ]
+}

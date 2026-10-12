@@ -1,0 +1,601 @@
+{
+ "title": "FFXIV MSQ – Dawntrail (Lv 90-100)",
+ "steps": [
+  {
+   "section": "Level 90 – Main chain",
+   "title": "A New World to Explore",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Tuliyollal"
+   ]
+  },
+  {
+   "section": "Level 90 – Main chain",
+   "title": "The Nation of Tuliyollal",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Main chain",
+   "title": "A City of Stairs",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Main chain",
+   "title": "A Saga in Stone",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Main chain",
+   "title": "The Rite of Succession",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Kozama'uka chain",
+   "title": "To Kozama'uka",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Kozama'uka (North)",
+    "Ok'hanu"
+   ]
+  },
+  {
+   "section": "Level 90 – Kozama'uka chain",
+   "title": "A Festive People",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Kozama'uka chain",
+   "title": "The Feat of Reeds",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Kozama'uka chain",
+   "title": "A Well-mannered Shipwright",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Kozama'uka chain",
+   "title": "The Lifting of Wings",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Kozama'uka chain",
+   "title": "Knowing the Hanuhanu",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Urqopacha chain",
+   "title": "To Urqopacha",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Urqopacha (North)",
+    "Wachunpelo"
+   ]
+  },
+  {
+   "section": "Level 90 – Urqopacha chain",
+   "title": "Traders of Happiness",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Urqopacha chain",
+   "title": "The Feat of Gold",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Urqopacha chain",
+   "title": "Mablu's Dream",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Urqopacha chain",
+   "title": "A Premium Deal",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Urqopacha chain",
+   "title": "Wuk Lamat in the Saddle",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 90 – Urqopacha chain",
+   "title": "Knowing the Pelupelu",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 91 – Main chain (continued)",
+   "title": "The Success of Others",
+   "text": "Level 91 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 91 – Main chain (continued)",
+   "title": "For All Turali",
+   "text": "Level 91 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Kozama'uka (South)",
+    "Many Fires",
+    "Earthenshire",
+    "Ihuykatumu",
+    "A Promise for the People"
+   ]
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "A Leaking Workpot",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "Lending a Helphand",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "The Feat of Pots",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Dawntrail Role Quests"
+   ]
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "A Father First",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "The Shape of Peace",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "Lost Promise",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "A Brother's Duty",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "Feeding the River",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "Sibling Rescue",
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "History's Keepers",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Urqopacha (South)",
+    "Worlar's Echo"
+   ]
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "The Feat of Proof",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "The High Luminary",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Worqor Zormor"
+   ]
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "An Echo of Madness",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "Pointing the Way",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "The Skyruin",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Worqor Lar Dor"
+   ]
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "The Feat of Ice",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 92-93",
+   "title": "The Promise of Peace",
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Peaceful Intentions"
+   ]
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "The Leap to Yak T'el",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Yak T'el",
+    "Iq Br'aax"
+   ]
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Village of the Hunt",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "A History of Violence",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "The Feat of Repast",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "A Father's Grief",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Taking a Stand",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Into the Traverse",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mamook"
+   ]
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "City of Silence",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Blessed Siblings",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Scale of Trust",
+   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Mamook Speaks",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "The Feat of the Brotherhood",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Road to the Golden City",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Skydeep Cenote",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Dawn of a New Tomorrow",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Ever Greater, Ever Brighter",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "In Rite Triumphant"
+   ]
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "The Long Road to Xak Tural",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Shaaloani",
+    "Hhusatahwi",
+    "Sheshenewezi Springs",
+    "Mehwahhetsoan"
+   ]
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Saddled Up",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Braced for Trouble",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Blowing Smoke",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "Law of the Land",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 94-95",
+   "title": "On Track (Dawntrail)",
+   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "One with Nature",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "And the Land Would Tremble",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "No Time for Tears",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "Pick up the Pieces",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "Together as One",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "In Yyasulani's Shadow",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "Putting Plans into Locomotion",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "A Hot Commodity",
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "All Aboard",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Vanguard",
+    "Heritage Found"
+   ]
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "The Land of Levin",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "A Royal Welcome",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "A Day in the Life",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "On the Cloud",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "Gone and Forgotten",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Worth of a Soul"
+   ]
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "Embracing Oblivion",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "Solution Nine (Quest)",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Solution Nine"
+   ]
+  },
+  {
+   "section": "Levels 96-97",
+   "title": "The Queen's Tour",
+   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Her People, Her Family",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Scales of Blue",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Gives You Teeth",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Little Footfalls",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Drowned Vestiges",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Memories of a Knight",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "At a Crossroads",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "The Protector and the Destroyer",
+   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "A Comforting Hand",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Unto the Summit",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "The Resilient Son",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Origenics",
+    "Everkeep",
+    "The Burden of Legacy"
+   ]
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "A New Family",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "In Pursuit of Sphene",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mewazunte"
+   ]
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Through the Gate of Gold",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Living Memory",
+    "Leynode Mnemo"
+   ]
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "Those Who Live Forever",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "In Serenity and Sorrow",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "The Land of Dreams",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 98-99",
+   "title": "A Knight of Alexandria",
+   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 100",
+   "title": "The Sanctuary of the Strong",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 100",
+   "title": "The Taste of Family",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 100",
+   "title": "Leafing through the Past",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 100",
+   "title": "An Explorer's Delight",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 100",
+   "title": "In Search of Discovery",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Level 100",
+   "title": "A Journey Never-ending",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Level 100",
+   "title": "Dawntrail",
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Alexandria",
+    "The Interphos",
+    "In the Glow of a New Dawn"
+   ]
+  }
+ ]
+}

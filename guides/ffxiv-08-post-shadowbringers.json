@@ -1,0 +1,297 @@
+{
+ "title": "FFXIV MSQ – Post-Shadowbringers (Patches 5.1-5.55)",
+ "steps": [
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "Shaken Resolve",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "A Grand Adventure",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Grand Cosmos"
+   ]
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "A Welcome Guest",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "Good for the Soul",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "Nowhere to Turn",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "A Notable Absence",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "For the People",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "Finding Good Help",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "Moving Forward",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
+   "title": "Vows of Virtue, Deeds of Cruelty",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Black and White"
+   ]
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "Old Enemies, New Threats",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "The Way Home",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "Seeking Counsel",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "Facing the Truth",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "A Sleep Disturbed",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "An Old Friend",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "Deep Designs",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "A Whale's Tale",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "Beneath the Surface",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Anamnesis Anyder"
+   ]
+  },
+  {
+   "section": "Patch 5.2 (Echoes of a Fallen Star)",
+   "title": "Echoes of a Fallen Star",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Way More Heroes"
+   ]
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "In the Name of the Light",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Heroic Dreams",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Fraying Threads",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Food for the Soul",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Faded Memories",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Etched in the Stars",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "The Converging Light",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Heroes' Gauntlet"
+   ]
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Hope's Confluence",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Seat of Sacrifice"
+   ]
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Nothing Unsaid",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "The Journey Continues",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Unto the Morrow",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.3 (Reflections in Crystal)",
+   "title": "Reflections in Crystal",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Hope's Legacy"
+   ]
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "Alisaie's Quest",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "The Wisdom of Allag",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "Reviving the Legacy",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "Forget Us Not",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "Like Master, Like Pupil",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Matoya's Relict"
+   ]
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "The Admiral's Resolve",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "The Search for Sicard",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "On Rough Seas",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "The Great Ship Vylbrand",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.4 (Futures Rewritten)",
+   "title": "Futures Rewritten",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Pen and Sword"
+   ]
+  },
+  {
+   "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
+   "title": "Unto the Breach",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
+   "title": "Here Be Dragons",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
+   "title": "Righteous Indignation",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
+   "title": "For Vengeance",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
+   "title": "The Flames of War",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Paglth'an"
+   ]
+  },
+  {
+   "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
+   "title": "When the Dust Settles",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Not for Naught"
+   ]
+  },
+  {
+   "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
+   "title": "The Company We Keep",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
+   "title": "On Official Business",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
+   "title": "Death Unto Dawn",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Shush",
+    "Under the Darkened Moon"
+   ]
+  }
+ ]
+}

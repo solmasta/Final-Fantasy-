@@ -1,0 +1,583 @@
+{
+ "title": "FFXIV MSQ – Heavensward (Lv 50-60)",
+ "steps": [
+  {
+   "section": "Levels 50-51 – Main chain",
+   "title": "Coming to Ishgard",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Ishgard",
+    "Foundation"
+   ]
+  },
+  {
+   "section": "Levels 50-51 – Main chain",
+   "title": "Taking in the Sights",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain",
+   "title": "The Better Half",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Artoirel chain",
+   "title": "Over the Wall",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Coerthas Western Highlands",
+    "Falcon's Nest",
+    "The Dravanian Forelands",
+    "Tailfeather",
+    "Anyx Trine"
+   ]
+  },
+  {
+   "section": "Levels 50-51 – Artoirel chain",
+   "title": "Work in Progress",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Artoirel chain",
+   "title": "The First and Foremost",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Artoirel chain",
+   "title": "From on High",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Artoirel chain",
+   "title": "Reconnaissance Lost",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Artoirel chain",
+   "title": "At the End of Our Hope",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Artoirel chain",
+   "title": "Knights Be Not Proud",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Emmanellain chain",
+   "title": "Onwards and Upwards",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Sea of Clouds (South)",
+    "Camp Cloudtop"
+   ]
+  },
+  {
+   "section": "Levels 50-51 – Emmanellain chain",
+   "title": "An Indispensable Ally",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Emmanellain chain",
+   "title": "Meeting the Neighbors",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Emmanellain chain",
+   "title": "Sense of Urgency",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Emmanellain chain",
+   "title": "Hope Springs Eternal",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Emmanellain chain",
+   "title": "A Series of Unfortunate Events",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Emmanellain chain",
+   "title": "A Reward Long in Coming",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Divine Intervention",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Disclosure",
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Lucky Number 7"
+   ]
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Flame General Affairs",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "In Search of Raubahn",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Keeping the Flame Alive",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Gaol Break"
+   ]
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "To Siege or Not to Siege",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Alphinaud's Way",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "In Search of Iceheart",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "From One Heretic to Another",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Sounding Out the Amphitheatre",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Camp of the Convictors",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 50-51 – Main chain (continued)",
+   "title": "Purple Flame, Purple Flame",
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "Where the Chocobos Roam",
+   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "Worse than Dragons",
+   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "The Trine Towers",
+   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "Gifts for the Outcasts",
+   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "The Nonmind",
+   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "A Gnathic Deity",
+   "text": "Level 53 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "Breaking into Hives",
+   "text": "Level 53 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "Lord of the Hive",
+   "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Thok ast Thok (Hard)",
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "Mourn in Passing",
+   "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Churning Mists",
+    "Sohm Al",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 52-53",
+   "title": "Beyond the Clouds",
+   "text": "Level 53 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Mountaintop Diplomacy",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Moghan's Trial",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Mogmug's Trial",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Mogwin's Trial",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Moglin's Judgment",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Leaving Moghome",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "The Road to Zenith",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Waiting for the Wind to Change",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Heart of Ice",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "The Wyrm's Lair",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "New Winds, Old Friends",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "A General Summons",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Awakening in Ul'dah",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "A Brave Resolution",
+   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Ready to Fly",
+   "text": "Level 55 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "Into the Aery",
+   "text": "Level 55 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Aery",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 54-55",
+   "title": "The Song Begins",
+   "text": "Level 55 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Unrest in Ishgard",
+   "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Orthodox Mayhem"
+   ]
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "He Who Would Not Be Denied",
+   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Ill-weather Friends",
+   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "The Spice of Life",
+   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Noble Indiscretions",
+   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "A Child Apart",
+   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Bloodlines",
+   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Fire and Blood",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "A Knight's Calling",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Vault"
+   ]
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "The Sins of Antiquity",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "You Say You Want a Revolution"
+   ]
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "In Search of the Soleil",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Into the Blue",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Sea of Clouds (North)",
+    "Ok' Zundu"
+   ]
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Familiar Faces",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Devourer of Worlds",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Black and the White",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Bolt, Chain, and Island",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Limitless Blue (Hard)",
+    "Aether Current",
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "A Difference of Opinion",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "One Good Turn",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Faith That Drives Us"
+   ]
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "An Engineering Enterprise",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Aetherial Trail",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Lost in the Lifestream",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Tataru's Surprise",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 56-57",
+   "title": "Onward to Sharlayan",
+   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "A Great New Nation",
+   "text": "Level 58 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Dravanian Hinterlands",
+    "Idyllshire"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Golems Begone",
+   "text": "Level 58 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "An Illuminati Incident",
+   "text": "Level 58 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Leaving Idyllshire",
+   "text": "Level 58 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Matoya's Cave",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Matoya's Cave (zone)",
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Forbidden Knowledge",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Great Gubal Library",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "An Eye for Aether",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Hour of Departure",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Hope Enkindled"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "The First Flight of the Excelsior",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Azys Lla",
+    "Helix"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Systematic Exploration",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "In Node We Trust",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Chimerical Maintenance",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Close Encounters of the VIth Kind",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current",
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Fetters of Lament",
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 58-60",
+   "title": "Heavensward",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Aetherochemical Research Facility",
+    "The Singularity Reactor",
+    "Looking Up",
+    "Mount Speed Increase"
+   ]
+  }
+ ]
+}

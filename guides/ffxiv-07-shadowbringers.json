@@ -1,0 +1,632 @@
+{
+ "title": "FFXIV MSQ – Shadowbringers (Lv 70-80)",
+ "steps": [
+  {
+   "section": "Levels 70-71 – Main chain",
+   "title": "The Syrcus Trench",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Lakeland"
+   ]
+  },
+  {
+   "section": "Levels 70-71 – Main chain",
+   "title": "City of the First",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Crystarium"
+   ]
+  },
+  {
+   "section": "Levels 70-71 – Main chain",
+   "title": "Travelers of Norvrandt",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "In Search of Alphinaud",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Kholusia (South)",
+    "Stilltide"
+   ]
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "A Still Tide",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "Open Arms, Closed Gate",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "A Fickle Existence",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "City of Final Pleasures",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Eulmore"
+   ]
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "Free to Sightsee",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "A Taste of Honey",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "A Blessed Instrument",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alphinaud chain",
+   "title": "Emergent Splendor",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "In Search of Alisaie",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Amh Araeng (East)",
+    "Mord Souq"
+   ]
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "City of the Mord",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "Working Off the Meal",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "A Desert Crossing",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "Following in Her Footprints",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "Culling Their Ranks",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "A Purchase of Fruit",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "The Time Left to Us",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Alisaie chain",
+   "title": "Tears on the Sand",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 70-71 – Main chain (continued)",
+   "title": "The Lightwardens",
+   "text": "Level 71 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Holminster Switch"
+   ]
+  },
+  {
+   "section": "Levels 70-71 – Main chain (continued)",
+   "title": "Warrior of Darkness",
+   "text": "Level 71 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Between Two Worlds",
+    "Shadowbringers Role Quests"
+   ]
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "An Unwelcome Guest",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "The Crystarium's Resolve",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Logistics of War",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "The Oracle of Light",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Il Mheg, the Faerie Kingdom",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Il Mheg",
+    "Lydha Lran"
+   ]
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Sul Uin's Request",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Ys Iala's Errand",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Oul Sigun's Plea",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Unto the Truth",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Courting Cooperation",
+   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "The Key to the Castle",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Dohn Mheg"
+   ]
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "A Visit to the Nu Mou",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "A Fitting Payment",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Pla Enni"
+   ]
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Spore Sweeper",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "The Lawless Ones",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "The Elder's Answer",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "A Resounding Roar",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Memento of a Friend",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "Acht-la Ormh Inn",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Dancing Plague",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 72-73",
+   "title": "The Wheel Turns",
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Realpolitik"
+   ]
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "A Party Soon Divided",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "A Little Faith",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Into the Dark",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Rak'tika Greatwood",
+    "Slitherbough"
+   ]
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "A Day in the Neighborhood",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "A Helping Hand",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Lost but Not Forgotten",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Saying Good-bye",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Stirring up Trouble",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "A Beeautiful Plan",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "An Unwanted Proposal",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Put to the Proof",
+   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Into the Wood",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Fanow"
+   ]
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Top of the Tree",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Look to the Stars",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Mi Casa, Toupasa",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Legend of the Not-so-hidden Temple",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "The Aftermath",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "In Good Faith",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "The Burden of Knowledge",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Qitana Ravel",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 74-75",
+   "title": "Bearing With It",
+   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Out of the Wood",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Journey to the Past"
+   ]
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "When It Rains",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Word from On High",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Small Favors",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "The Best Way Out",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Free Trade",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "The Trolley Problem",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Rust and Ruin",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Amh Araeng (West)",
+    "Twine"
+   ]
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "On Track",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Down for Maintenance",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "The Truth Hurts",
+   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "A Convenient Distraction",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "A Dirty Job",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Have a Heart",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Full Steam Ahead",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Crossing Paths",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "A Fresh Start",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Malikah's Well",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "More than a Hunch",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Shrouded in Darkness"
+   ]
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Return to Eulmore",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "A Feast of Lies",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Eulmore"
+   ]
+  },
+  {
+   "section": "Levels 76-77",
+   "title": "Paradise Fallen",
+   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "The Ladder",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "The View from Above",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Kholusia (North)",
+    "Tomra"
+   ]
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "In Mt. Gulg's Shadow",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "A Gigantic Undertaking",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "Meet the Tholls",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "A-Digging We Will Go",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "The Duergar's Tewel",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "Rich Veins of Hope",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "That None Shall Ever Again",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "A Breath of Respite",
+   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "Extinguishing the Last Light",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mt. Gulg",
+    "The Crown of the Immaculate",
+    "Warden of Light",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "Reassuring the Masses",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "In His Garden",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "The Unbroken Thread",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "To Storm-tossed Seas",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Tempest",
+    "The Ondo Cups"
+   ]
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "Waiting in the Depths",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "City of the Ancients",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "The Light of Inspiration",
+   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "The Illuminated Land",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "The End of a World",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Macarenses Angle"
+   ]
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "A Greater Purpose",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 78-80",
+   "title": "Shadowbringers",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Amaurot",
+    "The Dying Gasp",
+    "Trust"
+   ]
+  }
+ ]
+}

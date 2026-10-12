@@ -1,0 +1,58 @@
+# Post-Shadowbringers (Patches 5.1-5.55)|ffxiv-08-post-shadowbringers
+## Patch 5.1 (Vows of Virtue, Deeds of Cruelty)
+Shaken Resolve|80
+A Grand Adventure|80|The Grand Cosmos
+A Welcome Guest|80
+Good for the Soul|80
+Nowhere to Turn|80
+A Notable Absence|80
+For the People|80
+Finding Good Help|80
+Moving Forward|80
+Vows of Virtue, Deeds of Cruelty|80|Black and White
+## Patch 5.2 (Echoes of a Fallen Star)
+Old Enemies, New Threats|80
+The Way Home|80
+Seeking Counsel|80
+Facing the Truth|80
+A Sleep Disturbed|80
+An Old Friend|80
+Deep Designs|80
+A Whale's Tale|80
+Beneath the Surface|80|Anamnesis Anyder
+Echoes of a Fallen Star|80|Way More Heroes
+## Patch 5.3 (Reflections in Crystal)
+In the Name of the Light|80
+Heroic Dreams|80
+Fraying Threads|80
+Food for the Soul|80
+Faded Memories|80
+Etched in the Stars|80
+The Converging Light|80|The Heroes' Gauntlet
+Hope's Confluence|80|The Seat of Sacrifice
+Nothing Unsaid|80
+The Journey Continues|80
+Unto the Morrow|80
+Reflections in Crystal|80|Hope's Legacy
+## Patch 5.4 (Futures Rewritten)
+Alisaie's Quest|80
+The Wisdom of Allag|80
+Reviving the Legacy|80
+Forget Us Not|80
+Like Master, Like Pupil|80|Matoya's Relict
+The Admiral's Resolve|80
+The Search for Sicard|80
+On Rough Seas|80
+The Great Ship Vylbrand|80
+Futures Rewritten|80|Pen and Sword
+## Patch 5.5 (Death Unto Dawn - Part 1)
+Unto the Breach|80
+Here Be Dragons|80
+Righteous Indignation|80
+For Vengeance|80
+The Flames of War|80|Paglth'an
+When the Dust Settles|80|Not for Naught
+## Patch 5.55 (Death Unto Dawn - Part 2)
+The Company We Keep|80
+On Official Business|80
+Death Unto Dawn|80|Shush; Under the Darkened Moon

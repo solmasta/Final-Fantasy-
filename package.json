@@ -5,7 +5,8 @@
   "main": "src/main.js",
   "scripts": {
     "start": "electron .",
-    "validate": "node scripts/validate-guides.js"
+    "validate": "node scripts/validate-guides.js",
+    "build-guides": "node scripts/build-guides.js"
   },
   "license": "MIT",
   "devDependencies": {

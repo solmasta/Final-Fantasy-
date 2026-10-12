@@ -10,7 +10,7 @@ function renderStep(s) {
   const st = guide.steps[s.step];
   box.append(el('div', 'section', `${st.section || ''}  ·  ${s.step + 1}/${guide.steps.length}`), el('h2', '', st.title));
   if (st.text) box.append(el('div', 'block', st.text));
-  for (const [key, label] of [['do', 'Do'], ['items', 'Items'], ['tips', 'Tips'], ['boss', 'Boss']]) {
+  for (const [key, label] of [['do', 'Do'], ['unlocks', 'Unlocks'], ['items', 'Items'], ['tips', 'Tips'], ['boss', 'Boss']]) {
     const v = st[key];
     if (!v || !v.length) continue;
     const b = el('div', 'block');
@@ -28,6 +28,7 @@ function renderStep(s) {
   list.replaceChildren();
   guide.steps.forEach((x, i) => {
     const d = el('div', i === s.step ? 'cur' : '', `${i + 1}. ${x.title}`);
+    if (i === s.step) setTimeout(() => d.scrollIntoView({ block: 'center' }), 0);
     d.onclick = () => { window.overlay.gotoStep(i); list.classList.remove('open'); };
     list.append(d);
   });

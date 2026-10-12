@@ -1,0 +1,733 @@
+{
+ "title": "FFXIV MSQ – Stormblood (Lv 60-70)",
+ "steps": [
+  {
+   "section": "Levels 60-61 – Main chain",
+   "title": "Beyond the Great Wall",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Fringes (West)",
+    "Castrum Oriens"
+   ]
+  },
+  {
+   "section": "Levels 60-61 – Main chain",
+   "title": "Lyse Takes the Lead",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Rhalgr's Reach"
+   ]
+  },
+  {
+   "section": "Levels 60-61 – Main chain",
+   "title": "The Promise of a New Beginning",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain",
+   "title": "A Haven for the Bold",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain",
+   "title": "A Bargain Struck",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Compass"
+   ]
+  },
+  {
+   "section": "Levels 60-61 – M'naago chain",
+   "title": "A Friend of a Friend in Need",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – M'naago chain",
+   "title": "Signed, Sealed, to Be Delivered",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – M'naago chain",
+   "title": "Best Served with Cold Steel",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – M'naago chain",
+   "title": "Let Fill Your Hearts with Pride",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "A Familiar Face Forgotten",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Peaks (North)",
+    "Ala Gannha"
+   ]
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "The Prodigal Daughter",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "Hard Country",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "Death by a Thousand Rocks",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "A Life More Ordinary",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "The Color of Angry Qiqirn",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "The Black Wolf's Pups",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Meffrid chain",
+   "title": "Homeward Bound",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Where Men Go as One",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Future Rust, Future Dust",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "A Dash of Green",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Ye Wayward Brothers",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Token of Faith",
+   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Crossing the Velodyna",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "In Crimson It Began",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "The Fires Fade",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Bereft of Hearth and Home",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Divide and Conquer",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Lies, Damn Lies, and Pirates",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Tales from the Far East",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Not without Incident",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Kugane",
+    "The Sirensong Sea",
+    "Incidentally Speaking"
+   ]
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "The Man from Ul'dah",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Where the Streets Are Paved with Koban",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "By the Grace of Lord Lolorito",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "A Good Samurai Is Hard to Find",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "It's Probably a Trap",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 60-61 – Main chain (continued)",
+   "title": "Making the Catfish Sing",
+   "text": "Level 61 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Once More, to the Ruby Sea",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Ruby Sea",
+    "Destination Unknown"
+   ]
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Open Water",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Boys with Boats",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "To Bend with the Wind",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Confederate Consternation",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Eastern Bow",
+    "Onokoro"
+   ]
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "The Solace of the Sea",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "The Arrows of Misfortune",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "The Last Voyage",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Alisaie's Stones",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Under the Sea",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Tamamizu"
+   ]
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Of Kojin and Kami",
+   "text": "Level 62 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "In Soroban We Trust",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Diving",
+    "Water Flip"
+   ]
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Forever and Ever Apart",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "In Darkness the Magatama Dreams",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "The Whims of the Divine",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Breaking and Delivering",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "The Lord of the Revel",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Pool of Tribute",
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "Tide Goes in, Imperials Go Out",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Unexplained",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 62-63",
+   "title": "A Silence in Three Parts",
+   "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Yanxia (South)",
+    "Namai"
+   ]
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "Life after Doma",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "A Glimpse of Madness",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "The Stubborn Remainder",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "The Ones We Leave Behind",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "A New Ruby Tithe",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "The Will to Live",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "Daughter of the Deep",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "Path of No Return",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "The Time between the Seconds",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "All the Little Angels",
+   "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Put Your Wings Up",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "Here There Be Xaela",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Azim Steppe"
+   ]
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "The Search for Lord Hien",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "A Season for War",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "An Impossible Dream",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "Stars in the Dark",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "A Warrior's Welcome",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "The Heart of Nations",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "A Trial Before the Trial",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "In the Footsteps of Bardam the Brave",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Bardam's Mettle"
+   ]
+  },
+  {
+   "section": "Levels 64-65",
+   "title": "The Children of Azim",
+   "text": "Level 65 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Labors of Magnai",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "For Love of the Moon",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "Sworn Enemies of the Sun",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Undying Ones",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "A Final Peace",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "As the Gods Will",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "Naadam",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "Glory to the Khagan",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "In Crimson They Walked",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Crimson Footprints"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Hour of Reckoning",
+   "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Yanxia (North)",
+    "The House of the Fierce"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Room Where It Happened",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "How Tataru Got Her Groove Back",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "Seeds of Despair",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Limits of Our Endurance",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "Broken Steel, Broken Men",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Doma Within",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "On the Eve of Destiny",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Die Is Cast",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Doma Castle"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The World Turned Upside Down",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "A Swift and Secret Departure",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Catch Me if You Can"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "While You Were Away",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "Rhalgr's Beacon",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Fortunes of War",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "Rising Fortunes, Rising Spirits",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Fringes (East)",
+    "The Peering Stones"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Lure of the Dream",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Lady of Bliss",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Emanation",
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 66-67",
+   "title": "The Silence of the Gods",
+   "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The First of Many",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Peaks (South)",
+    "Ala Ghiri"
+   ]
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Strong and Unified",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Hells Open",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Heavens Weep",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Road Home",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "For the Living and the Dead",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Above the Churning Waters",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Path Forward",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "With Tired Hands We Toil",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Where Courage Endures",
+   "text": "Level 68 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Price of Freedom",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Castrum Abania",
+    "Mount Speed Increase"
+   ]
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Raubahn's Invitation",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Liberty or Death",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Lady in Red",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Cheek to Cheek"
+   ]
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Upon the Great Loch's Shore",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Lochs",
+    "Porta Praetoria"
+   ]
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Key to Victory",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Resonant",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Mount Speed Increase",
+    "The Ala Mhigan Quarter"
+   ]
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Legacy of Our Fathers",
+   "text": "Level 69 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "The Measure of His Reach",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 68-70",
+   "title": "Stormblood",
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Ala Mhigo (duty)",
+    "The Royal Menagerie",
+    "The Measure of His Reach",
+    "Aether Current",
+    "Mount Speed Increase"
+   ]
+  }
+ ]
+}

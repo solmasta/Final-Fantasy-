@@ -1,0 +1,657 @@
+{
+ "title": "FFXIV MSQ – Endwalker (Lv 80-90)",
+ "steps": [
+  {
+   "section": "Levels 80-81 – Main chain",
+   "title": "The Next Ship to Sail",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Old Sharlayan"
+   ]
+  },
+  {
+   "section": "Levels 80-81 – Main chain",
+   "title": "Old Sharlayan, New to You",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "Hitting the Books",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "A Seat at the Last Stand",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "A Labyrinthine Descent",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Labyrinthos (North)",
+    "The Archeion"
+   ]
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "Glorified Ratcatcher",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "Deeper into the Maze",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "The Medial Circuit",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "The Full Report, Warts and All",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "A Guide of Sorts",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Old Sharlayan chain",
+   "title": "Estate Visitor",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "For Thavnair Bound",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Thavnair (West)",
+    "Yedlihmad",
+    "The Great Work"
+   ]
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "On Low Tide",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "A Fisherman's Friend",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "House of Divinities",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "The Great Work",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "Shadowed Footsteps",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "A Boy's Errand",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "Tipping the Scale",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Thavnair chain",
+   "title": "The Satrap of Radz-at-Han",
+   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 80-81 – Main chain (continued)",
+   "title": "In the Dark of the Tower",
+   "text": "Level 81 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Tower of Zot"
+   ]
+  },
+  {
+   "section": "Levels 80-81 – Main chain (continued)",
+   "title": "The Jewel of Thavnair",
+   "text": "Level 81 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Radz-at-Han"
+   ]
+  },
+  {
+   "section": "Levels 80-81 – Main chain (continued)",
+   "title": "The Color of Joy",
+   "text": "Level 81 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "On Wings of Hope"
+   ]
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Sound the Bell, School's In",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "A Capital Idea",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Best of the Best",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "A Frosty Reception",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Garlemald",
+    "Camp Broken Glass"
+   ]
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Tracks in the Snow",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "How the Mighty Are Fallen",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "At the End of the Trail",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "A Way Forward",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "The Last Bastion",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Personae non Gratae",
+   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "His Park Materials",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "No Good Deed",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Alea Iacta Est",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Strange Bedfellows",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Tertium"
+   ]
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "In from the Cold",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Gateway of the Gods",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Tower of Babil",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "A Trip to the Moon",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Sinus Lacrimarum",
+    "Mare Lamentorum"
+   ]
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "Sea of Sorrow",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 82-83",
+   "title": "The Martyr",
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Dark Inside",
+    "Rise Up Through the Night"
+   ]
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "In Shadow's Wake",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Helping Hands",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Bestways Burrow"
+   ]
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "A Harey Situation",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "A Taste of the Moon",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Styled a Hero",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "All's Vale That Endsvale",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Back to Old Tricks",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Setting Things Straight",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Heart of the Matter",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Returning Home",
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Higher"
+   ]
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Skies Aflame",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Vanaspati"
+   ]
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "The Blasphemy Unmasked",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Amidst the Apocalypse",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Beyond the Depths of Despair",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Thavnair (East)",
+    "Palaka's Stand"
+   ]
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "That We Might Live",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "When All Hope Seems Lost",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Warm Hearts, Rekindled Hopes",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Simple Pleasures",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "Under His Wing",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 84-85",
+   "title": "At World's End",
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Endwalker Role Quests",
+    "Oh, Higher",
+    "Radz-at-Han"
+   ]
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Return to the Crystarium",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Hope Upon a Flower",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Elpis",
+    "Anagnorisis",
+    "The Twelve Wonders"
+   ]
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Petalouda Hunt",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "In Search of Hermes",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Ponder, Warrant, Cherish, Welcome",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Lives Apart",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Their Greatest Contribution",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Aether to Aether",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "A Sentimental Gift",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Verdict and Execution",
+   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Travelers at the Crossroads",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Poieten Oikos"
+   ]
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "A Past, Not Yet Come to Pass",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Witness to the Spectacle",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Worthy of His Back",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "A Flower upon Your Return",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Hunger in the Garden",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Words without Sound",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Follow, Wander, Stumble, Listen",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Caging the Messenger",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Ktisis Hyperboreia",
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 86-87",
+   "title": "Thou Must Live, Die, and Know",
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Carrying Our Song"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "As the Heavens Burn",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Outside Help",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Going Underground",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Labyrinthos (South)",
+    "Sharlayan Hamlet",
+    "Aporia"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "No Job Too Small",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Wise Guides",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Agriculture Shock",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Sage Council",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Hither and Yarns",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Once Forged",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Bonds of Adamant(ite)",
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Her Children, One and All",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Mothercrystal",
+    "Fast Within Your Arms",
+    "The Aitiascope"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "A Bold Decision",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Friends Gathered",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Unto the Heavens",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Ultima Thule"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "A §trαnge New World",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "On Burdεned ωings",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Reah Tahra"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "A Test of Wιll",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Roads Pαved││Sacri┣ice",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Abode of the Ea"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "F//εsh AbanΔon┨Δ",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Where Kn∞wledge Leads",
+   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Vic┨οry ̈ ̈ ̈╳, │̆││ε Lost",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Base Omicron"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "┣┨̈//̈ No┨ΦounΔ•••",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Hello, World",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Forge Ahead",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "You're Not Alone",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "Aether Current"
+   ]
+  },
+  {
+   "section": "Levels 88-90",
+   "title": "Endwalker",
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "unlocks": [
+    "The Dead Ends",
+    "The Final Day",
+    "That Its Chorus Might Ring for All"
+   ]
+  }
+ ]
+}
