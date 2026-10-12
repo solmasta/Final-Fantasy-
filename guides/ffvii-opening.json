@@ -1,0 +1,28 @@
+{
+  "title": "FFVII – Midgar opening (starter)",
+  "steps": [
+    {
+      "section": "Bombing Mission",
+      "title": "Reactor 1 – approach",
+      "do": ["Follow Barret and Biggs through the station and into the reactor.", "Open the chests along the way."],
+      "tips": ["Learn the Materia menu early: equip Cure/Fire when you find them."]
+    },
+    {
+      "section": "Bombing Mission",
+      "title": "Reactor 1 – Guard Scorpion",
+      "boss": ["Guard Scorpion counters physical attacks when its tail is raised.", "Attack it while the tail is down; use Fire/magic when it is up."],
+      "tips": ["Don't hit it with physical attacks while the tail is raised – it counters with Tail Laser."]
+    },
+    {
+      "section": "Bombing Mission",
+      "title": "Escape the reactor",
+      "do": ["Set the bomb timer and run out following the marked route.", "Use the save point before leaving if you have not saved."]
+    },
+    {
+      "section": "Sector 7",
+      "title": "Back at Seventh Heaven",
+      "text": "Talk to Tifa and Barret, then explore the Sector 7 slums and shops before taking the next job.",
+      "tips": ["Buy a few Potions and Phoenix Downs when you can."]
+    }
+  ]
+}

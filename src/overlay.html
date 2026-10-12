@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'">
+<title>FF Guide Overlay</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; font: 14px/1.45 "Segoe UI", system-ui, sans-serif; color: #e8f0ff; user-select: none; }
+  #panel { height: 100%; display: flex; flex-direction: column; background: linear-gradient(180deg, rgba(20,40,120,.92), rgba(8,14,50,.92)); border: 2px solid #c9d6ff; border-radius: 10px; overflow: hidden; }
+  header { padding: 8px 10px; background: rgba(0,0,0,.35); display: flex; gap: 8px; align-items: center; -webkit-app-region: drag; }
+  header select { flex: 1; min-width: 0; background: #0b1235; color: #fff; border: 1px solid #5a6fb8; border-radius: 4px; padding: 3px; -webkit-app-region: no-drag; }
+  header button { background: #0b1235; color: #fff; border: 1px solid #5a6fb8; border-radius: 4px; cursor: pointer; -webkit-app-region: no-drag; }
+  #mode { font-size: 11px; padding: 1px 6px; border-radius: 8px; background: #2a7d46; white-space: nowrap; }
+  #mode.edit { background: #b8791f; }
+  #progress { height: 4px; background: rgba(255,255,255,.15); }
+  #bar { height: 100%; width: 0; background: #ffd75e; transition: width .2s; }
+  main { flex: 1; overflow-y: auto; padding: 10px 12px; }
+  .section { color: #ffd75e; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; }
+  h2 { margin: 2px 0 8px; font-size: 17px; }
+  .block { margin: 8px 0; }
+  .block b { color: #8fd0ff; display: block; font-size: 11px; text-transform: uppercase; letter-spacing: .06em; }
+  ul { margin: 2px 0; padding-left: 18px; }
+  .next { opacity: .65; font-size: 12px; border-top: 1px solid rgba(255,255,255,.2); margin-top: 10px; padding-top: 6px; }
+  footer { padding: 5px 10px; font-size: 11px; background: rgba(0,0,0,.35); display: flex; justify-content: space-between; }
+  #list { display: none; }
+  #list.open { display: block; }
+  #list div { padding: 3px 4px; cursor: pointer; border-radius: 4px; }
+  #list div:hover { background: rgba(255,255,255,.15); }
+  #list div.cur { color: #ffd75e; }
+</style>
+</head>
+<body>
+<div id="panel">
+  <header>
+    <select id="guide"></select>
+    <span id="mode">locked</span>
+    <button id="menu" title="Step list (edit mode only)">☰</button>
+    <button id="quit" title="Quit">✕</button>
+  </header>
+  <div id="progress"><div id="bar"></div></div>
+  <main>
+    <div id="list"></div>
+    <div id="step"></div>
+  </main>
+  <footer><span>F6 prev · F7 next</span><span>F8 hide · F9 lock · F10 fade</span></footer>
+</div>
+<script src="overlay.js"></script>
+</body>
+</html>

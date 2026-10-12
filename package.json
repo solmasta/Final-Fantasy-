@@ -1,0 +1,14 @@
+{
+  "name": "ff-guide-overlay",
+  "version": "1.0.0",
+  "description": "Always-on-top, click-through walkthrough overlay for Final Fantasy games",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "validate": "node scripts/validate-guides.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}
