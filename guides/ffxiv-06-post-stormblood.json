@@ -8,6 +8,20 @@
    "unlocks": [
     "Box"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Arenvald",
+     "zone": "Rhalgr's Reach",
+     "x": 10.7,
+     "y": 8.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Rhalgr's Reach",
+     "x": 12.2,
+     "y": 12.4
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.7,
@@ -19,6 +33,26 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "The Darkness Below",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 33.7,
+     "y": 34.5
+    },
+    {
+     "label": "Talk to Ernold",
+     "zone": "The Lochs",
+     "x": 36.4,
+     "y": 31.3
+    },
+    {
+     "label": "Talk to Arenvald",
+     "zone": "The Lochs",
+     "x": 32.2,
+     "y": 33
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 12.2,
@@ -33,6 +67,44 @@
    "unlocks": [
     "The Drowned City of Skalla"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 25.7,
+     "y": 28.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 24.4,
+     "y": 21.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 26.4,
+     "y": 21.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Drowned City of Skalla",
+     "x": 14.5,
+     "y": 11.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 32.1,
+     "y": 33.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 32.1,
+     "y": 33
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 32.1,
@@ -44,6 +116,26 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "The Butcher's Blood",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 32.3
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 37.3,
+     "y": 34.3
+    },
+    {
+     "label": "Talk to prison guard",
+     "zone": "The Lochs",
+     "x": 37.5,
+     "y": 34.2
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 32.2,
@@ -55,6 +147,38 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "Echoes of an Echo",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Resonatorium guard",
+     "zone": "The Lochs",
+     "x": 36.6,
+     "y": 30
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Resonatorium",
+     "x": 11.4,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Resonatorium",
+     "x": 11.3,
+     "y": 11
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Resonatorium",
+     "x": 11.4,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 36.7,
+     "y": 30.4
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 37,
@@ -66,6 +190,38 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Sultana's Strings",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Bartholomew",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.8,
+     "y": 13
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 12.4,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Central Thanalan",
+     "x": 18.8,
+     "y": 26.3
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Central Thanalan",
+     "x": 26.6,
+     "y": 18.5
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 9.1,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 36.7,
@@ -77,6 +233,32 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Sultana's Duty",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 7.2,
+     "y": 12.8
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 10.8,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "The Gold Saucer",
+     "x": 5.1,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "The Gold Saucer",
+     "x": 5.9,
+     "y": 7.1
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Thal",
     "x": 9.1,
@@ -88,6 +270,26 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Sultana's Resolve",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hancock",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 9,
+     "y": 9
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 5.8
+    }
+   ],
    "target": {
     "zone": "The Gold Saucer",
     "x": 5.9,
@@ -99,6 +301,50 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "Securing the Saltery",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 33.4,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to Watt",
+     "zone": "The Lochs",
+     "x": 15.8,
+     "y": 25.3
+    },
+    {
+     "label": "Talk to Wiscar",
+     "zone": "The Lochs",
+     "x": 16.7,
+     "y": 25.4
+    },
+    {
+     "label": "Talk to Wiscar",
+     "zone": "The Lochs",
+     "x": 17.3,
+     "y": 25.7
+    },
+    {
+     "label": "Talk to Wiscar",
+     "zone": "The Lochs",
+     "x": 21.7,
+     "y": 27.2
+    },
+    {
+     "label": "Talk to Wiscar",
+     "zone": "The Lochs",
+     "x": 21.4,
+     "y": 26.5
+    },
+    {
+     "label": "Talk to Watt",
+     "zone": "The Lochs",
+     "x": 15.8,
+     "y": 25.3
+    }
+   ],
    "target": {
     "zone": "The Waking Sands",
     "x": 6.1,
@@ -110,6 +356,26 @@
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Blissful Arrival",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Lochs",
+     "x": 32,
+     "y": 33.1
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Lochs",
+     "x": 32,
+     "y": 33
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 28.3,
+     "y": 22.9
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 15.8,
@@ -123,6 +389,50 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "More Heroes"
+   ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Lochs",
+     "x": 33.4,
+     "y": 34
+    },
+    {
+     "label": "Talk to Resistance guard",
+     "zone": "The Lochs",
+     "x": 36.5,
+     "y": 32
+    },
+    {
+     "label": "Talk to Arenvald",
+     "zone": "The Hall of the Griffin",
+     "x": 11.2,
+     "y": 6.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Hall of the Griffin",
+     "x": 11.3,
+     "y": 6.8
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Hall of the Griffin",
+     "x": 11.3,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 32
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    }
    ],
    "target": {
     "zone": "The Lochs",
@@ -138,6 +448,26 @@
    "unlocks": [
     "Greeting"
    ],
+   "objectives": [
+    {
+     "label": "Talk to East Aldenard Trading Company aide",
+     "zone": "Kugane",
+     "x": 14.3,
+     "y": 13.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kugane",
+     "x": 11,
+     "y": 7
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.7,
@@ -149,6 +479,20 @@
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "The Sword in the Store",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Kugane",
+     "x": 12.5,
+     "y": 12.5
+    },
+    {
+     "label": "Talk to Ume",
+     "zone": "Kugane",
+     "x": 11.2,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 11,
@@ -160,6 +504,44 @@
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "Hope on the Waves",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Soroban",
+     "zone": "Kugane",
+     "x": 8.8,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Ruby Sea",
+     "x": 39.2,
+     "y": 38.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 30.8,
+     "y": 36.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Ruby Sea",
+     "x": 30.7,
+     "y": 36.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 33.1,
+     "y": 38.6
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "The Ruby Sea",
+     "x": 5.7,
+     "y": 15.8
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 11.3,
@@ -171,6 +553,44 @@
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "Elation and Trepidation",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 37.3,
+     "y": 15.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 25.9,
+     "y": 13.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 27.5,
+     "y": 12.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 23.1,
+     "y": 11
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 22.6,
+     "y": 11
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 12.8
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 5.7,
@@ -185,6 +605,56 @@
    "unlocks": [
     "The Doman Enclave"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 28.5,
+     "y": 33.7
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 28.8,
+     "y": 36.3
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 12,
+     "y": 32.3
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Doman Enclave",
+     "x": 7.4,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Kienkan guardsman",
+     "zone": "The Doman Enclave",
+     "x": 6.4,
+     "y": 7.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Doman Enclave",
+     "x": 6.7,
+     "y": 7.2
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 25,
@@ -196,6 +666,38 @@
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "His Forgotten Home",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Asahi",
+     "zone": "Yanxia",
+     "x": 16,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Asahi",
+     "zone": "Yanxia",
+     "x": 16.3,
+     "y": 8.6
+    },
+    {
+     "label": "Talk to Asahi",
+     "zone": "Yanxia",
+     "x": 14.5,
+     "y": 14.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 30.7,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Asahi",
+     "zone": "Yanxia",
+     "x": 30.8,
+     "y": 27.5
+    }
+   ],
    "target": {
     "zone": "The Doman Enclave",
     "x": 6.7,
@@ -207,6 +709,20 @@
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "A Guilty Conscience",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yugiri",
+     "zone": "The Doman Enclave",
+     "x": 6.7,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 30.8,
@@ -221,6 +737,32 @@
    "unlocks": [
     "Solar Cycle"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "The Doman Enclave",
+     "x": 6.6,
+     "y": 7.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 28.8,
+     "y": 36.4
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 28.8,
+     "y": 36.4
+    },
+    {
+     "label": "Talk to Hancock",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Kienkan",
     "x": 6.1,
@@ -232,6 +774,20 @@
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Gosetsu and Tsuyu",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Doman Enclave",
+     "x": 9.5,
+     "y": 8
+    }
+   ],
    "target": {
     "zone": "Ruby Bazaar Offices",
     "x": 6.1,
@@ -243,6 +799,38 @@
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Gone Like the Morning Dew",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 15.8,
+     "y": 31.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 22.9,
+     "y": 28.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 30.7,
+     "y": 26.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 32.4,
+     "y": 24.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Yanxia",
+     "x": 32.4,
+     "y": 22.3
+    }
+   ],
    "target": {
     "zone": "The Doman Enclave",
     "x": 9.5,
@@ -254,6 +842,20 @@
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Fruits of Her Labor",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 29.7,
+     "y": 34
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 30.8,
@@ -265,6 +867,32 @@
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Conscripts and Contingencies",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Rasho",
+     "zone": "The Ruby Sea",
+     "x": 23.1,
+     "y": 8.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 23.7,
+     "y": 3.9
+    },
+    {
+     "label": "Talk to Ihanashi",
+     "zone": "The Ruby Sea",
+     "x": 23.4,
+     "y": 3.9
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Kienkan",
     "x": 6.1,
@@ -278,6 +906,56 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Castrum Fluminis"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Confederate skipper",
+     "zone": "Yanxia",
+     "x": 26.3,
+     "y": 36.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Castrum Fluminis",
+     "x": 6.1,
+     "y": 6.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Castrum Fluminis",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Castrum Fluminis",
+     "x": 6.1,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Castrum Fluminis",
+     "x": 6.2,
+     "y": 7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Doman Enclave",
+     "x": 6.8,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Doman Enclave",
+     "x": 6.7,
+     "y": 7.1
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
    ],
    "target": {
     "zone": "Kienkan",
@@ -293,6 +971,26 @@
    "unlocks": [
     "Lunar Cycle"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 22.9,
+     "y": 9.3
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "Kienkan",
     "x": 6.2,
@@ -307,6 +1005,26 @@
    "unlocks": [
     "Ponder"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Rising Stones",
+     "x": 6,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.2,
@@ -318,6 +1036,32 @@
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "Sisterly Act",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Lochs",
+     "x": 34.5,
+     "y": 32.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Lochs",
+     "x": 34.5,
+     "y": 32.5
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Doman Enclave",
+     "x": 6.4,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.2,
@@ -332,6 +1076,32 @@
    "unlocks": [
     "The Burn"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 28.3,
+     "y": 10.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Burn",
+     "x": 5.2,
+     "y": 3.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Doman Enclave",
+     "x": 9,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Doman Enclave",
+     "x": 8.9,
+     "y": 8.6
+    }
+   ],
    "target": {
     "zone": "Kienkan",
     "x": 6.1,
@@ -343,6 +1113,32 @@
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "Shadows in the Empire",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Doman Enclave",
+     "x": 9,
+     "y": 8.1
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Doman Enclave",
     "x": 8.9,
@@ -354,6 +1150,26 @@
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "A Power in Slumber",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Azim Steppe",
+     "x": 32.7,
+     "y": 29.7
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 32.7,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.5,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Kienkan",
     "x": 6.1,
@@ -365,6 +1181,44 @@
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "The Will of the Moon",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Azim Steppe",
+     "x": 28.5,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.5,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Sadu",
+     "zone": "The Azim Steppe",
+     "x": 12.5,
+     "y": 34.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Azim Steppe",
+     "x": 17.3,
+     "y": 31.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 17.3,
+     "y": 31.9
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.5,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 31.5,
@@ -378,6 +1232,44 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Endure"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Azim Steppe",
+     "x": 28.5,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 28.5,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Lochs",
+     "x": 36.5,
+     "y": 32
+    },
+    {
+     "label": "Talk to Resistance guard",
+     "zone": "The Lochs",
+     "x": 36.5,
+     "y": 32
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Lochs",
+     "x": 37,
+     "y": 30.3
+    }
    ],
    "target": {
     "zone": "The Azim Steppe",
@@ -393,6 +1285,26 @@
    "unlocks": [
     "A History of Violet"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Rising Stones",
+     "x": 5.9,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Limsa Lominsa Upper Decks",
+     "x": 12.6,
+     "y": 12.7
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 37,
@@ -404,6 +1316,14 @@
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "Soul Searching",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Dravanian Hinterlands",
+     "x": 13,
+     "y": 36.5
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.2,
@@ -415,6 +1335,26 @@
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "A Defector's Tidings",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Resistance guard",
+     "zone": "The Lochs",
+     "x": 36.5,
+     "y": 32
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Lochs",
+     "x": 36.5,
+     "y": 31.9
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Dravanian Hinterlands",
     "x": 13,
@@ -426,6 +1366,20 @@
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "Seiryu's Wall",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 28.3,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Kienkan",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Kienkan",
     "x": 6.1,
@@ -437,6 +1391,50 @@
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "Parley on the Front Lines",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Resistance fighter",
+     "zone": "The Lochs",
+     "x": 11,
+     "y": 21.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eorzean Alliance Headquarters",
+     "x": 6.2,
+     "y": 5.6
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Eorzean Alliance Headquarters",
+     "x": 6.2,
+     "y": 5.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlean Legion Tents",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Nanamo Ul Namo",
+     "zone": "Garlean Legion Tents",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlean Legion Tents",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Eorzean Alliance Headquarters",
+     "x": 6.3,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Kienkan",
     "x": 6.1,
@@ -452,6 +1450,32 @@
     "The Ghimlyt Dark",
     "What Is It Good For"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ghimlyt Dark",
+     "x": 18.7,
+     "y": 5.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eorzean Alliance Headquarters",
+     "x": 6.4,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Eorzean Alliance Headquarters",
+     "x": 6.2,
+     "y": 5.6
+    },
+    {
+     "label": "Talk to Hoary Boulder",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "Eorzean Alliance Headquarters",
     "x": 6.3,
@@ -463,6 +1487,20 @@
    "section": "Patch 4.56 (A Requiem for Heroes - Part 2)",
    "title": "A Brief Reprieve",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Maxima",
+     "zone": "Mor Dhona",
+     "x": 24,
+     "y": 13
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "The Lochs",
+     "x": 10.9,
+     "y": 21.2
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -476,6 +1514,32 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Swan Song"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Eorzean Alliance Headquarters",
+     "x": 6.2,
+     "y": 5.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Foundation",
+     "x": 13.4,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    }
    ],
    "target": {
     "zone": "The Lochs",

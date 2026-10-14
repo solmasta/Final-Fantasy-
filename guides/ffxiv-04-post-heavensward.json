@@ -5,6 +5,32 @@
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "An Uncertain Future",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Temple Knight guard",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Foundation",
+     "x": 13.1,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6.1,
@@ -16,6 +42,26 @@
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Breaking the Cycle",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lucia",
+     "zone": "The Dravanian Forelands",
+     "x": 35.2,
+     "y": 24
+    },
+    {
+     "label": "Talk to Vidofnir",
+     "zone": "The Dravanian Forelands",
+     "x": 16.9,
+     "y": 23.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Dravanian Forelands",
+     "x": 16.6,
+     "y": 23.3
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.5,
@@ -27,6 +73,26 @@
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Another Time, Another Place",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Idyllshire",
+     "x": 7,
+     "y": 6.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Idyllshire",
+     "x": 8.2,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "The Dravanian Hinterlands",
+     "x": 13,
+     "y": 36.6
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 16.6,
@@ -38,6 +104,50 @@
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "In the Eye of the Beholder",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Matoya's Cave",
+     "x": 6.6,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Dravanian Forelands",
+     "x": 34.3,
+     "y": 24
+    },
+    {
+     "label": "Talk to Marcechamp",
+     "zone": "The Dravanian Forelands",
+     "x": 32,
+     "y": 23
+    },
+    {
+     "label": "Talk to Loupard",
+     "zone": "The Dravanian Forelands",
+     "x": 33.3,
+     "y": 23.9
+    },
+    {
+     "label": "Talk to Grimold",
+     "zone": "The Dravanian Forelands",
+     "x": 31.6,
+     "y": 24.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "The Dravanian Forelands",
+     "x": 32,
+     "y": 23.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 26.4,
+     "y": 17.8
+    }
+   ],
    "target": {
     "zone": "The Dravanian Hinterlands",
     "x": 13,
@@ -49,6 +159,32 @@
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "A Little Slow, a Little Late",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Vath storyteller",
+     "zone": "The Dravanian Forelands",
+     "x": 24,
+     "y": 19.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 26.2,
+     "y": 34.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Dravanian Forelands",
+     "x": 26.7,
+     "y": 34.5
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Dravanian Forelands",
+     "x": 27.1,
+     "y": 32.7
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 26.4,
@@ -60,6 +196,26 @@
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Dreams of the Lost",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Vidofnir",
+     "zone": "The Dravanian Forelands",
+     "x": 16.9,
+     "y": 23.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 11.1,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.8,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 27,
@@ -71,6 +227,50 @@
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Against the Dying of the Light",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "The Pillars",
+     "x": 7.6,
+     "y": 10.5
+    },
+    {
+     "label": "Talk to unruffled refugee",
+     "zone": "The Pillars",
+     "x": 11.1,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Maelie",
+     "zone": "The Pillars",
+     "x": 11.8,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Vault priest",
+     "zone": "The Pillars",
+     "x": 11.2,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Pillars",
+     "x": 12.4,
+     "y": 10.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Foundation",
+     "x": 11.9,
+     "y": 12.5
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.8,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.8,
@@ -85,6 +285,32 @@
    "unlocks": [
     "So It Goes"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "The Pillars",
+     "x": 7.6,
+     "y": 9.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Pillars",
+     "x": 7.9,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Pillars",
+     "x": 11.2,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.8,
@@ -96,6 +322,32 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "As It Once Was",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to F'lhaminn",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 4.8,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to F'lhaminn",
+     "zone": "Mor Dhona",
+     "x": 22.3,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to F'lhaminn",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "The Pillars",
     "x": 11.6,
@@ -110,6 +362,38 @@
    "unlocks": [
     "The Antitower"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Idyllshire",
+     "x": 7,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Matoya",
+     "zone": "Matoya's Cave",
+     "x": 6.5,
+     "y": 6.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Antitower",
+     "x": 15.9,
+     "y": 7.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Matoya's Cave",
+     "x": 6.6,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Matoya's Cave",
+     "x": 6.5,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -121,6 +405,20 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "This War of Ours",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Temple Knight guard",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.2,
+     "y": 38.5
+    }
+   ],
    "target": {
     "zone": "Matoya's Cave",
     "x": 6.5,
@@ -132,6 +430,20 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Staunch Conviction",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Redwald",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 38.4
+    },
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 37.8
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.2,
@@ -143,6 +455,32 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Once More, a Favor",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 29.3,
+     "y": 31.4
+    },
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.9,
+     "y": 37.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 24.2,
+     "y": 25.3
+    },
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.9,
+     "y": 37.9
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.9,
@@ -154,6 +492,26 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "For Those We Have Lost",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 38
+    },
+    {
+     "label": "Talk to highborn merchant",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.5,
+     "y": 37.4
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Coerthas Western Highlands",
+     "x": 30.9,
+     "y": 37.7
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.9,
@@ -165,6 +523,26 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Consequences",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lucia",
+     "zone": "Coerthas Western Highlands",
+     "x": 33.4,
+     "y": 38
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.1,
+     "y": 38.8
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 38
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 30.9,
@@ -176,6 +554,50 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Choices",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Seat of the Lord Commander",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.8,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Hilda",
+     "zone": "Foundation",
+     "x": 11.5,
+     "y": 12.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Pillars",
+     "x": 7.9,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Temple Knight guard",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.7,
@@ -190,6 +612,32 @@
    "unlocks": [
     "Victory"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.8,
+     "y": 15.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.7,
+     "y": 15.5
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Coerthas Central Highlands",
+     "x": 20.4,
+     "y": 17.4
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.8,
+     "y": 15.3
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.5,
@@ -201,6 +649,26 @@
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "For Those We Can Yet Save",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 11.4,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 37.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.6,
+     "y": 37.8
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 18.7,
@@ -216,6 +684,26 @@
     "Battle Stance",
     "First Gear"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Intercessory",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Intercessory",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Pillars",
+     "x": 11.5,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.6,
@@ -227,6 +715,26 @@
    "section": "Patch 3.3 (Revenge of the Horde)",
    "title": "The Man Within",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Foundation",
+     "x": 13.1,
+     "y": 12
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 13.4,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "The Pillars",
     "x": 11.6,
@@ -238,6 +746,20 @@
    "section": "Patch 3.3 (Revenge of the Horde)",
    "title": "An Ally for Ishgard",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Vidofnir",
+     "zone": "The Dravanian Forelands",
+     "x": 16.9,
+     "y": 23.7
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.4,
@@ -251,6 +773,50 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Sohr Khai"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "The Churning Mists",
+     "x": 27.3,
+     "y": 34.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Churning Mists",
+     "x": 7.4,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "The Churning Mists",
+     "x": 7.5,
+     "y": 26.8
+    },
+    {
+     "label": "Talk to imperious wyvern",
+     "zone": "The Churning Mists",
+     "x": 7.7,
+     "y": 27.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Sohr Khai",
+     "x": 11.9,
+     "y": 9.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 7.4,
+     "y": 26.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Churning Mists",
+     "x": 7.4,
+     "y": 26.8
+    }
    ],
    "target": {
     "zone": "The Dravanian Forelands",
@@ -266,6 +832,32 @@
    "unlocks": [
     "The Final Steps of Faith"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Steps of Faith",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Steps of Faith",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Foundation",
+     "x": 11.3,
+     "y": 14
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 11.4,
+     "y": 13.3
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 7.5,
@@ -277,6 +869,26 @@
    "section": "Patch 3.3 (Revenge of the Horde)",
    "title": "Heroes of the Hour",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Foundation",
+     "x": 13.7,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 11.4,
@@ -291,6 +903,26 @@
    "unlocks": [
     "Floor the Horde"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Foundation",
+     "x": 13.7,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "The Pillars",
+     "x": 14.6,
+     "y": 12
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.7,
@@ -302,6 +934,26 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Promises Kept",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to House Borel steward",
+     "zone": "The Pillars",
+     "x": 16,
+     "y": 9.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.2,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Pillars",
     "x": 11.6,
@@ -316,6 +968,38 @@
    "unlocks": [
     "Xelphatol"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.5,
+     "y": 16.3
+    },
+    {
+     "label": "Talk to steadfast House Fortemps Knight",
+     "zone": "Coerthas Central Highlands",
+     "x": 33.6,
+     "y": 15.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Xelphatol",
+     "x": 14.6,
+     "y": 3.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 33.5,
+     "y": 15.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 33.6,
+     "y": 15.3
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6.2,
@@ -327,6 +1011,32 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Two Sides of a Coin",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Foundation",
+     "x": 13.7,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 13.4,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Bloeidin",
+     "zone": "Outer La Noscea",
+     "x": 18.7,
+     "y": 17.3
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 33.6,
@@ -338,6 +1048,44 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Unlikely Allies",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Outer La Noscea",
+     "x": 19,
+     "y": 17.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Outer La Noscea",
+     "x": 19.6,
+     "y": 16.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Outer La Noscea",
+     "x": 20.9,
+     "y": 16.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Outer La Noscea",
+     "x": 18.7,
+     "y": 15.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Outer La Noscea",
+     "x": 20.4,
+     "y": 17
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Outer La Noscea",
+     "x": 20.7,
+     "y": 16.9
+    }
+   ],
    "target": {
     "zone": "Outer La Noscea",
     "x": 18.7,
@@ -349,6 +1097,62 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "The Beast That Mourned at the Heart of the Mountain",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ga Bu",
+     "zone": "Outer La Noscea",
+     "x": 23,
+     "y": 16.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Outer La Noscea",
+     "x": 23,
+     "y": 16.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Outer La Noscea",
+     "x": 23.3,
+     "y": 13.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Outer La Noscea",
+     "x": 23.3,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Outer La Noscea",
+     "x": 23.3,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Outer La Noscea",
+     "x": 24.4,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Outer La Noscea",
+     "x": 24.4,
+     "y": 8.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Navel",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Outer La Noscea",
+     "x": 20.5,
+     "y": 16.8
+    }
+   ],
    "target": {
     "zone": "Outer La Noscea",
     "x": 20.7,
@@ -360,6 +1164,44 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Beneath a Star-filled Sky",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Bloeidin",
+     "zone": "Outer La Noscea",
+     "x": 18.7,
+     "y": 17.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Outer La Noscea",
+     "x": 19,
+     "y": 17.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Outer La Noscea",
+     "x": 19.3,
+     "y": 17.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Waking Sands",
+     "x": 6,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Southern Thanalan",
+     "x": 18.1,
+     "y": 13.6
+    }
+   ],
    "target": {
     "zone": "Outer La Noscea",
     "x": 20.5,
@@ -371,6 +1213,32 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "When We Were Free",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Southern Thanalan",
+     "x": 19.8,
+     "y": 14.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Southern Thanalan",
+     "x": 18.1,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to Gundobald",
+     "zone": "Southern Thanalan",
+     "x": 16.9,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Southern Thanalan",
+     "x": 25.1,
+     "y": 12.6
+    }
+   ],
    "target": {
     "zone": "Southern Thanalan",
     "x": 18.1,
@@ -382,6 +1250,26 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Honorable Heroes",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Talebot",
+     "zone": "Southern Thanalan",
+     "x": 19.9,
+     "y": 15
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Southern Thanalan",
+     "x": 19.9,
+     "y": 15
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Southern Thanalan",
+     "x": 19.4,
+     "y": 11.9
+    }
+   ],
    "target": {
     "zone": "Southern Thanalan",
     "x": 25.1,
@@ -393,6 +1281,32 @@
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "One Life for One World",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Southern Thanalan",
+     "x": 18.1,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Southern Thanalan",
+     "x": 21.6,
+     "y": 21.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Southern Thanalan",
+     "x": 21.6,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Southern Thanalan",
+     "x": 21.5,
+     "y": 21.4
+    }
+   ],
    "target": {
     "zone": "Southern Thanalan",
     "x": 19.4,
@@ -407,6 +1321,32 @@
    "unlocks": [
     "No Retreat, No Surrender"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Southern Thanalan",
+     "x": 21.5,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to Papalymo",
+     "zone": "Southern Thanalan",
+     "x": 20.1,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Southern Thanalan",
     "x": 21.5,
@@ -418,6 +1358,20 @@
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
    "title": "Tidings from Gyr Abania",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Mor Dhona",
+     "x": 22.2,
+     "y": 5.7
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.8,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.7,
@@ -429,6 +1383,26 @@
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
    "title": "An Envoy for Ishgard",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.7,
+     "y": 15.3
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.2,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "New Gridania",
+     "x": 11.4,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.8,
@@ -440,6 +1414,26 @@
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
    "title": "An Allied Decision",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to silent conjurer",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.2,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Mor Dhona",
+     "x": 22.2,
+     "y": 8.4
+    }
+   ],
    "target": {
     "zone": "New Gridania",
     "x": 11.4,
@@ -453,6 +1447,56 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Baelsar's Wall"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "East Shroud",
+     "x": 17.5,
+     "y": 27.2
+    },
+    {
+     "label": "Talk to serpent scout",
+     "zone": "East Shroud",
+     "x": 21.9,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "East Shroud",
+     "x": 22.4,
+     "y": 31.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Baelsar's Wall",
+     "x": 11.4,
+     "y": 13.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "East Shroud",
+     "x": 22.2,
+     "y": 31.2
+    },
+    {
+     "label": "Talk to Yda",
+     "zone": "East Shroud",
+     "x": 22.3,
+     "y": 31.3
+    }
    ],
    "target": {
     "zone": "Mor Dhona",
@@ -468,6 +1512,14 @@
    "unlocks": [
     "School's Out Forever"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "East Shroud",
     "x": 22.2,
@@ -479,6 +1531,20 @@
    "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
    "title": "The Obvious Solution",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to silent conjurer",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.2,
+     "y": 10.9
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6,
@@ -490,6 +1556,32 @@
    "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
    "title": "The Greater Obeisance",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Cid",
+     "zone": "New Gridania",
+     "x": 12.1,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Hida",
+     "zone": "New Gridania",
+     "x": 11.8,
+     "y": 13.4
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "Mor Dhona",
+     "x": 24,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Nero tol Scaeva",
+     "zone": "The Rising Stones",
+     "x": 6.4,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Old Gridania",
     "x": 8.2,
@@ -501,6 +1593,32 @@
    "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
    "title": "Fly Free, My Pretty",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Cid",
+     "zone": "Mor Dhona",
+     "x": 24.1,
+     "y": 13.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Omega Control",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "Omega Control",
+     "x": 6.2,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "New Gridania",
+     "x": 12.1,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -514,6 +1632,32 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Five Minutes of Fate"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "East Shroud",
+     "x": 21.8,
+     "y": 29.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
    ],
    "target": {
     "zone": "New Gridania",

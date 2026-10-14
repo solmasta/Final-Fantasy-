@@ -8,6 +8,26 @@
    "unlocks": [
     "Old Sharlayan"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 3.7,
+     "y": 12.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Old Sharlayan",
+     "x": 12.2,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 12.2,
+     "y": 14.2
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -19,6 +39,26 @@
    "section": "Levels 80-81 – Main chain",
    "title": "Old Sharlayan, New to You",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Old Sharlayan",
+     "x": 12.2,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 12.2,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 12.2,
@@ -30,6 +70,32 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Hitting the Books",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 5.2,
+     "y": 11.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Old Sharlayan",
+     "x": 3.9,
+     "y": 12.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 5.7,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 5.7,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "Main Hall",
     "x": 6.1,
@@ -41,6 +107,56 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "A Seat at the Last Stand",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Sharlayan",
+     "x": 9.9,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to Hildoise",
+     "zone": "Old Sharlayan",
+     "x": 10.4,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to Dickon",
+     "zone": "Old Sharlayan",
+     "x": 10.5,
+     "y": 13.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 9.5,
+     "y": 13.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 9.8,
+     "y": 14.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 9.8,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Sharlayan",
+     "x": 10.5,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Sharlayan",
+     "x": 11.8,
+     "y": 12.8
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 5.6,
@@ -56,6 +172,44 @@
     "Labyrinthos (North)",
     "The Archeion"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 5.7,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Sharlayan",
+     "x": 6.6,
+     "y": 10.7
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 9.9,
+     "y": 4.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 20.7,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Dobbin",
+     "zone": "Labyrinthos",
+     "x": 20,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Labyrinthos",
+     "x": 20.5,
+     "y": 6.8
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 11.8,
@@ -67,6 +221,56 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Glorified Ratcatcher",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Labyrinthos",
+     "x": 21.5,
+     "y": 6.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 24.1,
+     "y": 7.7
+    },
+    {
+     "label": "Talk to grizzled mouse",
+     "zone": "Labyrinthos",
+     "x": 24.1,
+     "y": 6.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 26.3,
+     "y": 8.7
+    },
+    {
+     "label": "Talk to grizzled mouse",
+     "zone": "Labyrinthos",
+     "x": 26.7,
+     "y": 9.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 26.9,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Labyrinthos",
+     "x": 21.5,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Labyrinthos",
+     "x": 29.4,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 20.5,
@@ -78,6 +282,44 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Deeper into the Maze",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Archeion custodian",
+     "zone": "Labyrinthos",
+     "x": 29.1,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Labyrinthos",
+     "x": 29.8,
+     "y": 12.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 29.7,
+     "y": 12.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 32.3,
+     "y": 11.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 33,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Labyrinthos",
+     "x": 34.4,
+     "y": 18.9
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 29.4,
@@ -89,6 +331,50 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "The Medial Circuit",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 38.1,
+     "y": 20.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 37.8,
+     "y": 24
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Labyrinthos",
+     "x": 33.9,
+     "y": 25.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 31.4,
+     "y": 20.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 30.5,
+     "y": 19.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 28.5,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Labyrinthos",
+     "x": 27.9,
+     "y": 15.9
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 34.4,
@@ -100,6 +386,32 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "The Full Report, Warts and All",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Labyrinthos",
+     "x": 25,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Labyrinthos",
+     "x": 25,
+     "y": 13.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 18.8,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Labyrinthos",
+     "x": 16.4,
+     "y": 11.4
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 28,
@@ -111,6 +423,26 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "A Guide of Sorts",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Labyrinthos",
+     "x": 25,
+     "y": 13.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 29.3,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Old Sharlayan",
+     "x": 11.2,
+     "y": 8.4
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 16.3,
@@ -122,6 +454,38 @@
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Estate Visitor",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Sharlayan",
+     "x": 11.3,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Sharlayan",
+     "x": 11.3,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Ameliance",
+     "zone": "Old Sharlayan",
+     "x": 15.6,
+     "y": 8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Sharlayan",
+     "x": 15.7,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 11.3,
@@ -138,6 +502,50 @@
     "Yedlihmad",
     "The Great Work"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Kytte",
+     "zone": "Old Sharlayan",
+     "x": 9.6,
+     "y": 10.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 10.9,
+     "y": 11.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 25.3,
+     "y": 33.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 25.4,
+     "y": 33.8
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Thavnair",
+     "x": 24.9,
+     "y": 34.2
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Thavnair",
+     "x": 25.3,
+     "y": 33.4
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Thavnair",
+     "x": 25.3,
+     "y": 33.3
+    }
+   ],
    "target": {
     "zone": "Main Hall",
     "x": 6.2,
@@ -149,6 +557,26 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "On Low Tide",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 25.5,
+     "y": 36.2
+    },
+    {
+     "label": "Talk to Khalzahl",
+     "zone": "Thavnair",
+     "x": 27.1,
+     "y": 35.6
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 25.5,
+     "y": 36.3
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 25.3,
@@ -160,6 +588,44 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "A Fisherman's Friend",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 25.5,
+     "y": 36.3
+    },
+    {
+     "label": "Talk to Mehrunnah",
+     "zone": "Thavnair",
+     "x": 25,
+     "y": 37.5
+    },
+    {
+     "label": "Talk to Nashreen",
+     "zone": "Thavnair",
+     "x": 24.8,
+     "y": 35.1
+    },
+    {
+     "label": "Talk to Bhazahma",
+     "zone": "Thavnair",
+     "x": 25.8,
+     "y": 31.9
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 25.5,
+     "y": 36.3
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Thavnair",
+     "x": 25.5,
+     "y": 33.8
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 25.5,
@@ -171,6 +637,50 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "House of Divinities",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Thavnair",
+     "x": 23.6,
+     "y": 33.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Thavnair",
+     "x": 21.2,
+     "y": 31.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 22.1,
+     "y": 29.1
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 22.1,
+     "y": 29.1
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 15.9,
+     "y": 32.2
+    },
+    {
+     "label": "Talk to Khanga",
+     "zone": "Thavnair",
+     "x": 15.6,
+     "y": 32.5
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 15.9,
+     "y": 32.2
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 25.5,
@@ -182,6 +692,62 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "The Great Work",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 12,
+     "y": 21.9
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 11.3,
+     "y": 23.9
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 11.7,
+     "y": 24.6
+    },
+    {
+     "label": "Talk to drunken deepa",
+     "zone": "Thavnair",
+     "x": 11.8,
+     "y": 24.6
+    },
+    {
+     "label": "Talk to drunken deepa",
+     "zone": "Thavnair",
+     "x": 13,
+     "y": 24.7
+    },
+    {
+     "label": "Talk to drunken deepa",
+     "zone": "Thavnair",
+     "x": 13.1,
+     "y": 23.2
+    },
+    {
+     "label": "Talk to drunken deepa",
+     "zone": "Thavnair",
+     "x": 12.6,
+     "y": 23.4
+    },
+    {
+     "label": "Talk to drunken deepa",
+     "zone": "Thavnair",
+     "x": 11.8,
+     "y": 24.1
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 11.7,
+     "y": 24.6
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 15.9,
@@ -193,6 +759,38 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "Shadowed Footsteps",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 16.9,
+     "y": 22
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 21.2,
+     "y": 20.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Thavnair",
+     "x": 22.1,
+     "y": 18.4
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 22.2,
+     "y": 18.3
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 11.3,
+     "y": 23.9
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 11.7,
@@ -204,6 +802,44 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "A Boy's Errand",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Thavnair",
+     "x": 13.8,
+     "y": 22.1
+    },
+    {
+     "label": "Talk to Nahbdeen",
+     "zone": "Thavnair",
+     "x": 10.1,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Thavnair",
+     "x": 10.5,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to hamsa",
+     "zone": "Thavnair",
+     "x": 10.3,
+     "y": 10.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 19.4,
+     "y": 9.3
+    },
+    {
+     "label": "Talk to Zeynuha",
+     "zone": "Thavnair",
+     "x": 19.6,
+     "y": 8.6
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 11.3,
@@ -215,6 +851,32 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "Tipping the Scale",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 11.3,
+     "y": 23.9
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 7.5,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Radiant soldier",
+     "zone": "Thavnair",
+     "x": 7.4,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Thavnair",
+     "x": 11.6,
+     "y": 21.9
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 19.6,
@@ -226,6 +888,26 @@
    "section": "Levels 80-81 – Thavnair chain",
    "title": "The Satrap of Radz-at-Han",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Thavnair",
+     "x": 25.6,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Thavnair",
+     "x": 25.5,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Main Hall",
+     "x": 6.2,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 11.6,
@@ -239,6 +921,38 @@
    "text": "Level 81 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Tower of Zot"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Nahbdeen",
+     "zone": "Thavnair",
+     "x": 10.1,
+     "y": 10.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Thavnair",
+     "x": 8.8,
+     "y": 8.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tower of Zot",
+     "x": 11.1,
+     "y": 11.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 8.8,
+     "y": 8.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Thavnair",
+     "x": 10.1,
+     "y": 9.9
+    }
    ],
    "target": {
     "zone": "Main Hall",
@@ -254,6 +968,50 @@
    "unlocks": [
     "Radz-at-Han"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Radiant guardsman",
+     "zone": "Thavnair",
+     "x": 25.7,
+     "y": 9.5
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Radz-at-Han",
+     "x": 12.4,
+     "y": 14.8
+    },
+    {
+     "label": "Talk to attentive Radiant",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 13
+    },
+    {
+     "label": "Talk to watchful Radiant",
+     "zone": "Radz-at-Han",
+     "x": 9.3,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to vigilant Radiant",
+     "zone": "Radz-at-Han",
+     "x": 8.3,
+     "y": 14.7
+    },
+    {
+     "label": "Talk to Meghaduta attendant",
+     "zone": "Radz-at-Han",
+     "x": 4.4,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Radz-at-Han",
+     "x": 3.7,
+     "y": 10.7
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 10.1,
@@ -268,6 +1026,44 @@
    "unlocks": [
     "On Wings of Hope"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Radz-at-Han",
+     "x": 6.5,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Radz-at-Han",
+     "x": 9.1,
+     "y": 11
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Radz-at-Han",
+     "x": 13,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 9.3,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 3.7,
@@ -279,6 +1075,44 @@
    "section": "Levels 82-83",
    "title": "Sound the Bell, School's In",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Sharlayan",
+     "x": 9.1,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 5.6,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to excitable student",
+     "zone": "Old Sharlayan",
+     "x": 5,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Qih Aliapoh",
+     "zone": "Old Sharlayan",
+     "x": 4.1,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to level-headed student",
+     "zone": "Old Sharlayan",
+     "x": 5.3,
+     "y": 8.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Old Sharlayan",
+     "x": 3.6,
+     "y": 8.9
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 9.5,
@@ -290,6 +1124,26 @@
    "section": "Levels 82-83",
    "title": "A Capital Idea",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Command Room",
+     "x": 3.5,
+     "y": 3.7
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Lochs",
+     "x": 36.4,
+     "y": 32
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 3.4,
@@ -301,6 +1155,62 @@
    "section": "Levels 82-83",
    "title": "Best of the Best",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Resistance guard",
+     "zone": "The Lochs",
+     "x": 36.5,
+     "y": 32
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Hall of the Griffin",
+     "x": 11.3,
+     "y": 6.6
+    },
+    {
+     "label": "Talk to A-Ruhn-Senna",
+     "zone": "The Hall of the Griffin",
+     "x": 11.1,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Sicard",
+     "zone": "The Hall of the Griffin",
+     "x": 11.2,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Hall of the Griffin",
+     "x": 11.3,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "The Hall of the Griffin",
+     "x": 11.3,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Hall of the Griffin",
+     "x": 11.3,
+     "y": 6.8
+    },
+    {
+     "label": "Talk to Maxima",
+     "zone": "The Hall of the Griffin",
+     "x": 11.3,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 36.6,
+     "y": 32.2
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 36.4,
@@ -316,6 +1226,50 @@
     "Garlemald",
     "Camp Broken Glass"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Ironworks pilot",
+     "zone": "The Lochs",
+     "x": 36.4,
+     "y": 32.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 13.4,
+     "y": 31.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 13.5,
+     "y": 30.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Garlemald",
+     "x": 12.7,
+     "y": 31.5
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Garlemald",
+     "x": 14.2,
+     "y": 31.8
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 14.8,
+     "y": 29.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 14.4,
+     "y": 30.2
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 36.5,
@@ -327,6 +1281,38 @@
    "section": "Levels 82-83",
    "title": "Tracks in the Snow",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "Garlemald",
+     "x": 18.4,
+     "y": 28.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 21.2,
+     "y": 28.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 22.8,
+     "y": 29.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Garlemald",
+     "x": 23.9,
+     "y": 29.3
+    },
+    {
+     "label": "Talk to girl in green",
+     "zone": "Garlemald",
+     "x": 32.6,
+     "y": 24.7
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 14.5,
@@ -338,6 +1324,50 @@
    "section": "Levels 82-83",
    "title": "How the Mighty Are Fallen",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 33.3,
+     "y": 25.8
+    },
+    {
+     "label": "Talk to sickly refugee",
+     "zone": "Garlemald",
+     "x": 33.3,
+     "y": 25.9
+    },
+    {
+     "label": "Talk to emaciated refugee",
+     "zone": "Garlemald",
+     "x": 33.3,
+     "y": 25.8
+    },
+    {
+     "label": "Talk to despondent refugee",
+     "zone": "Garlemald",
+     "x": 33.2,
+     "y": 25.8
+    },
+    {
+     "label": "Talk to Licinia",
+     "zone": "Garlemald",
+     "x": 32.8,
+     "y": 24.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 24.7,
+     "y": 33.7
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 24.3,
+     "y": 34.5
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 32.8,
@@ -349,6 +1379,50 @@
    "section": "Levels 82-83",
    "title": "At the End of the Trail",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 32.7,
+     "y": 24.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 33.2,
+     "y": 25
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 31.6,
+     "y": 25
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 27.7,
+     "y": 28.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 28.3,
+     "y": 30.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 33,
+     "y": 33.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 33.6,
+     "y": 25.6
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 24.2,
@@ -360,6 +1434,38 @@
    "section": "Levels 82-83",
    "title": "A Way Forward",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 14.8,
+     "y": 29.6
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 14.3,
+     "y": 30.1
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 14.2,
+     "y": 30.2
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 15.3,
+     "y": 28.8
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 22.8,
+     "y": 24.5
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 33.6,
@@ -371,6 +1477,74 @@
    "section": "Levels 82-83",
    "title": "The Last Bastion",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 25,
+     "y": 23.5
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 24.9,
+     "y": 23.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 27.4,
+     "y": 23
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 27.5,
+     "y": 23
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 29.3,
+     "y": 23
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 32.1,
+     "y": 18.3
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 32,
+     "y": 18.2
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 31.9,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 31.7,
+     "y": 13
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 32.1,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 32.5,
+     "y": 17.7
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 22.8,
@@ -382,6 +1556,38 @@
    "section": "Levels 82-83",
    "title": "Personae non Gratae",
    "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 32.1,
+     "y": 17.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 32.5,
+     "y": 17.2
+    },
+    {
+     "label": "Talk to Flavius",
+     "zone": "Garlemald",
+     "x": 32.5,
+     "y": 16.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 32.5,
+     "y": 17.2
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 32.1,
+     "y": 18
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 32.1,
@@ -393,6 +1599,38 @@
    "section": "Levels 82-83",
    "title": "His Park Materials",
    "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 29.7,
+     "y": 11.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 29.7,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 30.2,
+     "y": 9.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 30.2,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 30.2,
+     "y": 9.3
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 32.1,
@@ -404,6 +1642,38 @@
    "section": "Levels 82-83",
    "title": "No Good Deed",
    "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 28.3,
+     "y": 10.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 27.5,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 28.3,
+     "y": 10.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Garlemald",
+     "x": 28.3,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 32,
+     "y": 16.8
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 29.8,
@@ -415,6 +1685,38 @@
    "section": "Levels 82-83",
    "title": "Alea Iacta Est",
    "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Marcellinus",
+     "zone": "Garlemald",
+     "x": 31.4,
+     "y": 17.4
+    },
+    {
+     "label": "Talk to Octavia",
+     "zone": "Garlemald",
+     "x": 31.8,
+     "y": 18.3
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 31.7,
+     "y": 13
+    },
+    {
+     "label": "Objective area",
+     "zone": "Garlemald",
+     "x": 27.1,
+     "y": 16.8
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 13.5,
+     "y": 30
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 32,
@@ -429,6 +1731,56 @@
    "unlocks": [
     "Tertium"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 31.4,
+     "y": 13
+    },
+    {
+     "label": "Talk to Sabinianus",
+     "zone": "Garlemald",
+     "x": 31.5,
+     "y": 17.9
+    },
+    {
+     "label": "Talk to Caeso",
+     "zone": "Garlemald",
+     "x": 32,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to Flavius",
+     "zone": "Garlemald",
+     "x": 32.5,
+     "y": 16.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 32.5,
+     "y": 17.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 23.1,
+     "y": 24.4
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Garlemald",
+     "x": 17.3,
+     "y": 30.5
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 14.5,
+     "y": 29.9
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 13.5,
@@ -440,6 +1792,26 @@
    "section": "Levels 82-83",
    "title": "In from the Cold",
    "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Garlemald",
+     "x": 14.3,
+     "y": 31.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 14,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 14.1,
+     "y": 29.6
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 14.5,
@@ -454,6 +1826,44 @@
    "unlocks": [
     "The Tower of Babil",
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "Garlemald",
+     "x": 12.2,
+     "y": 14.7
+    },
+    {
+     "label": "Talk to Pipin",
+     "zone": "Garlemald",
+     "x": 12,
+     "y": 7.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Garlemald",
+     "x": 11.2,
+     "y": 8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tower of Babil",
+     "x": 11.2,
+     "y": 9.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Nethergate",
+     "x": 21.5,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Nethergate",
+     "x": 21.5,
+     "y": 22.2
+    }
    ],
    "target": {
     "zone": "Garlemald",
@@ -470,6 +1880,38 @@
     "Sinus Lacrimarum",
     "Mare Lamentorum"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Nethergate",
+     "x": 21.5,
+     "y": 21.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 8.2,
+     "y": 36.1
+    },
+    {
+     "label": "Talk to ancient spirit",
+     "zone": "Mare Lamentorum",
+     "x": 8.9,
+     "y": 34.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 13,
+     "y": 33
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 13.5,
+     "y": 32.7
+    }
+   ],
    "target": {
     "zone": "The Nethergate",
     "x": 21.6,
@@ -481,6 +1923,56 @@
    "section": "Levels 82-83",
    "title": "Sea of Sorrow",
    "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to faded spirit",
+     "zone": "Mare Lamentorum",
+     "x": 14.5,
+     "y": 31.8
+    },
+    {
+     "label": "Talk to dreaming spirit",
+     "zone": "Mare Lamentorum",
+     "x": 16.2,
+     "y": 31.5
+    },
+    {
+     "label": "Talk to forlorn spirit",
+     "zone": "Mare Lamentorum",
+     "x": 16.3,
+     "y": 30.6
+    },
+    {
+     "label": "Talk to somber spirit",
+     "zone": "Mare Lamentorum",
+     "x": 17.6,
+     "y": 29.7
+    },
+    {
+     "label": "Talk to lustrous dog",
+     "zone": "Mare Lamentorum",
+     "x": 22.4,
+     "y": 32
+    },
+    {
+     "label": "Talk to temperamental spirit",
+     "zone": "Mare Lamentorum",
+     "x": 21.9,
+     "y": 32
+    },
+    {
+     "label": "Talk to lustrous dog",
+     "zone": "Mare Lamentorum",
+     "x": 25.3,
+     "y": 30.9
+    },
+    {
+     "label": "Talk to anguished spirit",
+     "zone": "Mare Lamentorum",
+     "x": 25.2,
+     "y": 30.1
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 13.8,
@@ -496,6 +1988,32 @@
     "The Dark Inside",
     "Rise Up Through the Night"
    ],
+   "objectives": [
+    {
+     "label": "Talk to lustrous dog",
+     "zone": "Mare Lamentorum",
+     "x": 25.3,
+     "y": 30.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dark Inside",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 16,
+     "y": 31.2
+    },
+    {
+     "label": "Talk to the watcher",
+     "zone": "Mare Lamentorum",
+     "x": 15.9,
+     "y": 31.1
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 25.3,
@@ -507,6 +2025,26 @@
    "section": "Levels 84-85",
    "title": "In Shadow's Wake",
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 12.6,
+     "y": 33.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 13,
+     "y": 33
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 12.6,
+     "y": 32.6
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 15.9,
@@ -521,6 +2059,44 @@
    "unlocks": [
     "Bestways Burrow"
    ],
+   "objectives": [
+    {
+     "label": "Talk to the watcher",
+     "zone": "Mare Lamentorum",
+     "x": 27.4,
+     "y": 32.3
+    },
+    {
+     "label": "Talk to the watcher",
+     "zone": "Mare Lamentorum",
+     "x": 30.4,
+     "y": 32.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 31.2,
+     "y": 32.3
+    },
+    {
+     "label": "Talk to the watcher",
+     "zone": "Mare Lamentorum",
+     "x": 25.6,
+     "y": 29.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 25.6,
+     "y": 29.7
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Mare Lamentorum",
+     "x": 21.6,
+     "y": 14.2
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 13.8,
@@ -532,6 +2108,32 @@
    "section": "Levels 84-85",
    "title": "A Harey Situation",
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to chipper Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 22.1,
+     "y": 12.8
+    },
+    {
+     "label": "Talk to dozing Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 23.9,
+     "y": 10.4
+    },
+    {
+     "label": "Talk to snappy Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 19,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to snappy Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 21.1,
+     "y": 11.6
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 21.6,
@@ -543,6 +2145,38 @@
    "section": "Levels 84-85",
    "title": "A Taste of the Moon",
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 12.4,
+     "y": 9.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 11.8,
+     "y": 7.7
+    },
+    {
+     "label": "Talk to Cookingway",
+     "zone": "Mare Lamentorum",
+     "x": 12.4,
+     "y": 9.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 12.4,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Cookingway",
+     "zone": "Mare Lamentorum",
+     "x": 12.4,
+     "y": 9.1
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 21.1,
@@ -554,6 +2188,50 @@
    "section": "Levels 84-85",
    "title": "Styled a Hero",
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 11.1,
+     "y": 15.9
+    },
+    {
+     "label": "Talk to restless Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 14,
+     "y": 16.1
+    },
+    {
+     "label": "Talk to jubilant Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 14.9,
+     "y": 14.8
+    },
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 11.1,
+     "y": 15.9
+    },
+    {
+     "label": "Talk to fidgeting Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 11.4,
+     "y": 16.3
+    },
+    {
+     "label": "Talk to Growingway",
+     "zone": "Mare Lamentorum",
+     "x": 20.9,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to Growingway",
+     "zone": "Mare Lamentorum",
+     "x": 21.5,
+     "y": 7.5
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 12.4,
@@ -565,6 +2243,26 @@
    "section": "Levels 84-85",
    "title": "All's Vale That Endsvale",
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Growingway",
+     "zone": "Mare Lamentorum",
+     "x": 24.4,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Growingway",
+     "zone": "Mare Lamentorum",
+     "x": 35.1,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 33.9,
+     "y": 8.4
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 21.5,
@@ -576,6 +2274,32 @@
    "section": "Levels 84-85",
    "title": "Back to Old Tricks",
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 23,
+     "y": 11.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 21.4,
+     "y": 16.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 22.7,
+     "y": 20.9
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Mare Lamentorum",
+     "x": 22.9,
+     "y": 21
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 33.8,
@@ -587,6 +2311,44 @@
    "section": "Levels 84-85",
    "title": "Setting Things Straight",
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Mare Lamentorum",
+     "x": 25.3,
+     "y": 20.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 25.2,
+     "y": 20.9
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Mare Lamentorum",
+     "x": 25.3,
+     "y": 20.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 29.1,
+     "y": 9.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 30.8,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 28.7,
+     "y": 8.9
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 22.9,
@@ -600,6 +2362,32 @@
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Growingway",
+     "zone": "Mare Lamentorum",
+     "x": 25.2,
+     "y": 8.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 24.7,
+     "y": 8.9
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 21.4,
+     "y": 17.2
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Mare Lamentorum",
+     "x": 9.3,
+     "y": 33
+    }
    ],
    "target": {
     "zone": "Mare Lamentorum",
@@ -615,6 +2403,38 @@
    "unlocks": [
     "Higher"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Nethergate",
+     "x": 21.5,
+     "y": 21.9
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 14.7,
+     "y": 29.7
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 9.1,
+     "y": 11.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 9.3,
@@ -629,6 +2449,44 @@
    "unlocks": [
     "Vanaspati"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 25.5,
+     "y": 36.7
+    },
+    {
+     "label": "Talk to Ahewann",
+     "zone": "Thavnair",
+     "x": 25.6,
+     "y": 36.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Vanaspati",
+     "x": 11.1,
+     "y": 6.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Ahewann",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 9.2,
@@ -640,6 +2498,44 @@
    "section": "Levels 84-85",
    "title": "The Blasphemy Unmasked",
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Nuhadeen",
+     "zone": "Radz-at-Han",
+     "x": 14,
+     "y": 8.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 11,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 13.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 10.9,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Mihleel",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 7.2
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 11.3,
@@ -651,6 +2547,80 @@
    "section": "Levels 84-85",
    "title": "Amidst the Apocalypse",
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 7.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 13.6,
+     "y": 12
+    },
+    {
+     "label": "Talk to Djinabaha",
+     "zone": "Radz-at-Han",
+     "x": 8.1,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to Kamala",
+     "zone": "Radz-at-Han",
+     "x": 9.2,
+     "y": 12.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Radz-at-Han",
+     "x": 9.2,
+     "y": 13
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 8.6,
+     "y": 13.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Radz-at-Han",
+     "x": 9.2,
+     "y": 13
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 8.6,
+     "y": 13.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Radz-at-Han",
+     "x": 9.2,
+     "y": 13
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 8.6,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Kamala",
+     "zone": "Radz-at-Han",
+     "x": 9.2,
+     "y": 12.8
+    },
+    {
+     "label": "Talk to Djinabaha",
+     "zone": "Radz-at-Han",
+     "x": 8.1,
+     "y": 13.5
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 11.2,
@@ -666,6 +2636,50 @@
     "Thavnair (East)",
     "Palaka's Stand"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 6.8,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Thavnair",
+     "x": 31.5,
+     "y": 9.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Thavnair",
+     "x": 30.6,
+     "y": 11.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Thavnair",
+     "x": 29.3,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Thavnair",
+     "x": 29.2,
+     "y": 16.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 29.1,
+     "y": 16.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Thavnair",
+     "x": 30.1,
+     "y": 16.5
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 8.1,
@@ -677,6 +2691,56 @@
    "section": "Levels 84-85",
    "title": "That We Might Live",
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 29.5,
+     "y": 16
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 22.6,
+     "y": 14.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 20.6,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Qerasaf",
+     "zone": "Thavnair",
+     "x": 20.9,
+     "y": 17
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 22.8,
+     "y": 15.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 26.4,
+     "y": 16.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 27.9,
+     "y": 17.6
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 29.1,
+     "y": 16.4
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 30.1,
@@ -688,6 +2752,50 @@
    "section": "Levels 84-85",
    "title": "When All Hope Seems Lost",
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yeruvvet",
+     "zone": "Thavnair",
+     "x": 29.5,
+     "y": 16
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Thavnair",
+     "x": 29.7,
+     "y": 17.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 31.4,
+     "y": 21.8
+    },
+    {
+     "label": "Talk to villager woman",
+     "zone": "Thavnair",
+     "x": 31.4,
+     "y": 21.6
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 33,
+     "y": 24.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 31.9,
+     "y": 26.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Thavnair",
+     "x": 34.1,
+     "y": 26.4
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 29.1,
@@ -699,6 +2807,38 @@
    "section": "Levels 84-85",
    "title": "Warm Hearts, Rekindled Hopes",
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 27.2,
+     "y": 24.5
+    },
+    {
+     "label": "Talk to Mehvan",
+     "zone": "Thavnair",
+     "x": 24.6,
+     "y": 24.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 24.8,
+     "y": 24.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Thavnair",
+     "x": 24.6,
+     "y": 25.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Thavnair",
+     "x": 20.8,
+     "y": 15.1
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 32.3,
@@ -713,6 +2853,32 @@
    "unlocks": [
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Vrtra",
+     "zone": "Thavnair",
+     "x": 29.1,
+     "y": 16.3
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 30.1,
+     "y": 16.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 29.6,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 30.1,
+     "y": 16.2
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 20.7,
@@ -724,6 +2890,44 @@
    "section": "Levels 84-85",
    "title": "Under His Wing",
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Estinien",
+     "zone": "Thavnair",
+     "x": 31.9,
+     "y": 9.5
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 13.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 9.8,
+     "y": 10.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 8.9,
+     "y": 11.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Radz-at-Han",
+     "x": 7.1,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Radz-at-Han",
+     "x": 7.1,
+     "y": 12.7
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 30,
@@ -740,6 +2944,44 @@
     "Oh, Higher",
     "Radz-at-Han"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Radiant Host soldier",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Radiant Host soldier",
+     "zone": "Radz-at-Han",
+     "x": 8.3,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Radiant Host soldier",
+     "zone": "Radz-at-Han",
+     "x": 7.8,
+     "y": 9.5
+    },
+    {
+     "label": "Talk to Mihleel",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Radz-at-Han",
+     "x": 11.4,
+     "y": 7.3
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 13
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 7,
@@ -751,6 +2993,26 @@
    "section": "Levels 86-87",
    "title": "Return to the Crystarium",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyna",
+     "zone": "Lakeland",
+     "x": 33.8,
+     "y": 27.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 7
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "The Crystarium",
+     "x": 9.9,
+     "y": 7.1
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 11.4,
@@ -767,6 +3029,38 @@
     "Anagnorisis",
     "The Twelve Wonders"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Crystarium gatekeep",
+     "zone": "The Crystarium",
+     "x": 13.6,
+     "y": 11.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Propylaion",
+     "x": 21.5,
+     "y": 21.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Propylaion",
+     "x": 21.5,
+     "y": 22.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 26.7,
+     "y": 37
+    },
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 26.8,
+     "y": 36.9
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 9.9,
@@ -778,6 +3072,26 @@
    "section": "Levels 86-87",
    "title": "Petalouda Hunt",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 25.6,
+     "y": 34.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 25.8,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 25.6,
+     "y": 34.1
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 26.8,
@@ -789,6 +3103,26 @@
    "section": "Levels 86-87",
    "title": "In Search of Hermes",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Anagnorisis observer",
+     "zone": "Elpis",
+     "x": 25,
+     "y": 28
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 25.2,
+     "y": 25.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 28.5,
+     "y": 25.1
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 25.6,
@@ -800,6 +3134,56 @@
    "section": "Levels 86-87",
    "title": "Ponder, Warrant, Cherish, Welcome",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 26,
+     "y": 25.5
+    },
+    {
+     "label": "Talk to Emet-Selch",
+     "zone": "Elpis",
+     "x": 24.6,
+     "y": 22.6
+    },
+    {
+     "label": "Talk to Meteion",
+     "zone": "Elpis",
+     "x": 24.5,
+     "y": 22.2
+    },
+    {
+     "label": "Talk to Meteion",
+     "zone": "Elpis",
+     "x": 24.6,
+     "y": 23
+    },
+    {
+     "label": "Talk to Memnon",
+     "zone": "Elpis",
+     "x": 24.4,
+     "y": 23.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 24.7,
+     "y": 25.1
+    },
+    {
+     "label": "Talk to Euanthe",
+     "zone": "Elpis",
+     "x": 23.4,
+     "y": 23.6
+    },
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 24.5,
+     "y": 22.5
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 28.9,
@@ -811,6 +3195,38 @@
    "section": "Levels 86-87",
    "title": "Lives Apart",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 26.9,
+     "y": 26.8
+    },
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 28.7,
+     "y": 21.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 28.9,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 28.7,
+     "y": 21.6
+    },
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 32.7,
+     "y": 22.5
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 24.5,
@@ -822,6 +3238,44 @@
    "section": "Levels 86-87",
    "title": "Their Greatest Contribution",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 32.7,
+     "y": 22.5
+    },
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 28.5,
+     "y": 19.3
+    },
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 28.5,
+     "y": 19.2
+    },
+    {
+     "label": "Talk to Emet-Selch",
+     "zone": "Elpis",
+     "x": 21.5,
+     "y": 19.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 20.3,
+     "y": 19.9
+    },
+    {
+     "label": "Talk to Emet-Selch",
+     "zone": "Elpis",
+     "x": 24.2,
+     "y": 23.3
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 32.7,
@@ -833,6 +3287,32 @@
    "section": "Levels 86-87",
    "title": "Aether to Aether",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 18.2,
+     "y": 29.2
+    },
+    {
+     "label": "Talk to Meteion",
+     "zone": "Elpis",
+     "x": 10.9,
+     "y": 31.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 8.8,
+     "y": 32.4
+    },
+    {
+     "label": "Talk to Meteion",
+     "zone": "Elpis",
+     "x": 8.3,
+     "y": 32.1
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 24.2,
@@ -844,6 +3324,62 @@
    "section": "Levels 86-87",
    "title": "A Sentimental Gift",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Meteion",
+     "zone": "Elpis",
+     "x": 8.3,
+     "y": 32.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 9.1,
+     "y": 32.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 9.9,
+     "y": 31.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 9.5,
+     "y": 30.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 7.8,
+     "y": 30.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 6.9,
+     "y": 30.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 5.7,
+     "y": 31.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 5.4,
+     "y": 31.8
+    },
+    {
+     "label": "Talk to Meteion",
+     "zone": "Elpis",
+     "x": 8.2,
+     "y": 32.2
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 8.3,
@@ -855,6 +3391,38 @@
    "section": "Levels 86-87",
    "title": "Verdict and Execution",
    "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Doros",
+     "zone": "Elpis",
+     "x": 14.7,
+     "y": 28.9
+    },
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 17.2,
+     "y": 26.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 17.4,
+     "y": 26.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 17.3,
+     "y": 26.2
+    },
+    {
+     "label": "Talk to Emet-Selch",
+     "zone": "Elpis",
+     "x": 8.7,
+     "y": 31.6
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 8.4,
@@ -869,6 +3437,38 @@
    "unlocks": [
     "Poieten Oikos"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 19.4,
+     "y": 26.2
+    },
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 17.9,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 14.5,
+     "y": 22
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 11.1,
+     "y": 23.4
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 11.7,
+     "y": 19.2
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 8.8,
@@ -880,6 +3480,44 @@
    "section": "Levels 86-87",
    "title": "A Past, Not Yet Come to Pass",
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 9.8,
+     "y": 16.2
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 9.6,
+     "y": 18
+    },
+    {
+     "label": "Talk to Ismene",
+     "zone": "Elpis",
+     "x": 9.9,
+     "y": 18
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 9.6,
+     "y": 18
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 12.7,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 9.6,
+     "y": 18
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 11.7,
@@ -891,6 +3529,38 @@
    "section": "Levels 86-87",
    "title": "Witness to the Spectacle",
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 5.2,
+     "y": 17.6
+    },
+    {
+     "label": "Talk to Peripeteia archivist",
+     "zone": "Elpis",
+     "x": 4.8,
+     "y": 20.3
+    },
+    {
+     "label": "Talk to approachable archivist",
+     "zone": "Elpis",
+     "x": 4.5,
+     "y": 18
+    },
+    {
+     "label": "Talk to unhurried observer",
+     "zone": "Elpis",
+     "x": 7.1,
+     "y": 14.8
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 8.2,
+     "y": 14.8
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 9.6,
@@ -902,6 +3572,32 @@
    "section": "Levels 86-87",
    "title": "Worthy of His Back",
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 14.1,
+     "y": 24
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 8.9,
+     "y": 22.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 8.9,
+     "y": 22.8
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 8.9,
+     "y": 22.7
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 8.2,
@@ -913,6 +3609,38 @@
    "section": "Levels 86-87",
    "title": "A Flower upon Your Return",
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Argos",
+     "zone": "Elpis",
+     "x": 11.2,
+     "y": 25.5
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 11.2,
+     "y": 25.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 11.9,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 14.6,
+     "y": 10.3
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 13.3,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 8.9,
@@ -924,6 +3652,32 @@
    "section": "Levels 86-87",
    "title": "Hunger in the Garden",
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Elpis",
+     "x": 17.3,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 20.6,
+     "y": 9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 25,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Hythlodaeus",
+     "zone": "Elpis",
+     "x": 20.6,
+     "y": 9
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 13.4,
@@ -935,6 +3689,38 @@
    "section": "Levels 86-87",
    "title": "Words without Sound",
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 21.2,
+     "y": 9.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 24.5,
+     "y": 9.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 26.7,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 29.6,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Hermes",
+     "zone": "Elpis",
+     "x": 29.8,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 20.6,
@@ -946,6 +3732,38 @@
    "section": "Levels 86-87",
    "title": "Follow, Wander, Stumble, Listen",
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 30.8,
+     "y": 13.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 31.3,
+     "y": 17.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 36.9,
+     "y": 17.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 36.7,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Emet-Selch",
+     "zone": "Elpis",
+     "x": 31.6,
+     "y": 15.4
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 29.8,
@@ -961,6 +3779,32 @@
     "Ktisis Hyperboreia",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 13.5,
+     "y": 6.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ktisis Hyperboreia",
+     "x": 11.2,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Elpis",
+     "x": 13.3,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 31,
+     "y": 22.5
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 31.7,
@@ -975,6 +3819,26 @@
    "unlocks": [
     "Carrying Our Song"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Venat",
+     "zone": "Elpis",
+     "x": 26.8,
+     "y": 37.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Elpis",
     "x": 31,
@@ -986,6 +3850,26 @@
    "section": "Levels 88-90",
    "title": "As the Heavens Burn",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 13.7,
+     "y": 31.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 13.5,
+     "y": 30
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 13.4,
+     "y": 29.8
+    }
+   ],
    "target": {
     "zone": "Main Hall",
     "x": 6.1,
@@ -997,6 +3881,38 @@
    "section": "Levels 88-90",
    "title": "Outside Help",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Old Sharlayan",
+     "x": 13.4,
+     "y": 16.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Rostra steward",
+     "zone": "Old Sharlayan",
+     "x": 11.2,
+     "y": 8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 11.3,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Sharlayan",
+     "x": 11.3,
+     "y": 6.5
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 13.5,
@@ -1013,6 +3929,50 @@
     "Sharlayan Hamlet",
     "Aporia"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 29.9,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 28.4,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Labyrinthos",
+     "x": 29.1,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Hester",
+     "zone": "Labyrinthos",
+     "x": 28.7,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 25.4,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Kokkol Dankkol",
+     "zone": "Labyrinthos",
+     "x": 21.1,
+     "y": 34.3
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Labyrinthos",
+     "x": 21.1,
+     "y": 34.3
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 11.3,
@@ -1024,6 +3984,26 @@
    "section": "Levels 88-90",
    "title": "No Job Too Small",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Labyrinthos",
+     "x": 22.1,
+     "y": 23.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 22.8,
+     "y": 22
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 21.4,
+     "y": 20.2
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 21.1,
@@ -1035,6 +4015,44 @@
    "section": "Levels 88-90",
    "title": "Wise Guides",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Singingway",
+     "zone": "Labyrinthos",
+     "x": 24.1,
+     "y": 20
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 24,
+     "y": 20
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 25.9,
+     "y": 23.6
+    },
+    {
+     "label": "Talk to Growingway",
+     "zone": "Labyrinthos",
+     "x": 25.7,
+     "y": 23.5
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Labyrinthos",
+     "x": 25.3,
+     "y": 27.1
+    },
+    {
+     "label": "Talk to Singingway",
+     "zone": "Labyrinthos",
+     "x": 29,
+     "y": 27.5
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 21.2,
@@ -1046,6 +4064,38 @@
    "section": "Levels 88-90",
    "title": "Agriculture Shock",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Cookingway",
+     "zone": "Labyrinthos",
+     "x": 31.4,
+     "y": 20.7
+    },
+    {
+     "label": "Talk to Jebke",
+     "zone": "Labyrinthos",
+     "x": 31.1,
+     "y": 19.3
+    },
+    {
+     "label": "Talk to Cookingway",
+     "zone": "Labyrinthos",
+     "x": 31.4,
+     "y": 20.7
+    },
+    {
+     "label": "Talk to Jebke",
+     "zone": "Labyrinthos",
+     "x": 31.1,
+     "y": 19.3
+    },
+    {
+     "label": "Talk to Cookingway",
+     "zone": "Labyrinthos",
+     "x": 29,
+     "y": 27.5
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 29,
@@ -1057,6 +4107,44 @@
    "section": "Levels 88-90",
    "title": "Sage Council",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Growingway",
+     "zone": "Labyrinthos",
+     "x": 21.1,
+     "y": 20
+    },
+    {
+     "label": "Talk to troubled researcher",
+     "zone": "Labyrinthos",
+     "x": 19.5,
+     "y": 20.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 21.9,
+     "y": 20.3
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Labyrinthos",
+     "x": 19.9,
+     "y": 20.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 20,
+     "y": 20.4
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Labyrinthos",
+     "x": 19.9,
+     "y": 20.3
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 29,
@@ -1068,6 +4156,44 @@
    "section": "Levels 88-90",
    "title": "Hither and Yarns",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 13,
+     "y": 20.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 12.9,
+     "y": 20.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Labyrinthos",
+     "x": 7.5,
+     "y": 24.8
+    },
+    {
+     "label": "Talk to Theopauldin",
+     "zone": "Labyrinthos",
+     "x": 7.3,
+     "y": 28
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 6.4,
+     "y": 28.8
+    },
+    {
+     "label": "Talk to Theopauldin",
+     "zone": "Labyrinthos",
+     "x": 7.3,
+     "y": 28
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 19.9,
@@ -1079,6 +4205,26 @@
    "section": "Levels 88-90",
    "title": "Once Forged",
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Labyrinthos",
+     "x": 9.2,
+     "y": 34
+    },
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 9.6,
+     "y": 33.7
+    },
+    {
+     "label": "Talk to Kokkol Dankkol",
+     "zone": "Labyrinthos",
+     "x": 21.7,
+     "y": 33.9
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 7.3,
@@ -1092,6 +4238,50 @@
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Labyrinthos",
+     "x": 21.3,
+     "y": 19.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Sharlayan",
+     "x": 12,
+     "y": 13.8
+    },
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 7.4,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Clarilaine",
+     "zone": "Labyrinthos",
+     "x": 9.1,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 9.5,
+     "y": 27.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 13.2,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 13.4,
+     "y": 27.6
+    }
    ],
    "target": {
     "zone": "Labyrinthos",
@@ -1109,6 +4299,44 @@
     "Fast Within Your Arms",
     "The Aitiascope"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 16.8,
+     "y": 28.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Aitiascope",
+     "x": 11.8,
+     "y": 7.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Mothercrystal",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 17,
+     "y": 28.6
+    },
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 17.1,
+     "y": 28.8
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Labyrinthos",
     "x": 13.4,
@@ -1120,6 +4348,38 @@
    "section": "Levels 88-90",
    "title": "A Bold Decision",
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Old Sharlayan",
+     "x": 11.3,
+     "y": 6.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Sharlayan",
+     "x": 11.2,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Old Sharlayan",
+     "x": 11.8,
+     "y": 9.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 11.9,
+     "y": 10
+    },
+    {
+     "label": "Talk to Varsarudh",
+     "zone": "Old Sharlayan",
+     "x": 11.8,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 9.3,
@@ -1131,6 +4391,44 @@
    "section": "Levels 88-90",
    "title": "Friends Gathered",
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 9.3,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Old Sharlayan",
+     "x": 9.5,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Old Sharlayan",
+     "x": 9.5,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Sharlayan",
+     "x": 5.6,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Sharlayan",
+     "x": 15.7,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 11.8,
@@ -1145,6 +4443,32 @@
    "unlocks": [
     "Ultima Thule"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Fourchenault",
+     "zone": "Labyrinthos",
+     "x": 15,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Aeglyffe",
+     "zone": "Labyrinthos",
+     "x": 14.8,
+     "y": 27.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ultima Thule",
+     "x": 14,
+     "y": 33.7
+    },
+    {
+     "label": "Talk to Livingway",
+     "zone": "Ultima Thule",
+     "x": 14,
+     "y": 33.7
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 9.2,
@@ -1156,6 +4480,38 @@
    "section": "Levels 88-90",
    "title": "A §trαnge New World",
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 20.9,
+     "y": 32.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Ultima Thule",
+     "x": 21.3,
+     "y": 32.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 20.9,
+     "y": 32.5
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Ultima Thule",
+     "x": 14,
+     "y": 30.7
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ultima Thule",
+     "x": 11.8,
+     "y": 27.7
+    }
+   ],
    "target": {
     "zone": "Ultima Thule",
     "x": 13.9,
@@ -1169,6 +4525,44 @@
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Reah Tahra"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Whei Fehsk",
+     "zone": "Ultima Thule",
+     "x": 11.7,
+     "y": 25.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ultima Thule",
+     "x": 12,
+     "y": 21
+    },
+    {
+     "label": "Objective area",
+     "zone": "Ultima Thule",
+     "x": 12,
+     "y": 21.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Ultima Thule",
+     "x": 12,
+     "y": 20.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ultima Thule",
+     "x": 9.6,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to bereaved dragon",
+     "zone": "Ultima Thule",
+     "x": 10,
+     "y": 17.5
+    }
    ],
    "target": {
     "zone": "Ultima Thule",
@@ -1189,6 +4583,44 @@
    "unlocks": [
     "Abode of the Ea"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Ultima Thule",
+     "x": 14.6,
+     "y": 15.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ultima Thule",
+     "x": 14.7,
+     "y": 15.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ultima Thule",
+     "x": 17.3,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Coph-coodg",
+     "zone": "Ultima Thule",
+     "x": 22.1,
+     "y": 10.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Ultima Thule",
+     "x": 22.1,
+     "y": 9.5
+    },
+    {
+     "label": "Talk to Coph-coodg",
+     "zone": "Ultima Thule",
+     "x": 22.1,
+     "y": 10.8
+    }
+   ],
    "target": {
     "zone": "Ultima Thule",
     "x": 12.1,
@@ -1200,6 +4632,26 @@
    "section": "Levels 88-90",
    "title": "F//εsh AbanΔon┨Δ",
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Coph-coodg",
+     "zone": "Ultima Thule",
+     "x": 23,
+     "y": 10.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Ultima Thule",
+     "x": 23.2,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Ultima Thule",
+     "x": 23.2,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "Ultima Thule",
     "x": 22.1,
@@ -1211,6 +4663,26 @@
    "section": "Levels 88-90",
    "title": "Where Kn∞wledge Leads",
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Ultima Thule",
+     "x": 14.6,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Ultima Thule",
+     "x": 14.7,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Ultima Thule",
+     "x": 25.2,
+     "y": 8.7
+    }
+   ],
    "target": {
     "zone": "Ultima Thule",
     "x": 23.2,
@@ -1236,6 +4708,44 @@
    "section": "Levels 88-90",
    "title": "┣┨̈//̈ No┨ΦounΔ•••",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Ultima Thule",
+     "x": 34,
+     "y": 30.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Ultima Thule",
+     "x": 34,
+     "y": 30.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 34,
+     "y": 30.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Ultima Thule",
+     "x": 32,
+     "y": 29
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Ultima Thule",
+     "x": 34.3,
+     "y": 26.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ultima Thule",
+     "x": 37.2,
+     "y": 25.6
+    }
+   ],
    "target": {
     "zone": "Ultima Thule",
     "x": 32.4,
@@ -1247,6 +4757,32 @@
    "section": "Levels 88-90",
    "title": "Hello, World",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ultima Thule",
+     "x": 32.4,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Ultima Thule",
+     "x": 33.7,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to M-017",
+     "zone": "Ultima Thule",
+     "x": 34,
+     "y": 30.3
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ultima Thule",
+     "x": 34,
+     "y": 30.2
+    }
+   ],
    "target": {
     "zone": "Ultima Thule",
     "x": 37.5,
@@ -1258,6 +4794,38 @@
    "section": "Levels 88-90",
    "title": "Forge Ahead",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 31.4,
+     "y": 28.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 30.7,
+     "y": 29.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ultima Thule",
+     "x": 30.7,
+     "y": 29.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 30.7,
+     "y": 29.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 25.9,
+     "y": 27.8
+    }
+   ],
    "target": {
     "zone": "Ultima Thule",
     "x": 34,
@@ -1271,6 +4839,38 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Ultima Thule",
+     "x": 24.5,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ultima Thule",
+     "x": 22.3,
+     "y": 25.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ultima Thule",
+     "x": 24.4,
+     "y": 29.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ultima Thule",
+     "x": 21.5,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ultima Thule",
+     "x": 21.5,
+     "y": 21.6
+    }
    ],
    "target": {
     "zone": "Ultima Thule",
@@ -1287,6 +4887,50 @@
     "The Dead Ends",
     "The Final Day",
     "That Its Chorus Might Ring for All"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Dead Ends",
+     "x": 9.6,
+     "y": 7.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Final Day",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Beyond the Stars",
+     "x": 21.5,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Zenos viator Galvus",
+     "zone": "Beyond the Stars",
+     "x": 21.5,
+     "y": 21.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
    ],
    "target": {
     "zone": "Ultima Thule",

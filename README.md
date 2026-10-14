@@ -19,6 +19,8 @@ npm start
 | F8 | Show / hide overlay |
 | F9 | Toggle **locked** (click-through) ↔ **edit** (drag, resize, pick guide, step list) |
 | F10 | Cycle opacity |
+| F5 | Aim the arrow at the quest's next objective |
+| F11 | Read your coordinates from the clipboard |
 
 Your guide, step, position and size are remembered between runs.
 
@@ -63,7 +65,7 @@ Check your files with `npm run validate`.
 
 `data/aetherytes.txt` holds 109 aetheryte coordinates (base game through Dawntrail), gathered from the Trials of Fantasy aetheryte checklist and the FFXIV Online Wiki zone pages. Quest steps that unlock an aetheryte get it as their arrow target automatically (58 steps). City-aethernet shards and Dawntrail's smaller sub-zone aetherytes are not included. Values come from third-party pages and have not been checked in game.
 
-`data/quest-coords.json` holds the start-NPC location of 1,041 Main Scenario Quests, extracted from the public game-data tables ([xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)) by `scripts/extract-quest-coords.py` (map coordinates are computed from each map's scale and offset). 1,040 of 1,047 guide steps use these as their arrow target; some quests begin in private or instanced areas (e.g. Intercessory, the Rising Stones), where the coordinates are valid inside that area only.
+`data/quest-coords.json` holds the start-NPC location of 1,041 Main Scenario Quests, extracted from the public game-data tables ([xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)) by `scripts/extract-quest-coords.py` (map coordinates are computed from each map's scale and offset). 1,040 of 1,047 guide steps use these as their arrow target, and 1,038 also list the quest's **objectives in order** (talk-to NPCs, interact-with objects, area triggers; each with zone and coordinates). In the web app use the *Next objective* button, in the desktop overlay press **F5**, to aim the arrow at the next one. Objectives only mark the first spawn/location of each step (monster or item spots with several locations show just one); some quests begin in private or instanced areas (e.g. Intercessory, the Rising Stones), where the coordinates are valid inside that area only.
 
 ### Included guides
 

@@ -8,6 +8,14 @@
    "unlocks": [
     "The Unending Codex"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "Mor Dhona",
+     "x": 22.2,
+     "y": 5.5
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -19,6 +27,38 @@
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Bountiful Ruins",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mihleel",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Jalheen",
+     "zone": "Radz-at-Han",
+     "x": 10.8,
+     "y": 6.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 8.4,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 11
+    },
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 16.4,
+     "y": 32.9
+    }
+   ],
    "target": {
     "zone": "Mor Dhona",
     "x": 22.2,
@@ -30,6 +70,32 @@
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Friends for the Road",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Old Sharlayan",
+     "x": 3.3,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Labyrinthos",
+     "x": 15,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Thavnair",
+     "x": 16.1,
+     "y": 33.6
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 16.5,
@@ -44,6 +110,20 @@
    "unlocks": [
     "Alzadaal's Legacy (duty)"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Alzadaal's Legacy",
+     "x": 13.2,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Alzadaal's Legacy",
+     "x": 13.2,
+     "y": 9.8
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 16.2,
@@ -55,6 +135,20 @@
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "A Brother's Grief",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Alzadaal's Legacy",
+     "x": 13.1,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 14.1,
+     "y": 8.3
+    }
+   ],
    "target": {
     "zone": "Alzadaal's Legacy",
     "x": 13.1,
@@ -66,6 +160,26 @@
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Sharing the Wealth",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Matsya",
+     "zone": "Thavnair",
+     "x": 16.1,
+     "y": 33.6
+    },
+    {
+     "label": "Talk to junkmonger",
+     "zone": "Thavnair",
+     "x": 24.8,
+     "y": 34.2
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.4,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 14.1,
@@ -77,6 +191,44 @@
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Bridging the Rift",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Radz-at-Han",
+     "x": 13.7,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Old Sharlayan",
+     "x": 11.1,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Montichaigne",
+     "zone": "Old Sharlayan",
+     "x": 5.3,
+     "y": 7.5
+    },
+    {
+     "label": "Talk to House Leveilleur butler",
+     "zone": "Old Sharlayan",
+     "x": 15.8,
+     "y": 8.1
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Old Sharlayan",
+     "x": 11.1,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Old Sharlayan",
+     "x": 9.4,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 4.4,
@@ -88,6 +240,50 @@
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Restricted Reading",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to index page",
+     "zone": "Old Sharlayan",
+     "x": 4.4,
+     "y": 12.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Restricted Archives",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Restricted Archives",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Old Sharlayan",
+     "x": 4.4,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 11.9,
+     "y": 22.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Thavnair",
+     "x": 26.3,
+     "y": 23.9
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Thavnair",
+     "x": 11.9,
+     "y": 22
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 9.3,
@@ -99,6 +295,26 @@
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Void Theory",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to veteran Radiant",
+     "zone": "Thavnair",
+     "x": 16.1,
+     "y": 33.6
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Alzadaal's Legacy",
+     "x": 13.1,
+     "y": 9.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Alzadaal's Legacy",
+     "x": 13.2,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 11.9,
@@ -112,6 +328,32 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Newfound Adventure"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to junior Ironworks engineer",
+     "zone": "Rhalgr's Reach",
+     "x": 13.5,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Nidhana",
+     "zone": "Thavnair",
+     "x": 11.3,
+     "y": 23.7
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Thavnair",
+     "x": 11.2,
+     "y": 23.6
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    }
    ],
    "target": {
     "zone": "Alzadaal's Legacy",
@@ -127,6 +369,44 @@
    "unlocks": [
     "The Fell Court of Troia (duty)"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Thavnair",
+     "x": 11.9,
+     "y": 22
+    },
+    {
+     "label": "Talk to veteran Radiant",
+     "zone": "Thavnair",
+     "x": 16.1,
+     "y": 33.6
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Alzadaal's Legacy",
+     "x": 13.2,
+     "y": 9.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fell Court of Troia",
+     "x": 11.1,
+     "y": 7.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fell Court of Troia",
+     "x": 10,
+     "y": 10.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Fell Court of Troia",
+     "x": 10.1,
+     "y": 10.3
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 4.5,
@@ -138,6 +418,32 @@
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Shadowed Remnants",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to feral voidsent",
+     "zone": "The Fell Court of Troia",
+     "x": 10.9,
+     "y": 11.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Fell Court of Troia",
+     "x": 12.6,
+     "y": 13.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fell Court of Troia",
+     "x": 11.3,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Fell Court of Troia",
+     "x": 11.7,
+     "y": 11.8
+    }
+   ],
    "target": {
     "zone": "The Fell Court of Troia",
     "x": 10.2,
@@ -149,6 +455,38 @@
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Where Everything Begins",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to dark-robed voidsent",
+     "zone": "The Fell Court of Troia",
+     "x": 14.1,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "The Fell Court of Troia",
+     "x": 14.1,
+     "y": 9.5
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Fell Court of Troia",
+     "x": 14.1,
+     "y": 6.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fell Court of Troia",
+     "x": 14.1,
+     "y": 7
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Fell Court of Troia",
+     "x": 14.1,
+     "y": 7.3
+    }
+   ],
    "target": {
     "zone": "The Fell Court of Troia",
     "x": 11.8,
@@ -160,6 +498,32 @@
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Groping in the Dark",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to watchful voidsent",
+     "zone": "The Fell Court of Troia",
+     "x": 11.6,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "The Fell Court of Troia",
+     "x": 14.1,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Fell Court of Troia",
+     "x": 12.1,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Zero's Domain",
+     "x": 5.2,
+     "y": 6.8
+    }
+   ],
    "target": {
     "zone": "The Fell Court of Troia",
     "x": 14.1,
@@ -171,6 +535,56 @@
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Nowhere to Run",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Zero",
+     "zone": "Zero's Domain",
+     "x": 5.2,
+     "y": 6.8
+    },
+    {
+     "label": "Talk to empty-eyed voidsent",
+     "zone": "Zero's Domain",
+     "x": 4.9,
+     "y": 5.7
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Zero's Domain",
+     "x": 5.2,
+     "y": 6.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Zero's Domain",
+     "x": 7.8,
+     "y": 6
+    },
+    {
+     "label": "Talk to Ciriatto",
+     "zone": "Zero's Domain",
+     "x": 7.1,
+     "y": 7.1
+    },
+    {
+     "label": "Talk to Ciriatto",
+     "zone": "Zero's Domain",
+     "x": 7,
+     "y": 7.8
+    },
+    {
+     "label": "Talk to Ciriatto",
+     "zone": "Zero's Domain",
+     "x": 8.5,
+     "y": 7.3
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Zero's Domain",
+     "x": 5.8,
+     "y": 4.8
+    }
+   ],
    "target": {
     "zone": "Zero's Domain",
     "x": 5.2,
@@ -185,6 +599,32 @@
    "unlocks": [
     "Storm's Crown"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Zero's Domain",
+     "x": 5.8,
+     "y": 4.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Storm's Crown",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Zero's Domain",
+     "x": 5.2,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Zero's Domain",
+     "x": 5.2,
+     "y": 7.2
+    }
+   ],
    "target": {
     "zone": "Zero's Domain",
     "x": 5.8,
@@ -196,6 +636,26 @@
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Return from the Void",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to deserter voidsent",
+     "zone": "Zero's Domain",
+     "x": 4.8,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Zero's Domain",
+     "x": 5.2,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Meghaduta attendant",
+     "zone": "Radz-at-Han",
+     "x": 4.2,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "Zero's Domain",
     "x": 5.3,
@@ -207,6 +667,56 @@
    "section": "Patch 6.2 (Buried Memory)",
    "title": "A World with Light and Life",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mehryde",
+     "zone": "Radz-at-Han",
+     "x": 10.8,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Meghaduta attendant",
+     "zone": "Radz-at-Han",
+     "x": 4.2,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Radz-at-Han",
+     "x": 4.2,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Mihleel",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Radz-at-Han",
+     "x": 4.2,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Isu",
+     "zone": "Radz-at-Han",
+     "x": 13.4,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Radz-at-Han",
+     "x": 4.2,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Radz-at-Han",
+     "x": 8.1,
+     "y": 12.6
+    }
+   ],
    "target": {
     "zone": "Meghaduta Guest Chambers",
     "x": 3.5,
@@ -221,6 +731,20 @@
    "unlocks": [
     "Into the Light"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Meghaduta attendant",
+     "zone": "Radz-at-Han",
+     "x": 4.2,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 8,
@@ -232,6 +756,20 @@
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "Once More unto the Void",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Zero",
+     "zone": "Radz-at-Han",
+     "x": 11.3,
+     "y": 12
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.3,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 4.5,
@@ -243,6 +781,44 @@
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "A Cold Reunion",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Estinien",
+     "zone": "Garlemald",
+     "x": 32.2,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 14.1,
+     "y": 31.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 22.6,
+     "y": 30.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 24.5,
+     "y": 31.7
+    },
+    {
+     "label": "Talk to spirited engineer",
+     "zone": "Garlemald",
+     "x": 24.1,
+     "y": 34.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 14.1,
+     "y": 31.2
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 4.3,
@@ -254,6 +830,26 @@
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "Kindled Spirit",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 19.7,
+     "y": 29.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 22.1,
+     "y": 28.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 21.7,
+     "y": 24.2
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 14.1,
@@ -265,6 +861,26 @@
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "An Unforeseen Bargain",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 31.2,
+     "y": 12.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 32,
+     "y": 16.7
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Garlemald",
+     "x": 32.1,
+     "y": 16.6
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 31.7,
@@ -279,6 +895,38 @@
    "unlocks": [
     "Lapis Manalis"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Garlemald",
+     "x": 32.1,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to spirited engineer",
+     "zone": "Garlemald",
+     "x": 30.8,
+     "y": 35.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lapis Manalis",
+     "x": 12.7,
+     "y": 8.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lapis Manalis",
+     "x": 12.6,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Lapis Manalis",
+     "x": 12.7,
+     "y": 8.9
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 32.1,
@@ -290,6 +938,44 @@
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "A Dragon's Resolve",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Lapis Manalis",
+     "x": 11.3,
+     "y": 8.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lapis Manalis",
+     "x": 11.4,
+     "y": 10.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Lapis Manalis",
+     "x": 12.4,
+     "y": 10.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Lapis Manalis",
+     "x": 11.6,
+     "y": 14.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Lapis Manalis",
+     "x": 10.7,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 30.8,
+     "y": 35.6
+    }
+   ],
    "target": {
     "zone": "Lapis Manalis",
     "x": 12.7,
@@ -301,6 +987,32 @@
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "Paths Barred",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Radz-at-Han",
+     "x": 4.3,
+     "y": 10
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Thavnair",
+     "x": 17.2,
+     "y": 30.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 10.2,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Nahbdeen",
+     "zone": "Thavnair",
+     "x": 10.1,
+     "y": 10.1
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 30.8,
@@ -314,6 +1026,44 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Ordeals"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Qetanur",
+     "zone": "Thavnair",
+     "x": 19.7,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to Sramul",
+     "zone": "Thavnair",
+     "x": 20,
+     "y": 7.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Khadga",
+     "x": 5.8,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mount Ordeals",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thavnair",
+     "x": 20.6,
+     "y": 8.7
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Thavnair",
+     "x": 20.7,
+     "y": 8.8
+    }
    ],
    "target": {
     "zone": "Thavnair",
@@ -329,6 +1079,20 @@
    "unlocks": [
     "Hallowed and Harrowed"
    ],
+   "objectives": [
+    {
+     "label": "Talk to accommodating official",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Thavnair",
     "x": 20.7,
@@ -340,6 +1104,38 @@
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Currying Flavor",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Zero",
+     "zone": "Radz-at-Han",
+     "x": 10.2,
+     "y": 8.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Radz-at-Han",
+     "x": 10.2,
+     "y": 8.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Radz-at-Han",
+     "x": 10.3,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Radz-at-Han",
+     "x": 10.8,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Meghaduta attendant",
+     "zone": "Radz-at-Han",
+     "x": 4.2,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 4.5,
@@ -354,6 +1150,62 @@
    "unlocks": [
     "The Aetherfont"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Radz-at-Han",
+     "x": 14.1,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Radz-at-Han",
+     "x": 8.4,
+     "y": 15.6
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Margrat",
+     "zone": "Labyrinthos",
+     "x": 20.8,
+     "y": 19
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Labyrinthos",
+     "x": 21.7,
+     "y": 22.3
+    },
+    {
+     "label": "Talk to cheery captain",
+     "zone": "Old Sharlayan",
+     "x": 14,
+     "y": 16
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Aetherfont",
+     "x": 11.6,
+     "y": 7.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Old Sharlayan",
+     "x": 14,
+     "y": 16
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Old Sharlayan",
+     "x": 14.1,
+     "y": 16
+    }
+   ],
    "target": {
     "zone": "Estinien's Chambers",
     "x": 3.6,
@@ -365,6 +1217,32 @@
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Like Fear to Flame",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lucia",
+     "zone": "Garlemald",
+     "x": 14.8,
+     "y": 29.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 32.2,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to contemplative citizen",
+     "zone": "Garlemald",
+     "x": 32.5,
+     "y": 17.2
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Garlemald",
+     "x": 29.8,
+     "y": 8.7
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 14.1,
@@ -376,6 +1254,50 @@
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "The Fallen Empire",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Garlemald",
+     "x": 14.2,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Senatus",
+     "x": 6.1,
+     "y": 7.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Senatus",
+     "x": 6.1,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Marcus",
+     "zone": "Senatus",
+     "x": 6.7,
+     "y": 5.6
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Senatus",
+     "x": 5.9,
+     "y": 5.3
+    },
+    {
+     "label": "Talk to Maxima",
+     "zone": "Garlemald",
+     "x": 14.8,
+     "y": 29.6
+    },
+    {
+     "label": "Talk to Mettius",
+     "zone": "Garlemald",
+     "x": 31.7,
+     "y": 17.4
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 29.8,
@@ -387,6 +1309,26 @@
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Bonds of Trust",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 20.1,
+     "y": 8.6
+    },
+    {
+     "label": "Talk to Mettius",
+     "zone": "Garlemald",
+     "x": 19.9,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Garlemald",
+     "x": 27.2,
+     "y": 16.9
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 31.7,
@@ -398,6 +1340,44 @@
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Lunar Rendezvous",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Mare Lamentorum",
+     "x": 10.7,
+     "y": 33.2
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 17.5,
+     "y": 29.7
+    },
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 21.1,
+     "y": 11.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Mare Lamentorum",
+     "x": 24.8,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Mappingway",
+     "zone": "Mare Lamentorum",
+     "x": 24.6,
+     "y": 9
+    },
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 24.7,
+     "y": 9.1
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 31.7,
@@ -409,6 +1389,26 @@
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "The Red Side of the Moon",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Mare Lamentorum",
+     "x": 17.5,
+     "y": 29.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Red Moon",
+     "x": 5.5,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Red Moon",
+     "x": 5.6,
+     "y": 2.6
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 24.7,
@@ -422,6 +1422,32 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Voidcast Dais"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Red Moon",
+     "x": 7,
+     "y": 7.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Voidcast Dais",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 18.9,
+     "y": 30
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Mare Lamentorum",
+     "x": 18.8,
+     "y": 30.1
+    }
    ],
    "target": {
     "zone": "The Red Moon",
@@ -437,6 +1463,26 @@
    "unlocks": [
     "You Win or You Dais"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Mare Lamentorum",
+     "x": 21.1,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to accommodating official",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 18.8,
@@ -448,6 +1494,32 @@
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Seeking the Light",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.4,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 6
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "The Crystarium",
+     "x": 7.9,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Crystarium",
+     "x": 11.7,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 4.5,
@@ -459,6 +1531,38 @@
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Appealing to the Masses",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Eulmore",
+     "x": 11.7,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to renovating resident",
+     "zone": "Eulmore",
+     "x": 9.4,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 11.7,
@@ -470,6 +1574,38 @@
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "In Defiance of Fate",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Runar",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Davith",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.3,
+     "y": 29.1
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Cassard",
+     "zone": "Amh Araeng",
+     "x": 11.7,
+     "y": 17
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Crystarium",
+     "x": 7.1,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.8,
@@ -481,6 +1617,32 @@
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Back to Action",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "The Ocular",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 19.3,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Red Moon",
+     "x": 6.3,
+     "y": 3.4
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 7.1,
@@ -496,6 +1658,44 @@
     "The Lunar Subterrane",
     "The Abyssal Fracture"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Lunar Subterrane",
+     "x": 11.3,
+     "y": 3.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lunar Subterrane",
+     "x": 12.6,
+     "y": 5.3
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Lunar Subterrane",
+     "x": 12.6,
+     "y": 5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Abyssal Fracture",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Red Moon",
+     "x": 6.3,
+     "y": 3.7
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Red Moon",
+     "x": 6.1,
+     "y": 3.7
+    }
+   ],
    "target": {
     "zone": "The Red Moon",
     "x": 6.2,
@@ -507,6 +1707,26 @@
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Reunited at Last",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 18.9,
+     "y": 30
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 32.2,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to Atheleys",
+     "zone": "Old Sharlayan",
+     "x": 11.3,
+     "y": 8
+    }
+   ],
    "target": {
     "zone": "The Red Moon",
     "x": 6.4,
@@ -521,6 +1741,44 @@
    "unlocks": [
     "For Others to Follow"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Crystarium gatekeep",
+     "zone": "The Crystarium",
+     "x": 13.6,
+     "y": 11.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Lyna",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to accommodating official",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Radz-at-Han",
+     "x": 11.2,
+     "y": 7
+    },
+    {
+     "label": "Talk to Varshahn",
+     "zone": "Radz-at-Han",
+     "x": 4.5,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 11.4,
@@ -532,6 +1790,20 @@
    "section": "Patch 6.55 (Growing Light - Part 2)",
    "title": "When One Door Closes...",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Old Sharlayan",
+     "x": 6.1,
+     "y": 10.4
+    }
+   ],
    "target": {
     "zone": "Radz-at-Han",
     "x": 4.5,
@@ -543,6 +1815,38 @@
    "section": "Patch 6.55 (Growing Light - Part 2)",
    "title": "The Game Is Afoot",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Old Sharlayan",
+     "x": 14,
+     "y": 16.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Old Sharlayan",
+     "x": 14,
+     "y": 16.1
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Old Sharlayan",
+     "x": 14,
+     "y": 16.1
+    },
+    {
+     "label": "Talk to Dickon",
+     "zone": "Old Sharlayan",
+     "x": 10.5,
+     "y": 13.4
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Old Sharlayan",
+     "x": 10,
+     "y": 14
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 6.1,
@@ -556,6 +1860,44 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Tomorrows Unknown"
+   ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Old Sharlayan",
+     "x": 4.1,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Old Sharlayan",
+     "x": 4.4,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Old Sharlayan",
+     "x": 8.6,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    }
    ],
    "target": {
     "zone": "Old Sharlayan",

@@ -5,6 +5,44 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "The Price of Principles",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 5.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Waking Sands",
+     "x": 6.2,
+     "y": 5.1
+    },
+    {
+     "label": "Talk to Papalymo",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 5.1
+    },
+    {
+     "label": "Talk to Yda",
+     "zone": "The Waking Sands",
+     "x": 6.2,
+     "y": 5.1
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Waking Sands",
+     "x": 6.2,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "The Waking Sands",
     "x": 6.9,
@@ -16,6 +54,50 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "Moving On",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Waking Sands",
+     "x": 6.2,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Gegeruju",
+     "zone": "Eastern La Noscea",
+     "x": 33.9,
+     "y": 30.6
+    },
+    {
+     "label": "Talk to Junghbhar",
+     "zone": "Eastern La Noscea",
+     "x": 19.2,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to Shamani Lohmani",
+     "zone": "Eastern La Noscea",
+     "x": 21.7,
+     "y": 21.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eastern La Noscea",
+     "x": 21.5,
+     "y": 31.6
+    },
+    {
+     "label": "Talk to F'lhaminn",
+     "zone": "Eastern La Noscea",
+     "x": 22.1,
+     "y": 31.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eastern La Noscea",
+     "x": 20.8,
+     "y": 21.6
+    }
+   ],
    "target": {
     "zone": "The Waking Sands",
     "x": 6.9,
@@ -27,6 +109,14 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "All Things in Time",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Waking Sands",
+     "x": 6.9,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Eastern La Noscea",
     "x": 20.8,
@@ -38,6 +128,20 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "Laying the Foundation",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Waking Sands",
+     "x": 6.9,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Slafborn",
+     "zone": "Mor Dhona",
+     "x": 21.9,
+     "y": 7.8
+    }
+   ],
    "target": {
     "zone": "The Waking Sands",
     "x": 6.9,
@@ -49,6 +153,26 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "It's Possibly a Primal",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "Western Thanalan",
+     "x": 11.7,
+     "y": 13.9
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Waking Sands",
+     "x": 6.9,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Vorsaile Heuloix",
+     "zone": "New Gridania",
+     "x": 9.7,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "Mor Dhona",
     "x": 21.9,
@@ -60,6 +184,20 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "Hail to the King, Kupo",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to E-Sumi-Yan",
+     "zone": "Old Gridania",
+     "x": 6.1,
+     "y": 10.7
+    }
+   ],
    "target": {
     "zone": "New Gridania",
     "x": 9.7,
@@ -74,6 +212,62 @@
    "unlocks": [
     "Thornmarch (Hard)"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Kuplo Kopp",
+     "zone": "Old Gridania",
+     "x": 14.9,
+     "y": 6.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "East Shroud",
+     "x": 10.6,
+     "y": 22.8
+    },
+    {
+     "label": "Talk to Kuplo Kopp",
+     "zone": "East Shroud",
+     "x": 10.6,
+     "y": 22.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "East Shroud",
+     "x": 15.1,
+     "y": 20.8
+    },
+    {
+     "label": "Talk to Kuplo Kopp",
+     "zone": "East Shroud",
+     "x": 15.1,
+     "y": 20.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "East Shroud",
+     "x": 15.1,
+     "y": 20.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thornmarch",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "East Shroud",
+     "x": 15.1,
+     "y": 20.8
+    },
+    {
+     "label": "Talk to Pukni Pakk",
+     "zone": "South Shroud",
+     "x": 18.7,
+     "y": 27.1
+    }
+   ],
    "target": {
     "zone": "Old Gridania",
     "x": 6.1,
@@ -85,6 +279,20 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "On the Properties of Primals",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Waking Sands",
+     "x": 6.9,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "South Shroud",
     "x": 18.7,
@@ -96,6 +304,56 @@
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "The Gifted",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western Thanalan",
+     "x": 12.3,
+     "y": 14.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western Thanalan",
+     "x": 12.1,
+     "y": 12.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western Thanalan",
+     "x": 13.8,
+     "y": 11.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western Thanalan",
+     "x": 14.1,
+     "y": 8.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western Thanalan",
+     "x": 14.9,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to white-robed Ascian",
+     "zone": "Western Thanalan",
+     "x": 15,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Waking Sands",
+     "x": 6.9,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Waking Sands",
     "x": 6.9,
@@ -109,6 +367,26 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Rising Stones"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 5
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Mor Dhona",
+     "x": 22,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
    ],
    "target": {
     "zone": "The Waking Sands",
@@ -129,6 +407,26 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Still Waters",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Western Thanalan",
+     "x": 23.1,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Fufulupa",
+     "zone": "Western Thanalan",
+     "x": 22.7,
+     "y": 17.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Western Thanalan",
+     "x": 22.7,
+     "y": 17.1
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -140,6 +438,32 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "A Final Temptation",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Fufulupa",
+     "zone": "Western Thanalan",
+     "x": 22.7,
+     "y": 17.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Western Thanalan",
+     "x": 25,
+     "y": 20.5
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Western Thanalan",
+     "x": 24.3,
+     "y": 20.8
+    },
+    {
+     "label": "Talk to Fufulupa",
+     "zone": "Western Thanalan",
+     "x": 22.7,
+     "y": 17.2
+    }
+   ],
    "target": {
     "zone": "Western Thanalan",
     "x": 22.7,
@@ -151,6 +475,68 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "The Mother of Exiles",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Western Thanalan",
+     "x": 11.2,
+     "y": 14.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.8,
+     "y": 12.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.9,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.9,
+     "y": 9.3
+    },
+    {
+     "label": "Talk to Momodi",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.7,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Fridurih",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 13.8,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Katherine",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 14,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Momodi",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.7,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.9,
+     "y": 9.3
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.9,
+     "y": 12.4
+    }
+   ],
    "target": {
     "zone": "Western Thanalan",
     "x": 22.7,
@@ -162,6 +548,20 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Promises to Keep",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 8.6,
+     "y": 9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.7,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Thal",
     "x": 10.9,
@@ -173,6 +573,32 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Yugiri's Game",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hozan",
+     "zone": "Western Thanalan",
+     "x": 11.5,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Yozan",
+     "zone": "Western Thanalan",
+     "x": 12.9,
+     "y": 14.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western Thanalan",
+     "x": 12.9,
+     "y": 14.3
+    },
+    {
+     "label": "Talk to Hozan",
+     "zone": "Western Thanalan",
+     "x": 11.5,
+     "y": 14.4
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Nald",
     "x": 11.7,
@@ -184,6 +610,32 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Why We Adventure",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hyuran coachman",
+     "zone": "Western Thanalan",
+     "x": 13.7,
+     "y": 14.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Western Thanalan",
+     "x": 25.2,
+     "y": 22.1
+    },
+    {
+     "label": "Talk to Hyuran coachman",
+     "zone": "Western Thanalan",
+     "x": 24,
+     "y": 18
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.7,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "Western Thanalan",
     "x": 11.5,
@@ -195,6 +647,32 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "All Due Respect",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Slafborn",
+     "zone": "Mor Dhona",
+     "x": 21.9,
+     "y": 7.8
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Mor Dhona",
+     "x": 22,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.3
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Nald",
     "x": 11.7,
@@ -206,6 +684,20 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "The Sea Rises",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "Command Room",
+     "x": 3.6,
+     "y": 3.4
+    },
+    {
+     "label": "Talk to Falkbryda",
+     "zone": "Western La Noscea",
+     "x": 22.8,
+     "y": 22.7
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -217,6 +709,32 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Scouts in Distress",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Western La Noscea",
+     "x": 17.5,
+     "y": 19.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western La Noscea",
+     "x": 12.9,
+     "y": 16.9
+    },
+    {
+     "label": "Talk to soldier's corpse",
+     "zone": "Western La Noscea",
+     "x": 12.5,
+     "y": 16.7
+    },
+    {
+     "label": "Talk to Falkbryda",
+     "zone": "Western La Noscea",
+     "x": 22.8,
+     "y": 22.7
+    }
+   ],
    "target": {
     "zone": "Western La Noscea",
     "x": 22.8,
@@ -228,6 +746,38 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "The Gift of Eternity",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Western La Noscea",
+     "x": 17.1,
+     "y": 16.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western La Noscea",
+     "x": 17.1,
+     "y": 15.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western La Noscea",
+     "x": 15.6,
+     "y": 14.9
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Western La Noscea",
+     "x": 13.4,
+     "y": 15.5
+    },
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "Western La Noscea",
+     "x": 13.1,
+     "y": 13.5
+    }
+   ],
    "target": {
     "zone": "Western La Noscea",
     "x": 22.8,
@@ -239,6 +789,32 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Into the Heart of the Whorl",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "Command Room",
+     "x": 3.6,
+     "y": 3.4
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Command Room",
+     "x": 3.5,
+     "y": 3.5
+    },
+    {
+     "label": "Talk to storm private",
+     "zone": "Lower La Noscea",
+     "x": 35.8,
+     "y": 15.9
+    },
+    {
+     "label": "Talk to Eynzahr Slafyrsyn",
+     "zone": "Lower La Noscea",
+     "x": 24.6,
+     "y": 33.2
+    }
+   ],
    "target": {
     "zone": "Western La Noscea",
     "x": 13.1,
@@ -253,6 +829,20 @@
    "unlocks": [
     "The Whorleater (Hard)"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Whorleater",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "Command Room",
+     "x": 3.6,
+     "y": 3.4
+    }
+   ],
    "target": {
     "zone": "Lower La Noscea",
     "x": 24.6,
@@ -264,6 +854,14 @@
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "When Yugiri Met the Fraternity",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to inconspicuous man",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 8.9,
+     "y": 14.3
+    }
+   ],
    "target": {
     "zone": "Limsa Lominsa Lower Decks",
     "x": 11.4,
@@ -278,6 +876,14 @@
    "unlocks": [
     "Through the Maelstrom"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "Limsa Lominsa Lower Decks",
     "x": 8.9,
@@ -289,6 +895,20 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "The Great Divide",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to draggle-tailed refugee",
+     "zone": "Mor Dhona",
+     "x": 21.9,
+     "y": 8.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.7,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -300,6 +920,38 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Desperate Times",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 8.6,
+     "y": 9
+    },
+    {
+     "label": "Talk to Swift",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 8.4,
+     "y": 9
+    },
+    {
+     "label": "Talk to Amalberga",
+     "zone": "Central Thanalan",
+     "x": 23.4,
+     "y": 16
+    },
+    {
+     "label": "Talk to Zazawaka",
+     "zone": "Central Thanalan",
+     "x": 25,
+     "y": 15.1
+    },
+    {
+     "label": "Talk to terrified refugee",
+     "zone": "Central Thanalan",
+     "x": 25.3,
+     "y": 15.4
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Nald",
     "x": 11.7,
@@ -311,6 +963,20 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Shock and Awe",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to desperate refugee",
+     "zone": "Central Thanalan",
+     "x": 22.6,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to terrified refugee",
+     "zone": "Central Thanalan",
+     "x": 25.3,
+     "y": 15.4
+    }
+   ],
    "target": {
     "zone": "Central Thanalan",
     "x": 25.3,
@@ -322,6 +988,32 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Reap the Whirlwind",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Central Thanalan",
+     "x": 18.4,
+     "y": 26
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Central Thanalan",
+     "x": 23,
+     "y": 28.3
+    },
+    {
+     "label": "Talk to Stone Torch",
+     "zone": "Central Thanalan",
+     "x": 22.7,
+     "y": 28.3
+    },
+    {
+     "label": "Talk to Swift",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 8.4,
+     "y": 9
+    }
+   ],
    "target": {
     "zone": "Central Thanalan",
     "x": 25.3,
@@ -333,6 +1025,14 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Revolution",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Bartholomew",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.8,
+     "y": 13
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Nald",
     "x": 8.4,
@@ -344,6 +1044,14 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Stories We Tell",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Thal",
     "x": 10.7,
@@ -355,6 +1063,26 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Lord of Levin",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Vorsaile Heuloix",
+     "zone": "New Gridania",
+     "x": 9.7,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to serpent lieutenant",
+     "zone": "East Shroud",
+     "x": 22,
+     "y": 25.7
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -369,6 +1097,50 @@
    "unlocks": [
     "The Striking Tree (Hard)"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Maxio",
+     "zone": "East Shroud",
+     "x": 26.8,
+     "y": 19.9
+    },
+    {
+     "label": "Talk to Maxio",
+     "zone": "East Shroud",
+     "x": 25.4,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to Papalymo",
+     "zone": "East Shroud",
+     "x": 23.6,
+     "y": 14.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "East Shroud",
+     "x": 25.5,
+     "y": 17.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Striking Tree",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "East Shroud",
+     "x": 25.5,
+     "y": 17.1
+    },
+    {
+     "label": "Talk to serpent lieutenant",
+     "zone": "East Shroud",
+     "x": 22,
+     "y": 25.7
+    }
+   ],
    "target": {
     "zone": "East Shroud",
     "x": 22,
@@ -380,6 +1152,26 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "What Little Gods Are Made Of",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Papalymo",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "East Shroud",
     "x": 22,
@@ -391,6 +1183,26 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Guardian of Eorzea",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yozan",
+     "zone": "The Rising Stones",
+     "x": 6.3,
+     "y": 6
+    },
+    {
+     "label": "Talk to Hoary Boulder",
+     "zone": "Mor Dhona",
+     "x": 24.2,
+     "y": 10.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.3
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -402,6 +1214,68 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Recruiting the Realm",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 11.3,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Riol",
+     "zone": "Limsa Lominsa Upper Decks",
+     "x": 7.5,
+     "y": 14.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Limsa Lominsa Upper Decks",
+     "x": 10.8,
+     "y": 11
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Laurentius",
+     "zone": "Old Gridania",
+     "x": 10.5,
+     "y": 9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "New Gridania",
+     "x": 11.8,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 11.1,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Wilred",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 9.5,
+     "y": 11
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 11.1,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.3
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.2,
@@ -413,6 +1287,20 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Heretical Harassment",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Slafborn",
+     "zone": "Mor Dhona",
+     "x": 21.9,
+     "y": 7.8
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17.5
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -424,6 +1312,50 @@
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "When the Cold Sets In",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Drillemont",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.8,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to mistreated merchant",
+     "zone": "Coerthas Central Highlands",
+     "x": 13.2,
+     "y": 15.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 7.6,
+     "y": 20.8
+    },
+    {
+     "label": "Talk to House Durendaire knight",
+     "zone": "Coerthas Central Highlands",
+     "x": 4.1,
+     "y": 21.7
+    },
+    {
+     "label": "Talk to Drillemont",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.8,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to Slafborn",
+     "zone": "Mor Dhona",
+     "x": 21.9,
+     "y": 7.8
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 26.8,
@@ -438,6 +1370,32 @@
    "unlocks": [
     "Eorzea Defended"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Riol",
+     "zone": "Mor Dhona",
+     "x": 21.9,
+     "y": 7.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.3
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "Mor Dhona",
     "x": 21.9,
@@ -449,6 +1407,26 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Traitor in the Midst",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.8,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Ilberd",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 8.6,
+     "y": 9
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -460,6 +1438,44 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Back and Fourth",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.8,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alianne",
+     "zone": "Mor Dhona",
+     "x": 14.4,
+     "y": 11.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mor Dhona",
+     "x": 12.3,
+     "y": 15.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mor Dhona",
+     "x": 12.1,
+     "y": 16.7
+    },
+    {
+     "label": "Talk to Alianne",
+     "zone": "Mor Dhona",
+     "x": 14.4,
+     "y": 12
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.8,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Nald",
     "x": 8.6,
@@ -471,6 +1487,26 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Coming to Terms",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to House Fortemps guard",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.8,
@@ -482,6 +1518,32 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "The Intercession of Saints",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to House Fortemps knight",
+     "zone": "Coerthas Central Highlands",
+     "x": 15.9,
+     "y": 32.6
+    },
+    {
+     "label": "Talk to surviving squire",
+     "zone": "Coerthas Central Highlands",
+     "x": 25.7,
+     "y": 28
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.7,
+     "y": 17.5
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 26.7,
@@ -493,6 +1555,14 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Strength in Unity",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Drillemont",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.8,
+     "y": 17.5
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 26.7,
@@ -504,6 +1574,38 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Dark Words, Dark Deeds",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.7,
+     "y": 16.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.5,
+     "y": 18.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Coerthas Central Highlands",
+     "x": 14.6,
+     "y": 19.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Coerthas Central Highlands",
+     "x": 13.8,
+     "y": 23.1
+    },
+    {
+     "label": "Talk to Drillemont",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.8,
+     "y": 17.5
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 12.8,
@@ -515,6 +1617,26 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "First Blood",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 13.7,
+     "y": 27.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Coerthas Central Highlands",
+     "x": 13.9,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Drillemont",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.8,
+     "y": 17.5
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 12.8,
@@ -529,6 +1651,44 @@
    "unlocks": [
     "Snowcloak"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.2,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.4,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to stalwart Temple Knight",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.1,
+     "y": 21.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Snowcloak",
+     "x": 11.3,
+     "y": 12.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.2,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.4,
+     "y": 21.3
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 12.8,
@@ -540,6 +1700,56 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "For the Greater Good",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yuyuhase",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.5,
+     "y": 21.1
+    },
+    {
+     "label": "Talk to 3rd Unit Brave",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.9,
+     "y": 19.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 13.5,
+     "y": 28.4
+    },
+    {
+     "label": "Talk to 3rd Unit Brave",
+     "zone": "Coerthas Central Highlands",
+     "x": 15.5,
+     "y": 29.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 17.5,
+     "y": 30.1
+    },
+    {
+     "label": "Talk to Yuyuhase",
+     "zone": "Coerthas Central Highlands",
+     "x": 17.7,
+     "y": 30.3
+    },
+    {
+     "label": "Talk to suspicious Coerthan",
+     "zone": "Coerthas Central Highlands",
+     "x": 24.7,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.1,
+     "y": 28.5
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 3.4,
@@ -551,6 +1761,38 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Tendrils of Intrigue",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.1,
+     "y": 28.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to silent conjurer",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Ilberd",
+     "zone": "New Gridania",
+     "x": 10.2,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 26.1,
@@ -562,6 +1804,32 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Chasing Ivy",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ilberd",
+     "zone": "New Gridania",
+     "x": 11.7,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Ilberd",
+     "zone": "New Gridania",
+     "x": 12.2,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Ephemie",
+     "zone": "New Gridania",
+     "x": 11.7,
+     "y": 13
+    },
+    {
+     "label": "Talk to Ilberd",
+     "zone": "New Gridania",
+     "x": 12.2,
+     "y": 13.3
+    }
+   ],
    "target": {
     "zone": "New Gridania",
     "x": 10.2,
@@ -573,6 +1841,38 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "In Flagrante Delicto",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ilberd",
+     "zone": "East Shroud",
+     "x": 10.1,
+     "y": 22.8
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "East Shroud",
+     "x": 15.5,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "East Shroud",
+     "x": 18,
+     "y": 24.4
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "East Shroud",
+     "x": 17.3,
+     "y": 23.5
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "New Gridania",
     "x": 12.2,
@@ -584,6 +1884,26 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "A Simple Plan",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Mor Dhona",
+     "x": 23.2,
+     "y": 6.7
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Mor Dhona",
+     "x": 23.2,
+     "y": 6.6
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -598,6 +1918,38 @@
    "unlocks": [
     "The Akh Afah Amphitheatre (Hard)"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.4,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to stalwart Temple Knight",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.1,
+     "y": 21.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Akh Afah Amphitheatre",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.2,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Moenbryda",
+     "zone": "Coerthas Central Highlands",
+     "x": 3.4,
+     "y": 21.3
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -609,6 +1961,26 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "The Road Less Traveled",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 12.9,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to House Fortemps guard",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 3.4,
@@ -620,6 +1992,14 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Eyes Unclouded",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 26.7,
@@ -631,6 +2011,32 @@
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "The Reason Roaille",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Ilberd",
+     "zone": "Northern Thanalan",
+     "x": 22.4,
+     "y": 30.6
+    },
+    {
+     "label": "Talk to Ilberd",
+     "zone": "Northern Thanalan",
+     "x": 18.7,
+     "y": 19.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Northern Thanalan",
+     "x": 17.3,
+     "y": 18.8
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -645,6 +2051,14 @@
    "unlocks": [
     "Dreams of Ice"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "Northern Thanalan",
     "x": 17.3,
@@ -656,6 +2070,20 @@
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "Good Intentions",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Riol",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Ilberd",
+     "zone": "Eastern Thanalan",
+     "x": 21.2,
+     "y": 21.1
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -667,6 +2095,32 @@
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "Bait and Switch",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ilberd",
+     "zone": "Eastern Thanalan",
+     "x": 28.5,
+     "y": 23.6
+    },
+    {
+     "label": "Talk to hired thug",
+     "zone": "Eastern Thanalan",
+     "x": 28.2,
+     "y": 24.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eastern Thanalan",
+     "x": 25.6,
+     "y": 24.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eastern Thanalan",
+     "x": 25.4,
+     "y": 25.6
+    }
+   ],
    "target": {
     "zone": "Eastern Thanalan",
     "x": 21.2,
@@ -686,6 +2140,50 @@
    "unlocks": [
     "The Keeper of the Lake"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    },
+    {
+     "label": "Talk to Doman watch",
+     "zone": "Mor Dhona",
+     "x": 28.2,
+     "y": 14.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Keeper of the Lake",
+     "x": 10.4,
+     "y": 9.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mor Dhona",
+     "x": 28.3,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Doman watch",
+     "zone": "Mor Dhona",
+     "x": 28.2,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -697,6 +2195,38 @@
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "Aether on Demand",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Moenbryda",
+     "zone": "The Rising Stones",
+     "x": 6.8,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Moenbryda",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 5.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Wilred",
+     "zone": "Northern Thanalan",
+     "x": 20.2,
+     "y": 22
+    },
+    {
+     "label": "Talk to Edelstein",
+     "zone": "Northern Thanalan",
+     "x": 20.9,
+     "y": 22.2
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -708,6 +2238,44 @@
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "On the Counteroffensive",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alianne",
+     "zone": "Northern Thanalan",
+     "x": 20.1,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Yuyuhase",
+     "zone": "Northern Thanalan",
+     "x": 18.8,
+     "y": 19.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Northern Thanalan",
+     "x": 16.3,
+     "y": 20.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Northern Thanalan",
+     "x": 16.2,
+     "y": 17.9
+    },
+    {
+     "label": "Talk to Yuyuhase",
+     "zone": "Northern Thanalan",
+     "x": 19.3,
+     "y": 19
+    },
+    {
+     "label": "Talk to Edelstein",
+     "zone": "Northern Thanalan",
+     "x": 20.9,
+     "y": 22.2
+    }
+   ],
    "target": {
     "zone": "Northern Thanalan",
     "x": 20.9,
@@ -722,6 +2290,38 @@
    "unlocks": [
     "The Chrysalis"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Moenbryda",
+     "zone": "Northern Thanalan",
+     "x": 24.2,
+     "y": 21.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Chrysalis",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.3
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.3
+    }
+   ],
    "target": {
     "zone": "Northern Thanalan",
     "x": 20.9,
@@ -733,6 +2333,20 @@
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "In Memory of Moenbryda",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Mor Dhona",
+     "x": 18.6,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -744,6 +2358,32 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Mask of Grief",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yda",
+     "zone": "The Rising Stones",
+     "x": 6.6,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Rowena",
+     "zone": "Mor Dhona",
+     "x": 22,
+     "y": 5
+    },
+    {
+     "label": "Talk to Yda",
+     "zone": "Mor Dhona",
+     "x": 18.6,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.3
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -755,6 +2395,26 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Defenders for Ishgard",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.2,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to trembling Temple Knight",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.4,
+     "y": 15.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.6,
+     "y": 15.5
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -766,6 +2426,26 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "The Wyrm's Roar",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Intercessory",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Intercessory",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 18.6,
@@ -777,6 +2457,14 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Committed to the Cause",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.3
+    }
+   ],
    "target": {
     "zone": "Intercessory",
     "x": 6.1,
@@ -788,6 +2476,38 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Volunteer Dragonslayers",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Slafborn",
+     "zone": "Mor Dhona",
+     "x": 21.9,
+     "y": 7.8
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Mor Dhona",
+     "x": 22,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to adventurous frontier hand",
+     "zone": "Mor Dhona",
+     "x": 23.6,
+     "y": 6.7
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Mor Dhona",
+     "x": 22.2,
+     "y": 8.4
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -799,6 +2519,38 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "An Allied Perspective",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.7,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Marcelain",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.1,
+     "y": 14.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 11.5,
+     "y": 14.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 24,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Marcelain",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.1,
+     "y": 14.9
+    }
+   ],
    "target": {
     "zone": "Mor Dhona",
     "x": 22.2,
@@ -813,6 +2565,32 @@
    "unlocks": [
     "Broken Bridges"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Marcelain",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.1,
+     "y": 14.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.1,
+     "y": 14.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.3,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "Coerthas Central Highlands",
     "x": 18.1,
@@ -824,6 +2602,32 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Administrative Decision",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Rising Stones",
+     "x": 6,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to F'lhaminn",
+     "zone": "The Rising Stones",
+     "x": 6.3,
+     "y": 6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mor Dhona",
+     "x": 22.2,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -835,6 +2639,38 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "An Unexpected Ambition",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 4.4,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Thubyrgeim",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 4.7,
+     "y": 11.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Middle La Noscea",
+     "x": 21.5,
+     "y": 25
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Middle La Noscea",
+     "x": 24,
+     "y": 24.2
+    },
+    {
+     "label": "Talk to Thubyrgeim",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 4.7,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -846,6 +2682,38 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Ancient Ways, Timeless Wants",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "Eastern La Noscea",
+     "x": 32.9,
+     "y": 31.3
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Eastern La Noscea",
+     "x": 33.4,
+     "y": 33.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Eastern La Noscea",
+     "x": 33.6,
+     "y": 33.1
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Eastern La Noscea",
+     "x": 33.4,
+     "y": 33.5
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "Limsa Lominsa Lower Decks",
     "x": 4.7,
@@ -857,6 +2725,80 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Where We Are Needed",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hoary Boulder",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 17.3,
+     "y": 28.7
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 17,
+     "y": 22.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "South Shroud",
+     "x": 17,
+     "y": 22.6
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 17,
+     "y": 22.5
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 24,
+     "y": 24.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "South Shroud",
+     "x": 23.7,
+     "y": 25
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 24,
+     "y": 24.9
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 14.4,
+     "y": 30.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "South Shroud",
+     "x": 14.7,
+     "y": 30.6
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 14.4,
+     "y": 30.7
+    },
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 17.3,
+     "y": 28.7
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -868,6 +2810,26 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "The Least among Us",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to unsettled scholar",
+     "zone": "South Shroud",
+     "x": 33.9,
+     "y": 23.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "South Shroud",
+     "x": 33.6,
+     "y": 23.6
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.2
+    }
+   ],
    "target": {
     "zone": "South Shroud",
     "x": 17.3,
@@ -879,6 +2841,14 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "A Time to Every Purpose",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 11.1,
+     "y": 11.6
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -890,6 +2860,26 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Come, but Not Gone",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Momodi",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.7,
+     "y": 9.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Central Thanalan",
+     "x": 15.7,
+     "y": 20.4
+    },
+    {
+     "label": "Talk to Momodi",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 11.7,
+     "y": 9.7
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Thal",
     "x": 11.1,
@@ -901,6 +2891,26 @@
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "The Parting Glass",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to lady-in-waiting",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.8,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Pipin",
+     "zone": "Central Thanalan",
+     "x": 23.1,
+     "y": 18.2
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17.5
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Nald",
     "x": 11.7,
@@ -914,6 +2924,14 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "My Left Arm"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to House Fortemps guard",
+     "zone": "Coerthas Central Highlands",
+     "x": 26.8,
+     "y": 17
+    }
    ],
    "target": {
     "zone": "Coerthas Central Highlands",

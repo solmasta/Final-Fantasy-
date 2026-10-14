@@ -9,6 +9,38 @@
     "The Fringes (West)",
     "Castrum Oriens"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "East Shroud",
+     "x": 22,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to serpent officer",
+     "zone": "East Shroud",
+     "x": 22,
+     "y": 29.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fringes",
+     "x": 8.7,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Fringes",
+     "x": 9.4,
+     "y": 11.4
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6,
@@ -23,6 +55,38 @@
    "unlocks": [
     "Rhalgr's Reach"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Fringes",
+     "x": 11.9,
+     "y": 14.7
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Fringes",
+     "x": 17.2,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Fringes",
+     "x": 30.5,
+     "y": 10.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Rhalgr's Reach",
+     "x": 10.6,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Conrad",
+     "zone": "Rhalgr's Reach",
+     "x": 10.6,
+     "y": 13.8
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 9.2,
@@ -34,6 +98,14 @@
    "section": "Levels 60-61 – Main chain",
    "title": "The Promise of a New Beginning",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Conrad",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 10.6,
@@ -45,6 +117,38 @@
    "section": "Levels 60-61 – Main chain",
    "title": "A Haven for the Bold",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 13.2,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 11.2,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 8.9,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 13,
+     "y": 13
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 12.4,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.6,
@@ -59,6 +163,20 @@
    "unlocks": [
     "Aether Compass"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Conrad",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Rhalgr's Reach",
+     "x": 14.5,
+     "y": 9.4
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 12.5,
@@ -70,6 +188,32 @@
    "section": "Levels 60-61 – M'naago chain",
    "title": "A Friend of a Friend in Need",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to M'naago",
+     "zone": "Rhalgr's Reach",
+     "x": 10.5,
+     "y": 13.9
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Fringes",
+     "x": 24.7,
+     "y": 12
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fringes",
+     "x": 22.4,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Fringes",
+     "x": 19.6,
+     "y": 10.5
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.7,
@@ -81,6 +225,20 @@
    "section": "Levels 60-61 – M'naago chain",
    "title": "Signed, Sealed, to Be Delivered",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Fringes",
+     "x": 13.6,
+     "y": 13
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Fringes",
+     "x": 9.4,
+     "y": 11.4
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 19.6,
@@ -92,6 +250,32 @@
    "section": "Levels 60-61 – M'naago chain",
    "title": "Best Served with Cold Steel",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Fringes",
+     "x": 16.9,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Fringes",
+     "x": 11.6,
+     "y": 16.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fringes",
+     "x": 11.4,
+     "y": 15.7
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Fringes",
+     "x": 11.3,
+     "y": 15.7
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 9.4,
@@ -103,6 +287,14 @@
    "section": "Levels 60-61 – M'naago chain",
    "title": "Let Fill Your Hearts with Pride",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to M'naago",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 11.3,
@@ -118,6 +310,38 @@
     "The Peaks (North)",
     "Ala Gannha"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Meffrid",
+     "zone": "Rhalgr's Reach",
+     "x": 13.5,
+     "y": 11
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 8.6,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 8.7,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 13.8,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 22.2,
+     "y": 6.6
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.7,
@@ -129,6 +353,20 @@
    "section": "Levels 60-61 – Meffrid chain",
    "title": "The Prodigal Daughter",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raganfrid",
+     "zone": "The Peaks",
+     "x": 24.4,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 23.3,
+     "y": 7.8
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 22.2,
@@ -140,6 +378,26 @@
    "section": "Levels 60-61 – Meffrid chain",
    "title": "Hard Country",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 18.8,
+     "y": 7.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 11.2,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Griseldis",
+     "zone": "The Peaks",
+     "x": 23.1,
+     "y": 7.1
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 23.1,
@@ -151,6 +409,26 @@
    "section": "Levels 60-61 – Meffrid chain",
    "title": "Death by a Thousand Rocks",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Frightened Coeurl",
+     "zone": "The Peaks",
+     "x": 6.1,
+     "y": 15.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 6.2,
+     "y": 15.5
+    },
+    {
+     "label": "Talk to Angry Coeurl",
+     "zone": "The Peaks",
+     "x": 23.8,
+     "y": 7.2
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 23.8,
@@ -162,6 +440,26 @@
    "section": "Levels 60-61 – Meffrid chain",
    "title": "A Life More Ordinary",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 23.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 23.3,
+     "y": 7.8
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 23.2,
+     "y": 7.1
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 23.4,
@@ -173,6 +471,38 @@
    "section": "Levels 60-61 – Meffrid chain",
    "title": "The Color of Angry Qiqirn",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 16.3,
+     "y": 13.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 15.9,
+     "y": 14.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 15.8,
+     "y": 16
+    },
+    {
+     "label": "Talk to Wercrata",
+     "zone": "The Peaks",
+     "x": 15.9,
+     "y": 15.6
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 15.8,
+     "y": 15.7
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 23.2,
@@ -184,6 +514,26 @@
    "section": "Levels 60-61 – Meffrid chain",
    "title": "The Black Wolf's Pups",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 16.9,
+     "y": 13.8
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 19.3,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 18.7,
+     "y": 13.5
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 15.8,
@@ -195,6 +545,32 @@
    "section": "Levels 60-61 – Meffrid chain",
    "title": "Homeward Bound",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raganfrid",
+     "zone": "The Peaks",
+     "x": 24.4,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "The Peaks",
+     "x": 24.4,
+     "y": 6.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 22.7,
+     "y": 6.8
+    },
+    {
+     "label": "Talk to Meffrid",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 18.7,
@@ -206,6 +582,14 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Where Men Go as One",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to M'naago",
+     "zone": "Rhalgr's Reach",
+     "x": 14.5,
+     "y": 9.5
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.7,
@@ -217,6 +601,20 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Future Rust, Future Dust",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hrotmar",
+     "zone": "Rhalgr's Reach",
+     "x": 12.3,
+     "y": 5.5
+    },
+    {
+     "label": "Talk to Beves",
+     "zone": "Rhalgr's Reach",
+     "x": 14.3,
+     "y": 8.9
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.3,
@@ -228,6 +626,26 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "A Dash of Green",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tebbe",
+     "zone": "Rhalgr's Reach",
+     "x": 14.2,
+     "y": 8.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Rhalgr's Reach",
+     "x": 11.1,
+     "y": 8.9
+    },
+    {
+     "label": "Talk to Ahelissa",
+     "zone": "Rhalgr's Reach",
+     "x": 12.8,
+     "y": 11
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 12.8,
@@ -239,6 +657,20 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Ye Wayward Brothers",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Rhalgr's Reach",
+     "x": 8.6,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Ananta battlemaid",
+     "zone": "Rhalgr's Reach",
+     "x": 10.4,
+     "y": 10.9
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 10.4,
@@ -250,6 +682,20 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Token of Faith",
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Rhalgr's Reach",
+     "x": 13.9,
+     "y": 7.8
+    },
+    {
+     "label": "Talk to swarthy Resistance fighter",
+     "zone": "Rhalgr's Reach",
+     "x": 14.3,
+     "y": 9.4
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 11.7,
@@ -261,6 +707,32 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Crossing the Velodyna",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Rhalgr's Reach",
+     "x": 8.5,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Rhalgr's Reach",
+     "x": 10.5,
+     "y": 13.9
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Fringes",
+     "x": 9.4,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Fringes",
+     "x": 9.3,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 14.6,
@@ -272,6 +744,26 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "In Crimson It Began",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Pipin",
+     "zone": "The Fringes",
+     "x": 19.2,
+     "y": 20.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Rhalgr's Reach",
+     "x": 12.6,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Rhalgr's Reach",
+     "x": 12.7,
+     "y": 9.7
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 9.4,
@@ -283,6 +775,20 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "The Fires Fade",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Rhalgr's Reach",
+     "x": 12.8,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Conrad",
+     "zone": "Rhalgr's Reach",
+     "x": 8.5,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 12.7,
@@ -294,6 +800,26 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Bereft of Hearth and Home",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Orella",
+     "zone": "Rhalgr's Reach",
+     "x": 8.9,
+     "y": 10.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Rhalgr's Reach",
+     "x": 9,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to flame courier",
+     "zone": "Rhalgr's Reach",
+     "x": 9.5,
+     "y": 10.9
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 8.5,
@@ -305,6 +831,26 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Divide and Conquer",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "Rhalgr's Reach",
+     "x": 12.7,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Fringes",
+     "x": 9.2,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Fringes",
+     "x": 9.3,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 9.4,
@@ -316,6 +862,14 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Lies, Damn Lies, and Pirates",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Limsa Lominsa Upper Decks",
+     "x": 11.5,
+     "y": 10.5
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 9.3,
@@ -327,6 +881,26 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Tales from the Far East",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "Mor Dhona",
+     "x": 22.3,
+     "y": 8.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.3,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Mor Dhona",
+     "x": 22.3,
+     "y": 8.5
+    }
+   ],
    "target": {
     "zone": "Limsa Lominsa Upper Decks",
     "x": 11.5,
@@ -343,6 +917,44 @@
     "The Sirensong Sea",
     "Incidentally Speaking"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 4.1,
+     "y": 12
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Misery",
+     "x": 6.2,
+     "y": 5.5
+    },
+    {
+     "label": "Talk to Carvallain",
+     "zone": "The Misery",
+     "x": 6.2,
+     "y": 5.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sirensong Sea",
+     "x": 10.4,
+     "y": 20.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kugane",
+     "x": 8.7,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Carvallain",
+     "zone": "Kugane",
+     "x": 8.8,
+     "y": 10.1
+    }
+   ],
    "target": {
     "zone": "Mor Dhona",
     "x": 22.3,
@@ -354,6 +966,20 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "The Man from Ul'dah",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hancock",
+     "zone": "Kugane",
+     "x": 10,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Hancock",
+     "zone": "Kugane",
+     "x": 11.6,
+     "y": 10.4
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 8.8,
@@ -365,6 +991,26 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Where the Streets Are Paved with Koban",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hancock",
+     "zone": "Kugane",
+     "x": 11.7,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Hancock",
+     "zone": "Kugane",
+     "x": 13,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Hancock",
+     "zone": "Kugane",
+     "x": 13.2,
+     "y": 14.3
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 11.6,
@@ -376,6 +1022,26 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "By the Grace of Lord Lolorito",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hancock",
+     "zone": "Kugane",
+     "x": 14.3,
+     "y": 13.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.2,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 13.2,
@@ -387,6 +1053,44 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "A Good Samurai Is Hard to Find",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "Kugane",
+     "x": 14.1,
+     "y": 13.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kugane",
+     "x": 13.9,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Karaku",
+     "zone": "Kugane",
+     "x": 9.6,
+     "y": 7.4
+    },
+    {
+     "label": "Talk to Kotokaze",
+     "zone": "Kugane",
+     "x": 10.3,
+     "y": 10.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kugane",
+     "x": 8.9,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Kugane",
+     "x": 10.6,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Ruby Bazaar Offices",
     "x": 6.2,
@@ -398,6 +1102,44 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "It's Probably a Trap",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gyodo",
+     "zone": "Kugane",
+     "x": 10.6,
+     "y": 10.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kugane",
+     "x": 10.2,
+     "y": 11.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kugane",
+     "x": 14.1,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Kugane",
+     "x": 14.2,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 10.6,
@@ -409,6 +1151,38 @@
    "section": "Levels 60-61 – Main chain (continued)",
    "title": "Making the Catfish Sing",
    "text": "Level 61 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Hancock",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Hancock",
+     "zone": "Kugane",
+     "x": 13.8,
+     "y": 9.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kugane",
+     "x": 13.8,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Kugane",
+     "x": 13.8,
+     "y": 9.2
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 14.2,
@@ -424,6 +1198,32 @@
     "The Ruby Sea",
     "Destination Unknown"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "Kugane",
+     "x": 8.8,
+     "y": 10.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 38.6,
+     "y": 38.6
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "The Ruby Sea",
+     "x": 38.6,
+     "y": 38.5
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 13.8,
@@ -435,6 +1235,26 @@
    "section": "Levels 62-63",
    "title": "Open Water",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 36.2,
+     "y": 38
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "The Ruby Sea",
+     "x": 32.7,
+     "y": 38.1
+    },
+    {
+     "label": "Talk to Tansui",
+     "zone": "The Ruby Sea",
+     "x": 30.8,
+     "y": 37.3
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 38.6,
@@ -446,6 +1266,26 @@
    "section": "Levels 62-63",
    "title": "Boys with Boats",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 24.2,
+     "y": 32.2
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "The Ruby Sea",
+     "x": 23.8,
+     "y": 31.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 30,
+     "y": 37.3
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 30.8,
@@ -457,6 +1297,56 @@
    "section": "Levels 62-63",
    "title": "To Bend with the Wind",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to proud Confederate",
+     "zone": "The Ruby Sea",
+     "x": 30.8,
+     "y": 37.4
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "The Ruby Sea",
+     "x": 33,
+     "y": 38.5
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "The Ruby Sea",
+     "x": 7.3,
+     "y": 15.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 6.6,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 13,
+     "y": 10.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 12.8,
+     "y": 10.7
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 16.9,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 20.3,
+     "y": 9.5
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 29.6,
@@ -472,6 +1362,38 @@
     "Eastern Bow",
     "Onokoro"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Tansui",
+     "zone": "The Ruby Sea",
+     "x": 22.6,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Rasho",
+     "zone": "The Ruby Sea",
+     "x": 23.1,
+     "y": 8.1
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 22.9,
+     "y": 8.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 23.8,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 22.9,
+     "y": 8.6
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 20.3,
@@ -483,6 +1405,26 @@
    "section": "Levels 62-63",
    "title": "The Solace of the Sea",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Aokumo",
+     "zone": "The Ruby Sea",
+     "x": 22.3,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to seasick Doman recruit",
+     "zone": "The Ruby Sea",
+     "x": 23.3,
+     "y": 4.2
+    },
+    {
+     "label": "Talk to Afumi",
+     "zone": "The Ruby Sea",
+     "x": 23.2,
+     "y": 7.1
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 23.2,
@@ -494,6 +1436,26 @@
    "section": "Levels 62-63",
    "title": "The Arrows of Misfortune",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 13.6,
+     "y": 10.7
+    },
+    {
+     "label": "Talk to gyuki carcass",
+     "zone": "The Ruby Sea",
+     "x": 14.1,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Kajika",
+     "zone": "The Ruby Sea",
+     "x": 22.6,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 22.6,
@@ -505,6 +1467,26 @@
    "section": "Levels 62-63",
    "title": "The Last Voyage",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 19.6,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Confederate recruit",
+     "zone": "The Ruby Sea",
+     "x": 18.3,
+     "y": 3.5
+    },
+    {
+     "label": "Talk to Aranami",
+     "zone": "The Ruby Sea",
+     "x": 23.7,
+     "y": 10
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 23.7,
@@ -516,6 +1498,44 @@
    "section": "Levels 62-63",
    "title": "Alisaie's Stones",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Ruby Sea",
+     "x": 22.2,
+     "y": 9.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 25.4,
+     "y": 7.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 30.4,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to industrious pirate",
+     "zone": "The Ruby Sea",
+     "x": 30.5,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 22.9,
+     "y": 8.6
+    },
+    {
+     "label": "Talk to Rasho",
+     "zone": "The Ruby Sea",
+     "x": 23.1,
+     "y": 8.1
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 22.1,
@@ -530,6 +1550,32 @@
    "unlocks": [
     "Tamamizu"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 24,
+     "y": 10.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 36.1,
+     "y": 16.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 32,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 30,
+     "y": 17
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 23.1,
@@ -541,6 +1587,32 @@
    "section": "Levels 62-63",
    "title": "Of Kojin and Kami",
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Bunchin",
+     "zone": "The Ruby Sea",
+     "x": 27.9,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "The Ruby Sea",
+     "x": 27.9,
+     "y": 16.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 36.1,
+     "y": 22.1
+    },
+    {
+     "label": "Talk to Soroban",
+     "zone": "The Ruby Sea",
+     "x": 29.9,
+     "y": 17.1
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 29.9,
@@ -556,6 +1628,20 @@
     "Diving",
     "Water Flip"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 28,
+     "y": 15.5
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 21.9,
+     "y": 18.6
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 29.9,
@@ -567,6 +1653,20 @@
    "section": "Levels 62-63",
    "title": "Forever and Ever Apart",
    "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 20.9,
+     "y": 19.3
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 21.9,
+     "y": 18.6
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 21.9,
@@ -578,6 +1678,32 @@
    "section": "Levels 62-63",
    "title": "In Darkness the Magatama Dreams",
    "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 16.9,
+     "y": 25.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 17.3,
+     "y": 25.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Ruby Sea",
+     "x": 17.1,
+     "y": 25.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 16.9,
+     "y": 25.2
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 21.9,
@@ -589,6 +1715,20 @@
    "section": "Levels 62-63",
    "title": "The Whims of the Divine",
    "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Bunchin",
+     "zone": "The Ruby Sea",
+     "x": 27.9,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 28,
+     "y": 16.5
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 16.9,
@@ -600,6 +1740,44 @@
    "section": "Levels 62-63",
    "title": "Breaking and Delivering",
    "text": "Level 63 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 12.1,
+     "y": 25.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 6.8,
+     "y": 26.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 7.5,
+     "y": 21.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 6.7,
+     "y": 23.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 4.8,
+     "y": 22.3
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 5.5,
+     "y": 24.5
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 28,
@@ -614,6 +1792,38 @@
    "unlocks": [
     "The Pool of Tribute",
     "Mount Speed Increase"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 4.8,
+     "y": 22.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Blessed Treasury",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 12,
+     "y": 25.4
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 6.9,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Ruby Sea",
+     "x": 6.2,
+     "y": 12.4
+    }
    ],
    "target": {
     "zone": "The Ruby Sea",
@@ -630,6 +1840,26 @@
     "Unexplained",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 5.8,
+     "y": 13.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ruby Sea",
+     "x": 5.5,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ruby Sea",
+     "x": 6.2,
+     "y": 12.4
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 6.2,
@@ -645,6 +1875,26 @@
     "Yanxia (South)",
     "Namai"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 37.3,
+     "y": 15.7
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "Yanxia",
+     "x": 37.3,
+     "y": 15.7
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "Yanxia",
+     "x": 32.1,
+     "y": 18.4
+    }
+   ],
    "target": {
     "zone": "The Ruby Sea",
     "x": 6.2,
@@ -656,6 +1906,32 @@
    "section": "Levels 64-65",
    "title": "Life after Doma",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Yanxia",
+     "x": 31.3,
+     "y": 19.2
+    },
+    {
+     "label": "Talk to Namai youth",
+     "zone": "Yanxia",
+     "x": 31.7,
+     "y": 19.6
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "Yanxia",
+     "x": 29.8,
+     "y": 16
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "Yanxia",
+     "x": 27.1,
+     "y": 13.9
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 32.1,
@@ -667,6 +1943,26 @@
    "section": "Levels 64-65",
    "title": "A Glimpse of Madness",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The House of the Fierce",
+     "x": 6.4,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The House of the Fierce",
+     "x": 6.2,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "The House of the Fierce",
+     "x": 5.1,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 27,
@@ -678,6 +1974,26 @@
    "section": "Levels 64-65",
    "title": "The Stubborn Remainder",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 31.2,
+     "y": 19.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 30,
+     "y": 19.8
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 31.2,
+     "y": 19.2
+    }
+   ],
    "target": {
     "zone": "The House of the Fierce",
     "x": 5.1,
@@ -689,6 +2005,44 @@
    "section": "Levels 64-65",
    "title": "The Ones We Leave Behind",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 31.7,
+     "y": 23.5
+    },
+    {
+     "label": "Talk to Azami",
+     "zone": "Yanxia",
+     "x": 31.7,
+     "y": 23.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 28.8,
+     "y": 22
+    },
+    {
+     "label": "Talk to Azami",
+     "zone": "Yanxia",
+     "x": 31.7,
+     "y": 23.4
+    },
+    {
+     "label": "Talk to Azami",
+     "zone": "Yanxia",
+     "x": 25.7,
+     "y": 20.9
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 29.5,
+     "y": 19.6
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 31.2,
@@ -700,6 +2054,62 @@
    "section": "Levels 64-65",
    "title": "A New Ruby Tithe",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Yanxia",
+     "x": 29.9,
+     "y": 18.8
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 29.9,
+     "y": 18.8
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 32.2,
+     "y": 23.7
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 31.5,
+     "y": 24.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 32.4,
+     "y": 26
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 27.6,
+     "y": 33.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 27.9,
+     "y": 33.5
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 27.6,
+     "y": 33.2
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 29.6,
+     "y": 34
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 29.5,
@@ -714,6 +2124,50 @@
    "unlocks": [
     "Mount Speed Increase"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 28.9,
+     "y": 32.9
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 30.2,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to stocky soldier",
+     "zone": "Yanxia",
+     "x": 30.3,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 30.2,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to imperial decurion",
+     "zone": "Yanxia",
+     "x": 30.2,
+     "y": 35.6
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 30.2,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to captured villager",
+     "zone": "Yanxia",
+     "x": 30.7,
+     "y": 36.8
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 29.6,
@@ -725,6 +2179,56 @@
    "section": "Levels 64-65",
    "title": "Daughter of the Deep",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to imperial decurion",
+     "zone": "Yanxia",
+     "x": 30.2,
+     "y": 34
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 29.2,
+     "y": 35.5
+    },
+    {
+     "label": "Talk to imperial decurion",
+     "zone": "Yanxia",
+     "x": 29.3,
+     "y": 35.2
+    },
+    {
+     "label": "Talk to imperial soldier",
+     "zone": "Yanxia",
+     "x": 30.2,
+     "y": 34
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 31.2,
+     "y": 36.1
+    },
+    {
+     "label": "Talk to imperial soldier",
+     "zone": "Yanxia",
+     "x": 31.2,
+     "y": 36.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 26.8,
+     "y": 36.2
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 27.1,
+     "y": 13.9
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 30.6,
@@ -736,6 +2240,20 @@
    "section": "Levels 64-65",
    "title": "Path of No Return",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 30.5,
+     "y": 20.8
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 12.2,
+     "y": 32.2
+    }
+   ],
    "target": {
     "zone": "The House of the Fierce",
     "x": 5.1,
@@ -747,6 +2265,32 @@
    "section": "Levels 64-65",
    "title": "The Time between the Seconds",
    "text": "Level 64 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 16.5,
+     "y": 32.7
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 16.5,
+     "y": 33.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 31.2,
+     "y": 29.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Yanxia",
+     "x": 31.3,
+     "y": 29
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 12.2,
@@ -762,6 +2306,26 @@
     "Put Your Wings Up",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Isse",
+     "zone": "Yanxia",
+     "x": 30.6,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 30.4,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 30.4,
+     "y": 20
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 31.3,
@@ -776,6 +2340,32 @@
    "unlocks": [
     "The Azim Steppe"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Yugiri",
+     "zone": "The Ruby Sea",
+     "x": 6.2,
+     "y": 12.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 32.3,
+     "y": 34.2
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "The Azim Steppe",
+     "x": 32.3,
+     "y": 34.2
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "The Azim Steppe",
+     "x": 32.7,
+     "y": 29.7
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 30.4,
@@ -787,6 +2377,32 @@
    "section": "Levels 64-65",
    "title": "The Search for Lord Hien",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 32.6,
+     "y": 29.4
+    },
+    {
+     "label": "Talk to Goro horsemaster",
+     "zone": "The Azim Steppe",
+     "x": 32.3,
+     "y": 27.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 32.8,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 32.9,
+     "y": 27.8
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 32.7,
@@ -798,6 +2414,20 @@
    "section": "Levels 64-65",
    "title": "A Season for War",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 29.2,
+     "y": 28.8
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 32.9,
+     "y": 27.8
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 32.9,
@@ -809,6 +2439,20 @@
    "section": "Levels 64-65",
    "title": "An Impossible Dream",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 33.6,
+     "y": 29.1
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 33.4,
+     "y": 29.1
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 32.9,
@@ -820,6 +2464,26 @@
    "section": "Levels 64-65",
    "title": "Stars in the Dark",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 31.3,
+     "y": 16.8
+    },
+    {
+     "label": "Talk to Temulun",
+     "zone": "The Azim Steppe",
+     "x": 31.4,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.2,
+     "y": 12.1
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 33.4,
@@ -831,6 +2495,32 @@
    "section": "Levels 64-65",
    "title": "A Warrior's Welcome",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 29.8,
+     "y": 12.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 26.9,
+     "y": 8.6
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "The Azim Steppe",
+     "x": 29.9,
+     "y": 12.5
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.2,
+     "y": 12.1
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 31.2,
@@ -842,6 +2532,44 @@
    "section": "Levels 64-65",
    "title": "The Heart of Nations",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Dorbei",
+     "zone": "The Azim Steppe",
+     "x": 32.4,
+     "y": 11.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 32.6,
+     "y": 16.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 34.4,
+     "y": 14.8
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Azim Steppe",
+     "x": 32.6,
+     "y": 16.2
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.2,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 31.2,
+     "y": 12
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 31.2,
@@ -853,6 +2581,44 @@
    "section": "Levels 64-65",
    "title": "A Trial Before the Trial",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Azim Steppe",
+     "x": 29.9,
+     "y": 12.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 27.2,
+     "y": 13.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Azim Steppe",
+     "x": 26,
+     "y": 13
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 21.5,
+     "y": 11.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Azim Steppe",
+     "x": 16.5,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 11.3,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 31.2,
@@ -867,6 +2633,26 @@
    "unlocks": [
     "Bardam's Mettle"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Bardam's Mettle",
+     "x": 11.7,
+     "y": 1.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 11.4,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Azim Steppe",
+     "x": 11.3,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 11.3,
@@ -878,6 +2664,14 @@
    "section": "Levels 64-65",
    "title": "The Children of Azim",
    "text": "Level 65 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Magnai",
+     "zone": "The Azim Steppe",
+     "x": 20.7,
+     "y": 22.8
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 11.3,
@@ -889,6 +2683,38 @@
    "section": "Levels 66-67",
    "title": "The Labors of Magnai",
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Baatu",
+     "zone": "The Azim Steppe",
+     "x": 23.6,
+     "y": 22.9
+    },
+    {
+     "label": "Talk to Oroniri spearson",
+     "zone": "The Azim Steppe",
+     "x": 22.8,
+     "y": 21.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 23.8,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Baatu",
+     "zone": "The Azim Steppe",
+     "x": 23.6,
+     "y": 22.9
+    },
+    {
+     "label": "Talk to Magnai",
+     "zone": "The Azim Steppe",
+     "x": 20.7,
+     "y": 22.8
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 20.9,
@@ -900,6 +2726,38 @@
    "section": "Levels 66-67",
    "title": "For Love of the Moon",
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Udutai",
+     "zone": "The Azim Steppe",
+     "x": 20.9,
+     "y": 20.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 22,
+     "y": 22.5
+    },
+    {
+     "label": "Talk to Udutai",
+     "zone": "The Azim Steppe",
+     "x": 20.9,
+     "y": 20.7
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 20.9,
+     "y": 20.7
+    },
+    {
+     "label": "Talk to Magnai",
+     "zone": "The Azim Steppe",
+     "x": 20.7,
+     "y": 22.8
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 20.9,
@@ -911,6 +2769,32 @@
    "section": "Levels 66-67",
    "title": "Sworn Enemies of the Sun",
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "The Azim Steppe",
+     "x": 22.8,
+     "y": 23
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 18.9,
+     "y": 33.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 15.6,
+     "y": 33.5
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "The Azim Steppe",
+     "x": 15.7,
+     "y": 33.5
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 20.7,
@@ -922,6 +2806,32 @@
    "section": "Levels 66-67",
    "title": "The Undying Ones",
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sadu",
+     "zone": "The Azim Steppe",
+     "x": 12.5,
+     "y": 32.4
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "The Azim Steppe",
+     "x": 12.5,
+     "y": 32.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 12.7,
+     "y": 33.3
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "The Azim Steppe",
+     "x": 13.5,
+     "y": 33.5
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 15.7,
@@ -933,6 +2843,26 @@
    "section": "Levels 66-67",
    "title": "A Final Peace",
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sadu",
+     "zone": "The Azim Steppe",
+     "x": 12.5,
+     "y": 34.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 8.2,
+     "y": 34.1
+    },
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "The Azim Steppe",
+     "x": 7.4,
+     "y": 33.8
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 13.5,
@@ -944,6 +2874,26 @@
    "section": "Levels 66-67",
    "title": "As the Gods Will",
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Magnai",
+     "zone": "The Azim Steppe",
+     "x": 20.7,
+     "y": 22.8
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 22.7,
+     "y": 22.9
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.5,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 7.4,
@@ -957,6 +2907,38 @@
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 31.7,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Temulun",
+     "zone": "The Azim Steppe",
+     "x": 31.4,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.5,
+     "y": 11.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 31.3,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "The Azim Steppe",
+     "x": 31.2,
+     "y": 12.2
+    }
    ],
    "target": {
     "zone": "The Azim Steppe",
@@ -972,6 +2954,32 @@
    "unlocks": [
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Temulun",
+     "zone": "The Azim Steppe",
+     "x": 31.4,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to diligent Mol warrior",
+     "zone": "The Azim Steppe",
+     "x": 32.5,
+     "y": 11.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Azim Steppe",
+     "x": 32.4,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 31.5,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 31.2,
@@ -985,6 +2993,26 @@
    "text": "Level 66 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Crimson Footprints"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Magnai",
+     "zone": "The Azim Steppe",
+     "x": 20.7,
+     "y": 22.8
+    },
+    {
+     "label": "Talk to Sadu",
+     "zone": "The Azim Steppe",
+     "x": 12.5,
+     "y": 34.2
+    },
+    {
+     "label": "Talk to Cirina",
+     "zone": "The Azim Steppe",
+     "x": 18.1,
+     "y": 37.9
+    }
    ],
    "target": {
     "zone": "The Azim Steppe",
@@ -1001,6 +3029,26 @@
     "Yanxia (North)",
     "The House of the Fierce"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Gosetsu",
+     "zone": "Yanxia",
+     "x": 31.7,
+     "y": 4.4
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 28.1,
+     "y": 10.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "The Azim Steppe",
     "x": 18.1,
@@ -1012,6 +3060,26 @@
    "section": "Levels 66-67",
    "title": "The Room Where It Happened",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 12.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 25,
@@ -1023,6 +3091,26 @@
    "section": "Levels 66-67",
    "title": "How Tataru Got Her Groove Back",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Kugane",
+     "x": 10.8,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "Ruby Bazaar Offices",
     "x": 6.1,
@@ -1034,6 +3122,50 @@
    "section": "Levels 66-67",
    "title": "Seeds of Despair",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Yanxia",
+     "x": 26.2,
+     "y": 13.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 27.1,
+     "y": 8.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 27.2,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Yanxia",
+     "x": 30.8,
+     "y": 5.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 32.4,
+     "y": 7.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 31.6,
+     "y": 5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Yanxia",
+     "x": 26.2,
+     "y": 13.8
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 25,
@@ -1045,6 +3177,26 @@
    "section": "Levels 66-67",
    "title": "The Limits of Our Endurance",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "Yanxia",
+     "x": 25.3,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Isse",
+     "zone": "Yanxia",
+     "x": 30.4,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Tsuranuki",
+     "zone": "Yanxia",
+     "x": 28.3,
+     "y": 25.6
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 26.2,
@@ -1056,6 +3208,26 @@
    "section": "Levels 66-67",
    "title": "Broken Steel, Broken Men",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 28.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 22.7,
+     "y": 27.4
+    },
+    {
+     "label": "Talk to Tsuranuki",
+     "zone": "Yanxia",
+     "x": 28.3,
+     "y": 25.6
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 28.3,
@@ -1067,6 +3239,44 @@
    "section": "Levels 66-67",
    "title": "The Doma Within",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Haname",
+     "zone": "Yanxia",
+     "x": 25.4,
+     "y": 12.7
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 12.8
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 20,
+     "y": 11
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 18.4,
+     "y": 9.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 15.9,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 15.7,
+     "y": 9.2
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 28.2,
@@ -1078,6 +3288,26 @@
    "section": "Levels 66-67",
    "title": "On the Eve of Destiny",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 25,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 15.7,
@@ -1092,6 +3322,44 @@
    "unlocks": [
     "Doma Castle"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Yanxia",
+     "x": 18.2,
+     "y": 10.3
+    },
+    {
+     "label": "Talk to Hien",
+     "zone": "Yanxia",
+     "x": 16.7,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Blue skiff captain",
+     "zone": "Yanxia",
+     "x": 14.2,
+     "y": 14.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Doma Castle",
+     "x": 6.4,
+     "y": 7.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yanxia",
+     "x": 13.7,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 13.7,
+     "y": 12.4
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 25,
@@ -1103,6 +3371,38 @@
    "section": "Levels 66-67",
    "title": "The World Turned Upside Down",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tansui",
+     "zone": "Yanxia",
+     "x": 14.5,
+     "y": 14.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Doman Enclave",
+     "x": 5.7,
+     "y": 5.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yanxia",
+     "x": 12.2,
+     "y": 32.4
+    },
+    {
+     "label": "Talk to Rasho",
+     "zone": "Yanxia",
+     "x": 12,
+     "y": 32.7
+    },
+    {
+     "label": "Talk to Rasho",
+     "zone": "Kugane",
+     "x": 7.7,
+     "y": 12.3
+    }
+   ],
    "target": {
     "zone": "Yanxia",
     "x": 13.7,
@@ -1117,6 +3417,26 @@
    "unlocks": [
     "Catch Me if You Can"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Ruby Bazaar Offices",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Kugane",
+     "x": 9.5,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 4.1,
+     "y": 12.1
+    }
+   ],
    "target": {
     "zone": "Kugane",
     "x": 7.8,
@@ -1128,6 +3448,26 @@
    "section": "Levels 66-67",
    "title": "While You Were Away",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Fringes",
+     "x": 9.2,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Conrad",
+     "zone": "The Fringes",
+     "x": 12,
+     "y": 14.5
+    },
+    {
+     "label": "Talk to Pipin",
+     "zone": "The Fringes",
+     "x": 9.4,
+     "y": 11.4
+    }
+   ],
    "target": {
     "zone": "Limsa Lominsa Lower Decks",
     "x": 4.1,
@@ -1139,6 +3479,56 @@
    "section": "Levels 66-67",
    "title": "Rhalgr's Beacon",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Conrad",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to swarthy Resistance fighter",
+     "zone": "Rhalgr's Reach",
+     "x": 11.7,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Ala Mhigan Brigade officer",
+     "zone": "Rhalgr's Reach",
+     "x": 13.9,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to hot-blooded youth",
+     "zone": "Rhalgr's Reach",
+     "x": 11.5,
+     "y": 13.7
+    },
+    {
+     "label": "Talk to Conrad",
+     "zone": "Rhalgr's Reach",
+     "x": 14.7,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Conrad",
+     "zone": "The Fringes",
+     "x": 17.7,
+     "y": 18.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fringes",
+     "x": 19.6,
+     "y": 25.2
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Fringes",
+     "x": 19.7,
+     "y": 25.3
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 9.4,
@@ -1150,6 +3540,26 @@
    "section": "Levels 66-67",
    "title": "The Fortunes of War",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Fringes",
+     "x": 17,
+     "y": 21.8
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Fringes",
+     "x": 13.8,
+     "y": 21
+    },
+    {
+     "label": "Talk to Conrad",
+     "zone": "The Fringes",
+     "x": 19.7,
+     "y": 25.2
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 19.7,
@@ -1165,6 +3575,26 @@
     "The Fringes (East)",
     "The Peering Stones"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Resistance guard",
+     "zone": "The Fringes",
+     "x": 19.7,
+     "y": 25.7
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Fringes",
+     "x": 29,
+     "y": 27
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Fringes",
+     "x": 30,
+     "y": 25.9
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 19.7,
@@ -1176,6 +3606,20 @@
    "section": "Levels 66-67",
    "title": "The Lure of the Dream",
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sarisha",
+     "zone": "The Fringes",
+     "x": 28.1,
+     "y": 19.4
+    },
+    {
+     "label": "Talk to Vajra",
+     "zone": "The Fringes",
+     "x": 28.2,
+     "y": 19.5
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 30.5,
@@ -1191,6 +3635,50 @@
     "Emanation",
     "Mount Speed Increase"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Vajra",
+     "zone": "The Fringes",
+     "x": 31.7,
+     "y": 16.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Fringes",
+     "x": 37.6,
+     "y": 15.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The First Altar of Djanan Qhat",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The First Altar of Djanan Qhat",
+     "x": 6.2,
+     "y": 5.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Emanation",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Fringes",
+     "x": 31.7,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Fringes",
+     "x": 31.7,
+     "y": 16.7
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 28.2,
@@ -1204,6 +3692,26 @@
    "text": "Level 67 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Sarisha",
+     "zone": "The Fringes",
+     "x": 28.1,
+     "y": 19.4
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Fringes",
+     "x": 30,
+     "y": 25.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Fringes",
+     "x": 30,
+     "y": 25.9
+    }
    ],
    "target": {
     "zone": "The Fringes",
@@ -1220,6 +3728,32 @@
     "The Peaks (South)",
     "Ala Ghiri"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alliance recruit",
+     "zone": "The Fringes",
+     "x": 38.4,
+     "y": 28.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 9.2,
+     "y": 25.2
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Peaks",
+     "x": 9.5,
+     "y": 25.1
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Peaks",
+     "x": 15.8,
+     "y": 35.4
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 30,
@@ -1231,6 +3765,20 @@
    "section": "Levels 68-70",
    "title": "Strong and Unified",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Peaks",
+     "x": 15.5,
+     "y": 36.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Peaks",
+     "x": 15.5,
+     "y": 36.8
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 15.8,
@@ -1242,6 +3790,20 @@
    "section": "Levels 68-70",
    "title": "Hells Open",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 10.7,
+     "y": 33.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Peaks",
+     "x": 14.6,
+     "y": 24.5
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 15.5,
@@ -1253,6 +3815,44 @@
    "section": "Levels 68-70",
    "title": "Heavens Weep",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Peaks",
+     "x": 18.8,
+     "y": 25.3
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Peaks",
+     "x": 20,
+     "y": 24.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 21.6,
+     "y": 23.8
+    },
+    {
+     "label": "Talk to wounded Temple Knight",
+     "zone": "The Peaks",
+     "x": 20.9,
+     "y": 24
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 21.7,
+     "y": 23.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Peaks",
+     "x": 21.7,
+     "y": 23.8
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 14.6,
@@ -1264,6 +3864,26 @@
    "section": "Levels 68-70",
    "title": "The Road Home",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Peaks",
+     "x": 21.7,
+     "y": 23
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 17.8,
+     "y": 27.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Peaks",
+     "x": 15.8,
+     "y": 35.4
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 21.7,
@@ -1275,6 +3895,20 @@
    "section": "Levels 68-70",
    "title": "For the Living and the Dead",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Peaks",
+     "x": 15.5,
+     "y": 36.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 15.5,
+     "y": 36.8
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 15.8,
@@ -1286,6 +3920,20 @@
    "section": "Levels 68-70",
    "title": "Above the Churning Waters",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 20,
+     "y": 34.8
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 19.2,
+     "y": 34.6
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 15.5,
@@ -1297,6 +3945,20 @@
    "section": "Levels 68-70",
    "title": "The Path Forward",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Peaks",
+     "x": 15.5,
+     "y": 36.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Peaks",
+     "x": 15.5,
+     "y": 36.8
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 19.2,
@@ -1308,6 +3970,38 @@
    "section": "Levels 68-70",
    "title": "With Tired Hands We Toil",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 18.1,
+     "y": 27.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 19.2,
+     "y": 24.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Peaks",
+     "x": 22.8,
+     "y": 24.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 24.5,
+     "y": 24.8
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 28.6,
+     "y": 27
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 15.5,
@@ -1319,6 +4013,20 @@
    "section": "Levels 68-70",
    "title": "Where Courage Endures",
    "text": "Level 68 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 28.2,
+     "y": 28.8
+    },
+    {
+     "label": "Talk to young Hellsguard",
+     "zone": "The Peaks",
+     "x": 26.7,
+     "y": 29.8
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 28.6,
@@ -1334,6 +4042,56 @@
     "Castrum Abania",
     "Mount Speed Increase"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 27.6,
+     "y": 30.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 28.2,
+     "y": 30.3
+    },
+    {
+     "label": "Talk to Stark Woad",
+     "zone": "The Peaks",
+     "x": 29.2,
+     "y": 31.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 30,
+     "y": 31.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Peaks",
+     "x": 30.1,
+     "y": 31.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Castrum Abania",
+     "x": 18.3,
+     "y": 7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 32.7,
+     "y": 29.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 32.7,
+     "y": 30.2
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 26.6,
@@ -1345,6 +4103,14 @@
    "section": "Levels 68-70",
    "title": "Raubahn's Invitation",
    "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Peaks",
+     "x": 26.7,
+     "y": 36.4
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 32.9,
@@ -1359,6 +4125,44 @@
    "unlocks": [
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Peaks",
+     "x": 26.8,
+     "y": 36.5
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 26.7,
+     "y": 36.3
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 25.5,
+     "y": 33.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Peaks",
+     "x": 24.2,
+     "y": 30.2
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Peaks",
+     "x": 29.6,
+     "y": 31.2
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Peaks",
+     "x": 27.9,
+     "y": 29
+    }
+   ],
    "target": {
     "zone": "The Peaks",
     "x": 26.7,
@@ -1372,6 +4176,26 @@
    "text": "Level 69 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Cheek to Cheek"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Orella",
+     "zone": "Rhalgr's Reach",
+     "x": 8.9,
+     "y": 10.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Rhalgr's Reach",
+     "x": 10.2,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 10.2,
+     "y": 10.7
+    }
    ],
    "target": {
     "zone": "The Peaks",
@@ -1388,6 +4212,32 @@
     "The Lochs",
     "Porta Praetoria"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Rhalgr's Reach",
+     "x": 8.5,
+     "y": 9.6
+    },
+    {
+     "label": "Talk to Pipin",
+     "zone": "The Peaks",
+     "x": 32.9,
+     "y": 30
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 7.6,
+     "y": 21.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 8.5,
+     "y": 21.4
+    }
+   ],
    "target": {
     "zone": "Rhalgr's Reach",
     "x": 10.2,
@@ -1399,6 +4249,26 @@
    "section": "Levels 68-70",
    "title": "The Key to Victory",
    "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 8.5,
+     "y": 21.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 7.6,
+     "y": 21.2
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 22.8,
+     "y": 36.8
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 8.5,
@@ -1414,6 +4284,38 @@
     "Mount Speed Increase",
     "The Ala Mhigan Quarter"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 25.7,
+     "y": 28.3
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 27.8,
+     "y": 28.5
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 35,
+     "y": 30.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 35,
+     "y": 30.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 36.7,
+     "y": 30.4
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 22.8,
@@ -1425,6 +4327,50 @@
    "section": "Levels 68-70",
    "title": "The Legacy of Our Fathers",
    "text": "Level 69 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Arenvald",
+     "zone": "The Lochs",
+     "x": 34.4,
+     "y": 34.6
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Lochs",
+     "x": 8,
+     "y": 21.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 8.1,
+     "y": 21.9
+    },
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "The Lochs",
+     "x": 9.5,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "The Lochs",
+     "x": 9.7,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "The Lochs",
+     "x": 8.9,
+     "y": 21.8
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Lochs",
+     "x": 8,
+     "y": 21.8
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 36.7,
@@ -1436,6 +4382,32 @@
    "section": "Levels 68-70",
    "title": "The Measure of His Reach",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Pipin",
+     "zone": "The Lochs",
+     "x": 28.2,
+     "y": 22.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 31.7,
+     "y": 19.4
+    },
+    {
+     "label": "Talk to Hakuro",
+     "zone": "The Lochs",
+     "x": 31.7,
+     "y": 19.3
+    },
+    {
+     "label": "Talk to Pipin",
+     "zone": "The Lochs",
+     "x": 32.7,
+     "y": 22.9
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 8,
@@ -1453,6 +4425,74 @@
     "The Measure of His Reach",
     "Aether Current",
     "Mount Speed Increase"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Ala Mhigo",
+     "x": 11.2,
+     "y": 6.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Royal Menagerie",
+     "x": 10.7,
+     "y": 11.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Transparency",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Lochs",
+     "x": 32.7,
+     "y": 22.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 9.8,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 8.5,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to M'naago",
+     "zone": "The Lochs",
+     "x": 8.5,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Raubahn",
+     "zone": "The Lochs",
+     "x": 8,
+     "y": 21.8
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "The Lochs",
+     "x": 9.2,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 9.8,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "Rhalgr's Reach",
+     "x": 12.6,
+     "y": 9.6
+    }
    ],
    "target": {
     "zone": "The Lochs",

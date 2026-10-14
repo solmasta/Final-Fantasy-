@@ -8,6 +8,50 @@
    "unlocks": [
     "Tuliyollal"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Old Sharlayan",
+     "x": 9.6,
+     "y": 11.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Main Deck",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to sprightly sailor",
+     "zone": "Main Deck",
+     "x": 5.9,
+     "y": 5.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Main Deck",
+     "x": 6.2,
+     "y": 6.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 14,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Tuliyollal",
+     "x": 15.6,
+     "y": 13.9
+    }
+   ],
    "target": {
     "zone": "Old Sharlayan",
     "x": 9.2,
@@ -19,6 +63,20 @@
    "section": "Level 90 – Main chain",
    "title": "The Nation of Tuliyollal",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 15.6,
+     "y": 13.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Tuliyollal",
+     "x": 14.2,
+     "y": 2.7
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 15.6,
@@ -30,6 +88,32 @@
    "section": "Level 90 – Main chain",
    "title": "A City of Stairs",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 14.3,
+     "y": 2.7
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Tuliyollal",
+     "x": 14.2,
+     "y": 2.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 14.3,
+     "y": 2.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 9.5,
+     "y": 13.6
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 14.3,
@@ -41,6 +125,38 @@
    "section": "Level 90 – Main chain",
    "title": "A Saga in Stone",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 9.5,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.5,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Br'uk Evu",
+     "zone": "Tuliyollal",
+     "x": 12.5,
+     "y": 14.6
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Tuliyollal",
+     "x": 12.5,
+     "y": 13.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 9.8,
+     "y": 4.6
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 9.5,
@@ -52,6 +168,38 @@
    "section": "Level 90 – Main chain",
    "title": "The Rite of Succession",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.3,
+     "y": 9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Tuliyollal",
+     "x": 9.7,
+     "y": 13.4
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Tuliyollal",
+     "x": 10.1,
+     "y": 15.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 13.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 13.8
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 9.8,
@@ -67,6 +215,32 @@
     "Kozama'uka (North)",
     "Ok'hanu"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 7.6,
+     "y": 13.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kozama'uka",
+     "x": 15.5,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Kozama'uka",
+     "x": 15.7,
+     "y": 5.7
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Kozama'uka",
+     "x": 16.2,
+     "y": 10.1
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 12.7,
@@ -78,6 +252,32 @@
    "section": "Level 90 – Kozama'uka chain",
    "title": "A Festive People",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to dispirited Hanu",
+     "zone": "Kozama'uka",
+     "x": 17.1,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 16.4,
+     "y": 12.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 18.1,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kozama'uka",
+     "x": 19.4,
+     "y": 10.8
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 16.2,
@@ -89,6 +289,38 @@
    "section": "Level 90 – Kozama'uka chain",
    "title": "The Feat of Reeds",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 22.3,
+     "y": 13.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 23.2,
+     "y": 13.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 26,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 19.5,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Kozama'uka",
+     "x": 19.4,
+     "y": 10.7
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 19,
@@ -100,6 +332,62 @@
    "section": "Level 90 – Kozama'uka chain",
    "title": "A Well-mannered Shipwright",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Linuhanu",
+     "zone": "Kozama'uka",
+     "x": 25.8,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Wuk Evu",
+     "zone": "Kozama'uka",
+     "x": 28.2,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to Linuhanu",
+     "zone": "Kozama'uka",
+     "x": 28,
+     "y": 8.7
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Kozama'uka",
+     "x": 17.9,
+     "y": 13.7
+    },
+    {
+     "label": "Talk to Linuhanu",
+     "zone": "Kozama'uka",
+     "x": 12.6,
+     "y": 17.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kozama'uka",
+     "x": 10,
+     "y": 18.3
+    },
+    {
+     "label": "Talk to Linuhanu",
+     "zone": "Kozama'uka",
+     "x": 12.6,
+     "y": 17.4
+    },
+    {
+     "label": "Talk to Wuk Evu",
+     "zone": "Kozama'uka",
+     "x": 28.2,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 19.6,
+     "y": 10.8
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 19.4,
@@ -111,6 +399,44 @@
    "section": "Level 90 – Kozama'uka chain",
    "title": "The Lifting of Wings",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 18.4,
+     "y": 13.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 20.2,
+     "y": 16.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 25.8,
+     "y": 17.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 34.6,
+     "y": 15.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 34.7,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Linuhanu",
+     "zone": "Kozama'uka",
+     "x": 19.5,
+     "y": 10.8
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 19.6,
@@ -122,6 +448,38 @@
    "section": "Level 90 – Kozama'uka chain",
    "title": "Knowing the Hanuhanu",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to dispirited Hanu",
+     "zone": "Kozama'uka",
+     "x": 17.1,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Wuk Evu",
+     "zone": "Kozama'uka",
+     "x": 19.5,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 22.8,
+     "y": 13.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 20.6,
+     "y": 13.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 13.8
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 19.5,
@@ -137,6 +495,26 @@
     "Urqopacha (North)",
     "Wachunpelo"
    ],
+   "objectives": [
+    {
+     "label": "Talk to approachable Pelu",
+     "zone": "Tuliyollal",
+     "x": 7.8,
+     "y": 12.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Urqopacha",
+     "x": 33.3,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 29.5,
+     "y": 13.8
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 12.7,
@@ -148,6 +526,44 @@
    "section": "Level 90 – Urqopacha chain",
    "title": "Traders of Happiness",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to distillery worker",
+     "zone": "Urqopacha",
+     "x": 28.6,
+     "y": 12.5
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 29,
+     "y": 13.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 26,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 25.9,
+     "y": 12.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 26,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 25.7,
+     "y": 12.2
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 29,
@@ -159,6 +575,38 @@
    "section": "Level 90 – Urqopacha chain",
    "title": "The Feat of Gold",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Havli",
+     "zone": "Urqopacha",
+     "x": 27.8,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 31.4,
+     "y": 13.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 29.6,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 29.6,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 29.5,
+     "y": 17.1
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 25.7,
@@ -170,6 +618,32 @@
    "section": "Level 90 – Urqopacha chain",
    "title": "Mablu's Dream",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 29.5,
+     "y": 17.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 13.1,
+     "y": 12.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Urqopacha",
+     "x": 13.7,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Miplu",
+     "zone": "Urqopacha",
+     "x": 13.1,
+     "y": 12.3
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 29.5,
@@ -181,6 +655,56 @@
    "section": "Level 90 – Urqopacha chain",
    "title": "A Premium Deal",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 28.3,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Bebeel Ja",
+     "zone": "Urqopacha",
+     "x": 28.4,
+     "y": 12.7
+    },
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 27.3,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Gobli",
+     "zone": "Urqopacha",
+     "x": 28.5,
+     "y": 12
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 26.9,
+     "y": 9.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 27.7,
+     "y": 8.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 29.3,
+     "y": 7.7
+    },
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 28.3,
+     "y": 12.5
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 13.4,
@@ -192,6 +716,38 @@
    "section": "Level 90 – Urqopacha chain",
    "title": "Wuk Lamat in the Saddle",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 27.7,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Urqopacha",
+     "x": 25.8,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 25.9,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 20.9,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 21.1,
+     "y": 8.5
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 28.3,
@@ -203,6 +759,26 @@
    "section": "Level 90 – Urqopacha chain",
    "title": "Knowing the Pelupelu",
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mablu",
+     "zone": "Urqopacha",
+     "x": 25.4,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 27,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 13.8
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 21.1,
@@ -214,6 +790,32 @@
    "section": "Level 91 – Main chain (continued)",
    "title": "The Success of Others",
    "text": "Level 91 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 13.9
+    },
+    {
+     "label": "Talk to Ropli",
+     "zone": "Tuliyollal",
+     "x": 16.2,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 12.2,
+     "y": 15.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 11.1,
+     "y": 15.1
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 12.7,
@@ -232,6 +834,50 @@
     "Ihuykatumu",
     "A Promise for the People"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Fonjeantaine",
+     "zone": "Tuliyollal",
+     "x": 16.2,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Tuliyollal",
+     "x": 14.5,
+     "y": 12.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ihuykatumu",
+     "x": 8.2,
+     "y": 14.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kozama'uka",
+     "x": 35.6,
+     "y": 30
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 36.5,
+     "y": 32.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kozama'uka",
+     "x": 32.6,
+     "y": 25.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 33.1,
+     "y": 24.5
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 11.1,
@@ -243,6 +889,26 @@
    "section": "Levels 92-93",
    "title": "A Leaking Workpot",
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 24,
+     "y": 26.7
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Kozama'uka",
+     "x": 12.9,
+     "y": 27.1
+    },
+    {
+     "label": "Talk to Rakorok",
+     "zone": "Kozama'uka",
+     "x": 12.1,
+     "y": 28.4
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 33.1,
@@ -254,6 +920,44 @@
    "section": "Levels 92-93",
    "title": "Lending a Helphand",
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 12,
+     "y": 28.4
+    },
+    {
+     "label": "Talk to Rakorok",
+     "zone": "Kozama'uka",
+     "x": 12.1,
+     "y": 28.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 10.3,
+     "y": 28.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kozama'uka",
+     "x": 15.3,
+     "y": 35.3
+    },
+    {
+     "label": "Talk to Rakorok",
+     "zone": "Kozama'uka",
+     "x": 12.2,
+     "y": 28.2
+    },
+    {
+     "label": "Talk to Rakorok",
+     "zone": "Kozama'uka",
+     "x": 12.5,
+     "y": 28.5
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 12.1,
@@ -268,6 +972,38 @@
    "unlocks": [
     "Dawntrail Role Quests"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Rediroq",
+     "zone": "Kozama'uka",
+     "x": 10.9,
+     "y": 28.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 16.6,
+     "y": 14.3
+    },
+    {
+     "label": "Talk to Ropli",
+     "zone": "Tuliyollal",
+     "x": 16.2,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Fonjeantaine",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 14.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 16.2,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 12.5,
@@ -279,6 +1015,32 @@
    "section": "Levels 92-93",
    "title": "A Father First",
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Peshekwa",
+     "zone": "Tuliyollal",
+     "x": 10,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Sunperch guard",
+     "zone": "Tuliyollal",
+     "x": 9.5,
+     "y": 3.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 9.5,
+     "y": 3.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 9.9,
+     "y": 4.5
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 16.2,
@@ -290,6 +1052,44 @@
    "section": "Levels 92-93",
    "title": "The Shape of Peace",
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 10.2,
+     "y": 15.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kozama'uka",
+     "x": 11.4,
+     "y": 28
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 11.4,
+     "y": 28.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 5.5,
+     "y": 30.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 5.6,
+     "y": 30.9
+    },
+    {
+     "label": "Talk to Rediroq",
+     "zone": "Kozama'uka",
+     "x": 10.9,
+     "y": 28.3
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 9.9,
@@ -301,6 +1101,62 @@
    "section": "Levels 92-93",
    "title": "Lost Promise",
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Earthenshire sentry",
+     "zone": "Kozama'uka",
+     "x": 13.4,
+     "y": 27.1
+    },
+    {
+     "label": "Talk to waylaid peddler",
+     "zone": "Kozama'uka",
+     "x": 32.9,
+     "y": 26.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 33.2,
+     "y": 25.3
+    },
+    {
+     "label": "Talk to kind-eyed Xbr'aal",
+     "zone": "Kozama'uka",
+     "x": 33.6,
+     "y": 25.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 33,
+     "y": 24.6
+    },
+    {
+     "label": "Talk to enthusiastic Moblin",
+     "zone": "Kozama'uka",
+     "x": 33.3,
+     "y": 24.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 32.4,
+     "y": 24.8
+    },
+    {
+     "label": "Talk to cheery Pelu",
+     "zone": "Kozama'uka",
+     "x": 32.4,
+     "y": 24.6
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Kozama'uka",
+     "x": 32.4,
+     "y": 24.6
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 10.9,
@@ -312,6 +1168,50 @@
    "section": "Levels 92-93",
    "title": "A Brother's Duty",
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 30.6,
+     "y": 24.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 24.9,
+     "y": 26.6
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Kozama'uka",
+     "x": 24.7,
+     "y": 26.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 27.9,
+     "y": 26.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kozama'uka",
+     "x": 28.2,
+     "y": 37.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kozama'uka",
+     "x": 35.2,
+     "y": 34.4
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Kozama'uka",
+     "x": 33.7,
+     "y": 25.3
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 32.4,
@@ -323,6 +1223,38 @@
    "section": "Levels 92-93",
    "title": "Feeding the River",
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Kozama'uka",
+     "x": 29.1,
+     "y": 25.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 19.6,
+     "y": 31.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kozama'uka",
+     "x": 20.3,
+     "y": 29.3
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Kozama'uka",
+     "x": 21.4,
+     "y": 27.3
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Kozama'uka",
+     "x": 31.9,
+     "y": 25.5
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 33.7,
@@ -336,6 +1268,14 @@
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 33.7,
+     "y": 25.3
+    }
    ],
    "target": {
     "zone": "Kozama'uka",
@@ -352,6 +1292,38 @@
     "Urqopacha (South)",
     "Worlar's Echo"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Kozama'uka",
+     "x": 6.1,
+     "y": 30.8
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 34.6,
+     "y": 34.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 31.2,
+     "y": 34
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 28.7,
+     "y": 33.5
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 28.9,
+     "y": 33.7
+    }
+   ],
    "target": {
     "zone": "Kozama'uka",
     "x": 33.7,
@@ -363,6 +1335,56 @@
    "section": "Levels 92-93",
    "title": "The Feat of Proof",
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yorgerwor",
+     "zone": "Urqopacha",
+     "x": 28.8,
+     "y": 34.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 29,
+     "y": 33.5
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Urqopacha",
+     "x": 29.6,
+     "y": 31.5
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 24.3,
+     "y": 26
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 17.5,
+     "y": 20.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 11.5,
+     "y": 24.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Urqopacha",
+     "x": 14.9,
+     "y": 28.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 13.2,
+     "y": 32.5
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 28.9,
@@ -377,6 +1399,26 @@
    "unlocks": [
     "Worqor Zormor"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Worqor Zormor",
+     "x": 10.2,
+     "y": 7.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Urqopacha",
+     "x": 13.2,
+     "y": 32.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Urqopacha",
+     "x": 29.6,
+     "y": 33.8
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 13.2,
@@ -388,6 +1430,32 @@
    "section": "Levels 92-93",
    "title": "An Echo of Madness",
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yorgerwor",
+     "zone": "Urqopacha",
+     "x": 28.7,
+     "y": 34.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 29.6,
+     "y": 33.8
+    },
+    {
+     "label": "Talk to temple guard",
+     "zone": "Urqopacha",
+     "x": 28.6,
+     "y": 33.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 28.9,
+     "y": 33.7
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 29.6,
@@ -399,6 +1467,62 @@
    "section": "Levels 92-93",
    "title": "Pointing the Way",
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 32.2,
+     "y": 34.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 32.8,
+     "y": 32.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 33.2,
+     "y": 32.5
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 32.8,
+     "y": 32.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 31,
+     "y": 29.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 30.9,
+     "y": 29.4
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 31,
+     "y": 29.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Urqopacha",
+     "x": 32.9,
+     "y": 28.7
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 33,
+     "y": 28.7
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 28.9,
@@ -412,6 +1536,44 @@
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Worqor Lar Dor"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 24.9,
+     "y": 26.3
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 13.1,
+     "y": 24.9
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 9.6,
+     "y": 24
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Worqor Lar Dor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Urqopacha",
+     "x": 5.2,
+     "y": 24.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Urqopacha",
+     "x": 5.4,
+     "y": 24.3
+    }
    ],
    "target": {
     "zone": "Urqopacha",
@@ -427,6 +1589,14 @@
    "unlocks": [
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Urqopacha",
+     "x": 28.8,
+     "y": 33.5
+    }
+   ],
    "target": {
     "zone": "Urqopacha",
     "x": 5.4,
@@ -440,6 +1610,38 @@
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Peaceful Intentions"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Tuliyollal",
+     "x": 10.1,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to cabin attendant",
+     "zone": "Tuliyollal",
+     "x": 9.3,
+     "y": 16.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 9.4,
+     "y": 17.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 10.6,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Tuliyollal",
+     "x": 10.1,
+     "y": 15.1
+    }
    ],
    "target": {
     "zone": "Urqopacha",
@@ -456,6 +1658,38 @@
     "Yak T'el",
     "Iq Br'aax"
    ],
+   "objectives": [
+    {
+     "label": "Talk to dirigible attendant",
+     "zone": "Tuliyollal",
+     "x": 4.9,
+     "y": 10.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yak T'el",
+     "x": 21.9,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Yak T'el",
+     "x": 21.8,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Yak T'el",
+     "x": 16.9,
+     "y": 12.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yak T'el",
+     "x": 14.5,
+     "y": 12.9
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 10.1,
@@ -467,6 +1701,32 @@
    "section": "Levels 94-95",
    "title": "Village of the Hunt",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Koana",
+     "zone": "Yak T'el",
+     "x": 11,
+     "y": 13
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yak T'el",
+     "x": 12.4,
+     "y": 14.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Yak T'el",
+     "x": 11,
+     "y": 13
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 11.1,
+     "y": 13
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 14.4,
@@ -478,6 +1738,38 @@
    "section": "Levels 94-95",
    "title": "A History of Violence",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to cheerful cook",
+     "zone": "Yak T'el",
+     "x": 13,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Yak T'el",
+     "x": 20.2,
+     "y": 13.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 29.7,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Wuk Evu",
+     "zone": "Yak T'el",
+     "x": 31,
+     "y": 14.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 31.1,
+     "y": 14.3
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 11.1,
@@ -489,6 +1781,32 @@
    "section": "Levels 94-95",
    "title": "The Feat of Repast",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Evu",
+     "zone": "Yak T'el",
+     "x": 32.3,
+     "y": 17.1
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Yak T'el",
+     "x": 11,
+     "y": 13
+    },
+    {
+     "label": "Objective area",
+     "zone": "Yak T'el",
+     "x": 11.1,
+     "y": 13
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 11.1,
+     "y": 13.1
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 31,
@@ -500,6 +1818,26 @@
    "section": "Levels 94-95",
    "title": "A Father's Grief",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yak T'el",
+     "x": 12.8,
+     "y": 13.8
+    },
+    {
+     "label": "Talk to Hunmu Rruk",
+     "zone": "Yak T'el",
+     "x": 10.9,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Hunmu Rruk",
+     "zone": "Yak T'el",
+     "x": 9.7,
+     "y": 13.4
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 11.1,
@@ -511,6 +1849,26 @@
    "section": "Levels 94-95",
    "title": "Taking a Stand",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 11,
+     "y": 13
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yak T'el",
+     "x": 10.9,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 10.9,
+     "y": 13
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 9.7,
@@ -525,6 +1883,44 @@
    "unlocks": [
     "Mamook"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Yak T'el",
+     "x": 33.5,
+     "y": 22
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Yak T'el",
+     "x": 33.8,
+     "y": 25.8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yak T'el",
+     "x": 34,
+     "y": 25
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Yak T'el",
+     "x": 35.9,
+     "y": 28.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Yak T'el",
+     "x": 35.9,
+     "y": 28.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Yak T'el",
+     "x": 36.3,
+     "y": 31.8
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 10.9,
@@ -536,6 +1932,38 @@
    "section": "Levels 94-95",
    "title": "City of Silence",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to belligerent Boonewa",
+     "zone": "Yak T'el",
+     "x": 32.7,
+     "y": 31.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 33.6,
+     "y": 31.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 34.1,
+     "y": 31.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Yak T'el",
+     "x": 28.7,
+     "y": 33.4
+    },
+    {
+     "label": "Talk to dignified lady",
+     "zone": "Yak T'el",
+     "x": 26.2,
+     "y": 34.3
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 36.3,
@@ -547,6 +1975,38 @@
    "section": "Levels 94-95",
    "title": "Blessed Siblings",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 19.4,
+     "y": 33.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Yak T'el",
+     "x": 14.2,
+     "y": 31.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 8.7,
+     "y": 32.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 7.4,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 36,
+     "y": 32.4
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 26.2,
@@ -558,6 +2018,38 @@
    "section": "Levels 94-95",
    "title": "Scale of Trust",
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to belligerent Boonewa",
+     "zone": "Yak T'el",
+     "x": 32.7,
+     "y": 31.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 33.6,
+     "y": 31.3
+    },
+    {
+     "label": "Talk to grove worker",
+     "zone": "Yak T'el",
+     "x": 25.8,
+     "y": 29.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Yak T'el",
+     "x": 21.3,
+     "y": 21.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 21.2,
+     "y": 21.5
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 35.9,
@@ -569,6 +2061,44 @@
    "section": "Levels 94-95",
    "title": "Mamook Speaks",
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to grove worker",
+     "zone": "Yak T'el",
+     "x": 21.3,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 21.2,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 22.8,
+     "y": 29.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yak T'el",
+     "x": 21.1,
+     "y": 31.7
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Yak T'el",
+     "x": 19.6,
+     "y": 29.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 21.2,
+     "y": 21.5
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 21.2,
@@ -580,6 +2110,38 @@
    "section": "Levels 94-95",
    "title": "The Feat of the Brotherhood",
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Yak T'el",
+     "x": 21.3,
+     "y": 21.5
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Yak T'el",
+     "x": 31.5,
+     "y": 31.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 28.6,
+     "y": 33.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yak T'el",
+     "x": 28.6,
+     "y": 33.5
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 28.7,
+     "y": 33.4
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 21.2,
@@ -595,6 +2157,50 @@
     "The Skydeep Cenote",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 33,
+     "y": 27.3
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Yak T'el",
+     "x": 32.1,
+     "y": 27.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Yak T'el",
+     "x": 36.3,
+     "y": 31.8
+    },
+    {
+     "label": "Talk to imposing beast",
+     "zone": "Yak T'el",
+     "x": 7.3,
+     "y": 34
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Skydeep Cenote",
+     "x": 13.2,
+     "y": 5.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 10.2,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Tuliyollal",
+     "x": 10.3,
+     "y": 15.2
+    }
+   ],
    "target": {
     "zone": "Yak T'el",
     "x": 31.6,
@@ -606,6 +2212,14 @@
    "section": "Levels 94-95",
    "title": "Dawn of a New Tomorrow",
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Tuliyollal",
+     "x": 11.7,
+     "y": 7.6
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 10,
@@ -619,6 +2233,44 @@
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "In Rite Triumphant"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Wuk Evu",
+     "zone": "Tuliyollal",
+     "x": 15.3,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Fonjeantaine",
+     "zone": "Tuliyollal",
+     "x": 12.8,
+     "y": 12.7
+    },
+    {
+     "label": "Talk to Hunmu Rruk",
+     "zone": "Tuliyollal",
+     "x": 12.4,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Tuliyollal",
+     "x": 11.7,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Tuliyollal",
+     "x": 14.3,
+     "y": 2.5
+    }
    ],
    "target": {
     "zone": "Tuliyollal",
@@ -637,6 +2289,38 @@
     "Sheshenewezi Springs",
     "Mehwahhetsoan"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Landsguard gate sentry",
+     "zone": "Tuliyollal",
+     "x": 14.4,
+     "y": 2.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Shaaloani",
+     "x": 27.2,
+     "y": 36.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 27,
+     "y": 34.8
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 26.7,
+     "y": 31
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 28.4,
+     "y": 30.4
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 14.3,
@@ -648,6 +2332,44 @@
    "section": "Levels 94-95",
    "title": "Saddled Up",
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to good-natured stableman",
+     "zone": "Shaaloani",
+     "x": 26.8,
+     "y": 31.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Shaaloani",
+     "x": 15.5,
+     "y": 18.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 14.5,
+     "y": 17.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 14.4,
+     "y": 17.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Shaaloani",
+     "x": 10.2,
+     "y": 17.6
+    },
+    {
+     "label": "Talk to Iyaate",
+     "zone": "Shaaloani",
+     "x": 15.2,
+     "y": 17.9
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 28.4,
@@ -659,6 +2381,50 @@
    "section": "Levels 94-95",
    "title": "Braced for Trouble",
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 9.8,
+     "y": 20.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 8.8,
+     "y": 20.8
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 6.9,
+     "y": 21.1
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 15.7,
+     "y": 27.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Shaaloani",
+     "x": 13.2,
+     "y": 34.3
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 15.7,
+     "y": 27.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 9.8,
+     "y": 20.3
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 15.2,
@@ -670,6 +2436,26 @@
    "section": "Levels 94-95",
    "title": "Blowing Smoke",
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 7.7,
+     "y": 21
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 10.2,
+     "y": 22
+    },
+    {
+     "label": "Talk to Zekowa",
+     "zone": "Shaaloani",
+     "x": 12.7,
+     "y": 19.1
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 9.8,
@@ -681,6 +2467,44 @@
    "section": "Levels 94-95",
    "title": "Law of the Land",
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wihuwte",
+     "zone": "Shaaloani",
+     "x": 13.8,
+     "y": 18.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 17,
+     "y": 22.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 21.6,
+     "y": 24.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 22.2,
+     "y": 27.3
+    },
+    {
+     "label": "Talk to Wihuwte",
+     "zone": "Shaaloani",
+     "x": 13.8,
+     "y": 18.8
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 28.5,
+     "y": 30.5
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 12.6,
@@ -697,6 +2521,32 @@
    "section": "Levels 96-97",
    "title": "One with Nature",
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 19,
+     "y": 14
+    },
+    {
+     "label": "Talk to Wawlika",
+     "zone": "Shaaloani",
+     "x": 25.5,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Hhwato",
+     "zone": "Shaaloani",
+     "x": 27.6,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Wawlika",
+     "zone": "Shaaloani",
+     "x": 28.4,
+     "y": 12.6
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 14.5,
@@ -708,6 +2558,38 @@
    "section": "Levels 96-97",
    "title": "And the Land Would Tremble",
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 28.4,
+     "y": 12.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 23.9,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Shaaloani",
+     "x": 17.6,
+     "y": 13.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Sunperch",
+     "x": 6.1,
+     "y": 4.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Sunperch",
+     "x": 5.8,
+     "y": 4.7
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 28.4,
@@ -719,6 +2601,56 @@
    "section": "Levels 96-97",
    "title": "No Time for Tears",
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Sunperch",
+     "x": 6.1,
+     "y": 4.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 11,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 9.9,
+     "y": 11.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 9.5,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Tuliyollal",
+     "x": 13,
+     "y": 12.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 13,
+     "y": 15.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 10.3,
+     "y": 16.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Tuliyollal",
+     "x": 14.7,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "Sunperch",
     "x": 5.8,
@@ -730,6 +2662,32 @@
    "section": "Levels 96-97",
    "title": "Pick up the Pieces",
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 14.7,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Tuliyollal",
+     "x": 9.8,
+     "y": 4.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Sunperch",
+     "x": 6.1,
+     "y": 4.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Sunperch",
+     "x": 6.2,
+     "y": 4.4
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 14.7,
@@ -741,6 +2699,32 @@
    "section": "Levels 96-97",
    "title": "Together as One",
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 8.6,
+     "y": 12.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 13.4,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 9.9,
+     "y": 4.6
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Tuliyollal",
+     "x": 12.1,
+     "y": 7.8
+    }
+   ],
    "target": {
     "zone": "Sunperch",
     "x": 6.2,
@@ -752,6 +2736,68 @@
    "section": "Levels 96-97",
    "title": "In Yyasulani's Shadow",
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 14.2,
+     "y": 2.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Shaaloani",
+     "x": 27.2,
+     "y": 36.3
+    },
+    {
+     "label": "Talk to Kemakka",
+     "zone": "Shaaloani",
+     "x": 30.9,
+     "y": 30.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Shaaloani",
+     "x": 15.8,
+     "y": 20.3
+    },
+    {
+     "label": "Talk to mechanical soldier",
+     "zone": "Shaaloani",
+     "x": 14.2,
+     "y": 18.7
+    },
+    {
+     "label": "Talk to Iyaate",
+     "zone": "Shaaloani",
+     "x": 15.2,
+     "y": 17.9
+    },
+    {
+     "label": "Talk to railroad clerk",
+     "zone": "Shaaloani",
+     "x": 14.1,
+     "y": 19.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Shaaloani",
+     "x": 14.9,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Shaaloani",
+     "x": 18.1,
+     "y": 14.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Shaaloani",
+     "x": 18.1,
+     "y": 14.4
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 12.1,
@@ -763,6 +2809,32 @@
    "section": "Levels 96-97",
    "title": "Putting Plans into Locomotion",
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wawlika",
+     "zone": "Shaaloani",
+     "x": 18.6,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Shaaloani",
+     "x": 18.6,
+     "y": 15.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Shaaloani",
+     "x": 20.3,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Iyaate",
+     "zone": "Shaaloani",
+     "x": 15.2,
+     "y": 17.9
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 18.2,
@@ -776,6 +2848,44 @@
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Iyaate",
+     "zone": "Shaaloani",
+     "x": 17,
+     "y": 23
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 17.5,
+     "y": 21.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 18,
+     "y": 24.4
+    },
+    {
+     "label": "Talk to Iyaate",
+     "zone": "Shaaloani",
+     "x": 17,
+     "y": 23
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Shaaloani",
+     "x": 18.4,
+     "y": 15.3
+    },
+    {
+     "label": "Talk to Wawlika",
+     "zone": "Shaaloani",
+     "x": 18.7,
+     "y": 13.9
+    }
    ],
    "target": {
     "zone": "Shaaloani",
@@ -792,6 +2902,38 @@
     "Vanguard",
     "Heritage Found"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Shaaloani",
+     "x": 18.6,
+     "y": 13.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Vanguard",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Vanguard",
+     "x": 13.1,
+     "y": 2.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 34.5,
+     "y": 35.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 34.5,
+     "y": 35.4
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 18.7,
@@ -803,6 +2945,56 @@
    "section": "Levels 96-97",
    "title": "The Land of Levin",
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Heritage Found",
+     "x": 33,
+     "y": 31.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 32.5,
+     "y": 25.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 31.5,
+     "y": 25.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 30.9,
+     "y": 24.8
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Heritage Found",
+     "x": 30.9,
+     "y": 22.4
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Heritage Found",
+     "x": 28.1,
+     "y": 23.2
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Heritage Found",
+     "x": 27.8,
+     "y": 19.7
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Heritage Found",
+     "x": 27.2,
+     "y": 18.1
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 34.5,
@@ -814,6 +3006,26 @@
    "section": "Levels 96-97",
    "title": "A Royal Welcome",
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 22.2,
+     "y": 16.2
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 18.5,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 17.9,
+     "y": 10.6
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 27.2,
@@ -825,6 +3037,38 @@
    "section": "Levels 96-97",
    "title": "A Day in the Life",
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mahuwsa",
+     "zone": "Heritage Found",
+     "x": 19.1,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Elias",
+     "zone": "Heritage Found",
+     "x": 22,
+     "y": 14.9
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 20.2,
+     "y": 16.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 20.4,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 19.2,
+     "y": 14.5
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 17.9,
@@ -836,6 +3080,62 @@
    "section": "Levels 96-97",
    "title": "On the Cloud",
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 18.6,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 18.6,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to working resident",
+     "zone": "Heritage Found",
+     "x": 18.5,
+     "y": 9.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 17.4,
+     "y": 9.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 23.9,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Heritage Found",
+     "x": 26.5,
+     "y": 10.5
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Heritage Found",
+     "x": 25.9,
+     "y": 7.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Earthen Sky Hideout",
+     "x": 6.1,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Earthen Sky Hideout",
+     "x": 6.1,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 19.2,
@@ -850,6 +3150,38 @@
    "unlocks": [
     "The Worth of a Soul"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Heritage Found",
+     "x": 26.8,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Strika",
+     "zone": "Heritage Found",
+     "x": 31.2,
+     "y": 11.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 32.2,
+     "y": 15.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 30.3,
+     "y": 15.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 30.5,
+     "y": 12
+    }
+   ],
    "target": {
     "zone": "Earthen Sky Hideout",
     "x": 6.1,
@@ -861,6 +3193,26 @@
    "section": "Levels 96-97",
    "title": "Embracing Oblivion",
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 26.5,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Earthen Sky Hideout",
+     "x": 6.1,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Geode",
+     "zone": "Earthen Sky Hideout",
+     "x": 6.2,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 30.6,
@@ -886,6 +3238,32 @@
    "section": "Levels 96-97",
    "title": "The Queen's Tour",
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 9.1,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 9.1,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 9.1,
+     "y": 13.2
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 4.3,
+     "y": 19.7
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 9.7,
@@ -897,6 +3275,32 @@
    "section": "Levels 98-99",
    "title": "Her People, Her Family",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 12.4,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 12.5,
+     "y": 6.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 12.5,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 15.1,
+     "y": 14.3
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 4.3,
@@ -908,6 +3312,38 @@
    "section": "Levels 98-99",
    "title": "Scales of Blue",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 17.4,
+     "y": 14.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Solution Nine",
+     "x": 19.1,
+     "y": 14.3
+    },
+    {
+     "label": "Talk to blue-scaled Hoobigo child",
+     "zone": "Solution Nine",
+     "x": 19.3,
+     "y": 14.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Solution Nine",
+     "x": 18.2,
+     "y": 18.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 18.4,
+     "y": 18.2
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 15.1,
@@ -919,6 +3355,32 @@
    "section": "Levels 98-99",
    "title": "Gives You Teeth",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Genolt",
+     "zone": "The Backroom",
+     "x": 6.4,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Philomon",
+     "zone": "Solution Nine",
+     "x": 19.7,
+     "y": 18.7
+    },
+    {
+     "label": "Talk to Genolt",
+     "zone": "The Backroom",
+     "x": 6.4,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "The Backroom",
+     "x": 6.2,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 18.4,
@@ -930,6 +3392,32 @@
    "section": "Levels 98-99",
    "title": "Little Footfalls",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 15.5,
+     "y": 5.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 11.8,
+     "y": 10
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 9.4,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 7.4,
+     "y": 17.3
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6.2,
@@ -941,6 +3429,44 @@
    "section": "Levels 98-99",
    "title": "Drowned Vestiges",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 11.1,
+     "y": 23.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 10.4,
+     "y": 23.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 11.8,
+     "y": 27.9
+    },
+    {
+     "label": "Talk to Otis",
+     "zone": "Heritage Found",
+     "x": 12.1,
+     "y": 27.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Heritage Found",
+     "x": 16.8,
+     "y": 31.8
+    },
+    {
+     "label": "Talk to Otis",
+     "zone": "Heritage Found",
+     "x": 12.2,
+     "y": 27.8
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 7.4,
@@ -952,6 +3478,32 @@
    "section": "Levels 98-99",
    "title": "Memories of a Knight",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 10.4,
+     "y": 27.8
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "Heritage Found",
+     "x": 12.2,
+     "y": 27.8
+    },
+    {
+     "label": "Talk to Otis",
+     "zone": "Heritage Found",
+     "x": 12.2,
+     "y": 27.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 12.1,
+     "y": 27.8
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 12.2,
@@ -963,6 +3515,32 @@
    "section": "Levels 98-99",
    "title": "At a Crossroads",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 12.1,
+     "y": 27.8
+    },
+    {
+     "label": "Talk to Taapu",
+     "zone": "Heritage Found",
+     "x": 9.4,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Otis",
+     "zone": "Heritage Found",
+     "x": 15.6,
+     "y": 8.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 15.5,
+     "y": 8
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 12.2,
@@ -974,6 +3552,26 @@
    "section": "Levels 98-99",
    "title": "The Protector and the Destroyer",
    "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 34.5,
+     "y": 35.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Solution Nine",
+     "x": 19.4,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 19.4,
+     "y": 14.4
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 15.5,
@@ -985,6 +3583,38 @@
    "section": "Levels 98-99",
    "title": "A Comforting Hand",
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Solution Nine",
+     "x": 19.5,
+     "y": 18.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "The Backroom",
+     "x": 5.9,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "The Backroom",
+     "x": 5.9,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 19.4,
@@ -998,6 +3628,20 @@
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Erenville",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Heritage Found",
+     "x": 15.6,
+     "y": 5.1
+    }
    ],
    "target": {
     "zone": "The Backroom",
@@ -1015,6 +3659,44 @@
     "Everkeep",
     "The Burden of Legacy"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Heritage Found",
+     "x": 9.3,
+     "y": 10.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Origenics",
+     "x": 12.7,
+     "y": 9.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Summit of Everkeep",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Summit of Everkeep",
+     "x": 6.1,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Summit of Everkeep",
+     "x": 6.2,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 15.6,
@@ -1026,6 +3708,38 @@
    "section": "Levels 98-99",
    "title": "A New Family",
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 11.4,
+     "y": 7.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 15.8,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 14.2,
+     "y": 5.2
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Tuliyollal",
+     "x": 15.9,
+     "y": 4.1
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6,
@@ -1039,6 +3753,20 @@
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mewazunte"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Koana",
+     "zone": "Tuliyollal",
+     "x": 9.8,
+     "y": 4.3
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Tuliyollal",
+     "x": 12.4,
+     "y": 12.9
+    }
    ],
    "target": {
     "zone": "Tuliyollal",
@@ -1055,6 +3783,56 @@
     "Living Memory",
     "Leynode Mnemo"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Yak T'el",
+     "x": 5,
+     "y": 39
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Skydeep Cenote Inner Chamber",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Skydeep Cenote Inner Chamber",
+     "x": 6.1,
+     "y": 5.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 38.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 38.5
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 21,
+     "y": 37.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 28.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 28.7
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 12.4,
@@ -1066,6 +3844,44 @@
    "section": "Levels 98-99",
    "title": "Those Who Live Forever",
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 37
+    },
+    {
+     "label": "Talk to Canal Town guard",
+     "zone": "Living Memory",
+     "x": 20.8,
+     "y": 36.6
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 18.9,
+     "y": 32.5
+    },
+    {
+     "label": "Talk to cheerful Endless",
+     "zone": "Living Memory",
+     "x": 17.6,
+     "y": 32.2
+    },
+    {
+     "label": "Talk to Erastus",
+     "zone": "Living Memory",
+     "x": 17.8,
+     "y": 33.6
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Living Memory",
+     "x": 16.2,
+     "y": 32.2
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 21.5,
@@ -1077,6 +3893,62 @@
    "section": "Levels 98-99",
    "title": "In Serenity and Sorrow",
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Living Memory",
+     "x": 15.1,
+     "y": 32.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 16.1,
+     "y": 33.7
+    },
+    {
+     "label": "Talk to fair-haired man",
+     "zone": "Living Memory",
+     "x": 14.6,
+     "y": 32.9
+    },
+    {
+     "label": "Talk to gondolier",
+     "zone": "Living Memory",
+     "x": 15.7,
+     "y": 32
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Living Memory",
+     "x": 10.1,
+     "y": 31.5
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 12.7,
+     "y": 30.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 13.3,
+     "y": 31.3
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 12.7,
+     "y": 30.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 7.4,
+     "y": 27.7
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 16.2,
@@ -1088,6 +3960,44 @@
    "section": "Levels 98-99",
    "title": "The Land of Dreams",
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Yesterland guard",
+     "zone": "Living Memory",
+     "x": 22.7,
+     "y": 37
+    },
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 26.9,
+     "y": 34.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 27.6,
+     "y": 33.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 29.2,
+     "y": 32.5
+    },
+    {
+     "label": "Talk to old-fashioned knight",
+     "zone": "Living Memory",
+     "x": 29.1,
+     "y": 32.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 29.2,
+     "y": 32.6
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 7.5,
@@ -1099,6 +4009,44 @@
    "section": "Levels 98-99",
    "title": "A Knight of Alexandria",
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Living Memory",
+     "x": 28.6,
+     "y": 28.7
+    },
+    {
+     "label": "Talk to Otis",
+     "zone": "Living Memory",
+     "x": 28.6,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to energetic boy",
+     "zone": "Living Memory",
+     "x": 27.8,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to Otis",
+     "zone": "Living Memory",
+     "x": 28.6,
+     "y": 29.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 35.5,
+     "y": 29.1
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 36.5,
+     "y": 25.9
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 29.2,
@@ -1110,6 +4058,32 @@
    "section": "Level 100",
    "title": "The Sanctuary of the Strong",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Asyle Volcane guard",
+     "zone": "Living Memory",
+     "x": 22.2,
+     "y": 36.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 28.6,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 26.7,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Living Memory",
+     "x": 28.4,
+     "y": 15.6
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 36.4,
@@ -1121,6 +4095,50 @@
    "section": "Level 100",
    "title": "The Taste of Family",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Living Memory",
+     "x": 33.6,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Living Memory",
+     "x": 33.2,
+     "y": 17.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Living Memory",
+     "x": 34.7,
+     "y": 15.8
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 31.8,
+     "y": 19
+    },
+    {
+     "label": "Talk to ice cream vendor",
+     "zone": "Living Memory",
+     "x": 31.5,
+     "y": 18.7
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Living Memory",
+     "x": 33.6,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Living Memory",
+     "x": 35.5,
+     "y": 15.4
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 28.4,
@@ -1132,6 +4150,44 @@
    "section": "Level 100",
    "title": "Leafing through the Past",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 36.6,
+     "y": 13.7
+    },
+    {
+     "label": "Talk to mechanical guide",
+     "zone": "Living Memory",
+     "x": 35.8,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to mechanical guide",
+     "zone": "Living Memory",
+     "x": 31.2,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Living Memory",
+     "x": 30.5,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 31.2,
+     "y": 14.9
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 31.3,
+     "y": 14.8
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 35.5,
@@ -1143,6 +4199,32 @@
    "section": "Level 100",
    "title": "An Explorer's Delight",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 22.2,
+     "y": 36.9
+    },
+    {
+     "label": "Talk to Windspath Gardens guard",
+     "zone": "Living Memory",
+     "x": 20.4,
+     "y": 36.9
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 17.8,
+     "y": 22.7
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 16.7,
+     "y": 20.1
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 31.2,
@@ -1154,6 +4236,32 @@
    "section": "Level 100",
    "title": "In Search of Discovery",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to specimen-observing Endless",
+     "zone": "Living Memory",
+     "x": 17.3,
+     "y": 18
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 16.5,
+     "y": 20.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Living Memory",
+     "x": 14.8,
+     "y": 18.8
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 11.1,
+     "y": 12.6
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 16.7,
@@ -1167,6 +4275,32 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to museum curator",
+     "zone": "Living Memory",
+     "x": 11,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Living Memory",
+     "x": 10.9,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Cahciua",
+     "zone": "Living Memory",
+     "x": 11.8,
+     "y": 7.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 11.5,
+     "y": 4.7
+    }
    ],
    "target": {
     "zone": "Living Memory",
@@ -1183,6 +4317,38 @@
     "Alexandria",
     "The Interphos",
     "In the Glow of a New Dawn"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 28.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Alexandria",
+     "x": 8.9,
+     "y": 8.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Interphos",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Tuliyollal",
+     "x": 10.2,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 10.2,
+     "y": 15.1
+    }
    ],
    "target": {
     "zone": "Living Memory",

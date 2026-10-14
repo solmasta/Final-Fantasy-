@@ -19,7 +19,13 @@ function renderStep(s) {
     else { const ul = el('ul'); v.forEach(x => ul.append(el('li', '', x))); b.append(ul); }
     box.append(b);
   }
-  renderNav(st, s.pos);
+  if (st.objectives && st.objectives.length) {
+    const b = el('div', 'block'); b.append(el('b', '', 'Objectives (F5 = aim arrow at next)'));
+    const ul = el('ul');
+    st.objectives.forEach((o, n) => { const li = el('li', '', `${n === s.obj ? '► ' : ''}${o.label} – ${o.zone} (${o.x}, ${o.y})`); if (n === s.obj) li.style.color = '#ffd75e'; ul.append(li); });
+    b.append(ul); box.append(b);
+  }
+  renderNav(st, s.pos, s.obj);
   const nxt = guide.steps[s.step + 1];
   if (nxt) box.append(el('div', 'next', 'Next: ' + nxt.title));
   $('bar').style.width = ((s.step + 1) / guide.steps.length * 100) + '%';
@@ -36,8 +42,8 @@ function renderStep(s) {
 
 const DIRS = ['N', 'NE', 'E', 'SE', 'S', 'SW', 'W', 'NW'];
 // Map coordinates: X grows east, Y grows south. Arrow is relative to a north-up map.
-function renderNav(st, pos) {
-  const nav = $('nav'), t = st.target;
+function renderNav(st, pos, obj) {
+  const nav = $('nav'), t = obj >= 0 && st.objectives ? st.objectives[obj] : st.target;
   if (!t) { nav.classList.remove('on'); return; }
   nav.classList.add('on');
   const txt = $('navtxt');

@@ -55,6 +55,10 @@ h2 { font: 600 28px/1.2 var(--f-display); margin: 6px 0 4px; text-wrap: balance;
 .blk h3 { margin: 0 0 3px; font: 600 11.5px var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
 .blk ul { margin: 0; padding-left: 18px; }
 .blk li { margin: 2px 0; }
+.objs { padding-left: 22px; }
+.objs li.on { color: var(--gold); font-weight: 600; }
+.olink { background: none; border: 0; padding: 0; color: inherit; font: inherit; text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.olink:hover { text-decoration-color: var(--accent); }
 .next { margin-top: 14px; padding-top: 10px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
 .btns { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
 button.b { background: var(--panel2); color: var(--fg); border: 1px solid var(--line); border-radius: 7px; padding: 9px 14px; font: 500 14px var(--f-body); cursor: pointer; }
@@ -118,7 +122,7 @@ button.b.main { background: var(--accent); color: var(--accent-fg); border-color
             </div>
             <div><label class="l" for="aeth">Aim at an aetheryte</label><select id="aeth"></select></div>
             <div><label class="l" for="paste">Or paste your coordinates</label><input id="paste" type="text" placeholder="( 11.2 , 13.5 )  then Enter"></div>
-            <p class="hint">Read your X, Y under the in-game minimap. The arrow points relative to the map, so set the minimap to fixed north. Steps that unlock an aetheryte fill in the target for you.</p>
+            <p class="hint">Read your X, Y under the in-game minimap. The arrow points relative to the map, so set the minimap to fixed north. Each quest step aims the arrow at the quest giver first; use the objective buttons to move through the quest.</p>
           </div>
         </div>
       </section>
@@ -138,17 +142,18 @@ const store = {
 const guideOrder = GUIDES.slice().sort((a, b) => a.id.localeCompare(b.id));
 let gid = store.get('guide', null);
 if (!guideOrder.some(g => g.id === gid)) gid = (guideOrder.find(g => g.id.includes('01-arr')) || guideOrder[0]).id;
-const pos = store.get('pos', {});          // current step per guide
+const pos = store.get('pos', {});
+let obj = -1;                               // -1 = quest start, 0.. = objective index          // current step per guide
 let query = '';
 
 const cur = () => guideOrder.find(g => g.id === gid);
 const idx = () => Math.min(Math.max(pos[gid] || 0, 0), cur().steps.length - 1);
-function setIdx(i) { pos[gid] = Math.min(Math.max(i, 0), cur().steps.length - 1); store.set('pos', pos); render(); }
+function setIdx(i) { obj = -1; pos[gid] = Math.min(Math.max(i, 0), cur().steps.length - 1); store.set('pos', pos); render(); }
 
 /* ---------- guide + list ---------- */
 $('guide').replaceChildren(...guideOrder.map(g => { const o = el('option', '', g.title); o.value = g.id; return o; }));
 $('guide').value = gid;
-$('guide').onchange = e => { gid = e.target.value; store.set('guide', gid); query = ''; $('search').value = ''; render(); };
+$('guide').onchange = e => { obj = -1; gid = e.target.value; store.set('guide', gid); query = ''; $('search').value = ''; render(); };
 $('search').oninput = e => { query = e.target.value.trim().toLowerCase(); renderList(); };
 
 const haystack = s => [s.title, s.section, ...(s.unlocks || []), ...(s.dungeons || []), ...(s.trials || []), ...(s.raids || []), ...(s.zones || []), ...(s.cities || []), ...(s.other || [])].join(' ').toLowerCase();
@@ -189,19 +194,38 @@ function renderStep() {
     else { const ul = el('ul'); v.forEach(x => ul.append(el('li', '', x))); b.append(ul); }
     box.append(b);
   }
-  if (s.target) {
-    const b = el('div', 'blk'); b.append(el('h3', '', 'Go to'));
-    b.append(document.createTextNode(`${s.target.label || 'Target'}${s.target.zone ? ' in ' + s.target.zone : ''} (${s.target.x}, ${s.target.y})`));
+  if (s.target || (obj >= 0 && s.objectives)) {
+    const b = el('div', 'blk'); b.append(el('h3', '', 'Arrow is pointing at'));
+    const t = obj >= 0 && s.objectives ? s.objectives[obj] : s.target;
+    b.append(document.createTextNode(`${t.label || 'Target'}${t.zone ? ' in ' + t.zone : ''} (${t.x}, ${t.y})`));
     box.append(b);
+  }
+  if (s.objectives && s.objectives.length) {
+    const b = el('div', 'blk'); b.append(el('h3', '', 'Objectives, in order'));
+    const ol = el('ol', 'objs');
+    s.objectives.forEach((o, n) => {
+      const li = el('li', n === obj ? 'on' : '');
+      const bt = el('button', 'olink', `${o.label} · ${o.zone} (${o.x}, ${o.y})`); bt.type = 'button';
+      bt.onclick = () => { obj = n; renderStep(); };
+      li.append(bt); ol.append(li);
+    });
+    b.append(ol); box.append(b);
   }
   const nx = g.steps[i + 1];
   if (nx) box.append(el('div', 'next', 'Next: ' + nx.title));
   const btns = el('div', 'btns');
   const prev = el('button', 'b', 'Back'); prev.type = 'button'; prev.disabled = i === 0; prev.onclick = () => setIdx(i - 1);
   const next = el('button', 'b main', i === g.steps.length - 1 ? 'Finished' : 'Done, next'); next.type = 'button'; next.disabled = i === g.steps.length - 1; next.onclick = () => setIdx(i + 1);
-  btns.append(prev, next);
+  btns.append(prev);
+  if (s.objectives && s.objectives.length) {
+    const ob = el('button', 'b', obj + 1 >= s.objectives.length ? 'Back to quest start' : (obj < 0 ? 'First objective' : 'Next objective')); ob.type = 'button';
+    ob.onclick = () => { obj = obj + 1 >= s.objectives.length ? -1 : obj + 1; renderStep(); };
+    btns.append(ob);
+  }
+  btns.append(next);
   box.append(btns, el('div', 'kbd', 'Keys: ← back, → next'));
-  if (s.target) { $('tx').value = s.target.x; $('ty').value = s.target.y; updateNav(); }
+  const tgt = obj >= 0 && s.objectives ? s.objectives[obj] : s.target;
+  if (tgt) { $('tx').value = tgt.x; $('ty').value = tgt.y; updateNav(); }
 }
 
 /* ---------- navigator ---------- */

@@ -8,6 +8,44 @@
    "unlocks": [
     "Lakeland"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Saint Coinach ferryman",
+     "zone": "Mor Dhona",
+     "x": 28.5,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Syrcus Trench",
+     "x": 5.2,
+     "y": 7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 25.2,
+     "y": 22.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 32,
+     "y": 28.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 7.6,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Crystarium",
+     "x": 7.7,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -22,6 +60,38 @@
    "unlocks": [
     "The Crystarium"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Katliss",
+     "zone": "The Crystarium",
+     "x": 11.1,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Moren",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Bragi",
+     "zone": "The Crystarium",
+     "x": 10.1,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Crystarium",
+     "x": 12.5,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 7.7,
@@ -33,6 +103,44 @@
    "section": "Levels 70-71 – Main chain",
    "title": "Travelers of Norvrandt",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Crystarium gatekeep",
+     "zone": "The Crystarium",
+     "x": 13.6,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Crystarium",
+     "x": 12.5,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Crystarium",
+     "x": 11.2,
+     "y": 14
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Crystarium",
+     "x": 12.5,
+     "y": 16.2
+    },
+    {
+     "label": "Talk to manager of suites",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 16.3
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.5,
@@ -48,6 +156,32 @@
     "Kholusia (South)",
     "Stilltide"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Szem Djenmai",
+     "zone": "The Crystarium",
+     "x": 8.5,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to aspiring amaro tamer",
+     "zone": "The Crystarium",
+     "x": 12.5,
+     "y": 7.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 12.5,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Szem Djenmai",
+     "zone": "Kholusia",
+     "x": 37.6,
+     "y": 26.6
+    }
+   ],
    "target": {
     "zone": "The Ocular",
     "x": 6.1,
@@ -59,6 +193,38 @@
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Still Tide",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 33.7,
+     "y": 30.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 35.3,
+     "y": 27.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 35.2,
+     "y": 22.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 35.6,
+     "y": 22.5
+    },
+    {
+     "label": "Talk to Theva",
+     "zone": "Kholusia",
+     "x": 35.3,
+     "y": 27.1
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 37.6,
@@ -70,6 +236,50 @@
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "Open Arms, Closed Gate",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 29.1,
+     "y": 27.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 28,
+     "y": 25.7
+    },
+    {
+     "label": "Talk to manic madame",
+     "zone": "Kholusia",
+     "x": 28.3,
+     "y": 25.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 24.9,
+     "y": 32.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 24.8,
+     "y": 35.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 24.8,
+     "y": 36.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 24.8,
+     "y": 35.1
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 35.3,
@@ -81,6 +291,44 @@
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Fickle Existence",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mosha-Moa",
+     "zone": "Kholusia",
+     "x": 16.2,
+     "y": 29
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 16,
+     "y": 34.4
+    },
+    {
+     "label": "Talk to blue-haired Mystel",
+     "zone": "Kholusia",
+     "x": 15,
+     "y": 37.1
+    },
+    {
+     "label": "Talk to weakened wretch",
+     "zone": "Kholusia",
+     "x": 8.8,
+     "y": 32.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 8.7,
+     "y": 32.9
+    },
+    {
+     "label": "Talk to Tristol",
+     "zone": "Kholusia",
+     "x": 14.9,
+     "y": 29.3
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 24.8,
@@ -95,6 +343,68 @@
    "unlocks": [
     "Eulmore"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 24.9,
+     "y": 35.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 24.9,
+     "y": 35.1
+    },
+    {
+     "label": "Talk to red jongleur",
+     "zone": "Eulmore",
+     "x": 11.3,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to immigration officer",
+     "zone": "Eulmore",
+     "x": 11.6,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to registration officer",
+     "zone": "Eulmore",
+     "x": 11.6,
+     "y": 11.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.5,
+     "y": 11.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.4,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eulmore",
+     "x": 11.3,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Cornenne",
+     "zone": "Eulmore",
+     "x": 11.5,
+     "y": 10.5
+    },
+    {
+     "label": "Talk to Dulia-Chai",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.8
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 14.9,
@@ -106,6 +416,26 @@
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "Free to Sightsee",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to amiable maiden",
+     "zone": "Eulmore",
+     "x": 10.8,
+     "y": 10.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 10.8,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to amiable maiden",
+     "zone": "Eulmore",
+     "x": 10.8,
+     "y": 10.9
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.8,
@@ -117,6 +447,38 @@
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Taste of Honey",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tista-Bie",
+     "zone": "Eulmore",
+     "x": 12.4,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to Atharn",
+     "zone": "Eulmore",
+     "x": 12.3,
+     "y": 10.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 12.6,
+     "y": 10.3
+    },
+    {
+     "label": "Talk to Atharn",
+     "zone": "Eulmore",
+     "x": 12.3,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Dulia-Chai",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.8
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 10.8,
@@ -128,6 +490,32 @@
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Blessed Instrument",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.3,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Thoarich",
+     "zone": "Eulmore",
+     "x": 10.2,
+     "y": 12.5
+    },
+    {
+     "label": "Talk to weeping warbler",
+     "zone": "Eulmore",
+     "x": 10.9,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.8,
@@ -139,6 +527,32 @@
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "Emergent Splendor",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Chadden",
+     "zone": "Eulmore",
+     "x": 11.3,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eulmore",
+     "x": 11.4,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 37.5,
+     "y": 26.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.8,
@@ -154,6 +568,44 @@
     "Amh Araeng (East)",
     "Mord Souq"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Cassard",
+     "zone": "The Crystarium",
+     "x": 12.1,
+     "y": 8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 12.1,
+     "y": 8
+    },
+    {
+     "label": "Talk to Cassard",
+     "zone": "Amh Araeng",
+     "x": 34.8,
+     "y": 8.4
+    },
+    {
+     "label": "Talk to Cassard",
+     "zone": "Amh Araeng",
+     "x": 31.1,
+     "y": 11.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 31.2,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Cassard",
+     "zone": "Amh Araeng",
+     "x": 28,
+     "y": 15.6
+    }
+   ],
    "target": {
     "zone": "The Ocular",
     "x": 6.1,
@@ -165,6 +617,26 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "City of the Mord",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ghen Gen",
+     "zone": "Amh Araeng",
+     "x": 26.9,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Rhon Ron",
+     "zone": "Amh Araeng",
+     "x": 27.8,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to Ghen Gen",
+     "zone": "Amh Araeng",
+     "x": 26.9,
+     "y": 18.6
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 28,
@@ -176,6 +648,20 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Working Off the Meal",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 26.7,
+     "y": 16.7
+    },
+    {
+     "label": "Talk to Cassard",
+     "zone": "Amh Araeng",
+     "x": 27.8,
+     "y": 18.4
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 26.8,
@@ -187,6 +673,44 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "A Desert Crossing",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 28.4,
+     "y": 19.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 30.6,
+     "y": 20.7
+    },
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 30.4,
+     "y": 20.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 31.6,
+     "y": 22.6
+    },
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 30.4,
+     "y": 20.6
+    },
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 29.3,
+     "y": 26.2
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 27.8,
@@ -198,6 +722,44 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Following in Her Footprints",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 28.8,
+     "y": 31.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 28.6,
+     "y": 31.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 28.2,
+     "y": 30.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 27.3,
+     "y": 29.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 25.8,
+     "y": 29
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 26.9,
+     "y": 28.2
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 29,
@@ -209,6 +771,26 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Culling Their Ranks",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 25.8,
+     "y": 26.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 29.4,
+     "y": 26.1
+    },
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 29,
+     "y": 27.3
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 26.9,
@@ -220,6 +802,50 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "A Purchase of Fruit",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Pawnil",
+     "zone": "Amh Araeng",
+     "x": 28.7,
+     "y": 27.9
+    },
+    {
+     "label": "Talk to Todden",
+     "zone": "Amh Araeng",
+     "x": 28.6,
+     "y": 27.7
+    },
+    {
+     "label": "Talk to Halric",
+     "zone": "Amh Araeng",
+     "x": 28.8,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 29,
+     "y": 27.3
+    },
+    {
+     "label": "Talk to Rhon Ron",
+     "zone": "Amh Araeng",
+     "x": 27.8,
+     "y": 17.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 25.8,
+     "y": 17.2
+    },
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 29,
+     "y": 27.3
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 29,
@@ -231,6 +857,50 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "The Time Left to Us",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tesleen",
+     "zone": "Amh Araeng",
+     "x": 29.5,
+     "y": 28.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 31,
+     "y": 31.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 27.9,
+     "y": 31
+    },
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 27.2,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 29.5,
+     "y": 26.7
+    },
+    {
+     "label": "Talk to Cassana",
+     "zone": "Amh Araeng",
+     "x": 30,
+     "y": 27.4
+    },
+    {
+     "label": "Talk to Halric",
+     "zone": "Amh Araeng",
+     "x": 29.5,
+     "y": 26.7
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 29,
@@ -242,6 +912,26 @@
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Tears on the Sand",
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 34.8,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Crystarium",
+     "x": 12.2,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Ocular",
+     "x": 6.2,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 29.5,
@@ -255,6 +945,44 @@
    "text": "Level 71 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Holminster Switch"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Lakeland",
+     "x": 28.5,
+     "y": 24.9
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Lakeland",
+     "x": 35.2,
+     "y": 7.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Holminster Switch",
+     "x": 13.9,
+     "y": 1.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 35.2,
+     "y": 7.3
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Lakeland",
+     "x": 35.2,
+     "y": 7.3
+    }
    ],
    "target": {
     "zone": "The Ocular",
@@ -271,6 +999,32 @@
     "Between Two Worlds",
     "Shadowbringers Role Quests"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Crystarium",
+     "x": 11.2,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Bragi",
+     "zone": "The Crystarium",
+     "x": 10.1,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Glynard",
+     "zone": "The Crystarium",
+     "x": 10.8,
+     "y": 15.3
+    },
+    {
+     "label": "Talk to manager of suites",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 16.3
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 35.2,
@@ -282,6 +1036,38 @@
    "section": "Levels 72-73",
    "title": "An Unwelcome Guest",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Moren",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 5.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Moren",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Crystarium",
+     "x": 9.9,
+     "y": 7.1
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.6,
@@ -293,6 +1079,38 @@
    "section": "Levels 72-73",
    "title": "The Crystarium's Resolve",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyna",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 7
+    },
+    {
+     "label": "Talk to Katliss",
+     "zone": "The Crystarium",
+     "x": 11.1,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Chessamile",
+     "zone": "The Crystarium",
+     "x": 10.6,
+     "y": 10.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 10.7,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Szem Djenmai",
+     "zone": "The Crystarium",
+     "x": 8.5,
+     "y": 9.8
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 9.9,
@@ -307,6 +1125,38 @@
    "unlocks": [
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Szem Djenmai",
+     "zone": "Lakeland",
+     "x": 33.3,
+     "y": 28.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 18.2,
+     "y": 19.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 9.1,
+     "y": 18.5
+    },
+    {
+     "label": "Talk to Szeli Vantheu",
+     "zone": "Lakeland",
+     "x": 9.1,
+     "y": 18.5
+    },
+    {
+     "label": "Talk to Lyna",
+     "zone": "Lakeland",
+     "x": 8.5,
+     "y": 16.1
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 8.5,
@@ -318,6 +1168,44 @@
    "section": "Levels 72-73",
    "title": "The Oracle of Light",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Lakeland",
+     "x": 8.8,
+     "y": 18.7
+    },
+    {
+     "label": "Talk to alert amaro",
+     "zone": "Lakeland",
+     "x": 8.7,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Lyna",
+     "zone": "Lakeland",
+     "x": 8.5,
+     "y": 16.1
+    },
+    {
+     "label": "Talk to Crystarium scout",
+     "zone": "Lakeland",
+     "x": 6.4,
+     "y": 15.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 6.4,
+     "y": 15.6
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Il Mheg",
+     "x": 8.8,
+     "y": 35.5
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 8.5,
@@ -333,6 +1221,26 @@
     "Il Mheg",
     "Lydha Lran"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "Il Mheg",
+     "x": 14.1,
+     "y": 31.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 13.9,
+     "y": 31.5
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Il Mheg",
+     "x": 14.1,
+     "y": 31.5
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 8.8,
@@ -344,6 +1252,20 @@
    "section": "Levels 72-73",
    "title": "Sul Uin's Request",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Il Mheg",
+     "x": 12.4,
+     "y": 33.4
+    },
+    {
+     "label": "Talk to Sul Uin",
+     "zone": "Il Mheg",
+     "x": 14.4,
+     "y": 31.1
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 14.4,
@@ -355,6 +1277,20 @@
    "section": "Levels 72-73",
    "title": "Ys Iala's Errand",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Il Mheg",
+     "x": 17.3,
+     "y": 28.6
+    },
+    {
+     "label": "Talk to Ys Iala",
+     "zone": "Il Mheg",
+     "x": 13,
+     "y": 31.3
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 13,
@@ -366,6 +1302,26 @@
    "section": "Levels 72-73",
    "title": "Oul Sigun's Plea",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Il Mheg",
+     "x": 20.3,
+     "y": 27.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Il Mheg",
+     "x": 19.1,
+     "y": 29.8
+    },
+    {
+     "label": "Talk to Oul Sigun",
+     "zone": "Il Mheg",
+     "x": 15.7,
+     "y": 30.6
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 15.7,
@@ -377,6 +1333,26 @@
    "section": "Levels 72-73",
    "title": "Unto the Truth",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Il Mheg",
+     "x": 13.3,
+     "y": 29.7
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Il Mheg",
+     "x": 14.3,
+     "y": 30.9
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Il Mheg",
+     "x": 9.4,
+     "y": 16.9
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 13.4,
@@ -388,6 +1364,26 @@
    "section": "Levels 72-73",
    "title": "Courting Cooperation",
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 8.1,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 8.6,
+     "y": 17
+    },
+    {
+     "label": "Talk to Sul Uin",
+     "zone": "Il Mheg",
+     "x": 14.4,
+     "y": 31.1
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 8.6,
@@ -402,6 +1398,32 @@
    "unlocks": [
     "Dohn Mheg"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Il Mheg",
+     "x": 24.2,
+     "y": 30.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Dohn Mheg",
+     "x": 12.1,
+     "y": 6.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 17.1,
+     "y": 23.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 15.4,
+     "y": 25.2
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 14.4,
@@ -413,6 +1435,44 @@
    "section": "Levels 72-73",
    "title": "A Visit to the Nu Mou",
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 10.5,
+     "y": 16.9
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 13.2,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 11.1,
+     "y": 13.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 11.1,
+     "y": 13.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 17.2,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Il Mheg",
+     "x": 18.9,
+     "y": 7.9
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 15.5,
@@ -427,6 +1487,26 @@
    "unlocks": [
     "Pla Enni"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Marn Ose",
+     "zone": "Il Mheg",
+     "x": 20.6,
+     "y": 4.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 19,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Marn Ose",
+     "zone": "Il Mheg",
+     "x": 20.6,
+     "y": 4.4
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 18.6,
@@ -438,6 +1518,38 @@
    "section": "Levels 72-73",
    "title": "Spore Sweeper",
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 19.5,
+     "y": 4.1
+    },
+    {
+     "label": "Talk to Ys Gyuf",
+     "zone": "Il Mheg",
+     "x": 19.8,
+     "y": 4.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 17.4,
+     "y": 5.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 18.1,
+     "y": 6.6
+    },
+    {
+     "label": "Talk to Ys Gyuf",
+     "zone": "Il Mheg",
+     "x": 19.8,
+     "y": 4.2
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 19.8,
@@ -449,6 +1561,32 @@
    "section": "Levels 72-73",
    "title": "The Lawless Ones",
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Il Mheg",
+     "x": 31.1,
+     "y": 14.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 31.3,
+     "y": 19
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Il Mheg",
+     "x": 27.4,
+     "y": 13.3
+    },
+    {
+     "label": "Talk to Wyd Lad",
+     "zone": "Il Mheg",
+     "x": 19.5,
+     "y": 4.7
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 19.5,
@@ -460,6 +1598,44 @@
    "section": "Levels 72-73",
    "title": "The Elder's Answer",
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wyd Aenc",
+     "zone": "Il Mheg",
+     "x": 21.8,
+     "y": 3.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 29.9,
+     "y": 7.3
+    },
+    {
+     "label": "Talk to Rispa",
+     "zone": "Il Mheg",
+     "x": 29.8,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Eo An",
+     "zone": "Il Mheg",
+     "x": 29.2,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Nimbus",
+     "zone": "Il Mheg",
+     "x": 28.8,
+     "y": 7.2
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 30.6,
+     "y": 7.3
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 19.5,
@@ -471,6 +1647,26 @@
    "section": "Levels 72-73",
    "title": "A Resounding Roar",
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Seto",
+     "zone": "Il Mheg",
+     "x": 30.6,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Seto",
+     "zone": "Il Mheg",
+     "x": 34.7,
+     "y": 9.3
+    },
+    {
+     "label": "Talk to Seto",
+     "zone": "Il Mheg",
+     "x": 30.6,
+     "y": 7.6
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 30.6,
@@ -482,6 +1678,20 @@
    "section": "Levels 72-73",
    "title": "Memento of a Friend",
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 14.9,
+     "y": 16
+    },
+    {
+     "label": "Talk to Seto",
+     "zone": "Il Mheg",
+     "x": 30.6,
+     "y": 7.6
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 30.6,
@@ -497,6 +1707,32 @@
     "The Dancing Plague",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Il Mheg",
+     "x": 18.6,
+     "y": 16
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dancing Plague",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Il Mheg",
+     "x": 14,
+     "y": 30.9
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 13.9,
+     "y": 30.9
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 30.6,
@@ -511,6 +1747,20 @@
    "unlocks": [
     "Realpolitik"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Crystarium",
+     "x": 11.7,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to manager of suites",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 16.3
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 14,
@@ -522,6 +1772,26 @@
    "section": "Levels 74-75",
    "title": "A Party Soon Divided",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Lakeland",
+     "x": 36.5,
+     "y": 21.4
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.6,
@@ -533,6 +1803,26 @@
    "section": "Levels 74-75",
    "title": "A Little Faith",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 36.3,
+     "y": 19.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Lakeland",
+     "x": 36,
+     "y": 19.6
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Lakeland",
+     "x": 35.5,
+     "y": 19.6
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 36.5,
@@ -548,6 +1838,50 @@
     "The Rak'tika Greatwood",
     "Slitherbough"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Myrcant",
+     "zone": "Lakeland",
+     "x": 39,
+     "y": 15.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 7.1,
+     "y": 35.2
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Rak'tika Greatwood",
+     "x": 7.1,
+     "y": 35.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 13,
+     "y": 33.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 13.1,
+     "y": 33.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 16.8,
+     "y": 28.1
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.1,
+     "y": 27.5
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 35.5,
@@ -559,6 +1893,32 @@
    "section": "Levels 74-75",
    "title": "A Day in the Neighborhood",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Runar",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Runar",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.1,
+     "y": 29.2
+    },
+    {
+     "label": "Talk to placid elder",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.2,
+     "y": 28
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.2,
+     "y": 29.2
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 20.8,
@@ -570,6 +1930,38 @@
    "section": "Levels 74-75",
    "title": "A Helping Hand",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.2,
+     "y": 29.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 20.1,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.2,
+     "y": 29.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 20.1,
+     "y": 27.4
+    },
+    {
+     "label": "Talk to Ersabel",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.9,
+     "y": 27.5
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 19.1,
@@ -581,6 +1973,44 @@
    "section": "Levels 74-75",
    "title": "Lost but Not Forgotten",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 16.3,
+     "y": 32.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 15.5,
+     "y": 33.6
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rak'tika Greatwood",
+     "x": 16.6,
+     "y": 37.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 16.8,
+     "y": 35.4
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rak'tika Greatwood",
+     "x": 17.2,
+     "y": 35.8
+    },
+    {
+     "label": "Talk to Runar",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 27.5
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 19.7,
@@ -592,6 +2022,38 @@
    "section": "Levels 74-75",
    "title": "Saying Good-bye",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.6,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to placid elder",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.9,
+     "y": 30
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 29.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 20.1,
+     "y": 29.7
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 20.8,
+     "y": 28.2
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 19.7,
@@ -608,6 +2070,38 @@
    "section": "Levels 74-75",
    "title": "A Beeautiful Plan",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 7.4,
+     "y": 20.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 6.2,
+     "y": 14.8
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 5.5,
+     "y": 13.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 5.1,
+     "y": 14.3
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 11,
+     "y": 20.8
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 16.8,
@@ -619,6 +2113,26 @@
    "section": "Levels 74-75",
    "title": "An Unwanted Proposal",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Runar",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 27.5
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.9,
+     "y": 27.8
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Rak'tika Greatwood",
+     "x": 20.8,
+     "y": 28.2
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 11,
@@ -630,6 +2144,44 @@
    "section": "Levels 74-75",
    "title": "Put to the Proof",
    "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 12.1,
+     "y": 27.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 9.6,
+     "y": 27
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 8.9,
+     "y": 30.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 4.5,
+     "y": 26.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 9.6,
+     "y": 27
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 12.1,
+     "y": 27.5
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 20.8,
@@ -644,6 +2196,26 @@
    "unlocks": [
     "Fanow"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 21.4,
+     "y": 25.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 27.3,
+     "y": 25.9
+    },
+    {
+     "label": "Talk to bow-wielding sentinel",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.6,
+     "y": 20.4
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 12.1,
@@ -655,6 +2227,26 @@
    "section": "Levels 74-75",
    "title": "Top of the Tree",
    "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.6,
+     "y": 18.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 28.5,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.6,
+     "y": 18.4
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 30.6,
@@ -666,6 +2258,38 @@
    "section": "Levels 74-75",
    "title": "Look to the Stars",
    "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 25.6,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 24.9,
+     "y": 12.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 25,
+     "y": 12
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 25,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 25,
+     "y": 10.8
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 30.6,
@@ -677,6 +2301,32 @@
    "section": "Levels 74-75",
    "title": "Mi Casa, Toupasa",
    "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 24,
+     "y": 3.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 25.5,
+     "y": 6.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 23.8,
+     "y": 3.6
+    },
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 24,
+     "y": 3.7
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 25,
@@ -688,6 +2338,26 @@
    "section": "Levels 74-75",
    "title": "Legend of the Not-so-hidden Temple",
    "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 23.9,
+     "y": 3.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 24.9,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Rak'tika Greatwood",
+     "x": 24.9,
+     "y": 10.8
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 24,
@@ -699,6 +2369,26 @@
    "section": "Levels 74-75",
    "title": "The Aftermath",
    "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.5,
+     "y": 17.3
+    },
+    {
+     "label": "Talk to Runar",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.5,
+     "y": 17.3
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.5,
+     "y": 17.3
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 24.8,
@@ -710,6 +2400,38 @@
    "section": "Levels 74-75",
    "title": "In Good Faith",
    "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Emet-Selch",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.5,
+     "y": 17.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 32.8,
+     "y": 21.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 33.1,
+     "y": 20.6
+    },
+    {
+     "label": "Talk to Emet-Selch",
+     "zone": "The Rak'tika Greatwood",
+     "x": 33.2,
+     "y": 20.3
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.6,
+     "y": 17.4
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 30.5,
@@ -724,6 +2446,32 @@
    "unlocks": [
     "The Qitana Ravel",
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 38.6,
+     "y": 13.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Qitana Ravel",
+     "x": 11.6,
+     "y": 8.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 38.5,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 38.5,
+     "y": 13.6
+    }
    ],
    "target": {
     "zone": "The Rak'tika Greatwood",
@@ -744,6 +2492,32 @@
    "unlocks": [
     "Journey to the Past"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 20.8,
+     "y": 28.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 16.3,
+     "y": 28.2
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Crystarium",
+     "x": 11.8,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to manager of suites",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 16.3
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 19.7,
@@ -755,6 +2529,44 @@
    "section": "Levels 76-77",
    "title": "When It Rains",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Crystarium",
+     "x": 11.8,
+     "y": 12.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Crystarium",
+     "x": 6.8,
+     "y": 10.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Crystarium",
+     "x": 6.8,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Crystarium",
+     "x": 9.1,
+     "y": 11.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 7.3,
+     "y": 16.7
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Lakeland",
+     "x": 7.3,
+     "y": 16.7
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.6,
@@ -766,6 +2578,20 @@
    "section": "Levels 76-77",
    "title": "Word from On High",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 8,
+     "y": 18.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 6.8,
+     "y": 18.4
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 7.3,
@@ -777,6 +2603,38 @@
    "section": "Levels 76-77",
    "title": "Small Favors",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Crystarium",
+     "x": 10.6,
+     "y": 10.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 8.7,
+     "y": 8
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Crystarium",
+     "x": 8.8,
+     "y": 7.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 8.9,
+     "y": 7.8
+    },
+    {
+     "label": "Talk to Chessamile",
+     "zone": "The Crystarium",
+     "x": 10.6,
+     "y": 10.2
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 6.9,
@@ -788,6 +2646,50 @@
    "section": "Levels 76-77",
    "title": "The Best Way Out",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "The Ocular",
+     "x": 6.2,
+     "y": 6.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Crystarium",
+     "x": 7.7,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Lakeland",
+     "x": 33.1,
+     "y": 34.2
+    },
+    {
+     "label": "Talk to Hardyss",
+     "zone": "Lakeland",
+     "x": 32,
+     "y": 38.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 10.4,
+     "y": 8.1
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Amh Araeng",
+     "x": 10.4,
+     "y": 8.1
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 10.6,
@@ -799,6 +2701,26 @@
    "section": "Levels 76-77",
    "title": "Free Trade",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 13.3,
+     "y": 9.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 12.8,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Amh Araeng",
+     "x": 13.1,
+     "y": 9.9
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 10.4,
@@ -810,6 +2732,44 @@
    "section": "Levels 76-77",
    "title": "The Trolley Problem",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "Amh Araeng",
+     "x": 12.3,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Amh Araeng",
+     "x": 21.5,
+     "y": 9.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 21.7,
+     "y": 10.5
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Amh Araeng",
+     "x": 23.1,
+     "y": 8.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 20.4,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Amh Araeng",
+     "x": 23.3,
+     "y": 9.5
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 13.4,
@@ -825,6 +2785,50 @@
     "Amh Araeng (West)",
     "Twine"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Thaffe",
+     "zone": "Amh Araeng",
+     "x": 19.6,
+     "y": 10.7
+    },
+    {
+     "label": "Talk to Thaffe",
+     "zone": "Amh Araeng",
+     "x": 18.8,
+     "y": 14
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 16.2,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Thaffe",
+     "zone": "Amh Araeng",
+     "x": 15.9,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to Thaffe",
+     "zone": "Amh Araeng",
+     "x": 11.9,
+     "y": 17.2
+    },
+    {
+     "label": "Talk to Magnus",
+     "zone": "Amh Araeng",
+     "x": 11.9,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Amh Araeng",
+     "x": 11.8,
+     "y": 17.3
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 23.3,
@@ -836,6 +2840,44 @@
    "section": "Levels 76-77",
    "title": "On Track",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 10.9,
+     "y": 17
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 13,
+     "y": 16.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 16.8,
+     "y": 16.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 18.4,
+     "y": 15
+    },
+    {
+     "label": "Talk to Jeryk",
+     "zone": "Amh Araeng",
+     "x": 17,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to Jeryk",
+     "zone": "Amh Araeng",
+     "x": 12.4,
+     "y": 16.8
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 11.8,
@@ -847,6 +2889,26 @@
    "section": "Levels 76-77",
    "title": "Down for Maintenance",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to unrepaired Talos",
+     "zone": "Amh Araeng",
+     "x": 11.4,
+     "y": 16.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 13.2,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Amh Araeng",
+     "x": 11.4,
+     "y": 16.4
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 12.4,
@@ -858,6 +2920,26 @@
    "section": "Levels 76-77",
    "title": "The Truth Hurts",
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thaffe",
+     "zone": "Amh Araeng",
+     "x": 11.9,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Amh Araeng",
+     "x": 10.5,
+     "y": 17.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 11.9,
+     "y": 17.2
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 11.4,
@@ -869,6 +2951,44 @@
    "section": "Levels 76-77",
    "title": "A Convenient Distraction",
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "Amh Araeng",
+     "x": 14.6,
+     "y": 22.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 9.9,
+     "y": 22.3
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Amh Araeng",
+     "x": 9.6,
+     "y": 22.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 9.9,
+     "y": 24.7
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Amh Araeng",
+     "x": 9.6,
+     "y": 22.3
+    },
+    {
+     "label": "Talk to Guthjon",
+     "zone": "Amh Araeng",
+     "x": 9.6,
+     "y": 22.3
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 12.2,
@@ -880,6 +3000,32 @@
    "section": "Levels 76-77",
    "title": "A Dirty Job",
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Guthjon",
+     "zone": "Amh Araeng",
+     "x": 14.6,
+     "y": 23
+    },
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 15.1,
+     "y": 23.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 9.2,
+     "y": 24.7
+    },
+    {
+     "label": "Talk to Guthjon",
+     "zone": "Amh Araeng",
+     "x": 14.6,
+     "y": 23
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 9.6,
@@ -891,6 +3037,26 @@
    "section": "Levels 76-77",
    "title": "Have a Heart",
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Magnus",
+     "zone": "Amh Araeng",
+     "x": 10.6,
+     "y": 18
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Amh Araeng",
+     "x": 11.4,
+     "y": 16.4
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Amh Araeng",
+     "x": 11.8,
+     "y": 17.2
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 14.6,
@@ -902,6 +3068,32 @@
    "section": "Levels 76-77",
    "title": "Full Steam Ahead",
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Amh Araeng",
+     "x": 21.7,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to Magnus",
+     "zone": "Amh Araeng",
+     "x": 21.6,
+     "y": 9.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 21.9,
+     "y": 31.7
+    },
+    {
+     "label": "Talk to Minfilia",
+     "zone": "Amh Araeng",
+     "x": 21.9,
+     "y": 31.7
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 12.4,
@@ -913,6 +3105,26 @@
    "section": "Levels 76-77",
    "title": "Crossing Paths",
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 24.3,
+     "y": 33.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 24.4,
+     "y": 34.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 16.1,
+     "y": 29.1
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 21.9,
@@ -928,6 +3140,32 @@
     "Malikah's Well",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Amh Araeng",
+     "x": 11.3,
+     "y": 31.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Malikah's Well",
+     "x": 10.8,
+     "y": 5.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 13,
+     "y": 30.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 12.9,
+     "y": 30.8
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 15.9,
@@ -942,6 +3180,20 @@
    "unlocks": [
     "Shrouded in Darkness"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Crystarium",
+     "x": 11.8,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to manager of suites",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 16.3
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 12.9,
@@ -953,6 +3205,32 @@
    "section": "Levels 76-77",
    "title": "Return to Eulmore",
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 16.5,
+     "y": 29.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 24,
+     "y": 28.7
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Kholusia",
+     "x": 24.8,
+     "y": 32.8
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.6,
@@ -967,6 +3245,26 @@
    "unlocks": [
     "Eulmore"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 24.9,
+     "y": 32.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.3,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Eulmore",
+     "x": 11.3,
+     "y": 12.1
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 24.8,
@@ -978,6 +3276,50 @@
    "section": "Levels 76-77",
    "title": "Paradise Fallen",
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 10.2,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Thoarich",
+     "zone": "Eulmore",
+     "x": 9.8,
+     "y": 12.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.1,
+     "y": 11
+    },
+    {
+     "label": "Talk to amiable maiden",
+     "zone": "Eulmore",
+     "x": 11.1,
+     "y": 10.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.6,
+     "y": 10.4
+    },
+    {
+     "label": "Talk to free citizen",
+     "zone": "Eulmore",
+     "x": 11.7,
+     "y": 10.3
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.3,
@@ -989,6 +3331,38 @@
    "section": "Levels 78-80",
    "title": "The Ladder",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Kholusia",
+     "x": 12.4,
+     "y": 23.1
+    },
+    {
+     "label": "Talk to Irvithe",
+     "zone": "Kholusia",
+     "x": 12.3,
+     "y": 32.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 12.2,
+     "y": 31.9
+    },
+    {
+     "label": "Talk to Irvithe",
+     "zone": "Kholusia",
+     "x": 12.3,
+     "y": 32.3
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Kholusia",
+     "x": 12.4,
+     "y": 23.1
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.7,
@@ -1004,6 +3378,44 @@
     "Kholusia (North)",
     "Tomra"
    ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 11.8,
+     "y": 23.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 12.5,
+     "y": 20.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kholusia",
+     "x": 13.1,
+     "y": 22
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 13.2,
+     "y": 22
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 18.9,
+     "y": 17.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 18.8,
+     "y": 17.7
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 12.4,
@@ -1015,6 +3427,38 @@
    "section": "Levels 78-80",
    "title": "In Mt. Gulg's Shadow",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kholusia",
+     "x": 19.1,
+     "y": 14.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 15.9,
+     "y": 13.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 18.2,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kholusia",
+     "x": 18.3,
+     "y": 6.7
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kholusia",
+     "x": 12.6,
+     "y": 20.4
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 19,
@@ -1026,6 +3470,26 @@
    "section": "Levels 78-80",
    "title": "A Gigantic Undertaking",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Kholusia",
+     "x": 12.7,
+     "y": 20.6
+    },
+    {
+     "label": "Talk to Dulia-Chai",
+     "zone": "Kholusia",
+     "x": 12.8,
+     "y": 20.6
+    },
+    {
+     "label": "Talk to Tristol",
+     "zone": "Kholusia",
+     "x": 19.1,
+     "y": 17.7
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 12.6,
@@ -1037,6 +3501,32 @@
    "section": "Levels 78-80",
    "title": "Meet the Tholls",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Kholusia",
+     "x": 13,
+     "y": 9.8
+    },
+    {
+     "label": "Talk to Xamott",
+     "zone": "Kholusia",
+     "x": 12.1,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to dwarf observer",
+     "zone": "Kholusia",
+     "x": 12.6,
+     "y": 9.2
+    },
+    {
+     "label": "Talk to Xamott",
+     "zone": "Kholusia",
+     "x": 12.1,
+     "y": 8.5
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 19.1,
@@ -1048,6 +3538,20 @@
    "section": "Levels 78-80",
    "title": "A-Digging We Will Go",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Korutt",
+     "zone": "Kholusia",
+     "x": 12.1,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Korutt",
+     "zone": "Kholusia",
+     "x": 28.5,
+     "y": 14
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 12.1,
@@ -1059,6 +3563,26 @@
    "section": "Levels 78-80",
    "title": "The Duergar's Tewel",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Kholusia",
+     "x": 33.8,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 36,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Kholusia",
+     "x": 33.8,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 28.5,
@@ -1070,6 +3594,32 @@
    "section": "Levels 78-80",
    "title": "Rich Veins of Hope",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Xamott",
+     "zone": "Kholusia",
+     "x": 12.1,
+     "y": 8.5
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kholusia",
+     "x": 12.2,
+     "y": 19.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 12.2,
+     "y": 20
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Kholusia",
+     "x": 12.2,
+     "y": 19.9
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 33.8,
@@ -1081,6 +3631,26 @@
    "section": "Levels 78-80",
    "title": "That None Shall Ever Again",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Kholusia",
+     "x": 18.7,
+     "y": 17.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 18.7,
+     "y": 17.6
+    },
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Kholusia",
+     "x": 18.7,
+     "y": 17.7
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 12.2,
@@ -1092,6 +3662,26 @@
    "section": "Levels 78-80",
    "title": "A Breath of Respite",
    "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Dulia-Chai",
+     "zone": "Kholusia",
+     "x": 18.8,
+     "y": 18
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 21.1,
+     "y": 23
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Kholusia",
+     "x": 18.7,
+     "y": 17.7
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 18.7,
@@ -1109,6 +3699,44 @@
     "Warden of Light",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Kholusia",
+     "x": 18.7,
+     "y": 17.7
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Kholusia",
+     "x": 18,
+     "y": 5.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mt. Gulg",
+     "x": 11.2,
+     "y": 14
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crown of the Immaculate",
+     "x": 21.5,
+     "y": 21.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crown of the Immaculate",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "The Crown of the Immaculate",
+     "x": 6.3,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 18.7,
@@ -1120,6 +3748,32 @@
    "section": "Levels 78-80",
    "title": "Reassuring the Masses",
    "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Bragi",
+     "zone": "The Crystarium",
+     "x": 10.1,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Chessamile",
+     "zone": "The Crystarium",
+     "x": 10.6,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Moren",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Katliss",
+     "zone": "The Crystarium",
+     "x": 11.1,
+     "y": 8.5
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.6,
@@ -1131,6 +3785,26 @@
    "section": "Levels 78-80",
    "title": "In His Garden",
    "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Crystarium",
+     "x": 6.8,
+     "y": 9.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 8.3,
+     "y": 9.3
+    },
+    {
+     "label": "Talk to Lyna",
+     "zone": "Lakeland",
+     "x": 33.8,
+     "y": 27.6
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 11.1,
@@ -1142,6 +3816,32 @@
    "section": "Levels 78-80",
    "title": "The Unbroken Thread",
    "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Crystarium gatekeep",
+     "zone": "The Crystarium",
+     "x": 13.6,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Lyna",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to aspiring amaro tamer",
+     "zone": "The Crystarium",
+     "x": 12.5,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Crystarium",
+     "x": 12.4,
+     "y": 8
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 33.8,
@@ -1157,6 +3857,38 @@
     "The Tempest",
     "The Ondo Cups"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Lakeland",
+     "x": 18.6,
+     "y": 35.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 7.9,
+     "y": 36.2
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Lakeland",
+     "x": 9.2,
+     "y": 37.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 27.1,
+     "y": 4.3
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Tempest",
+     "x": 27.2,
+     "y": 4.3
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.4,
@@ -1168,6 +3900,38 @@
    "section": "Levels 78-80",
    "title": "Waiting in the Depths",
    "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 30.9,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Ondo youth",
+     "zone": "The Tempest",
+     "x": 33.6,
+     "y": 17.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Tempest",
+     "x": 32.9,
+     "y": 16.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 37,
+     "y": 6.6
+    },
+    {
+     "label": "Talk to Paushs Ooan",
+     "zone": "The Tempest",
+     "x": 32.9,
+     "y": 16.9
+    }
+   ],
    "target": {
     "zone": "The Tempest",
     "x": 27.1,
@@ -1179,6 +3943,38 @@
    "section": "Levels 78-80",
    "title": "City of the Ancients",
    "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Tempest",
+     "x": 29.5,
+     "y": 12.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Tempest",
+     "x": 29.6,
+     "y": 13.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Tempest",
+     "x": 28,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Tempest",
+     "x": 29.5,
+     "y": 12.7
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Tempest",
+     "x": 22.1,
+     "y": 11
+    }
+   ],
    "target": {
     "zone": "The Tempest",
     "x": 33.1,
@@ -1190,6 +3986,26 @@
    "section": "Levels 78-80",
    "title": "The Light of Inspiration",
    "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Paushs Ooan",
+     "zone": "The Tempest",
+     "x": 32.9,
+     "y": 16.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 34.5,
+     "y": 25.4
+    },
+    {
+     "label": "Talk to Grenoldt",
+     "zone": "The Tempest",
+     "x": 34.3,
+     "y": 25.8
+    }
+   ],
    "target": {
     "zone": "The Tempest",
     "x": 22.1,
@@ -1201,6 +4017,62 @@
    "section": "Levels 78-80",
    "title": "The Illuminated Land",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tolshs Aath",
+     "zone": "The Tempest",
+     "x": 33.7,
+     "y": 17.5
+    },
+    {
+     "label": "Talk to Ondo guide",
+     "zone": "The Tempest",
+     "x": 31.8,
+     "y": 16.1
+    },
+    {
+     "label": "Talk to Ondo guide",
+     "zone": "The Tempest",
+     "x": 29.5,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Tempest",
+     "x": 27.5,
+     "y": 14.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Tempest",
+     "x": 23.3,
+     "y": 18.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Tempest",
+     "x": 17.8,
+     "y": 17.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Tempest",
+     "x": 11.5,
+     "y": 16.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 5.1,
+     "y": 15.8
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Tempest",
+     "x": 5.6,
+     "y": 17.3
+    }
+   ],
    "target": {
     "zone": "The Tempest",
     "x": 34.3,
@@ -1215,6 +4087,32 @@
    "unlocks": [
     "The Macarenses Angle"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 9.1,
+     "y": 22.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Tempest",
+     "x": 9.6,
+     "y": 24.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 7.9,
+     "y": 31.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Tempest",
+     "x": 8.8,
+     "y": 26.5
+    }
+   ],
    "target": {
     "zone": "The Tempest",
     "x": 5.6,
@@ -1228,6 +4126,50 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to administrative clerk",
+     "zone": "The Tempest",
+     "x": 21.6,
+     "y": 26.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Tempest",
+     "x": 21.5,
+     "y": 26.7
+    },
+    {
+     "label": "Talk to administrative clerk",
+     "zone": "The Tempest",
+     "x": 21.6,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to secretariat clerk",
+     "zone": "The Tempest",
+     "x": 27.8,
+     "y": 34.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Tempest",
+     "x": 27.2,
+     "y": 35
+    },
+    {
+     "label": "Talk to secretariat clerk",
+     "zone": "The Tempest",
+     "x": 27.8,
+     "y": 34.6
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Tempest",
+     "x": 16.7,
+     "y": 30.4
+    }
    ],
    "target": {
     "zone": "The Tempest",
@@ -1244,6 +4186,74 @@
     "Amaurot",
     "The Dying Gasp",
     "Trust"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Tempest",
+     "x": 16.6,
+     "y": 30.4
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Tempest",
+     "x": 16.6,
+     "y": 30.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Tempest",
+     "x": 16.6,
+     "y": 30.4
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Tempest",
+     "x": 16.7,
+     "y": 30.4
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "The Tempest",
+     "x": 16.6,
+     "y": 30.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 14.5,
+     "y": 35.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amaurot",
+     "x": 21.5,
+     "y": 20.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dying Gasp",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    }
    ],
    "target": {
     "zone": "The Tempest",

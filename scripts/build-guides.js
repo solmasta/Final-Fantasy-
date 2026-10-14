@@ -14,14 +14,15 @@ const ALIAS = { 'old gridania': 'new gridania', 'ishgard': 'foundation', 'limsa 
 // Quest start coordinates (data/quest-coords.json, from scripts/extract-quest-coords.py).
 const questCoords = fs.existsSync(path.join(dataDir, 'quest-coords.json')) ? JSON.parse(fs.readFileSync(path.join(dataDir, 'quest-coords.json'), 'utf8')) : {};
 const CITY_HINT = { 'Gridania start': /gridania|shroud/i, 'Limsa Lominsa start': /limsa|noscea/i, "Ul'dah start": /ul'dah|thanalan/i };
-function questStartFor(name, level, section) {
+function questFor(name, level, section) {
   let c = questCoords[name]; if (!c) return;
   const atLevel = c.filter(q => q.level === level); if (atLevel.length) c = atLevel;
   const seen = new Set(); c = c.filter(q => { const k = q.zone + q.x + q.y; return seen.has(k) ? false : seen.add(k); });
   if (c.length > 1) { const hint = Object.entries(CITY_HINT).find(([k]) => (section || '').startsWith(k)); c = hint ? c.filter(q => hint[1].test(q.zone)) : []; }
   if (c.length !== 1) return;
-  return { zone: c[0].zone, x: c[0].x, y: c[0].y, label: c[0].npc ? `${c[0].npc} (quest start)` : 'Quest start' };
+  return c[0];
 }
+const startTarget = q => ({ zone: q.zone, x: q.x, y: q.y, label: q.npc ? `${q.npc} (quest start)` : 'Quest start' });
 function aetheryteFor(unlocks) {
   for (const u of unlocks || []) {
     const k = norm(u.replace(/\s*\(.*\)\s*$/, ''));
@@ -39,7 +40,9 @@ for (const f of fs.readdirSync(dataDir).filter(f => /^msq-.*\.txt$/.test(f)).sor
     const [name, level, unlocks] = line.split('|');
     const step = { section, title: name, text: `Level ${level} · Main Scenario Quest (meteor icon)` };
     if (unlocks) step.unlocks = unlocks.split(';').map(s => s.trim());
-    const tgt = questStartFor(name, +level, section) || aetheryteFor(step.unlocks); if (tgt) step.target = tgt;
+    const q = questFor(name, +level, section);
+    if (q && q.obj && q.obj.length) step.objectives = q.obj;
+    const tgt = (q && startTarget(q)) || aetheryteFor(step.unlocks); if (tgt) step.target = tgt;
     steps.push(step);
   }
   fs.writeFileSync(path.join(outDir, out + '.json'), JSON.stringify({ title: `FFXIV MSQ – ${title}`, steps }, null, 1));

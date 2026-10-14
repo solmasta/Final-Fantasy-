@@ -5,6 +5,26 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Shaken Resolve",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to F'lhaminn",
+     "zone": "Mor Dhona",
+     "x": 22.5,
+     "y": 6
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -19,6 +39,32 @@
    "unlocks": [
     "The Grand Cosmos"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Lakeland",
+     "x": 19.2,
+     "y": 34.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Grand Cosmos",
+     "x": 11.3,
+     "y": 4.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 19.1,
+     "y": 34.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Lakeland",
+     "x": 19.2,
+     "y": 34.6
+    }
+   ],
    "target": {
     "zone": "The Ocular",
     "x": 6.1,
@@ -30,6 +76,38 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "A Welcome Guest",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "The Ocular",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "Amh Araeng",
+     "x": 28.8,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Voyne",
+     "zone": "Amh Araeng",
+     "x": 29.8,
+     "y": 28.2
+    },
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "Amh Araeng",
+     "x": 28.8,
+     "y": 27.6
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 19.2,
@@ -41,6 +119,38 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Good for the Soul",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "Amh Araeng",
+     "x": 28.8,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Magnus",
+     "zone": "Amh Araeng",
+     "x": 11.8,
+     "y": 16.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 21.5,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "Amh Araeng",
+     "x": 28.8,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 28.8,
+     "y": 27.6
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 28.8,
@@ -52,6 +162,20 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Nowhere to Turn",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eulmore",
+     "x": 11.7,
+     "y": 11.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 10.8,
+     "y": 10.7
+    }
+   ],
    "target": {
     "zone": "Amh Araeng",
     "x": 28.9,
@@ -63,6 +187,32 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "A Notable Absence",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 10.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.4,
+     "y": 10.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 12.9,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eulmore",
+     "x": 11.2,
+     "y": 9.3
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 10.9,
@@ -74,6 +224,44 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "For the People",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 15.5,
+     "y": 29.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Kholusia",
+     "x": 12.1,
+     "y": 20.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 18.6,
+     "y": 17.4
+    },
+    {
+     "label": "Talk to Tristol",
+     "zone": "Kholusia",
+     "x": 19.1,
+     "y": 17.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Kholusia",
+     "x": 20.3,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Kholusia",
+     "x": 20.3,
+     "y": 12.5
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.2,
@@ -85,6 +273,32 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Finding Good Help",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Kholusia",
+     "x": 13,
+     "y": 21
+    },
+    {
+     "label": "Objective area",
+     "zone": "Kholusia",
+     "x": 13.1,
+     "y": 18.3
+    },
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Kholusia",
+     "x": 13.1,
+     "y": 18.3
+    },
+    {
+     "label": "Talk to Wrenden",
+     "zone": "Kholusia",
+     "x": 24.9,
+     "y": 33.2
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 20.3,
@@ -96,6 +310,26 @@
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Moving Forward",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Chadden",
+     "zone": "Eulmore",
+     "x": 11.3,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eulmore",
+     "x": 11.8,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Kai-Shirr",
+     "zone": "Eulmore",
+     "x": 11.7,
+     "y": 11.8
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 24.9,
@@ -110,6 +344,32 @@
    "unlocks": [
     "Black and White"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6,
+     "y": 6
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.8,
@@ -121,6 +381,20 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Old Enemies, New Threats",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Maxima",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 31.8
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 31.8
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -132,6 +406,14 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "The Way Home",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 36.3,
@@ -143,6 +425,32 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Seeking Counsel",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lyna",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Lyna",
+     "zone": "Lakeland",
+     "x": 36.9,
+     "y": 21.3
+    },
+    {
+     "label": "Talk to Crystarium scout",
+     "zone": "Lakeland",
+     "x": 34.1,
+     "y": 8.6
+    },
+    {
+     "label": "Talk to Lyna",
+     "zone": "Lakeland",
+     "x": 34.1,
+     "y": 8.6
+    }
+   ],
    "target": {
     "zone": "The Ocular",
     "x": 6.1,
@@ -154,6 +462,26 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Facing the Truth",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Bragi",
+     "zone": "The Crystarium",
+     "x": 10.1,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Crystarium",
+     "x": 11.8,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "Lakeland",
     "x": 34.1,
@@ -165,6 +493,32 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "A Sleep Disturbed",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.6,
+     "y": 18.4
+    },
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 38.4,
+     "y": 13.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rak'tika Greatwood",
+     "x": 38.5,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Almet",
+     "zone": "The Rak'tika Greatwood",
+     "x": 30.6,
+     "y": 18.4
+    }
+   ],
    "target": {
     "zone": "The Ocular",
     "x": 6.1,
@@ -176,6 +530,32 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "An Old Friend",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Runar",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 27.5
+    },
+    {
+     "label": "Talk to Asgeir",
+     "zone": "The Rak'tika Greatwood",
+     "x": 21,
+     "y": 27.6
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 20.8,
+     "y": 28.2
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Rak'tika Greatwood",
+     "x": 8.6,
+     "y": 21.8
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 30.5,
@@ -187,6 +567,26 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Deep Designs",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tolshs Aath",
+     "zone": "The Tempest",
+     "x": 33.7,
+     "y": 17.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 11.3,
+     "y": 5.5
+    },
+    {
+     "label": "Talk to Tolshs Aath",
+     "zone": "The Tempest",
+     "x": 33.7,
+     "y": 17.5
+    }
+   ],
    "target": {
     "zone": "The Rak'tika Greatwood",
     "x": 8.7,
@@ -198,6 +598,44 @@
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "A Whale's Tale",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Lakeland",
+     "x": 16.1,
+     "y": 36
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Lakeland",
+     "x": 9.2,
+     "y": 37.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 8.6,
+     "y": 36.5
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Lakeland",
+     "x": 9.2,
+     "y": 37.9
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Lakeland",
+     "x": 18.9,
+     "y": 35.5
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "Lakeland",
+     "x": 26.3,
+     "y": 32.6
+    }
+   ],
    "target": {
     "zone": "The Tempest",
     "x": 33.6,
@@ -211,6 +649,26 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Anamnesis Anyder"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Kholusia",
+     "x": 10.8,
+     "y": 36.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Anamnesis Anyder",
+     "x": 11.2,
+     "y": 10.7
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Anamnesis Anyder",
+     "x": 11.2,
+     "y": 11.2
+    }
    ],
    "target": {
     "zone": "Lakeland",
@@ -226,6 +684,38 @@
    "unlocks": [
     "Way More Heroes"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 11.4,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Crystarium",
+     "x": 11.4,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Theyler",
+     "zone": "The Crystarium",
+     "x": 12.4,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to manager of suites",
+     "zone": "The Crystarium",
+     "x": 12.6,
+     "y": 16.3
+    }
+   ],
    "target": {
     "zone": "Kholusia",
     "x": 10.8,
@@ -237,6 +727,50 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "In the Name of the Light",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Moren",
+     "zone": "The Crystarium",
+     "x": 10,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Riqi-Tio",
+     "zone": "The Crystarium",
+     "x": 9.6,
+     "y": 5.7
+    },
+    {
+     "label": "Talk to Chessamile",
+     "zone": "The Crystarium",
+     "x": 10.6,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to Gracine",
+     "zone": "The Crystarium",
+     "x": 8.3,
+     "y": 13.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 8.5,
+     "y": 14.7
+    },
+    {
+     "label": "Talk to Riqi-Tio",
+     "zone": "The Crystarium",
+     "x": 8.4,
+     "y": 14.5
+    },
+    {
+     "label": "Talk to Chessamile",
+     "zone": "The Crystarium",
+     "x": 10.6,
+     "y": 10.2
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.6,
@@ -248,6 +782,38 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Heroic Dreams",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Lakeland",
+     "x": 36.7,
+     "y": 29.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 37.6,
+     "y": 22
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "Lakeland",
+     "x": 36.8,
+     "y": 29.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Crystarium",
+     "x": 6.8,
+     "y": 9.5
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Crystarium",
+     "x": 7.1,
+     "y": 9.6
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 10.7,
@@ -259,6 +825,32 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Fraying Threads",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Crystarium",
+     "x": 10.6,
+     "y": 10.4
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rising Stones",
+     "x": 5.9,
+     "y": 6
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 7.1,
@@ -270,6 +862,26 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Food for the Soul",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "Mor Dhona",
+     "x": 22,
+     "y": 5.2
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Ocular",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Crystarium",
+     "x": 12,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -281,6 +893,38 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Faded Memories",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to idle shipwright",
+     "zone": "Kholusia",
+     "x": 11.6,
+     "y": 33.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Anamnesis Anyder",
+     "x": 11.2,
+     "y": 10.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Anamnesis Anyder",
+     "x": 11.3,
+     "y": 10.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 13.6,
+     "y": 37.2
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Tempest",
+     "x": 13.6,
+     "y": 37.2
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.1,
@@ -292,6 +936,50 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Etched in the Stars",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Tempest",
+     "x": 14.1,
+     "y": 35.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 16.1,
+     "y": 34.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 17.7,
+     "y": 35.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 18.7,
+     "y": 35.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Tempest",
+     "x": 20.2,
+     "y": 35.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Tempest",
+     "x": 20.9,
+     "y": 35.9
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Kholusia",
+     "x": 11.5,
+     "y": 33.2
+    }
+   ],
    "target": {
     "zone": "The Tempest",
     "x": 13.8,
@@ -305,6 +993,50 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Heroes' Gauntlet"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Eulmore",
+     "x": 11.5,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Chai-Nuzz",
+     "zone": "Eulmore",
+     "x": 11.7,
+     "y": 11.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Heroes' Gauntlet",
+     "x": 14.9,
+     "y": 11.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Lakeland",
+     "x": 27.5,
+     "y": 24.7
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "Lakeland",
+     "x": 27.3,
+     "y": 24.6
+    },
+    {
+     "label": "Talk to nervous guard",
+     "zone": "Lakeland",
+     "x": 33,
+     "y": 28.2
+    },
+    {
+     "label": "Talk to Crystal Exarch",
+     "zone": "The Crystarium",
+     "x": 12.5,
+     "y": 11.3
+    }
    ],
    "target": {
     "zone": "Kholusia",
@@ -320,6 +1052,26 @@
    "unlocks": [
     "The Seat of Sacrifice"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Seat of Sacrifice",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Crystarium",
+     "x": 12.3,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "The Crystarium",
+     "x": 12.3,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.5,
@@ -331,6 +1083,44 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Nothing Unsaid",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Crystarium",
+     "x": 12.3,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 29.2,
+     "y": 28
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Amh Araeng",
+     "x": 26.9,
+     "y": 28
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Amh Araeng",
+     "x": 26.6,
+     "y": 28.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eulmore",
+     "x": 11.6,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eulmore",
+     "x": 11.6,
+     "y": 12.2
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 12.3,
@@ -342,6 +1132,26 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "The Journey Continues",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 8.8,
+     "y": 16.8
+    },
+    {
+     "label": "Talk to Seto",
+     "zone": "Il Mheg",
+     "x": 30.6,
+     "y": 7.6
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Il Mheg",
+     "x": 8.8,
+     "y": 16.8
+    }
+   ],
    "target": {
     "zone": "Eulmore",
     "x": 11.6,
@@ -353,6 +1163,32 @@
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Unto the Morrow",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Rak'tika Greatwood",
+     "x": 19.7,
+     "y": 27.4
+    },
+    {
+     "label": "Talk to Magnus",
+     "zone": "Amh Araeng",
+     "x": 11.8,
+     "y": 16.8
+    },
+    {
+     "label": "Talk to Ryne",
+     "zone": "The Crystarium",
+     "x": 10.5,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Thancred",
+     "zone": "The Crystarium",
+     "x": 11.8,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "Il Mheg",
     "x": 8.8,
@@ -367,6 +1203,26 @@
    "unlocks": [
     "Hope's Legacy"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Beq Lugg",
+     "zone": "The Ocular",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.3,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Crystarium",
     "x": 11.7,
@@ -378,6 +1234,26 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "Alisaie's Quest",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Mor Dhona",
+     "x": 24,
+     "y": 13
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Azys Lla",
+     "x": 4.7,
+     "y": 9.8
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -389,6 +1265,38 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Wisdom of Allag",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Azys Lla",
+     "x": 9.8,
+     "y": 11
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Azys Lla",
+     "x": 35.4,
+     "y": 15.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 34.5,
+     "y": 8.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Azys Lla",
+     "x": 34.3,
+     "y": 8.7
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Azys Lla",
+     "x": 35.4,
+     "y": 15.6
+    }
+   ],
    "target": {
     "zone": "Azys Lla",
     "x": 4.7,
@@ -400,6 +1308,38 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "Reviving the Legacy",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "The Rising Stones",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Fromelaut",
+     "zone": "Foundation",
+     "x": 8.3,
+     "y": 10.3
+    },
+    {
+     "label": "Talk to Skysteel engineer",
+     "zone": "The Pillars",
+     "x": 14.5,
+     "y": 11
+    }
+   ],
    "target": {
     "zone": "Azys Lla",
     "x": 35.4,
@@ -411,6 +1351,20 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "Forget Us Not",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Limsa Lominsa Upper Decks",
+     "x": 12.6,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Limsa Lominsa Upper Decks",
+     "x": 9,
+     "y": 13.6
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -425,6 +1379,44 @@
    "unlocks": [
     "Matoya's Relict"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Dravanian Hinterlands",
+     "x": 12.9,
+     "y": 36.6
+    },
+    {
+     "label": "Talk to Matoya",
+     "zone": "Matoya's Cave",
+     "x": 6.5,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Puro Roggo the Unwashed",
+     "zone": "The Dravanian Hinterlands",
+     "x": 30.2,
+     "y": 18.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Matoya's Relict",
+     "x": 11.2,
+     "y": 9.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Hinterlands",
+     "x": 30.2,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Dravanian Hinterlands",
+     "x": 30.2,
+     "y": 18.1
+    }
+   ],
    "target": {
     "zone": "Limsa Lominsa Upper Decks",
     "x": 9.1,
@@ -436,6 +1428,32 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Admiral's Resolve",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Zanthael",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 11.4,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 11.2,
+     "y": 11
+    },
+    {
+     "label": "Talk to Carvallain",
+     "zone": "Limsa Lominsa Upper Decks",
+     "x": 11.6,
+     "y": 8
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Limsa Lominsa Lower Decks",
+     "x": 11.2,
+     "y": 11
+    }
+   ],
    "target": {
     "zone": "The Dravanian Hinterlands",
     "x": 30.2,
@@ -447,6 +1465,20 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Search for Sicard",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Lower La Noscea",
+     "x": 23.2,
+     "y": 28.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Lower La Noscea",
+     "x": 27.4,
+     "y": 18.6
+    }
+   ],
    "target": {
     "zone": "Limsa Lominsa Lower Decks",
     "x": 11.2,
@@ -458,6 +1490,14 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "On Rough Seas",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "Command Room",
+     "x": 3.6,
+     "y": 3.4
+    }
+   ],
    "target": {
     "zone": "Lower La Noscea",
     "x": 27.4,
@@ -469,6 +1509,32 @@
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Great Ship Vylbrand",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Outer La Noscea",
+     "x": 19.4,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "Outer La Noscea",
+     "x": 24.4,
+     "y": 8.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Outer La Noscea",
+     "x": 19.4,
+     "y": 16.7
+    },
+    {
+     "label": "Talk to Merlwyb",
+     "zone": "Outer La Noscea",
+     "x": 19.4,
+     "y": 16.7
+    }
+   ],
    "target": {
     "zone": "Command Room",
     "x": 3.6,
@@ -483,6 +1549,26 @@
    "unlocks": [
     "Pen and Sword"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 33.1,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to Lyse",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 32
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Outer La Noscea",
     "x": 19.4,
@@ -494,6 +1580,20 @@
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "Unto the Breach",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Urianger",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 32.2
+    },
+    {
+     "label": "Talk to Arenvald",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 32.1
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -505,6 +1605,32 @@
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "Here Be Dragons",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 9.8,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.8,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Pillars",
+     "x": 14.5,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Azys Lla",
+     "x": 12.1,
+     "y": 25.5
+    }
+   ],
    "target": {
     "zone": "The Lochs",
     "x": 36.4,
@@ -516,6 +1642,44 @@
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "Righteous Indignation",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Azys Lla",
+     "x": 8.9,
+     "y": 31.1
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Azys Lla",
+     "x": 8.9,
+     "y": 31.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Azys Lla",
+     "x": 18,
+     "y": 24.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 17.7,
+     "y": 22.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Azys Lla",
+     "x": 18,
+     "y": 24.5
+    },
+    {
+     "label": "Talk to clamorous node",
+     "zone": "Azys Lla",
+     "x": 17.1,
+     "y": 22.2
+    }
+   ],
    "target": {
     "zone": "Azys Lla",
     "x": 12.2,
@@ -527,6 +1691,26 @@
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "For Vengeance",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Azys Lla",
+     "x": 23.1,
+     "y": 21.9
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Azys Lla",
+     "x": 8.9,
+     "y": 31.1
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Azys Lla",
+     "x": 9,
+     "y": 31.2
+    }
+   ],
    "target": {
     "zone": "Azys Lla",
     "x": 17.1,
@@ -540,6 +1724,38 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Paglth'an"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Thancred",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 8.5,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Immortal Flames pilot",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 10.7,
+     "y": 11.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Paglth'an",
+     "x": 18.2,
+     "y": 11
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 10.8,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 10.8,
+     "y": 11.6
+    }
    ],
    "target": {
     "zone": "Azys Lla",
@@ -555,6 +1771,38 @@
    "unlocks": [
     "Not for Naught"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Phrontistery chirurgeon",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 9.7,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 9.7,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 11,
+     "y": 12.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Nald",
     "x": 10.8,
@@ -566,6 +1814,32 @@
    "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
    "title": "The Company We Keep",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Resistance guard",
+     "zone": "The Lochs",
+     "x": 36.5,
+     "y": 32
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 32.2
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "The Lochs",
+     "x": 36.3,
+     "y": 32.2
+    },
+    {
+     "label": "Talk to Riol",
+     "zone": "The Fringes",
+     "x": 8.6,
+     "y": 11.4
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -577,6 +1851,38 @@
    "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
    "title": "On Official Business",
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Old Gridania",
+     "x": 13.8,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Frixio",
+     "zone": "East Shroud",
+     "x": 22.1,
+     "y": 25.7
+    },
+    {
+     "label": "Talk to silent conjurer",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "The Fringes",
     "x": 8.6,
@@ -591,6 +1897,32 @@
    "unlocks": [
     "Shush",
     "Under the Darkened Moon"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "New Gridania",
+     "x": 12.4,
+     "y": 13.4
+    },
+    {
+     "label": "Talk to Alisaie",
+     "zone": "New Gridania",
+     "x": 11.9,
+     "y": 13.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
    ],
    "target": {
     "zone": "Lotus Stand",

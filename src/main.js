@@ -6,7 +6,7 @@ const GUIDES_DIR = path.join(__dirname, '..', 'guides');
 const OPACITIES = [1, 0.8, 0.6, 0.4];
 
 let win;
-let state = { guide: null, step: 0, opacityIdx: 1, clickThrough: true, visible: true, bounds: null, pos: null };
+let state = { guide: null, step: 0, opacityIdx: 1, clickThrough: true, visible: true, bounds: null, pos: null, obj: -1 };
 let statePath;
 
 function loadState() {
@@ -62,6 +62,7 @@ function step(delta, guide) {
   const g = listGuides().find(x => x.id === state.guide);
   if (!g) return;
   state.step = Math.max(0, Math.min(g.steps.length - 1, state.step + delta));
+  state.obj = -1;
   push();
 }
 
@@ -73,6 +74,12 @@ function parseCoords(text) {
 
 function registerHotkeys() {
   const keys = {
+    'F5': () => {
+      const g = listGuides().find(x => x.id === state.guide), st = g && g.steps[state.step];
+      if (!st || !st.objectives || !st.objectives.length) return;
+      state.obj = state.obj + 1 >= st.objectives.length ? -1 : state.obj + 1;
+      push();
+    },
     'F6': () => step(-1),
     'F7': () => step(1),
     'F8': () => { state.visible = !state.visible; state.visible ? win.showInactive() : win.hide(); saveState(); },
@@ -83,8 +90,8 @@ function registerHotkeys() {
   for (const [k, fn] of Object.entries(keys)) globalShortcut.register(k, fn);
 }
 
-ipcMain.on('select-guide', (_e, id) => { state.guide = id; state.step = 0; push(); });
-ipcMain.on('goto-step', (_e, i) => { state.step = i; push(); });
+ipcMain.on('select-guide', (_e, id) => { state.guide = id; state.step = 0; state.obj = -1; push(); });
+ipcMain.on('goto-step', (_e, i) => { state.step = i; state.obj = -1; push(); });
 ipcMain.on('toggle-click-through', () => { state.clickThrough = !state.clickThrough; push(); });
 ipcMain.on('set-pos', (_e, text) => { state.pos = parseCoords(text); push(); });
 ipcMain.on('quit', () => app.quit());

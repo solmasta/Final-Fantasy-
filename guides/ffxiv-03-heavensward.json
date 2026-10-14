@@ -9,6 +9,32 @@
     "Ishgard",
     "Foundation"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Intercessory",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Central Highlands",
+     "x": 18.1,
+     "y": 14.9
+    },
+    {
+     "label": "Talk to House Fortemps manservant",
+     "zone": "Foundation",
+     "x": 11,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "The Pillars",
+     "x": 11.6,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "Intercessory",
     "x": 6.1,
@@ -20,6 +46,32 @@
    "section": "Levels 50-51 – Main chain",
    "title": "Taking in the Sights",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to House Fortemps manservant",
+     "zone": "The Pillars",
+     "x": 11.5,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to House Fortemps manservant",
+     "zone": "The Pillars",
+     "x": 11.2,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Elaisse",
+     "zone": "The Pillars",
+     "x": 7.8,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to House Fortemps manservant",
+     "zone": "Foundation",
+     "x": 10.2,
+     "y": 11.6
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6.1,
@@ -31,6 +83,26 @@
    "section": "Levels 50-51 – Main chain",
    "title": "The Better Half",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gibrillont",
+     "zone": "Foundation",
+     "x": 13,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Count Edmont de Fortemps",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 10.2,
@@ -49,6 +121,26 @@
     "Tailfeather",
     "Anyx Trine"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Foundation",
+     "x": 7.8,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.2,
+     "y": 38.5
+    },
+    {
+     "label": "Talk to Redwald",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 38.4
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6.2,
@@ -60,6 +152,26 @@
    "section": "Levels 50-51 – Artoirel chain",
    "title": "Work in Progress",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.1,
+     "y": 37.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.7,
+     "y": 38.7
+    },
+    {
+     "label": "Talk to Rothe",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.5,
+     "y": 37.9
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.7,
@@ -71,6 +183,26 @@
    "section": "Levels 50-51 – Artoirel chain",
    "title": "The First and Foremost",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Thierremont",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.6,
+     "y": 28.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 30.7,
+     "y": 28.4
+    },
+    {
+     "label": "Talk to Thierremont",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.6,
+     "y": 28.6
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 31.5,
@@ -82,6 +214,20 @@
    "section": "Levels 50-51 – Artoirel chain",
    "title": "From on High",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ysaudore",
+     "zone": "Coerthas Western Highlands",
+     "x": 26.5,
+     "y": 28
+    },
+    {
+     "label": "Talk to Redwald",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 38.4
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.6,
@@ -93,6 +239,38 @@
    "section": "Levels 50-51 – Artoirel chain",
    "title": "Reconnaissance Lost",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.8,
+     "y": 38.3
+    },
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Coerthas Western Highlands",
+     "x": 26.2,
+     "y": 25.2
+    },
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Coerthas Western Highlands",
+     "x": 29.7,
+     "y": 25.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 24.6,
+     "y": 25.1
+    },
+    {
+     "label": "Talk to reconnaissance party knight",
+     "zone": "Coerthas Western Highlands",
+     "x": 24.2,
+     "y": 25.6
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 32.7,
@@ -104,6 +282,20 @@
    "section": "Levels 50-51 – Artoirel chain",
    "title": "At the End of Our Hope",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 24.2,
+     "y": 21.9
+    },
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.9,
+     "y": 12.1
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 24.3,
@@ -115,6 +307,20 @@
    "section": "Levels 50-51 – Artoirel chain",
    "title": "Knights Be Not Proud",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Redwald",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 38.4
+    },
+    {
+     "label": "Talk to Artoirel",
+     "zone": "Fortemps Manor",
+     "x": 6.2,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 31.9,
@@ -130,6 +336,26 @@
     "The Sea of Clouds (South)",
     "Camp Cloudtop"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Pillars",
+     "x": 14.4,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "The Sea of Clouds",
+     "x": 7.9,
+     "y": 32
+    },
+    {
+     "label": "Talk to Laniaitte",
+     "zone": "The Sea of Clouds",
+     "x": 17,
+     "y": 37.4
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6,
@@ -141,6 +367,26 @@
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "An Indispensable Ally",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "The Sea of Clouds",
+     "x": 16.9,
+     "y": 37.2
+    },
+    {
+     "label": "Talk to Honoroit",
+     "zone": "The Sea of Clouds",
+     "x": 16.9,
+     "y": 37.3
+    },
+    {
+     "label": "Talk to Laniaitte",
+     "zone": "The Sea of Clouds",
+     "x": 17,
+     "y": 37.4
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 17,
@@ -152,6 +398,26 @@
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "Meeting the Neighbors",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Marielle",
+     "zone": "The Sea of Clouds",
+     "x": 15.4,
+     "y": 37.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Sea of Clouds",
+     "x": 17.5,
+     "y": 35.8
+    },
+    {
+     "label": "Talk to Marielle",
+     "zone": "The Sea of Clouds",
+     "x": 15.4,
+     "y": 37.8
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 17,
@@ -163,6 +429,20 @@
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "Sense of Urgency",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "The Sea of Clouds",
+     "x": 16.7,
+     "y": 38.8
+    },
+    {
+     "label": "Talk to Marielle",
+     "zone": "The Sea of Clouds",
+     "x": 15.4,
+     "y": 37.8
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 15.4,
@@ -174,6 +454,38 @@
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "Hope Springs Eternal",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Laniaitte",
+     "zone": "The Sea of Clouds",
+     "x": 17,
+     "y": 37.4
+    },
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "The Sea of Clouds",
+     "x": 16.9,
+     "y": 37.2
+    },
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "The Sea of Clouds",
+     "x": 23.8,
+     "y": 33.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 29.1,
+     "y": 35.4
+    },
+    {
+     "label": "Talk to Honoroit",
+     "zone": "The Sea of Clouds",
+     "x": 23.9,
+     "y": 33.1
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 15.4,
@@ -185,6 +497,38 @@
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "A Series of Unfortunate Events",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 30.7,
+     "y": 35.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 28.6,
+     "y": 31.3
+    },
+    {
+     "label": "Talk to Honoroit",
+     "zone": "The Sea of Clouds",
+     "x": 33.2,
+     "y": 29.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 33.2,
+     "y": 29.6
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "The Sea of Clouds",
+     "x": 9,
+     "y": 32.2
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 23.9,
@@ -196,6 +540,26 @@
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "A Reward Long in Coming",
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Laniaitte",
+     "zone": "The Sea of Clouds",
+     "x": 17,
+     "y": 37.4
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "The Pillars",
+     "x": 14.5,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "Fortemps Manor",
+     "x": 6,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 9,
@@ -209,6 +573,26 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Count Edmont de Fortemps",
+     "zone": "Fortemps Manor",
+     "x": 6.2,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Foundation",
+     "x": 13.7,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "The Pillars",
+     "x": 13.7,
+     "y": 8.1
+    }
    ],
    "target": {
     "zone": "Fortemps Manor",
@@ -224,6 +608,26 @@
    "unlocks": [
     "Lucky Number 7"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Count Edmont de Fortemps",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Ishgardian priest",
+     "zone": "The Pillars",
+     "x": 11.4,
+     "y": 7.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "The Pillars",
     "x": 13.7,
@@ -235,6 +639,20 @@
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "Flame General Affairs",
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Command Room",
+     "x": 3.6,
+     "y": 3.5
+    },
+    {
+     "label": "Talk to Higiri",
+     "zone": "Mor Dhona",
+     "x": 22.1,
+     "y": 5.1
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6.1,
@@ -246,6 +664,20 @@
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "In Search of Raubahn",
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Doware",
+     "zone": "Eastern Thanalan",
+     "x": 20.3,
+     "y": 21.4
+    },
+    {
+     "label": "Talk to Hozan",
+     "zone": "Eastern Thanalan",
+     "x": 13.9,
+     "y": 29.3
+    }
+   ],
    "target": {
     "zone": "Mor Dhona",
     "x": 22.1,
@@ -260,6 +692,44 @@
    "unlocks": [
     "Gaol Break"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Hozan",
+     "zone": "Eastern Thanalan",
+     "x": 13.9,
+     "y": 29.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Eastern Thanalan",
+     "x": 15.1,
+     "y": 30
+    },
+    {
+     "label": "Talk to Doware",
+     "zone": "Eastern Thanalan",
+     "x": 15.2,
+     "y": 29.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Eastern Thanalan",
+     "x": 15.2,
+     "y": 30
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Waking Sands",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Waking Sands",
+     "x": 6.2,
+     "y": 6.1
+    }
+   ],
    "target": {
     "zone": "Eastern Thanalan",
     "x": 13.9,
@@ -271,6 +741,26 @@
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "To Siege or Not to Siege",
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Pillars",
+     "x": 11.6,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "The Waking Sands",
     "x": 6.2,
@@ -282,6 +772,26 @@
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "Alphinaud's Way",
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Pillars",
+     "x": 11.5,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Temple Knight guard",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 13.4,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6.1,
@@ -293,6 +803,44 @@
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "In Search of Iceheart",
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Foundation",
+     "x": 9.3,
+     "y": 10.4
+    },
+    {
+     "label": "Talk to Redwald",
+     "zone": "Coerthas Western Highlands",
+     "x": 32.7,
+     "y": 38.4
+    },
+    {
+     "label": "Talk to expedition leader",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.8,
+     "y": 12.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.6,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to expedition leader",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.8,
+     "y": 12.1
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.4,
@@ -304,6 +852,20 @@
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "From One Heretic to Another",
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.7,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to expedition leader",
+     "zone": "Coerthas Western Highlands",
+     "x": 31.6,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 31.8,
@@ -318,6 +880,26 @@
    "unlocks": [
     "Mount Speed Increase"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Tristechambel",
+     "zone": "Coerthas Western Highlands",
+     "x": 34.9,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Coerthas Western Highlands",
+     "x": 35,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to Jantellot",
+     "zone": "Coerthas Western Highlands",
+     "x": 16.8,
+     "y": 22.8
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 31.6,
@@ -329,6 +911,20 @@
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "Camp of the Convictors",
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Luciae",
+     "zone": "Coerthas Western Highlands",
+     "x": 16.6,
+     "y": 22.6
+    },
+    {
+     "label": "Talk to Pierriquet",
+     "zone": "Coerthas Western Highlands",
+     "x": 16.3,
+     "y": 22.4
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 17,
@@ -343,6 +939,20 @@
    "unlocks": [
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Coerthas Western Highlands",
+     "x": 15.8,
+     "y": 16.6
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Coerthas Western Highlands",
+     "x": 9.9,
+     "y": 16.1
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 16.4,
@@ -354,6 +964,26 @@
    "section": "Levels 52-53",
    "title": "Where the Chocobos Roam",
    "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 40,
+     "y": 29.6
+    },
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Dravanian Forelands",
+     "x": 38.6,
+     "y": 28.8
+    },
+    {
+     "label": "Talk to Marcechamp",
+     "zone": "The Dravanian Forelands",
+     "x": 32,
+     "y": 23
+    }
+   ],
    "target": {
     "zone": "Coerthas Western Highlands",
     "x": 8.8,
@@ -365,6 +995,32 @@
    "section": "Levels 52-53",
    "title": "Worse than Dragons",
    "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Dravanian Forelands",
+     "x": 32,
+     "y": 23.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 34.9,
+     "y": 16.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 27.3,
+     "y": 17.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 25.8,
+     "y": 22.5
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 32,
@@ -376,6 +1032,32 @@
    "section": "Levels 52-53",
    "title": "The Trine Towers",
    "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Dravanian Forelands",
+     "x": 19,
+     "y": 32.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 17.7,
+     "y": 31.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 16.9,
+     "y": 29.3
+    },
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Dravanian Forelands",
+     "x": 18.3,
+     "y": 26.3
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 25.9,
@@ -387,6 +1069,26 @@
    "section": "Levels 52-53",
    "title": "Gifts for the Outcasts",
    "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Marcechamp",
+     "zone": "The Dravanian Forelands",
+     "x": 32,
+     "y": 23
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 28.8,
+     "y": 22.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Dravanian Forelands",
+     "x": 26.6,
+     "y": 17.9
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 17.6,
@@ -398,6 +1100,20 @@
    "section": "Levels 52-53",
    "title": "The Nonmind",
    "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Vath fleetfoot",
+     "zone": "The Dravanian Forelands",
+     "x": 24,
+     "y": 19.5
+    },
+    {
+     "label": "Talk to Vath storyteller",
+     "zone": "The Dravanian Forelands",
+     "x": 24,
+     "y": 19.8
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 26.6,
@@ -409,6 +1125,38 @@
    "section": "Levels 52-53",
    "title": "A Gnathic Deity",
    "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Vath storyteller",
+     "zone": "The Dravanian Forelands",
+     "x": 24,
+     "y": 19.8
+    },
+    {
+     "label": "Talk to voracious Vath",
+     "zone": "The Dravanian Forelands",
+     "x": 23.7,
+     "y": 19.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 28.8,
+     "y": 22.3
+    },
+    {
+     "label": "Talk to voracious Vath",
+     "zone": "The Dravanian Forelands",
+     "x": 23.7,
+     "y": 19.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Dravanian Forelands",
+     "x": 23.8,
+     "y": 20
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 24.1,
@@ -420,6 +1168,32 @@
    "section": "Levels 52-53",
    "title": "Breaking into Hives",
    "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gnath drone",
+     "zone": "The Dravanian Forelands",
+     "x": 26.4,
+     "y": 33.9
+    },
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Dravanian Forelands",
+     "x": 27.3,
+     "y": 33.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 27.8,
+     "y": 34.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 30.5,
+     "y": 37.1
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 23.8,
@@ -434,6 +1208,44 @@
    "unlocks": [
     "Thok ast Thok (Hard)",
     "Mount Speed Increase"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Sacrificial Chamber",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Sacrificial Chamber",
+     "x": 6,
+     "y": 7.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Thok ast Thok",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 22.4,
+     "y": 37.3
+    },
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Dravanian Forelands",
+     "x": 22.4,
+     "y": 37.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Dravanian Forelands",
+     "x": 23.7,
+     "y": 19.7
+    }
    ],
    "target": {
     "zone": "The Dravanian Forelands",
@@ -451,6 +1263,38 @@
     "Sohm Al",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Vidofnir",
+     "zone": "The Dravanian Forelands",
+     "x": 17.6,
+     "y": 24.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 8.6,
+     "y": 6.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Sohm Al Foothills",
+     "x": 10.2,
+     "y": 4.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 26.2,
+     "y": 36.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Churning Mists",
+     "x": 27.4,
+     "y": 34.9
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 23.8,
@@ -462,6 +1306,26 @@
    "section": "Levels 52-53",
    "title": "Beyond the Clouds",
    "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Churning Mists",
+     "x": 28.3,
+     "y": 35.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 30.3,
+     "y": 36.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Churning Mists",
+     "x": 29.9,
+     "y": 35.7
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 27.4,
@@ -473,6 +1337,38 @@
    "section": "Levels 54-55",
    "title": "Mountaintop Diplomacy",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to silent conjurer",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "The Churning Mists",
+     "x": 30,
+     "y": 35.8
+    },
+    {
+     "label": "Talk to Moglin",
+     "zone": "The Churning Mists",
+     "x": 30.2,
+     "y": 36.6
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 29.9,
@@ -484,6 +1380,20 @@
    "section": "Levels 54-55",
    "title": "Moghan's Trial",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 28.3,
+     "y": 31.3
+    },
+    {
+     "label": "Talk to Moghan",
+     "zone": "The Churning Mists",
+     "x": 30.1,
+     "y": 36.5
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 30.1,
@@ -495,6 +1405,20 @@
    "section": "Levels 54-55",
    "title": "Mogmug's Trial",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 27.5,
+     "y": 31.4
+    },
+    {
+     "label": "Talk to Mogmug",
+     "zone": "The Churning Mists",
+     "x": 30.4,
+     "y": 35.6
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 30.4,
@@ -506,6 +1430,32 @@
    "section": "Levels 54-55",
    "title": "Mogwin's Trial",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to muddled moogle",
+     "zone": "The Churning Mists",
+     "x": 29.8,
+     "y": 36.7
+    },
+    {
+     "label": "Talk to Mogwin",
+     "zone": "The Churning Mists",
+     "x": 29.7,
+     "y": 35.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 28.2,
+     "y": 35.2
+    },
+    {
+     "label": "Talk to Mogwin",
+     "zone": "The Churning Mists",
+     "x": 29.7,
+     "y": 35.4
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 29.7,
@@ -517,6 +1467,50 @@
    "section": "Levels 54-55",
    "title": "Moglin's Judgment",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Churning Mists",
+     "x": 29.8,
+     "y": 36
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "The Churning Mists",
+     "x": 29.3,
+     "y": 35.6
+    },
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Churning Mists",
+     "x": 30.4,
+     "y": 35.7
+    },
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "The Churning Mists",
+     "x": 30,
+     "y": 35.6
+    },
+    {
+     "label": "Talk to Kuplo Kopp",
+     "zone": "The Churning Mists",
+     "x": 30.4,
+     "y": 35.5
+    },
+    {
+     "label": "Talk to Moglin",
+     "zone": "The Churning Mists",
+     "x": 30.2,
+     "y": 36.6
+    },
+    {
+     "label": "Talk to Moghan",
+     "zone": "The Churning Mists",
+     "x": 30.1,
+     "y": 36.5
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 30.2,
@@ -528,6 +1522,26 @@
    "section": "Levels 54-55",
    "title": "Leaving Moghome",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Churning Mists",
+     "x": 29.9,
+     "y": 35.7
+    },
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "The Churning Mists",
+     "x": 30,
+     "y": 35.6
+    },
+    {
+     "label": "Talk to Moghan",
+     "zone": "The Churning Mists",
+     "x": 27.4,
+     "y": 34.8
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 30.1,
@@ -539,6 +1553,26 @@
    "section": "Levels 54-55",
    "title": "The Road to Zenith",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 28.7,
+     "y": 29.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 26.7,
+     "y": 25.9
+    },
+    {
+     "label": "Talk to Moghan",
+     "zone": "The Churning Mists",
+     "x": 21,
+     "y": 26.7
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 27.4,
@@ -553,6 +1587,32 @@
    "unlocks": [
     "Mount Speed Increase"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Moghan",
+     "zone": "The Churning Mists",
+     "x": 17.4,
+     "y": 33.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 18,
+     "y": 29
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 20.7,
+     "y": 30.2
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "The Churning Mists",
+     "x": 17.3,
+     "y": 33.7
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 21,
@@ -564,6 +1624,20 @@
    "section": "Levels 54-55",
    "title": "Heart of Ice",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 7.4,
+     "y": 26.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Churning Mists",
+     "x": 7.4,
+     "y": 26.8
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 17.4,
@@ -575,6 +1649,32 @@
    "section": "Levels 54-55",
    "title": "The Wyrm's Lair",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 13.5,
+     "y": 30.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 25.6,
+     "y": 26.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 30.5,
+     "y": 19.7
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "The Churning Mists",
+     "x": 34,
+     "y": 15.2
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 7.4,
@@ -586,6 +1686,32 @@
    "section": "Levels 54-55",
    "title": "New Winds, Old Friends",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 9.1,
+     "y": 10.4
+    },
+    {
+     "label": "Talk to Emmanellain",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Pillars",
+     "x": 14.4,
+     "y": 10.8
+    },
+    {
+     "label": "Talk to Biggs",
+     "zone": "Foundation",
+     "x": 8,
+     "y": 10.4
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 34,
@@ -597,6 +1723,38 @@
    "section": "Levels 54-55",
    "title": "A General Summons",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Waking Sands",
+     "x": 5.9,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Yugiri",
+     "zone": "The Waking Sands",
+     "x": 6,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Kikipu",
+     "zone": "Western Thanalan",
+     "x": 16.4,
+     "y": 29.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Western Thanalan",
+     "x": 16.2,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Western Thanalan",
+     "x": 16.9,
+     "y": 30.1
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 8,
@@ -608,6 +1766,20 @@
    "section": "Levels 54-55",
    "title": "Awakening in Ul'dah",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Bartholomew",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.8,
+     "y": 13
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Ul'dah - Steps of Thal",
+     "x": 10.8,
+     "y": 12.8
+    }
+   ],
    "target": {
     "zone": "Western Thanalan",
     "x": 16.9,
@@ -619,6 +1791,20 @@
    "section": "Levels 54-55",
    "title": "A Brave Resolution",
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "Ul'dah - Steps of Thal",
     "x": 10.8,
@@ -630,6 +1816,32 @@
    "section": "Levels 54-55",
    "title": "Ready to Fly",
    "text": "Level 55 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Cid",
+     "zone": "Foundation",
+     "x": 8.1,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Temple Knight guard",
+     "zone": "Foundation",
+     "x": 13.5,
+     "y": 11
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Foundation",
+     "x": 13.4,
+     "y": 11.1
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -645,6 +1857,32 @@
     "The Aery",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Cid",
+     "zone": "Foundation",
+     "x": 7.5,
+     "y": 10.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Aery",
+     "x": 11.1,
+     "y": 7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Churning Mists",
+     "x": 33.7,
+     "y": 15.5
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "The Churning Mists",
+     "x": 33.6,
+     "y": 15.5
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.4,
@@ -656,6 +1894,14 @@
    "section": "Levels 54-55",
    "title": "The Song Begins",
    "text": "Level 55 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Ysayle",
+     "zone": "The Churning Mists",
+     "x": 7.4,
+     "y": 26.9
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 33.6,
@@ -670,6 +1916,14 @@
    "unlocks": [
     "Orthodox Mayhem"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Haurchefant",
+     "zone": "Foundation",
+     "x": 8,
+     "y": 8.9
+    }
+   ],
    "target": {
     "zone": "The Churning Mists",
     "x": 7.5,
@@ -681,6 +1935,20 @@
    "section": "Levels 56-57",
    "title": "He Who Would Not Be Denied",
    "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Fortemps Manor",
+     "x": 6.2,
+     "y": 6.3
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 8,
@@ -692,6 +1960,26 @@
    "section": "Levels 56-57",
    "title": "Ill-weather Friends",
    "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "Foundation",
+     "x": 13.1,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Brume starveling",
+     "zone": "Foundation",
+     "x": 14.1,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 13.2,
+     "y": 12.3
+    }
+   ],
    "target": {
     "zone": "Fortemps Manor",
     "x": 6.1,
@@ -703,6 +1991,26 @@
    "section": "Levels 56-57",
    "title": "The Spice of Life",
    "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gibrillont",
+     "zone": "Foundation",
+     "x": 13,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to hulking hunter",
+     "zone": "The Pillars",
+     "x": 6.3,
+     "y": 9.9
+    },
+    {
+     "label": "Talk to Gibrillont",
+     "zone": "Foundation",
+     "x": 13,
+     "y": 11.9
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.2,
@@ -714,6 +2022,20 @@
    "section": "Levels 56-57",
    "title": "Noble Indiscretions",
    "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Hierytha",
+     "zone": "The Pillars",
+     "x": 15.9,
+     "y": 9.1
+    },
+    {
+     "label": "Talk to Gibrillont",
+     "zone": "Foundation",
+     "x": 13,
+     "y": 11.9
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13,
@@ -725,6 +2047,20 @@
    "section": "Levels 56-57",
    "title": "A Child Apart",
    "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gerraldieux",
+     "zone": "Foundation",
+     "x": 13.4,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Gibrillont",
+     "zone": "Foundation",
+     "x": 13,
+     "y": 11.9
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13,
@@ -736,6 +2072,20 @@
    "section": "Levels 56-57",
    "title": "Bloodlines",
    "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Foundation",
+     "x": 14,
+     "y": 12.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 13.3,
+     "y": 11.8
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13,
@@ -747,6 +2097,32 @@
    "section": "Levels 56-57",
    "title": "Fire and Blood",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Foundation",
+     "x": 12.4,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to Hilda",
+     "zone": "Foundation",
+     "x": 11.7,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Hilda",
+     "zone": "Foundation",
+     "x": 13.1,
+     "y": 12
+    },
+    {
+     "label": "Talk to Hilda",
+     "zone": "Foundation",
+     "x": 13,
+     "y": 11.5
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.3,
@@ -760,6 +2136,50 @@
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Vault"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 12.9,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Temple Knight squire",
+     "zone": "The Pillars",
+     "x": 11.1,
+     "y": 7.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Vault",
+     "x": 11.2,
+     "y": 11.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Pillars",
+     "x": 11.3,
+     "y": 7.4
+    },
+    {
+     "label": "Talk to Temple Knight squire",
+     "zone": "The Pillars",
+     "x": 11.1,
+     "y": 7.1
+    },
+    {
+     "label": "Talk to House Fortemps guard",
+     "zone": "The Pillars",
+     "x": 11.6,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Pillars",
+     "x": 11.5,
+     "y": 11.2
+    }
    ],
    "target": {
     "zone": "Foundation",
@@ -775,6 +2195,14 @@
    "unlocks": [
     "You Say You Want a Revolution"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Seat of the Lord Commander",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "The Pillars",
     "x": 11.5,
@@ -786,6 +2214,14 @@
    "section": "Levels 56-57",
    "title": "In Search of the Soleil",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Cid",
+     "zone": "Foundation",
+     "x": 8.1,
+     "y": 10.1
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.5,
@@ -801,6 +2237,32 @@
     "The Sea of Clouds (North)",
     "Ok' Zundu"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Cid",
+     "zone": "The Pillars",
+     "x": 14.2,
+     "y": 10.7
+    },
+    {
+     "label": "Talk to Wedge",
+     "zone": "The Pillars",
+     "x": 14.2,
+     "y": 11
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 6.9,
+     "y": 26
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Sea of Clouds",
+     "x": 6.5,
+     "y": 25.7
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 8.1,
@@ -812,6 +2274,26 @@
    "section": "Levels 56-57",
    "title": "Familiar Faces",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 8.4,
+     "y": 25
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 7.3,
+     "y": 24.4
+    },
+    {
+     "label": "Talk to Lonu Vanu",
+     "zone": "The Sea of Clouds",
+     "x": 7.5,
+     "y": 23
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 6.5,
@@ -823,6 +2305,26 @@
    "section": "Levels 56-57",
    "title": "Devourer of Worlds",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Sea of Clouds",
+     "x": 7.6,
+     "y": 23
+    },
+    {
+     "label": "Talk to Lonu Vanu",
+     "zone": "The Sea of Clouds",
+     "x": 9.5,
+     "y": 15.8
+    },
+    {
+     "label": "Talk to Lonu Vanu",
+     "zone": "The Sea of Clouds",
+     "x": 11.4,
+     "y": 14
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 7.5,
@@ -834,6 +2336,26 @@
    "section": "Levels 56-57",
    "title": "Black and the White",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Lonu Vanu",
+     "zone": "The Sea of Clouds",
+     "x": 11.8,
+     "y": 14.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 10.9,
+     "y": 12.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Sea of Clouds",
+     "x": 10.9,
+     "y": 13.6
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 11.7,
@@ -850,6 +2372,44 @@
     "Aether Current",
     "Mount Speed Increase"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Sonu Vanu",
+     "zone": "The Sea of Clouds",
+     "x": 11.7,
+     "y": 14.8
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "The Sea of Clouds",
+     "x": 19.5,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Wedge",
+     "zone": "The Sea of Clouds",
+     "x": 19.5,
+     "y": 11.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Limitless Blue",
+     "x": 5.8,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Sea of Clouds",
+     "x": 19.3,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Sea of Clouds",
+     "x": 19.4,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 10.9,
@@ -861,6 +2421,20 @@
    "section": "Levels 56-57",
    "title": "A Difference of Opinion",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Sea of Clouds",
+     "x": 10.9,
+     "y": 13.6
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "The Sea of Clouds",
+     "x": 19.5,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 19.4,
@@ -875,6 +2449,14 @@
    "unlocks": [
     "The Faith That Drives Us"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Cid",
+     "zone": "The Pillars",
+     "x": 14.5,
+     "y": 12
+    }
+   ],
    "target": {
     "zone": "The Sea of Clouds",
     "x": 19.5,
@@ -886,6 +2468,20 @@
    "section": "Levels 56-57",
    "title": "An Engineering Enterprise",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Seat of the Lord Commander",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Foundation",
+     "x": 13.1,
+     "y": 11.9
+    }
+   ],
    "target": {
     "zone": "The Pillars",
     "x": 14.5,
@@ -897,6 +2493,26 @@
    "section": "Levels 56-57",
    "title": "Aetherial Trail",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Pipin",
+     "zone": "Ul'dah - Steps of Nald",
+     "x": 8.6,
+     "y": 9
+    },
+    {
+     "label": "Talk to Urianger",
+     "zone": "Central Thanalan",
+     "x": 17.4,
+     "y": 23.6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Old Gridania",
+     "x": 8.1,
+     "y": 10.8
+    }
+   ],
    "target": {
     "zone": "Foundation",
     "x": 13.1,
@@ -908,6 +2524,32 @@
    "section": "Levels 56-57",
    "title": "Lost in the Lifestream",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Kan-E-Senna",
+     "zone": "Lotus Stand",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Old Gridania",
+     "x": 8.2,
+     "y": 11
+    },
+    {
+     "label": "Talk to Y'mhitra",
+     "zone": "Old Gridania",
+     "x": 10.9,
+     "y": 6.3
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "New Gridania",
+     "x": 12,
+     "y": 13.2
+    }
+   ],
    "target": {
     "zone": "Old Gridania",
     "x": 8.1,
@@ -919,6 +2561,26 @@
    "section": "Levels 56-57",
    "title": "Tataru's Surprise",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Geva",
+     "zone": "Old Gridania",
+     "x": 12.7,
+     "y": 7.9
+    },
+    {
+     "label": "Talk to E-Sumi-Yan",
+     "zone": "Old Gridania",
+     "x": 6.1,
+     "y": 10.7
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "New Gridania",
+     "x": 12,
+     "y": 13.2
+    }
+   ],
    "target": {
     "zone": "New Gridania",
     "x": 12,
@@ -930,6 +2592,20 @@
    "section": "Levels 56-57",
    "title": "Onward to Sharlayan",
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Foundation",
+     "x": 11.1,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Dravanian Forelands",
+     "x": 34.3,
+     "y": 24
+    }
+   ],
    "target": {
     "zone": "New Gridania",
     "x": 12,
@@ -945,6 +2621,26 @@
     "The Dravanian Hinterlands",
     "Idyllshire"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Forelands",
+     "x": 6.2,
+     "y": 34.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Hinterlands",
+     "x": 17.9,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Slowfix",
+     "zone": "Idyllshire",
+     "x": 7.6,
+     "y": 6.6
+    }
+   ],
    "target": {
     "zone": "The Dravanian Forelands",
     "x": 34.3,
@@ -956,6 +2652,26 @@
    "section": "Levels 58-60",
    "title": "Golems Begone",
    "text": "Level 58 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Idyllshire",
+     "x": 7.6,
+     "y": 6.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Idyllshire",
+     "x": 4.8,
+     "y": 5
+    },
+    {
+     "label": "Talk to Slowfix",
+     "zone": "Idyllshire",
+     "x": 7.6,
+     "y": 6.6
+    }
+   ],
    "target": {
     "zone": "Idyllshire",
     "x": 7.6,
@@ -967,6 +2683,26 @@
    "section": "Levels 58-60",
    "title": "An Illuminati Incident",
    "text": "Level 58 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Hinterlands",
+     "x": 29.5,
+     "y": 22.1
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Dravanian Hinterlands",
+     "x": 29.6,
+     "y": 22.5
+    },
+    {
+     "label": "Talk to Slowfix",
+     "zone": "Idyllshire",
+     "x": 7.6,
+     "y": 6.6
+    }
+   ],
    "target": {
     "zone": "Idyllshire",
     "x": 7.6,
@@ -978,6 +2714,20 @@
    "section": "Levels 58-60",
    "title": "Leaving Idyllshire",
    "text": "Level 58 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to gobwatch",
+     "zone": "Idyllshire",
+     "x": 7.7,
+     "y": 8.8
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Idyllshire",
+     "x": 7.7,
+     "y": 8.7
+    }
+   ],
    "target": {
     "zone": "Idyllshire",
     "x": 7.6,
@@ -992,6 +2742,26 @@
    "unlocks": [
     "Matoya's Cave (zone)",
     "Mount Speed Increase"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Dravanian Hinterlands",
+     "x": 13,
+     "y": 36.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Dravanian Hinterlands",
+     "x": 12.8,
+     "y": 37.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Dravanian Hinterlands",
+     "x": 13,
+     "y": 36.6
+    }
    ],
    "target": {
     "zone": "Idyllshire",
@@ -1008,6 +2778,44 @@
     "The Great Gubal Library",
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Matoya",
+     "zone": "Matoya's Cave",
+     "x": 6.5,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to enchanted broom",
+     "zone": "Matoya's Cave",
+     "x": 6.6,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Broomsy",
+     "zone": "The Dravanian Hinterlands",
+     "x": 28.6,
+     "y": 38
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Great Gubal Library",
+     "x": 18.8,
+     "y": 10
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Dravanian Hinterlands",
+     "x": 28.5,
+     "y": 37.9
+    },
+    {
+     "label": "Talk to Matoya",
+     "zone": "Matoya's Cave",
+     "x": 6.5,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Matoya's Cave",
     "x": 6.5,
@@ -1019,6 +2827,26 @@
    "section": "Levels 58-60",
    "title": "An Eye for Aether",
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Dravanian Hinterlands",
+     "x": 13.1,
+     "y": 36.6
+    },
+    {
+     "label": "Talk to Aymeric",
+     "zone": "Foundation",
+     "x": 13.7,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "The Pillars",
+     "x": 14.6,
+     "y": 12.3
+    }
+   ],
    "target": {
     "zone": "Matoya's Cave",
     "x": 6.5,
@@ -1032,6 +2860,44 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Hope Enkindled"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Aymeric",
+     "zone": "The Pillars",
+     "x": 14.6,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Lucia",
+     "zone": "Foundation",
+     "x": 13.8,
+     "y": 11.3
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Foundation",
+     "x": 13.1,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Hilda",
+     "zone": "Foundation",
+     "x": 11.5,
+     "y": 12.1
+    },
+    {
+     "label": "Talk to Count Edmont de Fortemps",
+     "zone": "Fortemps Manor",
+     "x": 6.2,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Pillars",
+     "x": 14.6,
+     "y": 12.3
+    }
    ],
    "target": {
     "zone": "The Pillars",
@@ -1048,6 +2914,38 @@
     "Azys Lla",
     "Helix"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Pillars",
+     "x": 14.9,
+     "y": 11.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Pillars",
+     "x": 14.6,
+     "y": 12.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Pillars",
+     "x": 14.5,
+     "y": 12
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "Azys Lla",
+     "x": 5.3,
+     "y": 9.4
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "Azys Lla",
+     "x": 9.6,
+     "y": 11.3
+    }
+   ],
    "target": {
     "zone": "The Pillars",
     "x": 14.6,
@@ -1061,6 +2959,32 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Azys Lla",
+     "x": 9.6,
+     "y": 11.8
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "Azys Lla",
+     "x": 9.8,
+     "y": 11
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 14,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Cid",
+     "zone": "Azys Lla",
+     "x": 9.8,
+     "y": 11
+    }
    ],
    "target": {
     "zone": "Azys Lla",
@@ -1076,6 +3000,32 @@
    "unlocks": [
     "Aether Current"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Azys Lla",
+     "x": 9.7,
+     "y": 11
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 18.7,
+     "y": 12.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Azys Lla",
+     "x": 19.7,
+     "y": 12.5
+    },
+    {
+     "label": "Talk to guidance node",
+     "zone": "Azys Lla",
+     "x": 27.3,
+     "y": 10.2
+    }
+   ],
    "target": {
     "zone": "Azys Lla",
     "x": 9.8,
@@ -1089,6 +3039,32 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 38.5,
+     "y": 12.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 28.5,
+     "y": 14.1
+    },
+    {
+     "label": "Talk to guidance node",
+     "zone": "Azys Lla",
+     "x": 38.2,
+     "y": 12.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Azys Lla",
+     "x": 38.2,
+     "y": 12.9
+    }
    ],
    "target": {
     "zone": "Azys Lla",
@@ -1105,6 +3081,32 @@
     "Aether Current",
     "Mount Speed Increase"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Estinien",
+     "zone": "Azys Lla",
+     "x": 35.4,
+     "y": 32.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 27.5,
+     "y": 33.7
+    },
+    {
+     "label": "Talk to guidance node",
+     "zone": "Azys Lla",
+     "x": 27.1,
+     "y": 33.7
+    },
+    {
+     "label": "Talk to guidance node",
+     "zone": "Azys Lla",
+     "x": 18.6,
+     "y": 31.7
+    }
+   ],
    "target": {
     "zone": "Azys Lla",
     "x": 35.3,
@@ -1118,6 +3120,14 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
+   ],
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Azys Lla",
+     "x": 8.6,
+     "y": 31.2
+    }
    ],
    "target": {
     "zone": "Azys Lla",
@@ -1135,6 +3145,50 @@
     "The Singularity Reactor",
     "Looking Up",
     "Mount Speed Increase"
+   ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Azys Lla",
+     "x": 21.5,
+     "y": 22.6
+    },
+    {
+     "label": "Talk to guidance node",
+     "zone": "Azys Lla",
+     "x": 21.3,
+     "y": 22.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Aetherochemical Research Facility",
+     "x": 11.3,
+     "y": 6.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Central Azys Lla",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Singularity Reactor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Fortemps Manor",
+     "x": 6.1,
+     "y": 6.2
+    }
    ],
    "target": {
     "zone": "Azys Lla",

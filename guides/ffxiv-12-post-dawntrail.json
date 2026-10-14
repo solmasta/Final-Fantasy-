@@ -5,6 +5,38 @@
    "section": "Patch 7.1 (Crossroads)",
    "title": "A Royal Invitation",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Br'uk Evu",
+     "zone": "Tuliyollal",
+     "x": 12.5,
+     "y": 14.6
+    },
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 12.7,
+     "y": 14.7
+    },
+    {
+     "label": "Talk to Landsguard gatekeeper",
+     "zone": "Tuliyollal",
+     "x": 9.6,
+     "y": 3.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Sunperch",
+     "x": 6.1,
+     "y": 4.6
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 10.1,
@@ -16,6 +48,20 @@
    "section": "Patch 7.1 (Crossroads)",
    "title": "Alexandria Mourns",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gossan",
+     "zone": "Solution Nine",
+     "x": 12.8,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 6.3,
+     "y": 15.2
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6,
@@ -30,6 +76,44 @@
    "unlocks": [
     "Yuweyawata Field Station"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 17.6,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "Heritage Found",
+     "x": 9.3,
+     "y": 11.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yuweyawata",
+     "x": 11.3,
+     "y": 11.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yuweyawata",
+     "x": 11.8,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "Yuweyawata",
+     "x": 11.9,
+     "y": 13
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 6.3,
@@ -41,6 +125,38 @@
    "section": "Patch 7.1 (Crossroads)",
    "title": "Among the Abandoned",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Yuweyawata",
+     "x": 10.5,
+     "y": 15.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Yuweyawata",
+     "x": 11,
+     "y": 16.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Yuweyawata",
+     "x": 10.3,
+     "y": 15.4
+    },
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "Heritage Found",
+     "x": 9.9,
+     "y": 11.4
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Yuweyawata",
     "x": 11.9,
@@ -52,6 +168,56 @@
    "section": "Patch 7.1 (Crossroads)",
    "title": "Guidance of the Hhetso",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wawlika",
+     "zone": "Shaaloani",
+     "x": 14.2,
+     "y": 19.7
+    },
+    {
+     "label": "Talk to Hhwato",
+     "zone": "Shaaloani",
+     "x": 27.6,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to Shepetto",
+     "zone": "Shaaloani",
+     "x": 27.6,
+     "y": 11.2
+    },
+    {
+     "label": "Talk to talkative Hhetsarro",
+     "zone": "Shaaloani",
+     "x": 28.2,
+     "y": 10.3
+    },
+    {
+     "label": "Talk to ruffled rroneek",
+     "zone": "Shaaloani",
+     "x": 28.6,
+     "y": 12.4
+    },
+    {
+     "label": "Talk to troubled Hhetsarro",
+     "zone": "Shaaloani",
+     "x": 27,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to playful Hhetsarro",
+     "zone": "Shaaloani",
+     "x": 26,
+     "y": 10.9
+    },
+    {
+     "label": "Talk to Shepetto",
+     "zone": "Shaaloani",
+     "x": 27.6,
+     "y": 11.2
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6.1,
@@ -63,6 +229,38 @@
    "section": "Patch 7.1 (Crossroads)",
    "title": "The Warmth of Family",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Koana",
+     "zone": "Shaaloani",
+     "x": 27.4,
+     "y": 10.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Shaaloani",
+     "x": 27.5,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Koana",
+     "zone": "Shaaloani",
+     "x": 27.5,
+     "y": 11.1
+    },
+    {
+     "label": "Talk to Wawlika",
+     "zone": "Shaaloani",
+     "x": 19,
+     "y": 15.6
+    },
+    {
+     "label": "Talk to Nitowikwe",
+     "zone": "Shaaloani",
+     "x": 18.1,
+     "y": 14
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 27.4,
@@ -77,6 +275,38 @@
    "unlocks": [
     "Crossroads"
    ],
+   "objectives": [
+    {
+     "label": "Talk to G'raha Tia",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Geode",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 12.4,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Shaaloani",
     "x": 18.1,
@@ -88,6 +318,26 @@
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "A Glimmer of the Past",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Backroom",
+     "x": 5.8,
+     "y": 5.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Break Room",
+     "x": 6.2,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Break Room",
+     "x": 6.2,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6,
@@ -99,6 +349,32 @@
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "Memories of a Bygone Age",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "Solution Nine",
+     "x": 12.4,
+     "y": 18.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 12.4,
+     "y": 18.7
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 6.3,
+     "y": 14.2
+    }
+   ],
    "target": {
     "zone": "Break Room",
     "x": 6.2,
@@ -110,6 +386,38 @@
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "In Search of Meaning",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "Solution Nine",
+     "x": 18.6,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to stricken citizen",
+     "zone": "Solution Nine",
+     "x": 18.7,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 18.6,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to energetic citizen",
+     "zone": "Solution Nine",
+     "x": 19.3,
+     "y": 18
+    },
+    {
+     "label": "Talk to lively citizen",
+     "zone": "Solution Nine",
+     "x": 17.2,
+     "y": 19.7
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 5.5,
@@ -121,6 +429,32 @@
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "A Jewel Shattered",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Malachite",
+     "zone": "Solution Nine",
+     "x": 18.7,
+     "y": 14.2
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Solution Nine",
+     "x": 19.4,
+     "y": 15.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Solution Nine",
+     "x": 17.8,
+     "y": 16.7
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 17.8,
+     "y": 17.9
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 17.2,
@@ -132,6 +466,20 @@
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "The Meeting",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 17.8,
@@ -147,6 +495,38 @@
     "The Underkeep",
     "Recollection"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Shale",
+     "zone": "Solution Nine",
+     "x": 11,
+     "y": 3.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Underkeep",
+     "x": 11.2,
+     "y": 9.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Recollection",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Throne Room",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Throne Room",
+     "x": 6.1,
+     "y": 6.5
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6,
@@ -158,6 +538,32 @@
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "Shared Paths",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sphene",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Milos",
+     "zone": "Solution Nine",
+     "x": 4.3,
+     "y": 19
+    }
+   ],
    "target": {
     "zone": "Throne Room",
     "x": 6.1,
@@ -172,6 +578,38 @@
    "unlocks": [
     "Seekers of Eternity"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Heritage Found",
+     "x": 16.7,
+     "y": 9.6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 26,
+     "y": 13.5
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Heritage Found",
+     "x": 25.6,
+     "y": 13.1
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Heritage Found",
+     "x": 16.6,
+     "y": 10
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 4.3,
@@ -183,6 +621,38 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "Targeted Tragedy",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Geode",
+     "zone": "Solution Nine",
+     "x": 18.2,
+     "y": 17.3
+    },
+    {
+     "label": "Talk to grieving citizen",
+     "zone": "Solution Nine",
+     "x": 19.9,
+     "y": 16.5
+    },
+    {
+     "label": "Talk to unsettled sanitation worker",
+     "zone": "Solution Nine",
+     "x": 21.7,
+     "y": 18.1
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Solution Nine",
+     "x": 19.4,
+     "y": 15.7
+    },
+    {
+     "label": "Talk to Wayakkwe",
+     "zone": "Solution Nine",
+     "x": 4.3,
+     "y": 19
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6,
@@ -194,6 +664,38 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "The Endless Choice",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Solution Nine",
+     "x": 5,
+     "y": 18.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Solution Nine",
+     "x": 5.8,
+     "y": 17.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Solution Nine",
+     "x": 7.5,
+     "y": 18.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Solution Nine",
+     "x": 9.6,
+     "y": 18.5
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 9.7,
+     "y": 21.9
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 4.3,
@@ -205,6 +707,50 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "My Memories and Yours",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Wayakkwe",
+     "zone": "The Backroom",
+     "x": 6.2,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Heritage Found",
+     "x": 15.8,
+     "y": 5.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 25.9,
+     "y": 8.2
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Heritage Found",
+     "x": 25.7,
+     "y": 8.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Earthen Sky Hideout",
+     "x": 6.2,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Earthen Sky Hideout",
+     "x": 6.3,
+     "y": 5.9
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 9.7,
@@ -216,6 +762,38 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "A Darkness in the Heart",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 16.7,
+     "y": 9.5
+    },
+    {
+     "label": "Talk to Pepoane",
+     "zone": "Heritage Found",
+     "x": 19.3,
+     "y": 8.3
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 16.7,
+     "y": 9.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Solution Nine",
+     "x": 12.3,
+     "y": 6
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 11.9,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Earthen Sky Hideout",
     "x": 6.3,
@@ -227,6 +805,74 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "Preservation Their Purpose",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to lift attendant",
+     "zone": "Solution Nine",
+     "x": 11.2,
+     "y": 3.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Containment Complex 10-29",
+     "x": 5.2,
+     "y": 6.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Containment Complex 10-29",
+     "x": 5.5,
+     "y": 6.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Containment Complex 10-29",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Containment Complex 10-29",
+     "x": 5.9,
+     "y": 5.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Containment Complex 10-29",
+     "x": 6.3,
+     "y": 5
+    },
+    {
+     "label": "Objective area",
+     "zone": "Containment Complex 10-29",
+     "x": 6.3,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "Containment Complex 10-29",
+     "x": 6.4,
+     "y": 6.7
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Containment Complex 10-29",
+     "x": 7,
+     "y": 6.4
+    },
+    {
+     "label": "Objective area",
+     "zone": "Containment Complex 10-29",
+     "x": 7,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Containment Complex 10-29",
+     "x": 6.4,
+     "y": 6.7
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 11.9,
@@ -238,6 +884,62 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "A Calculated Evolution",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Containment Complex 10-29",
+     "x": 6.2,
+     "y": 7
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Containment Complex 10-29",
+     "x": 6.2,
+     "y": 7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Containment Complex 10-29",
+     "x": 6.2,
+     "y": 6
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Containment Complex 10-29",
+     "x": 7,
+     "y": 5.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Containment Complex 10-29",
+     "x": 6.9,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Containment Complex 10-29",
+     "x": 7,
+     "y": 5.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Containment Complex 10-29",
+     "x": 7,
+     "y": 5.8
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "Containment Complex 10-29",
+     "x": 7.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Containment Complex 10-29",
     "x": 6.4,
@@ -249,6 +951,26 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "One of Our Own",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Gossan",
+     "zone": "Solution Nine",
+     "x": 12.8,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 12.8,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Y'shtola",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 36.9
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6.1,
@@ -264,6 +986,38 @@
     "The Meso Terminal",
     "The Ageless Necropolis"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 28.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Meso Terminal",
+     "x": 11.3,
+     "y": 11.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Ageless Necropolis",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Living Memory",
+     "x": 21.6,
+     "y": 28.9
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Heritage Found",
+     "x": 18.6,
+     "y": 11.6
+    }
+   ],
    "target": {
     "zone": "Living Memory",
     "x": 21.5,
@@ -275,6 +1029,38 @@
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "Blades in Waiting",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Mahuwsa",
+     "zone": "Heritage Found",
+     "x": 19.1,
+     "y": 14.4
+    },
+    {
+     "label": "Talk to Taapu",
+     "zone": "Heritage Found",
+     "x": 9.4,
+     "y": 11.8
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Heritage Found",
+     "x": 8,
+     "y": 17.4
+    },
+    {
+     "label": "Talk to Gulool Ja",
+     "zone": "Heritage Found",
+     "x": 10.4,
+     "y": 18.3
+    },
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "Heritage Found",
     "x": 18.6,
@@ -289,6 +1075,32 @@
    "unlocks": [
     "In Memoriam"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6.1,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 35.6
+    },
+    {
+     "label": "Talk to Wuk Lamat",
+     "zone": "Tuliyollal",
+     "x": 11.3,
+     "y": 6.9
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Solution Nine",
+     "x": 11.9,
+     "y": 6.4
+    }
+   ],
    "target": {
     "zone": "The Backroom",
     "x": 6.1,
@@ -300,6 +1112,32 @@
    "section": "Patch 7.4 (Into the Mist)",
    "title": "With the Winds",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Shale",
+     "zone": "The Backroom",
+     "x": 6,
+     "y": 6.4
+    },
+    {
+     "label": "Talk to Erenville",
+     "zone": "Tuliyollal",
+     "x": 16,
+     "y": 14.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Tuliyollal",
+     "x": 16,
+     "y": 14.3
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Tuliyollal",
+     "x": 16,
+     "y": 14.5
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 11.9,
@@ -311,6 +1149,38 @@
    "section": "Patch 7.4 (Into the Mist)",
    "title": "Through the Thunder",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Shale",
+     "zone": "Tuliyollal",
+     "x": 13.7,
+     "y": 14.9
+    },
+    {
+     "label": "Talk to Sphene",
+     "zone": "Living Memory",
+     "x": 21.6,
+     "y": 36
+    },
+    {
+     "label": "Talk to Clerk PX-0093",
+     "zone": "Living Memory",
+     "x": 21.7,
+     "y": 36
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Alexandria Crater",
+     "x": 6.1,
+     "y": 6.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Alexandria Crater",
+     "x": 6,
+     "y": 6.5
+    }
+   ],
    "target": {
     "zone": "Tuliyollal",
     "x": 16,
@@ -325,6 +1195,32 @@
    "unlocks": [
     "Mistwake"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Sphene",
+     "zone": "Alexandria Crater",
+     "x": 6.1,
+     "y": 5.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mistwake",
+     "x": 11.6,
+     "y": 8.4
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Treno",
+     "x": 11.7,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Lumull",
+     "zone": "Treno",
+     "x": 11.5,
+     "y": 11.6
+    }
+   ],
    "target": {
     "zone": "Alexandria Crater",
     "x": 6,
@@ -336,6 +1232,26 @@
    "section": "Patch 7.4 (Into the Mist)",
    "title": "Around the City",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Krile",
+     "zone": "Treno",
+     "x": 11.4,
+     "y": 11.6
+    },
+    {
+     "label": "Talk to dauntless laborer",
+     "zone": "Treno",
+     "x": 10.9,
+     "y": 13
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Treno",
+     "x": 11.4,
+     "y": 11.6
+    }
+   ],
    "target": {
     "zone": "Treno",
     "x": 11.5,
@@ -347,6 +1263,44 @@
    "section": "Patch 7.4 (Into the Mist)",
    "title": "To Work",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Eyaney",
+     "zone": "Treno",
+     "x": 10.9,
+     "y": 10.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Treno",
+     "x": 10.9,
+     "y": 11.7
+    },
+    {
+     "label": "Objective area",
+     "zone": "Treno",
+     "x": 11.5,
+     "y": 12.1
+    },
+    {
+     "label": "Objective area",
+     "zone": "Treno",
+     "x": 11.3,
+     "y": 12.9
+    },
+    {
+     "label": "Talk to lightning sprite",
+     "zone": "Treno",
+     "x": 9.9,
+     "y": 12.5
+    },
+    {
+     "label": "Talk to Eyaney",
+     "zone": "Treno",
+     "x": 10.9,
+     "y": 10.1
+    }
+   ],
    "target": {
     "zone": "Treno",
     "x": 11.5,
@@ -358,6 +1312,38 @@
    "section": "Patch 7.4 (Into the Mist)",
    "title": "In Her Heart",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Treno",
+     "x": 11.6,
+     "y": 10.2
+    },
+    {
+     "label": "Talk to affable local",
+     "zone": "Treno",
+     "x": 11.4,
+     "y": 9.7
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Treno",
+     "x": 12.4,
+     "y": 11
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Treno",
+     "x": 12.5,
+     "y": 11
+    },
+    {
+     "label": "Talk to Eyaney",
+     "zone": "Treno",
+     "x": 10.9,
+     "y": 10.1
+    }
+   ],
    "target": {
     "zone": "Treno",
     "x": 10.9,
@@ -369,6 +1355,26 @@
    "section": "Patch 7.4 (Into the Mist)",
    "title": "Toward Trouble",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Treno",
+     "x": 10.9,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Treno",
+     "x": 10.9,
+     "y": 10.1
+    },
+    {
+     "label": "Talk to Lumull",
+     "zone": "Treno",
+     "x": 11.8,
+     "y": 15.1
+    }
+   ],
    "target": {
     "zone": "Treno",
     "x": 10.9,
@@ -382,6 +1388,50 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Hell on Rails"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to cargo operator",
+     "zone": "Treno",
+     "x": 11.9,
+     "y": 15.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Bentini Depot",
+     "x": 5.8,
+     "y": 6.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Hell on Rails",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Treno",
+     "x": 11.7,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Lumull",
+     "zone": "Treno",
+     "x": 11.3,
+     "y": 8.2
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Treno",
+     "x": 11.7,
+     "y": 11.5
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Treno",
+     "x": 11.6,
+     "y": 12.3
+    }
    ],
    "target": {
     "zone": "Treno",
@@ -397,6 +1447,32 @@
    "unlocks": [
     "Into the Mist"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Miayli",
+     "zone": "Treno",
+     "x": 11.6,
+     "y": 7.9
+    },
+    {
+     "label": "Objective area",
+     "zone": "Treno",
+     "x": 11.6,
+     "y": 15.2
+    },
+    {
+     "label": "Talk to Krile",
+     "zone": "Living Memory",
+     "x": 21.5,
+     "y": 36.9
+    },
+    {
+     "label": "Talk to Gossan",
+     "zone": "Solution Nine",
+     "x": 12.7,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Treno",
     "x": 11.6,
@@ -408,6 +1484,32 @@
    "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
    "title": "In Fate's Footsteps",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Shale",
+     "zone": "Containment Complex 10-29",
+     "x": 6.2,
+     "y": 7
+    },
+    {
+     "label": "Talk to Ojika Tsunjika",
+     "zone": "Old Sharlayan",
+     "x": 9.2,
+     "y": 11.3
+    },
+    {
+     "label": "Objective area",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "Main Hall",
+     "x": 6.1,
+     "y": 6.2
+    }
+   ],
    "target": {
     "zone": "Solution Nine",
     "x": 12.7,
@@ -421,6 +1523,32 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Clyteum"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Garlemald",
+     "x": 32.1,
+     "y": 16.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Clyteum",
+     "x": 13.7,
+     "y": 5.9
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Garlemald",
+     "x": 32.2,
+     "y": 16.9
+    },
+    {
+     "label": "Talk to Jullus",
+     "zone": "Garlemald",
+     "x": 32.2,
+     "y": 16.9
+    }
    ],
    "target": {
     "zone": "Main Hall",
@@ -436,6 +1564,50 @@
    "unlocks": [
     "The Unmaking"
    ],
+   "objectives": [
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 20.7,
+     "y": 23.4
+    },
+    {
+     "label": "Talk to beleaguered Loporrit",
+     "zone": "Mare Lamentorum",
+     "x": 21.1,
+     "y": 23.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 17.7,
+     "y": 29.5
+    },
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 17.7,
+     "y": 29.7
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Unmaking",
+     "x": 6.1,
+     "y": 6.1
+    },
+    {
+     "label": "Go to this area",
+     "zone": "The Red Moon",
+     "x": 6.1,
+     "y": 3.8
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "The Red Moon",
+     "x": 6.1,
+     "y": 3.8
+    }
+   ],
    "target": {
     "zone": "Garlemald",
     "x": 32.1,
@@ -447,6 +1619,56 @@
    "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
    "title": "A Beacon from Beyond",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Golbez",
+     "zone": "The Red Moon",
+     "x": 5.7,
+     "y": 2.7
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Zero's Domain",
+     "x": 5.8,
+     "y": 4.9
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Zero's Domain",
+     "x": 5.1,
+     "y": 7.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Zero's Domain",
+     "x": 5.1,
+     "y": 7.2
+    },
+    {
+     "label": "Objective area",
+     "zone": "Zero's Domain",
+     "x": 8.4,
+     "y": 7.3
+    },
+    {
+     "label": "Talk to Zero",
+     "zone": "Zero's Domain",
+     "x": 8.5,
+     "y": 7.3
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Mare Lamentorum",
+     "x": 21.1,
+     "y": 11.7
+    },
+    {
+     "label": "Talk to Livingway",
+     "zone": "Mare Lamentorum",
+     "x": 21.1,
+     "y": 11.7
+    }
+   ],
    "target": {
     "zone": "The Red Moon",
     "x": 6.1,
@@ -461,6 +1683,26 @@
    "unlocks": [
     "Trail to the Heavens"
    ],
+   "objectives": [
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
+   ],
    "target": {
     "zone": "Mare Lamentorum",
     "x": 21,
@@ -472,6 +1714,32 @@
    "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
    "title": "A Winter's Dream",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Foundation",
+     "x": 10.9,
+     "y": 12.3
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Unmoored Isle",
+     "x": 6.3,
+     "y": 6.7
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Unmoored Isle",
+     "x": 6.3,
+     "y": 6.7
+    }
+   ],
    "target": {
     "zone": "The Rising Stones",
     "x": 6.1,
@@ -483,6 +1751,32 @@
    "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
    "title": "A Rush of Cold Wind",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Objective area",
+     "zone": "Unmoored Isle",
+     "x": 6.5,
+     "y": 6.5
+    },
+    {
+     "label": "Talk to Estinien",
+     "zone": "Unmoored Isle",
+     "x": 6.2,
+     "y": 5.5
+    },
+    {
+     "label": "Go to this area",
+     "zone": "Unmoored Isle",
+     "x": 6.2,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Alphinaud",
+     "zone": "Unmoored Isle",
+     "x": 6.1,
+     "y": 5.8
+    }
+   ],
    "target": {
     "zone": "Unmoored Isle",
     "x": 6.3,
@@ -494,6 +1788,26 @@
    "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
    "title": "The World Locked in Ice",
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "objectives": [
+    {
+     "label": "Talk to Visna",
+     "zone": "Unmoored Isle",
+     "x": 6.2,
+     "y": 5.8
+    },
+    {
+     "label": "Objective area",
+     "zone": "Unmoored Isle",
+     "x": 6.6,
+     "y": 5.7
+    },
+    {
+     "label": "Talk to Visna",
+     "zone": "Unmoored Isle",
+     "x": 6.2,
+     "y": 5.8
+    }
+   ],
    "target": {
     "zone": "Unmoored Isle",
     "x": 6.2,
@@ -507,6 +1821,20 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Onward and Upward"
+   ],
+   "objectives": [
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.3,
+     "y": 5.9
+    },
+    {
+     "label": "Talk to Tataru",
+     "zone": "The Rising Stones",
+     "x": 6.1,
+     "y": 6
+    }
    ],
    "target": {
     "zone": "Unmoored Isle",
