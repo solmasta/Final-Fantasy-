@@ -4,7 +4,13 @@
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Shaken Resolve",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
@@ -12,42 +18,90 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Grand Cosmos"
-   ]
+   ],
+   "target": {
+    "zone": "The Ocular",
+    "x": 6.1,
+    "y": 6,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "A Welcome Guest",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lakeland",
+    "x": 19.2,
+    "y": 34.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Good for the Soul",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 28.8,
+    "y": 27.6,
+    "label": "Beq Lugg (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Nowhere to Turn",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 28.9,
+    "y": 27.6,
+    "label": "Kai-Shirr (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "A Notable Absence",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 10.9,
+    "y": 10.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "For the People",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.2,
+    "y": 9.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Finding Good Help",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 20.3,
+    "y": 12.5,
+    "label": "Chai-Nuzz (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
    "title": "Moving Forward",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 24.9,
+    "y": 33.2,
+    "label": "Chai-Nuzz (quest start)"
+   }
   },
   {
    "section": "Patch 5.1 (Vows of Virtue, Deeds of Cruelty)",
@@ -55,47 +109,101 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Black and White"
-   ]
+   ],
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.8,
+    "y": 11.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Old Enemies, New Threats",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "The Way Home",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Lochs",
+    "x": 36.3,
+    "y": 31.8,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Seeking Counsel",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Ocular",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Facing the Truth",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lakeland",
+    "x": 34.1,
+    "y": 8.6,
+    "label": "Lyna (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "A Sleep Disturbed",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Ocular",
+    "x": 6.1,
+    "y": 6,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "An Old Friend",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 30.5,
+    "y": 18.3,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "Deep Designs",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 8.7,
+    "y": 21.9,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
    "title": "A Whale's Tale",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Tempest",
+    "x": 33.6,
+    "y": 17.5,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
@@ -103,7 +211,13 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Anamnesis Anyder"
-   ]
+   ],
+   "target": {
+    "zone": "Lakeland",
+    "x": 26.2,
+    "y": 32.6,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 5.2 (Echoes of a Fallen Star)",
@@ -111,37 +225,79 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Way More Heroes"
-   ]
+   ],
+   "target": {
+    "zone": "Kholusia",
+    "x": 10.8,
+    "y": 36.2,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "In the Name of the Light",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.6,
+    "y": 16.3,
+    "label": "manager of suites (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Heroic Dreams",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 10.7,
+    "y": 10.2,
+    "label": "Eirwel (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Fraying Threads",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 7.1,
+    "y": 9.6,
+    "label": "Ryne (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Food for the Soul",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Faded Memories",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.1,
+    "y": 11.3,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Etched in the Stars",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Tempest",
+    "x": 13.8,
+    "y": 36.6,
+    "label": "Quest start"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
@@ -149,7 +305,13 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Heroes' Gauntlet"
-   ]
+   ],
+   "target": {
+    "zone": "Kholusia",
+    "x": 11.5,
+    "y": 33.2,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
@@ -157,22 +319,46 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Seat of Sacrifice"
-   ]
+   ],
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.5,
+    "y": 11.3,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Nothing Unsaid",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.3,
+    "y": 11.3,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "The Journey Continues",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.6,
+    "y": 12.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
    "title": "Unto the Morrow",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 8.8,
+    "y": 16.8,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 5.3 (Reflections in Crystal)",
@@ -180,27 +366,57 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Hope's Legacy"
-   ]
+   ],
+   "target": {
+    "zone": "The Crystarium",
+    "x": 11.7,
+    "y": 11.2,
+    "label": "Ryne (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "Alisaie's Quest",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Wisdom of Allag",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Azys Lla",
+    "x": 4.7,
+    "y": 9.8,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "Reviving the Legacy",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Azys Lla",
+    "x": 35.4,
+    "y": 15.6,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "Forget Us Not",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
@@ -208,27 +424,57 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Matoya's Relict"
-   ]
+   ],
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 9.1,
+    "y": 13.6,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Admiral's Resolve",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Hinterlands",
+    "x": 30.2,
+    "y": 18.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Search for Sicard",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Lower Decks",
+    "x": 11.2,
+    "y": 11,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "On Rough Seas",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 27.4,
+    "y": 18.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
    "title": "The Great Ship Vylbrand",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Command Room",
+    "x": 3.6,
+    "y": 3.4,
+    "label": "Merlwyb (quest start)"
+   }
   },
   {
    "section": "Patch 5.4 (Futures Rewritten)",
@@ -236,27 +482,57 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Pen and Sword"
-   ]
+   ],
+   "target": {
+    "zone": "Outer La Noscea",
+    "x": 19.4,
+    "y": 16.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "Unto the Breach",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "Here Be Dragons",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Lochs",
+    "x": 36.4,
+    "y": 32.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "Righteous Indignation",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Azys Lla",
+    "x": 12.2,
+    "y": 25.5,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
    "title": "For Vengeance",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Azys Lla",
+    "x": 17.1,
+    "y": 22.2,
+    "label": "restrainment node (quest start)"
+   }
   },
   {
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
@@ -264,7 +540,13 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Paglth'an"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 9,
+    "y": 31.2,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Patch 5.5 (Death Unto Dawn - Part 1)",
@@ -272,17 +554,35 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Not for Naught"
-   ]
+   ],
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 10.8,
+    "y": 11.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
    "title": "The Company We Keep",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
    "title": "On Official Business",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Fringes",
+    "x": 8.6,
+    "y": 11.4,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 5.55 (Death Unto Dawn - Part 2)",
@@ -291,7 +591,13 @@
    "unlocks": [
     "Shush",
     "Under the Darkened Moon"
-   ]
+   ],
+   "target": {
+    "zone": "Lotus Stand",
+    "x": 6.2,
+    "y": 6.1,
+    "label": "Kan-E-Senna (quest start)"
+   }
   }
  ]
 }

@@ -7,12 +7,24 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Box"
-   ]
+   ],
+   "target": {
+    "zone": "Rhalgr's Reach",
+    "x": 14.7,
+    "y": 9.4,
+    "label": "Lyse (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "The Darkness Below",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Rhalgr's Reach",
+    "x": 12.2,
+    "y": 12.4,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
@@ -20,42 +32,90 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Drowned City of Skalla"
-   ]
+   ],
+   "target": {
+    "zone": "The Lochs",
+    "x": 32.1,
+    "y": 33,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "The Butcher's Blood",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Lochs",
+    "x": 32.2,
+    "y": 33,
+    "label": "Arenvald (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "Echoes of an Echo",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Lochs",
+    "x": 37,
+    "y": 34.3,
+    "label": "Lyse (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Sultana's Strings",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Lochs",
+    "x": 36.7,
+    "y": 30.4,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Sultana's Duty",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Thal",
+    "x": 9.1,
+    "y": 11.2,
+    "label": "Nanamo Ul Namo (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Sultana's Resolve",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Gold Saucer",
+    "x": 5.9,
+    "y": 7.1,
+    "label": "Nanamo Ul Namo (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "Securing the Saltery",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.1,
+    "y": 5.8,
+    "label": "Nanamo Ul Namo (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
    "title": "A Blissful Arrival",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Lochs",
+    "x": 15.8,
+    "y": 25.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 4.1 (The Legend Returns)",
@@ -63,7 +123,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "More Heroes"
-   ]
+   ],
+   "target": {
+    "zone": "The Lochs",
+    "x": 28.3,
+    "y": 23,
+    "label": "Raubahn (quest start)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
@@ -71,22 +137,46 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Greeting"
-   ]
+   ],
+   "target": {
+    "zone": "Rhalgr's Reach",
+    "x": 14.7,
+    "y": 9.4,
+    "label": "Lyse (quest start)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "The Sword in the Store",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kugane",
+    "x": 11,
+    "y": 7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "Hope on the Waves",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kugane",
+    "x": 11.3,
+    "y": 9.7,
+    "label": "Yugiri (quest start)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "Elation and Trepidation",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Ruby Sea",
+    "x": 5.7,
+    "y": 15.8,
+    "label": "Yugiri (quest start)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
@@ -96,21 +186,33 @@
     "The Doman Enclave"
    ],
    "target": {
-    "zone": "The Azim Steppe",
-    "x": 7.4,
-    "y": 6.5,
-    "label": "The Doman Enclave aetheryte (attune here)"
+    "zone": "Yanxia",
+    "x": 25,
+    "y": 12.8,
+    "label": "Hien (quest start)"
    }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "His Forgotten Home",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Doman Enclave",
+    "x": 6.7,
+    "y": 7.2,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
    "title": "A Guilty Conscience",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yanxia",
+    "x": 30.8,
+    "y": 27.5,
+    "label": "Asahi (quest start)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",
@@ -118,27 +220,57 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Solar Cycle"
-   ]
+   ],
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Gosetsu and Tsuyu",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ruby Bazaar Offices",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Gone Like the Morning Dew",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Doman Enclave",
+    "x": 9.5,
+    "y": 8,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Fruits of Her Labor",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yanxia",
+    "x": 30.8,
+    "y": 20.3,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.3 (Under the Moonlight)",
    "title": "Conscripts and Contingencies",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.3 (Under the Moonlight)",
@@ -146,7 +278,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Castrum Fluminis"
-   ]
+   ],
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.3 (Under the Moonlight)",
@@ -154,7 +292,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Lunar Cycle"
-   ]
+   ],
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.2,
+    "y": 6.1,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 4.3 (Under the Moonlight)",
@@ -162,12 +306,24 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Ponder"
-   ]
+   ],
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.2,
+    "y": 5.9,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "Sisterly Act",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.2,
+    "y": 5.9,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 4.4 (Prelude in Violet)",
@@ -175,22 +331,46 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Burn"
-   ]
+   ],
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "Shadows in the Empire",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Doman Enclave",
+    "x": 8.9,
+    "y": 8.6,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "A Power in Slumber",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.4 (Prelude in Violet)",
    "title": "The Will of the Moon",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Azim Steppe",
+    "x": 31.5,
+    "y": 11.4,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 4.4 (Prelude in Violet)",
@@ -198,7 +378,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Endure"
-   ]
+   ],
+   "target": {
+    "zone": "The Azim Steppe",
+    "x": 31.5,
+    "y": 11.4,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 4.4 (Prelude in Violet)",
@@ -206,27 +392,57 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "A History of Violet"
-   ]
+   ],
+   "target": {
+    "zone": "The Lochs",
+    "x": 37,
+    "y": 30.3,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "Soul Searching",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.2,
+    "y": 5.9,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "A Defector's Tidings",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Hinterlands",
+    "x": 13,
+    "y": 36.5,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "Seiryu's Wall",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
    "title": "Parley on the Front Lines",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kienkan",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Hien (quest start)"
+   }
   },
   {
    "section": "Patch 4.5 (A Requiem for Heroes - Part 1)",
@@ -235,12 +451,24 @@
    "unlocks": [
     "The Ghimlyt Dark",
     "What Is It Good For"
-   ]
+   ],
+   "target": {
+    "zone": "Eorzean Alliance Headquarters",
+    "x": 6.3,
+    "y": 6.1,
+    "label": "Lyse (quest start)"
+   }
   },
   {
    "section": "Patch 4.56 (A Requiem for Heroes - Part 2)",
    "title": "A Brief Reprieve",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Hoary Boulder (quest start)"
+   }
   },
   {
    "section": "Patch 4.56 (A Requiem for Heroes - Part 2)",
@@ -248,7 +476,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Swan Song"
-   ]
+   ],
+   "target": {
+    "zone": "The Lochs",
+    "x": 11,
+    "y": 21.2,
+    "label": "Resistance fighter (quest start)"
+   }
   }
  ]
 }

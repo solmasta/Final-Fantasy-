@@ -9,26 +9,44 @@
     "Old Sharlayan"
    ],
    "target": {
-    "zone": "Old Sharlayan",
-    "x": 11.2,
-    "y": 11.2,
-    "label": "Old Sharlayan aetheryte (attune here)"
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Alphinaud (quest start)"
    }
   },
   {
    "section": "Levels 80-81 – Main chain",
    "title": "Old Sharlayan, New to You",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 12.2,
+    "y": 14.2,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Hitting the Books",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Main Hall",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "A Seat at the Last Stand",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 5.6,
+    "y": 11.6,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
@@ -39,41 +57,77 @@
     "The Archeion"
    ],
    "target": {
-    "zone": "Labyrinthos",
-    "x": 30.3,
-    "y": 11.9,
-    "label": "The Archeion aetheryte (attune here)"
+    "zone": "Old Sharlayan",
+    "x": 11.8,
+    "y": 12.8,
+    "label": "Alisaie (quest start)"
    }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Glorified Ratcatcher",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 20.5,
+    "y": 6.8,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Deeper into the Maze",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 29.4,
+    "y": 11.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "The Medial Circuit",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 34.4,
+    "y": 18.9,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "The Full Report, Warts and All",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 28,
+    "y": 15.9,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "A Guide of Sorts",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 16.3,
+    "y": 11.4,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
    "title": "Estate Visitor",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 11.3,
+    "y": 8.4,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
@@ -85,51 +139,99 @@
     "The Great Work"
    ],
    "target": {
-    "zone": "Thavnair",
-    "x": 25.3,
-    "y": 34,
-    "label": "Yedlihmad aetheryte (attune here)"
+    "zone": "Main Hall",
+    "x": 6.2,
+    "y": 6.2,
+    "label": "Thancred (quest start)"
    }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "On Low Tide",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 25.3,
+    "y": 33.3,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "A Fisherman's Friend",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 25.5,
+    "y": 36.3,
+    "label": "Matsya (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "House of Divinities",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 25.5,
+    "y": 33.8,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "The Great Work",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 15.9,
+    "y": 32.2,
+    "label": "Matsya (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "Shadowed Footsteps",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 11.7,
+    "y": 24.6,
+    "label": "Nidhana (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "A Boy's Errand",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 11.3,
+    "y": 23.9,
+    "label": "Nidhana (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "Tipping the Scale",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 19.6,
+    "y": 8.6,
+    "label": "Zeynuha (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
    "title": "The Satrap of Radz-at-Han",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 11.6,
+    "y": 21.9,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Main chain (continued)",
@@ -137,7 +239,13 @@
    "text": "Level 81 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Tower of Zot"
-   ]
+   ],
+   "target": {
+    "zone": "Main Hall",
+    "x": 6.1,
+    "y": 6.2,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 80-81 – Main chain (continued)",
@@ -147,10 +255,10 @@
     "Radz-at-Han"
    ],
    "target": {
-    "zone": "Radz-at-Han",
-    "x": 11.7,
-    "y": 10.6,
-    "label": "Radz-at-Han aetheryte (attune here)"
+    "zone": "Thavnair",
+    "x": 10.1,
+    "y": 9.9,
+    "label": "Thancred (quest start)"
    }
   },
   {
@@ -159,22 +267,46 @@
    "text": "Level 81 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "On Wings of Hope"
-   ]
+   ],
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 3.7,
+    "y": 10.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "Sound the Bell, School's In",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 9.5,
+    "y": 11.3,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "A Capital Idea",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 3.4,
+    "y": 9.1,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "Best of the Best",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Lochs",
+    "x": 36.4,
+    "y": 32,
+    "label": "Maxima (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -185,56 +317,110 @@
     "Camp Broken Glass"
    ],
    "target": {
-    "zone": "Garlemald",
-    "x": 13.3,
-    "y": 31.1,
-    "label": "Camp Broken Glass aetheryte (attune here)"
+    "zone": "The Lochs",
+    "x": 36.5,
+    "y": 32.2,
+    "label": "Tataru (quest start)"
    }
   },
   {
    "section": "Levels 82-83",
    "title": "Tracks in the Snow",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 14.5,
+    "y": 30.2,
+    "label": "Emmanellain (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "How the Mighty Are Fallen",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 32.8,
+    "y": 24.5,
+    "label": "Licinia (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "At the End of the Trail",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 24.2,
+    "y": 34.5,
+    "label": "Jareck (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "A Way Forward",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 33.6,
+    "y": 25.5,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "The Last Bastion",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 22.8,
+    "y": 24.5,
+    "label": "Jullus (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "Personae non Gratae",
-   "text": "Level 82 · Main Scenario Quest (meteor icon)"
+   "text": "Level 82 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 32.1,
+    "y": 18,
+    "label": "Jullus (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "His Park Materials",
-   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 32.1,
+    "y": 18,
+    "label": "Jullus (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "No Good Deed",
-   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 29.8,
+    "y": 9.9,
+    "label": "Jullus (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
    "title": "Alea Iacta Est",
-   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 32,
+    "y": 16.8,
+    "label": "Jullus (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -245,15 +431,21 @@
    ],
    "target": {
     "zone": "Garlemald",
-    "x": 31.7,
-    "y": 18,
-    "label": "Tertium aetheryte (attune here)"
+    "x": 13.5,
+    "y": 30,
+    "label": "Lucia (quest start)"
    }
   },
   {
    "section": "Levels 82-83",
    "title": "In from the Cold",
-   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 14.5,
+    "y": 29.9,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -262,7 +454,13 @@
    "unlocks": [
     "The Tower of Babil",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Garlemald",
+    "x": 14.1,
+    "y": 29.5,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -273,16 +471,22 @@
     "Mare Lamentorum"
    ],
    "target": {
-    "zone": "Mare Lamentorum",
-    "x": 10.6,
-    "y": 34.3,
-    "label": "Sinus Lacrimarum aetheryte (attune here)"
+    "zone": "The Nethergate",
+    "x": 21.6,
+    "y": 22,
+    "label": "G'raha Tia (quest start)"
    }
   },
   {
    "section": "Levels 82-83",
    "title": "Sea of Sorrow",
-   "text": "Level 83 · Main Scenario Quest (meteor icon)"
+   "text": "Level 83 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 13.8,
+    "y": 32.5,
+    "label": "the watcher (quest start)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -291,12 +495,24 @@
    "unlocks": [
     "The Dark Inside",
     "Rise Up Through the Night"
-   ]
+   ],
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 25.3,
+    "y": 30.9,
+    "label": "lustrous dog (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "In Shadow's Wake",
-   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 15.9,
+    "y": 31.1,
+    "label": "the watcher (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -307,40 +523,76 @@
    ],
    "target": {
     "zone": "Mare Lamentorum",
-    "x": 21.7,
-    "y": 11.1,
-    "label": "Bestways Burrow aetheryte (attune here)"
+    "x": 13.8,
+    "y": 32.5,
+    "label": "the watcher (quest start)"
    }
   },
   {
    "section": "Levels 84-85",
    "title": "A Harey Situation",
-   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 21.6,
+    "y": 14.2,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "A Taste of the Moon",
-   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 21.1,
+    "y": 11.6,
+    "label": "Livingway (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "Styled a Hero",
-   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 12.4,
+    "y": 9.1,
+    "label": "Livingway (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "All's Vale That Endsvale",
-   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 21.5,
+    "y": 7.5,
+    "label": "Growingway (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "Back to Old Tricks",
-   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 33.8,
+    "y": 8.3,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "Setting Things Straight",
-   "text": "Level 84 · Main Scenario Quest (meteor icon)"
+   "text": "Level 84 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 22.9,
+    "y": 21,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -348,7 +600,13 @@
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 28.8,
+    "y": 9,
+    "label": "Growingway (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -356,7 +614,13 @@
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Higher"
-   ]
+   ],
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 9.3,
+    "y": 32.8,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -364,17 +628,35 @@
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Vanaspati"
-   ]
+   ],
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 9.2,
+    "y": 11.4,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "The Blasphemy Unmasked",
-   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 11.3,
+    "y": 13.1,
+    "label": "Ahewann (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "Amidst the Apocalypse",
-   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 11.2,
+    "y": 7.2,
+    "label": "Mihleel (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -385,26 +667,44 @@
     "Palaka's Stand"
    ],
    "target": {
-    "zone": "Thavnair",
-    "x": 29.5,
-    "y": 16.5,
-    "label": "Palaka's Stand aetheryte (attune here)"
+    "zone": "Radz-at-Han",
+    "x": 8.1,
+    "y": 13.5,
+    "label": "G'raha Tia (quest start)"
    }
   },
   {
    "section": "Levels 84-85",
    "title": "That We Might Live",
-   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 30.1,
+    "y": 16.5,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "When All Hope Seems Lost",
-   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 29.1,
+    "y": 16.4,
+    "label": "Matsya (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "Warm Hearts, Rekindled Hopes",
-   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 32.3,
+    "y": 26.3,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -412,12 +712,24 @@
    "text": "Level 85 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Thavnair",
+    "x": 20.7,
+    "y": 15.1,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
    "title": "Under His Wing",
-   "text": "Level 85 · Main Scenario Quest (meteor icon)"
+   "text": "Level 85 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 30,
+    "y": 16.2,
+    "label": "Matsya (quest start)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -430,15 +742,21 @@
    ],
    "target": {
     "zone": "Radz-at-Han",
-    "x": 11.7,
-    "y": 10.6,
-    "label": "Radz-at-Han aetheryte (attune here)"
+    "x": 7,
+    "y": 12.5,
+    "label": "Radiant Host soldier (quest start)"
    }
   },
   {
    "section": "Levels 86-87",
    "title": "Return to the Crystarium",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 11.4,
+    "y": 13,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
@@ -450,51 +768,99 @@
     "The Twelve Wonders"
    ],
    "target": {
-    "zone": "Elpis",
-    "x": 24.6,
-    "y": 24,
-    "label": "Anagnorisis aetheryte (attune here)"
+    "zone": "The Crystarium",
+    "x": 9.9,
+    "y": 7.1,
+    "label": "Ryne (quest start)"
    }
   },
   {
    "section": "Levels 86-87",
    "title": "Petalouda Hunt",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 26.8,
+    "y": 36.9,
+    "label": "Hythlodaeus (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "In Search of Hermes",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 25.6,
+    "y": 34.1,
+    "label": "Hythlodaeus (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Ponder, Warrant, Cherish, Welcome",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 28.9,
+    "y": 24.7,
+    "label": "Hermes (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Lives Apart",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 24.5,
+    "y": 22.5,
+    "label": "Hermes (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Their Greatest Contribution",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 32.7,
+    "y": 22.8,
+    "label": "Emet-Selch (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Aether to Aether",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 24.2,
+    "y": 23.3,
+    "label": "Hermes (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "A Sentimental Gift",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 8.3,
+    "y": 32,
+    "label": "Hermes (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Verdict and Execution",
-   "text": "Level 86 · Main Scenario Quest (meteor icon)"
+   "text": "Level 86 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 8.4,
+    "y": 31.9,
+    "label": "Hermes (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
@@ -505,45 +871,87 @@
    ],
    "target": {
     "zone": "Elpis",
-    "x": 10.8,
-    "y": 17,
-    "label": "Poieten Oikos aetheryte (attune here)"
+    "x": 8.8,
+    "y": 31.6,
+    "label": "Hythlodaeus (quest start)"
    }
   },
   {
    "section": "Levels 86-87",
    "title": "A Past, Not Yet Come to Pass",
-   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 11.7,
+    "y": 19.2,
+    "label": "Venat (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Witness to the Spectacle",
-   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 9.6,
+    "y": 18,
+    "label": "Venat (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Worthy of His Back",
-   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 8.2,
+    "y": 14.8,
+    "label": "Venat (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "A Flower upon Your Return",
-   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 8.9,
+    "y": 22.7,
+    "label": "Venat (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Hunger in the Garden",
-   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 13.4,
+    "y": 6.3,
+    "label": "Hythlodaeus (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Words without Sound",
-   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 20.6,
+    "y": 9,
+    "label": "Emet-Selch (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
    "title": "Follow, Wander, Stumble, Listen",
-   "text": "Level 87 · Main Scenario Quest (meteor icon)"
+   "text": "Level 87 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Elpis",
+    "x": 29.8,
+    "y": 13.1,
+    "label": "Hythlodaeus (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
@@ -552,7 +960,13 @@
    "unlocks": [
     "Ktisis Hyperboreia",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Elpis",
+    "x": 31.7,
+    "y": 15.4,
+    "label": "Hythlodaeus (quest start)"
+   }
   },
   {
    "section": "Levels 86-87",
@@ -560,17 +974,35 @@
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Carrying Our Song"
-   ]
+   ],
+   "target": {
+    "zone": "Elpis",
+    "x": 31,
+    "y": 22.5,
+    "label": "Venat (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "As the Heavens Burn",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Main Hall",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Outside Help",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 13.5,
+    "y": 29.9,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -582,41 +1014,77 @@
     "Aporia"
    ],
    "target": {
-    "zone": "Labyrinthos",
-    "x": 24.6,
-    "y": 20.3,
-    "label": "Sharlayan Hamlet aetheryte (attune here)"
+    "zone": "Old Sharlayan",
+    "x": 11.3,
+    "y": 6.6,
+    "label": "Fourchenault (quest start)"
    }
   },
   {
    "section": "Levels 88-90",
    "title": "No Job Too Small",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 21.1,
+    "y": 34.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Wise Guides",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 21.2,
+    "y": 19.9,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Agriculture Shock",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 29,
+    "y": 27.5,
+    "label": "Cookingway (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Sage Council",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 29,
+    "y": 27.5,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Hither and Yarns",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 19.9,
+    "y": 20.3,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Once Forged",
-   "text": "Level 88 · Main Scenario Quest (meteor icon)"
+   "text": "Level 88 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 7.3,
+    "y": 27.9,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -624,7 +1092,13 @@
    "text": "Level 88 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 21.7,
+    "y": 33.9,
+    "label": "Kokkol Dankkol (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -634,17 +1108,35 @@
     "The Mothercrystal",
     "Fast Within Your Arms",
     "The Aitiascope"
-   ]
+   ],
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 13.4,
+    "y": 27.6,
+    "label": "Fourchenault (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "A Bold Decision",
-   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 9.3,
+    "y": 11.3,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Friends Gathered",
-   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 11.8,
+    "y": 9.9,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -652,12 +1144,24 @@
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Ultima Thule"
-   ]
+   ],
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 9.2,
+    "y": 11.3,
+    "label": "Ojika Tsunjika (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "A §trαnge New World",
-   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 13.9,
+    "y": 33.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -668,9 +1172,9 @@
    ],
    "target": {
     "zone": "Ultima Thule",
-    "x": 10.5,
-    "y": 26.7,
-    "label": "Reah Tahra aetheryte (attune here)"
+    "x": 12,
+    "y": 27.7,
+    "label": "Urianger (quest start)"
    }
   },
   {
@@ -687,20 +1191,32 @@
    ],
    "target": {
     "zone": "Ultima Thule",
-    "x": 22.7,
-    "y": 8.3,
-    "label": "Abode of the Ea aetheryte (attune here)"
+    "x": 12.1,
+    "y": 16.4,
+    "label": "Alphinaud (quest start)"
    }
   },
   {
    "section": "Levels 88-90",
    "title": "F//εsh AbanΔon┨Δ",
-   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 22.1,
+    "y": 10.8,
+    "label": "Coph-coodg (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Where Kn∞wledge Leads",
-   "text": "Level 89 · Main Scenario Quest (meteor icon)"
+   "text": "Level 89 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 23.2,
+    "y": 11.7,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -719,17 +1235,35 @@
   {
    "section": "Levels 88-90",
    "title": "┣┨̈//̈ No┨ΦounΔ•••",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 32.4,
+    "y": 27.5,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Hello, World",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 37.5,
+    "y": 25.5,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
    "title": "Forge Ahead",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 34,
+    "y": 30.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -737,7 +1271,13 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 26,
+    "y": 27.8,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -747,7 +1287,13 @@
     "The Dead Ends",
     "The Final Day",
     "That Its Chorus Might Ring for All"
-   ]
+   ],
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 21.6,
+    "y": 21.6,
+    "label": "Alphinaud (quest start)"
+   }
   }
  ]
 }

@@ -9,31 +9,55 @@
     "Tuliyollal"
    ],
    "target": {
-    "zone": "Tuliyollal",
-    "x": 12.9,
-    "y": 11.1,
-    "label": "Tuliyollal aetheryte (attune here)"
+    "zone": "Old Sharlayan",
+    "x": 9.2,
+    "y": 11.3,
+    "label": "Ojika Tsunjika (quest start)"
    }
   },
   {
    "section": "Level 90 – Main chain",
    "title": "The Nation of Tuliyollal",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 15.6,
+    "y": 13.8,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Main chain",
    "title": "A City of Stairs",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 14.3,
+    "y": 2.7,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Main chain",
    "title": "A Saga in Stone",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 9.5,
+    "y": 13.5,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Level 90 – Main chain",
    "title": "The Rite of Succession",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 9.8,
+    "y": 4.6,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Level 90 – Kozama'uka chain",
@@ -44,36 +68,66 @@
     "Ok'hanu"
    ],
    "target": {
-    "zone": "Kozama'uka",
-    "x": 18,
-    "y": 20,
-    "label": "Ok'hanu aetheryte (attune here)"
+    "zone": "Tuliyollal",
+    "x": 12.7,
+    "y": 13.9,
+    "label": "helpful Hanu (quest start)"
    }
   },
   {
    "section": "Level 90 – Kozama'uka chain",
    "title": "A Festive People",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 16.2,
+    "y": 10.1,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Kozama'uka chain",
    "title": "The Feat of Reeds",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 19,
+    "y": 12.7,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Kozama'uka chain",
    "title": "A Well-mannered Shipwright",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 19.4,
+    "y": 10.8,
+    "label": "Linuhanu (quest start)"
+   }
   },
   {
    "section": "Level 90 – Kozama'uka chain",
    "title": "The Lifting of Wings",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 19.6,
+    "y": 10.8,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Kozama'uka chain",
    "title": "Knowing the Hanuhanu",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 19.5,
+    "y": 10.8,
+    "label": "Wuk Evu (quest start)"
+   }
   },
   {
    "section": "Level 90 – Urqopacha chain",
@@ -84,46 +138,88 @@
     "Wachunpelo"
    ],
    "target": {
-    "zone": "Urqopacha",
-    "x": 28.1,
-    "y": 13.1,
-    "label": "Wachunpelo aetheryte (attune here)"
+    "zone": "Tuliyollal",
+    "x": 12.7,
+    "y": 13.9,
+    "label": "approachable Pelu (quest start)"
    }
   },
   {
    "section": "Level 90 – Urqopacha chain",
    "title": "Traders of Happiness",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 29,
+    "y": 13.7,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Urqopacha chain",
    "title": "The Feat of Gold",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 25.7,
+    "y": 12.1,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Level 90 – Urqopacha chain",
    "title": "Mablu's Dream",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 29.5,
+    "y": 17.1,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Urqopacha chain",
    "title": "A Premium Deal",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 13.4,
+    "y": 12.1,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Urqopacha chain",
    "title": "Wuk Lamat in the Saddle",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 28.3,
+    "y": 12.6,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 90 – Urqopacha chain",
    "title": "Knowing the Pelupelu",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 21.1,
+    "y": 8.5,
+    "label": "Mablu (quest start)"
+   }
   },
   {
    "section": "Level 91 – Main chain (continued)",
    "title": "The Success of Others",
-   "text": "Level 91 · Main Scenario Quest (meteor icon)"
+   "text": "Level 91 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 12.7,
+    "y": 13.8,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 91 – Main chain (continued)",
@@ -137,21 +233,33 @@
     "A Promise for the People"
    ],
    "target": {
-    "zone": "Kozama'uka",
-    "x": 32.2,
-    "y": 25.5,
-    "label": "Many Fires aetheryte (attune here)"
+    "zone": "Tuliyollal",
+    "x": 11.1,
+    "y": 15.1,
+    "label": "Wuk Lamat (quest start)"
    }
   },
   {
    "section": "Levels 92-93",
    "title": "A Leaking Workpot",
-   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 33.1,
+    "y": 24.5,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "Lending a Helphand",
-   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 12.1,
+    "y": 28.4,
+    "label": "Rakorok (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -159,32 +267,68 @@
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Dawntrail Role Quests"
-   ]
+   ],
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 12.5,
+    "y": 28.4,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "A Father First",
-   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 16.2,
+    "y": 11.3,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "The Shape of Peace",
-   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 9.9,
+    "y": 4.5,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "Lost Promise",
-   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 10.9,
+    "y": 28.3,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "A Brother's Duty",
-   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 32.4,
+    "y": 24.6,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "Feeding the River",
-   "text": "Level 92 · Main Scenario Quest (meteor icon)"
+   "text": "Level 92 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 33.7,
+    "y": 25.3,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -192,7 +336,13 @@
    "text": "Level 92 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 31.9,
+    "y": 25.5,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -203,16 +353,22 @@
     "Worlar's Echo"
    ],
    "target": {
-    "zone": "Urqopacha",
-    "x": 30.5,
-    "y": 34.2,
-    "label": "Worlar's Echo aetheryte (attune here)"
+    "zone": "Kozama'uka",
+    "x": 33.7,
+    "y": 25.3,
+    "label": "Wuk Lamat (quest start)"
    }
   },
   {
    "section": "Levels 92-93",
    "title": "The Feat of Proof",
-   "text": "Level 93 · Main Scenario Quest (meteor icon)"
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 28.9,
+    "y": 33.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -220,17 +376,35 @@
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Worqor Zormor"
-   ]
+   ],
+   "target": {
+    "zone": "Urqopacha",
+    "x": 13.2,
+    "y": 32.5,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "An Echo of Madness",
-   "text": "Level 93 · Main Scenario Quest (meteor icon)"
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 29.6,
+    "y": 33.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
    "title": "Pointing the Way",
-   "text": "Level 93 · Main Scenario Quest (meteor icon)"
+   "text": "Level 93 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Urqopacha",
+    "x": 28.9,
+    "y": 33.7,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -238,7 +412,13 @@
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Worqor Lar Dor"
-   ]
+   ],
+   "target": {
+    "zone": "Urqopacha",
+    "x": 33,
+    "y": 28.7,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -246,7 +426,13 @@
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Urqopacha",
+    "x": 5.4,
+    "y": 24.2,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -254,7 +440,13 @@
    "text": "Level 93 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Peaceful Intentions"
-   ]
+   ],
+   "target": {
+    "zone": "Urqopacha",
+    "x": 28.8,
+    "y": 33.6,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -265,36 +457,66 @@
     "Iq Br'aax"
    ],
    "target": {
-    "zone": "Yak T'el",
-    "x": 13.5,
-    "y": 12.9,
-    "label": "Iq Br'aax aetheryte (attune here)"
+    "zone": "Tuliyollal",
+    "x": 10.1,
+    "y": 15.1,
+    "label": "Alphinaud (quest start)"
    }
   },
   {
    "section": "Levels 94-95",
    "title": "Village of the Hunt",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 14.4,
+    "y": 12.8,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "A History of Violence",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 11.1,
+    "y": 13.1,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "The Feat of Repast",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 31,
+    "y": 14.3,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "A Father's Grief",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 11.1,
+    "y": 13.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Taking a Stand",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 9.7,
+    "y": 13.4,
+    "label": "Hunmu Rruk (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -305,35 +527,65 @@
    ],
    "target": {
     "zone": "Yak T'el",
-    "x": 35.9,
-    "y": 32,
-    "label": "Mamook aetheryte (attune here)"
+    "x": 10.9,
+    "y": 13,
+    "label": "Wuk Lamat (quest start)"
    }
   },
   {
    "section": "Levels 94-95",
    "title": "City of Silence",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 36.3,
+    "y": 31.8,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Blessed Siblings",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 26.2,
+    "y": 34.3,
+    "label": "Miilal Ja (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Scale of Trust",
-   "text": "Level 94 · Main Scenario Quest (meteor icon)"
+   "text": "Level 94 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 35.9,
+    "y": 32.4,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Mamook Speaks",
-   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 21.2,
+    "y": 21.5,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "The Feat of the Brotherhood",
-   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yak T'el",
+    "x": 21.2,
+    "y": 21.5,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -342,12 +594,24 @@
    "unlocks": [
     "The Skydeep Cenote",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Yak T'el",
+    "x": 31.6,
+    "y": 32.7,
+    "label": "Ketenramm (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Dawn of a New Tomorrow",
-   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 10,
+    "y": 15.2,
+    "label": "Peshekwa (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -355,7 +619,13 @@
    "text": "Level 95 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "In Rite Triumphant"
-   ]
+   ],
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 11.7,
+    "y": 7.6,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -368,31 +638,55 @@
     "Mehwahhetsoan"
    ],
    "target": {
-    "zone": "Shaaloani",
-    "x": 29,
-    "y": 30.8,
-    "label": "Hhusatahwi aetheryte (attune here)"
+    "zone": "Tuliyollal",
+    "x": 14.3,
+    "y": 2.5,
+    "label": "Erenville (quest start)"
    }
   },
   {
    "section": "Levels 94-95",
    "title": "Saddled Up",
-   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 28.4,
+    "y": 30.4,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Braced for Trouble",
-   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 15.2,
+    "y": 17.9,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Blowing Smoke",
-   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 9.8,
+    "y": 20.3,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
    "title": "Law of the Land",
-   "text": "Level 95 · Main Scenario Quest (meteor icon)"
+   "text": "Level 95 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 12.6,
+    "y": 19.1,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -402,37 +696,79 @@
   {
    "section": "Levels 96-97",
    "title": "One with Nature",
-   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 14.5,
+    "y": 19.4,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "And the Land Would Tremble",
-   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 28.4,
+    "y": 12.6,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "No Time for Tears",
-   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Sunperch",
+    "x": 5.8,
+    "y": 4.7,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "Pick up the Pieces",
-   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 14.7,
+    "y": 11.5,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "Together as One",
-   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Sunperch",
+    "x": 6.2,
+    "y": 4.4,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "In Yyasulani's Shadow",
-   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 12.1,
+    "y": 7.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "Putting Plans into Locomotion",
-   "text": "Level 96 · Main Scenario Quest (meteor icon)"
+   "text": "Level 96 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 18.2,
+    "y": 14.3,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
@@ -440,7 +776,13 @@
    "text": "Level 96 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Shaaloani",
+    "x": 15.2,
+    "y": 17.9,
+    "label": "Iyaate (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
@@ -449,27 +791,57 @@
    "unlocks": [
     "Vanguard",
     "Heritage Found"
-   ]
+   ],
+   "target": {
+    "zone": "Shaaloani",
+    "x": 18.7,
+    "y": 13.9,
+    "label": "Wawlika (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "The Land of Levin",
-   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 34.5,
+    "y": 35.4,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "A Royal Welcome",
-   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 27.2,
+    "y": 18.1,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "A Day in the Life",
-   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 17.9,
+    "y": 10.6,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "On the Cloud",
-   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 19.2,
+    "y": 14.5,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
@@ -477,12 +849,24 @@
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Worth of a Soul"
-   ]
+   ],
+   "target": {
+    "zone": "Earthen Sky Hideout",
+    "x": 6.1,
+    "y": 6.3,
+    "label": "Erenville (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
    "title": "Embracing Oblivion",
-   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 30.6,
+    "y": 12,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Levels 96-97",
@@ -501,52 +885,112 @@
   {
    "section": "Levels 96-97",
    "title": "The Queen's Tour",
-   "text": "Level 97 · Main Scenario Quest (meteor icon)"
+   "text": "Level 97 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 9.7,
+    "y": 13.3,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "Her People, Her Family",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 4.3,
+    "y": 19.7,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "Scales of Blue",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 15.1,
+    "y": 14.3,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "Gives You Teeth",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 18.4,
+    "y": 18.3,
+    "label": "Tassos (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "Little Footfalls",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Backroom",
+    "x": 6.2,
+    "y": 6.4,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "Drowned Vestiges",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 7.4,
+    "y": 17.3,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "Memories of a Knight",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 12.2,
+    "y": 27.8,
+    "label": "Otis (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "At a Crossroads",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 12.2,
+    "y": 27.8,
+    "label": "Otis (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "The Protector and the Destroyer",
-   "text": "Level 98 · Main Scenario Quest (meteor icon)"
+   "text": "Level 98 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 15.5,
+    "y": 8,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "A Comforting Hand",
-   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 19.4,
+    "y": 14.4,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
@@ -554,7 +998,13 @@
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "The Backroom",
+    "x": 6,
+    "y": 6.3,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
@@ -564,12 +1014,24 @@
     "Origenics",
     "Everkeep",
     "The Burden of Legacy"
-   ]
+   ],
+   "target": {
+    "zone": "Heritage Found",
+    "x": 15.6,
+    "y": 5.1,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "A New Family",
-   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Backroom",
+    "x": 6,
+    "y": 6.4,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
@@ -577,7 +1039,13 @@
    "text": "Level 99 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mewazunte"
-   ]
+   ],
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 15.8,
+    "y": 4.1,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
@@ -588,56 +1056,110 @@
     "Leynode Mnemo"
    ],
    "target": {
-    "zone": "Living Memory",
-    "x": 21.5,
-    "y": 37.3,
-    "label": "Leynode Mnemo aetheryte (attune here)"
+    "zone": "Tuliyollal",
+    "x": 12.4,
+    "y": 13,
+    "label": "Wuk Lamat (quest start)"
    }
   },
   {
    "section": "Levels 98-99",
    "title": "Those Who Live Forever",
-   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 21.5,
+    "y": 28.7,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "In Serenity and Sorrow",
-   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 16.2,
+    "y": 32.2,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "The Land of Dreams",
-   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 7.5,
+    "y": 27.8,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Levels 98-99",
    "title": "A Knight of Alexandria",
-   "text": "Level 99 · Main Scenario Quest (meteor icon)"
+   "text": "Level 99 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 29.2,
+    "y": 32.6,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Level 100",
    "title": "The Sanctuary of the Strong",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 36.4,
+    "y": 25.8,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Level 100",
    "title": "The Taste of Family",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 28.4,
+    "y": 15.6,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Level 100",
    "title": "Leafing through the Past",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 35.5,
+    "y": 15.4,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Level 100",
    "title": "An Explorer's Delight",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 31.2,
+    "y": 14.9,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Level 100",
    "title": "In Search of Discovery",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Living Memory",
+    "x": 16.7,
+    "y": 20.1,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Level 100",
@@ -645,7 +1167,13 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Living Memory",
+    "x": 11.1,
+    "y": 12.6,
+    "label": "Cahciua (quest start)"
+   }
   },
   {
    "section": "Level 100",
@@ -655,7 +1183,13 @@
     "Alexandria",
     "The Interphos",
     "In the Glow of a New Dawn"
-   ]
+   ],
+   "target": {
+    "zone": "Living Memory",
+    "x": 11.5,
+    "y": 4.7,
+    "label": "Wuk Lamat (quest start)"
+   }
   }
  ]
 }

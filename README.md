@@ -63,6 +63,8 @@ Check your files with `npm run validate`.
 
 `data/aetherytes.txt` holds 109 aetheryte coordinates (base game through Dawntrail), gathered from the Trials of Fantasy aetheryte checklist and the FFXIV Online Wiki zone pages. Quest steps that unlock an aetheryte get it as their arrow target automatically (58 steps). City-aethernet shards and Dawntrail's smaller sub-zone aetherytes are not included. Values come from third-party pages and have not been checked in game.
 
+`data/quest-coords.json` holds the start-NPC location of 1,041 Main Scenario Quests, extracted from the public game-data tables ([xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)) by `scripts/extract-quest-coords.py` (map coordinates are computed from each map's scale and offset). 1,040 of 1,047 guide steps use these as their arrow target; some quests begin in private or instanced areas (e.g. Intercessory, the Rising Stones), where the coordinates are valid inside that area only.
+
 ### Included guides
 
 `guides/ffxiv-00-locations.json` is a region-by-region reference (zones, cities, dungeons, trials, raids; from `data/locations.txt`). `guides/ffxiv-01…12` cover the entire Main Scenario Quest line from A Realm Reborn through Patch 7.56 (one guide per story arc; every quest with its level and what it unlocks). They are generated from the quest lists in `data/msq-*.txt` – edit those and run `npm run build-guides` to regenerate (e.g. when a new patch adds quests).

@@ -7,7 +7,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Lakeland"
-   ]
+   ],
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Main chain",
@@ -18,15 +24,21 @@
    ],
    "target": {
     "zone": "The Crystarium",
-    "x": 9.9,
-    "y": 11.2,
-    "label": "The Crystarium aetheryte (attune here)"
+    "x": 7.7,
+    "y": 11.3,
+    "label": "Crystal Exarch (quest start)"
    }
   },
   {
    "section": "Levels 70-71 – Main chain",
    "title": "Travelers of Norvrandt",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.5,
+    "y": 11.3,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
@@ -37,26 +49,44 @@
     "Stilltide"
    ],
    "target": {
-    "zone": "Kholusia",
-    "x": 34.8,
-    "y": 27.2,
-    "label": "Stilltide aetheryte (attune here)"
+    "zone": "The Ocular",
+    "x": 6.1,
+    "y": 6,
+    "label": "Crystal Exarch (quest start)"
    }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Still Tide",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 37.6,
+    "y": 26.6,
+    "label": "Szem Djenmai (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "Open Arms, Closed Gate",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 35.3,
+    "y": 27.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Fickle Existence",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 24.8,
+    "y": 35.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
@@ -66,31 +96,55 @@
     "Eulmore"
    ],
    "target": {
-    "zone": "Eulmore",
-    "x": 11.2,
-    "y": 11.2,
-    "label": "Eulmore aetheryte (attune here)"
+    "zone": "Kholusia",
+    "x": 14.9,
+    "y": 29.3,
+    "label": "Alphinaud (quest start)"
    }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "Free to Sightsee",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.8,
+    "y": 11.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Taste of Honey",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 10.8,
+    "y": 10.9,
+    "label": "amiable maiden (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "A Blessed Instrument",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.8,
+    "y": 11.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
    "title": "Emergent Splendor",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.8,
+    "y": 11.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
@@ -101,51 +155,99 @@
     "Mord Souq"
    ],
    "target": {
-    "zone": "Amh Araeng",
-    "x": 26.4,
-    "y": 17,
-    "label": "Mord Souq aetheryte (attune here)"
+    "zone": "The Ocular",
+    "x": 6.1,
+    "y": 6,
+    "label": "Crystal Exarch (quest start)"
    }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "City of the Mord",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 28,
+    "y": 15.6,
+    "label": "Cassard (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Working Off the Meal",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 26.8,
+    "y": 18.6,
+    "label": "Cassard (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "A Desert Crossing",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 27.8,
+    "y": 18.4,
+    "label": "Tesleen (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Following in Her Footprints",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 29,
+    "y": 27.3,
+    "label": "Tesleen (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Culling Their Ranks",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 26.9,
+    "y": 28.2,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "A Purchase of Fruit",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 29,
+    "y": 27.3,
+    "label": "Tesleen (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "The Time Left to Us",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 29,
+    "y": 27.3,
+    "label": "Tesleen (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
    "title": "Tears on the Sand",
-   "text": "Level 70 · Main Scenario Quest (meteor icon)"
+   "text": "Level 70 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 29.5,
+    "y": 26.7,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Main chain (continued)",
@@ -153,7 +255,13 @@
    "text": "Level 71 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Holminster Switch"
-   ]
+   ],
+   "target": {
+    "zone": "The Ocular",
+    "x": 6.1,
+    "y": 6,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Levels 70-71 – Main chain (continued)",
@@ -162,17 +270,35 @@
    "unlocks": [
     "Between Two Worlds",
     "Shadowbringers Role Quests"
-   ]
+   ],
+   "target": {
+    "zone": "Lakeland",
+    "x": 35.2,
+    "y": 7.3,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "An Unwelcome Guest",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.6,
+    "y": 16.3,
+    "label": "manager of suites (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "The Crystarium's Resolve",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 9.9,
+    "y": 7.1,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -180,12 +306,24 @@
    "text": "Level 72 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "The Crystarium",
+    "x": 8.5,
+    "y": 9.8,
+    "label": "Szem Djenmai (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "The Oracle of Light",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lakeland",
+    "x": 8.5,
+    "y": 16.1,
+    "label": "Lyna (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -197,35 +335,65 @@
    ],
    "target": {
     "zone": "Il Mheg",
-    "x": 14.5,
-    "y": 31.7,
-    "label": "Lydha Lran aetheryte (attune here)"
+    "x": 8.8,
+    "y": 35.5,
+    "label": "Thancred (quest start)"
    }
   },
   {
    "section": "Levels 72-73",
    "title": "Sul Uin's Request",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 14.4,
+    "y": 31.1,
+    "label": "Sul Uin (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "Ys Iala's Errand",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 13,
+    "y": 31.3,
+    "label": "Ys Iala (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "Oul Sigun's Plea",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 15.7,
+    "y": 30.6,
+    "label": "Oul Sigun (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "Unto the Truth",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 13.4,
+    "y": 30.3,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "Courting Cooperation",
-   "text": "Level 72 · Main Scenario Quest (meteor icon)"
+   "text": "Level 72 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 8.6,
+    "y": 17,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -233,12 +401,24 @@
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Dohn Mheg"
-   ]
+   ],
+   "target": {
+    "zone": "Il Mheg",
+    "x": 14.4,
+    "y": 31.1,
+    "label": "Sul Uin (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "A Visit to the Nu Mou",
-   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 15.5,
+    "y": 25.1,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -249,35 +429,65 @@
    ],
    "target": {
     "zone": "Il Mheg",
-    "x": 20,
-    "y": 4.3,
-    "label": "Pla Enni aetheryte (attune here)"
+    "x": 18.6,
+    "y": 4.5,
+    "label": "Wyd Aenc (quest start)"
    }
   },
   {
    "section": "Levels 72-73",
    "title": "Spore Sweeper",
-   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 19.8,
+    "y": 4.2,
+    "label": "Ys Gyuf (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "The Lawless Ones",
-   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 19.5,
+    "y": 4.7,
+    "label": "Wyd Lad (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "The Elder's Answer",
-   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 19.5,
+    "y": 4.7,
+    "label": "Wyd Lad (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "A Resounding Roar",
-   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 30.6,
+    "y": 7.3,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
    "title": "Memento of a Friend",
-   "text": "Level 73 · Main Scenario Quest (meteor icon)"
+   "text": "Level 73 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Il Mheg",
+    "x": 30.6,
+    "y": 7.6,
+    "label": "Seto (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -286,7 +496,13 @@
    "unlocks": [
     "The Dancing Plague",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Il Mheg",
+    "x": 30.6,
+    "y": 7.6,
+    "label": "Seto (quest start)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -294,17 +510,35 @@
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Realpolitik"
-   ]
+   ],
+   "target": {
+    "zone": "Il Mheg",
+    "x": 14,
+    "y": 31,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "A Party Soon Divided",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.6,
+    "y": 16.3,
+    "label": "manager of suites (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "A Little Faith",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lakeland",
+    "x": 36.5,
+    "y": 21.4,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
@@ -315,31 +549,55 @@
     "Slitherbough"
    ],
    "target": {
-    "zone": "The Rak'tika Greatwood",
-    "x": 19.4,
-    "y": 27.4,
-    "label": "Slitherbough aetheryte (attune here)"
+    "zone": "Lakeland",
+    "x": 35.5,
+    "y": 19.6,
+    "label": "Urianger (quest start)"
    }
   },
   {
    "section": "Levels 74-75",
    "title": "A Day in the Neighborhood",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 20.8,
+    "y": 28.2,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "A Helping Hand",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 19.1,
+    "y": 29.2,
+    "label": "Runar (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "Lost but Not Forgotten",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 19.7,
+    "y": 27.5,
+    "label": "Runar (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "Saying Good-bye",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 19.7,
+    "y": 27.5,
+    "label": "Runar (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
@@ -349,17 +607,35 @@
   {
    "section": "Levels 74-75",
    "title": "A Beeautiful Plan",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 16.8,
+    "y": 20.1,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "An Unwanted Proposal",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 11,
+    "y": 20.8,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "Put to the Proof",
-   "text": "Level 74 · Main Scenario Quest (meteor icon)"
+   "text": "Level 74 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 20.8,
+    "y": 28.2,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
@@ -370,40 +646,76 @@
    ],
    "target": {
     "zone": "The Rak'tika Greatwood",
-    "x": 29.1,
-    "y": 17.5,
-    "label": "Fanow aetheryte (attune here)"
+    "x": 12.1,
+    "y": 27.5,
+    "label": "Y'shtola (quest start)"
    }
   },
   {
    "section": "Levels 74-75",
    "title": "Top of the Tree",
-   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 30.6,
+    "y": 20.4,
+    "label": "Cymet (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "Look to the Stars",
-   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 30.6,
+    "y": 18.4,
+    "label": "Almet (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "Mi Casa, Toupasa",
-   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 25,
+    "y": 10.8,
+    "label": "Almet (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "Legend of the Not-so-hidden Temple",
-   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 24,
+    "y": 3.7,
+    "label": "Almet (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "The Aftermath",
-   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 24.8,
+    "y": 10.8,
+    "label": "Almet (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
    "title": "In Good Faith",
-   "text": "Level 75 · Main Scenario Quest (meteor icon)"
+   "text": "Level 75 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 30.5,
+    "y": 17.3,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
@@ -412,7 +724,13 @@
    "unlocks": [
     "The Qitana Ravel",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 30.6,
+    "y": 17.5,
+    "label": "Almet (quest start)"
+   }
   },
   {
    "section": "Levels 74-75",
@@ -425,37 +743,79 @@
    "text": "Level 76 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Journey to the Past"
-   ]
+   ],
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 19.7,
+    "y": 27.4,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "When It Rains",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.6,
+    "y": 16.3,
+    "label": "manager of suites (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Word from On High",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lakeland",
+    "x": 7.3,
+    "y": 16.7,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Small Favors",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lakeland",
+    "x": 6.9,
+    "y": 18.6,
+    "label": "Lyna (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "The Best Way Out",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 10.6,
+    "y": 10.3,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Free Trade",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 10.4,
+    "y": 8.1,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "The Trolley Problem",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 13.4,
+    "y": 9.7,
+    "label": "Zhun Zun (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
@@ -467,50 +827,98 @@
    ],
    "target": {
     "zone": "Amh Araeng",
-    "x": 11.2,
-    "y": 17.2,
-    "label": "Twine aetheryte (attune here)"
+    "x": 23.3,
+    "y": 9.6,
+    "label": "Thaffe (quest start)"
    }
   },
   {
    "section": "Levels 76-77",
    "title": "On Track",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 11.8,
+    "y": 17.3,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Down for Maintenance",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 12.4,
+    "y": 16.8,
+    "label": "Jeryk (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "The Truth Hurts",
-   "text": "Level 76 · Main Scenario Quest (meteor icon)"
+   "text": "Level 76 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 11.4,
+    "y": 16.5,
+    "label": "Jeryk (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "A Convenient Distraction",
-   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 12.2,
+    "y": 17.4,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "A Dirty Job",
-   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 9.6,
+    "y": 22.3,
+    "label": "Guthjon (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Have a Heart",
-   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 14.6,
+    "y": 23,
+    "label": "Guthjon (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Full Steam Ahead",
-   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 12.4,
+    "y": 16.7,
+    "label": "Magnus (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Crossing Paths",
-   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 21.9,
+    "y": 31.7,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
@@ -519,7 +927,13 @@
    "unlocks": [
     "Malikah's Well",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 15.9,
+    "y": 29.2,
+    "label": "Ryne (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
@@ -527,12 +941,24 @@
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Shrouded in Darkness"
-   ]
+   ],
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 12.9,
+    "y": 30.8,
+    "label": "Ryne (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
    "title": "Return to Eulmore",
-   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.6,
+    "y": 16.3,
+    "label": "manager of suites (quest start)"
+   }
   },
   {
    "section": "Levels 76-77",
@@ -542,21 +968,33 @@
     "Eulmore"
    ],
    "target": {
-    "zone": "Eulmore",
-    "x": 11.2,
-    "y": 11.2,
-    "label": "Eulmore aetheryte (attune here)"
+    "zone": "Kholusia",
+    "x": 24.8,
+    "y": 32.8,
+    "label": "Urianger (quest start)"
    }
   },
   {
    "section": "Levels 76-77",
    "title": "Paradise Fallen",
-   "text": "Level 77 · Main Scenario Quest (meteor icon)"
+   "text": "Level 77 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.3,
+    "y": 12.1,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "The Ladder",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.7,
+    "y": 11.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
@@ -568,50 +1006,98 @@
    ],
    "target": {
     "zone": "Kholusia",
-    "x": 12.9,
-    "y": 9,
-    "label": "Tomra aetheryte (attune here)"
+    "x": 12.4,
+    "y": 23.1,
+    "label": "Urianger (quest start)"
    }
   },
   {
    "section": "Levels 78-80",
    "title": "In Mt. Gulg's Shadow",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 19,
+    "y": 17.7,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "A Gigantic Undertaking",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 12.6,
+    "y": 20.4,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "Meet the Tholls",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 19.1,
+    "y": 17.7,
+    "label": "Tristol (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "A-Digging We Will Go",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 12.1,
+    "y": 8.5,
+    "label": "Xamott (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "The Duergar's Tewel",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 28.5,
+    "y": 14,
+    "label": "Korutt (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "Rich Veins of Hope",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 33.8,
+    "y": 11.2,
+    "label": "Crystal Exarch (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "That None Shall Ever Again",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 12.2,
+    "y": 19.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "A Breath of Respite",
-   "text": "Level 78 · Main Scenario Quest (meteor icon)"
+   "text": "Level 78 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Kholusia",
+    "x": 18.7,
+    "y": 17.7,
+    "label": "Chai-Nuzz (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
@@ -622,22 +1108,46 @@
     "The Crown of the Immaculate",
     "Warden of Light",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Kholusia",
+    "x": 18.7,
+    "y": 17.7,
+    "label": "Chai-Nuzz (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "Reassuring the Masses",
-   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 12.6,
+    "y": 16.3,
+    "label": "manager of suites (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "In His Garden",
-   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 11.1,
+    "y": 8.5,
+    "label": "Katliss (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "The Unbroken Thread",
-   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lakeland",
+    "x": 33.8,
+    "y": 27.6,
+    "label": "Lyna (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
@@ -648,31 +1158,55 @@
     "The Ondo Cups"
    ],
    "target": {
-    "zone": "The Tempest",
-    "x": 32.7,
-    "y": 17.5,
-    "label": "The Ondo Cups aetheryte (attune here)"
+    "zone": "The Crystarium",
+    "x": 12.4,
+    "y": 8,
+    "label": "Urianger (quest start)"
    }
   },
   {
    "section": "Levels 78-80",
    "title": "Waiting in the Depths",
-   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Tempest",
+    "x": 27.1,
+    "y": 4.5,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "City of the Ancients",
-   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Tempest",
+    "x": 33.1,
+    "y": 16.9,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "The Light of Inspiration",
-   "text": "Level 79 · Main Scenario Quest (meteor icon)"
+   "text": "Level 79 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Tempest",
+    "x": 22.1,
+    "y": 11,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
    "title": "The Illuminated Land",
-   "text": "Level 80 · Main Scenario Quest (meteor icon)"
+   "text": "Level 80 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Tempest",
+    "x": 34.3,
+    "y": 25.8,
+    "label": "Grenoldt (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
@@ -683,9 +1217,9 @@
    ],
    "target": {
     "zone": "The Tempest",
-    "x": 18.6,
-    "y": 25.8,
-    "label": "The Macarenses Angle aetheryte (attune here)"
+    "x": 5.6,
+    "y": 17.4,
+    "label": "Alisaie (quest start)"
    }
   },
   {
@@ -694,7 +1228,13 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "The Tempest",
+    "x": 8.8,
+    "y": 26.5,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 78-80",
@@ -704,7 +1244,13 @@
     "Amaurot",
     "The Dying Gasp",
     "Trust"
-   ]
+   ],
+   "target": {
+    "zone": "The Tempest",
+    "x": 16.6,
+    "y": 30.5,
+    "label": "Alisaie (quest start)"
+   }
   }
  ]
 }

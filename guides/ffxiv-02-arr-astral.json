@@ -4,32 +4,68 @@
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "The Price of Principles",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "Moving On",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "All Things in Time",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 20.8,
+    "y": 21.6,
+    "label": "F'lhaminn (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "Laying the Foundation",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "It's Possibly a Primal",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 21.9,
+    "y": 7.8,
+    "label": "Slafborn (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "Hail to the King, Kupo",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 9.7,
+    "y": 11.1,
+    "label": "Vorsaile Heuloix (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
@@ -37,17 +73,35 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Thornmarch (Hard)"
-   ]
+   ],
+   "target": {
+    "zone": "Old Gridania",
+    "x": 6.1,
+    "y": 10.7,
+    "label": "E-Sumi-Yan (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "On the Properties of Primals",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 18.7,
+    "y": 27.1,
+    "label": "Raya-O-Senna (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
    "title": "The Gifted",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
@@ -55,7 +109,13 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Rising Stones"
-   ]
+   ],
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.1 (A Realm Awoken)",
@@ -68,57 +128,123 @@
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Still Waters",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "A Final Temptation",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 22.7,
+    "y": 17.1,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "The Mother of Exiles",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 22.7,
+    "y": 17.1,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Promises to Keep",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Thal",
+    "x": 10.9,
+    "y": 12.4,
+    "label": "Raubahn (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Yugiri's Game",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Why We Adventure",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 11.5,
+    "y": 14.4,
+    "label": "Hozan (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "All Due Respect",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "The Sea Rises",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.3,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Scouts in Distress",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 22.8,
+    "y": 22.7,
+    "label": "Falkbryda (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "The Gift of Eternity",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 22.8,
+    "y": 22.7,
+    "label": "Falkbryda (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "Into the Heart of the Whorl",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 13.1,
+    "y": 13.5,
+    "label": "Merlwyb (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
@@ -126,12 +252,24 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Whorleater (Hard)"
-   ]
+   ],
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 24.6,
+    "y": 33.2,
+    "label": "Eynzahr Slafyrsyn (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
    "title": "When Yugiri Met the Fraternity",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Lower Decks",
+    "x": 11.4,
+    "y": 10.9,
+    "label": "Zanthael (quest start)"
+   }
   },
   {
    "section": "Patch 2.2 (Through the Maelstrom)",
@@ -139,42 +277,90 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Through the Maelstrom"
-   ]
+   ],
+   "target": {
+    "zone": "Limsa Lominsa Lower Decks",
+    "x": 8.9,
+    "y": 14.4,
+    "label": "Yugiri (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "The Great Divide",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Desperate Times",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Shock and Awe",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 25.3,
+    "y": 15.4,
+    "label": "terrified refugee (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Reap the Whirlwind",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 25.3,
+    "y": 15.4,
+    "label": "terrified refugee (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Revolution",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 8.4,
+    "y": 9,
+    "label": "Swift (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Stories We Tell",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Thal",
+    "x": 10.7,
+    "y": 12.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Lord of Levin",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
@@ -182,32 +368,68 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Striking Tree (Hard)"
-   ]
+   ],
+   "target": {
+    "zone": "East Shroud",
+    "x": 22,
+    "y": 25.7,
+    "label": "serpent lieutenant (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "What Little Gods Are Made Of",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 22,
+    "y": 25.7,
+    "label": "serpent lieutenant (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Guardian of Eorzea",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Recruiting the Realm",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.2,
+    "y": 5.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "Heretical Harassment",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
    "title": "When the Cold Sets In",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.8,
+    "y": 17.5,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Patch 2.3 (Defenders of Eorzea)",
@@ -215,42 +437,90 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Eorzea Defended"
-   ]
+   ],
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 21.9,
+    "y": 7.8,
+    "label": "Slafborn (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Traitor in the Midst",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Back and Fourth",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 8.6,
+    "y": 9.1,
+    "label": "Ilberd (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Coming to Terms",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.8,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "The Intercession of Saints",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.7,
+    "y": 17,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Strength in Unity",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.7,
+    "y": 17.5,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Dark Words, Dark Deeds",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.8,
+    "y": 17.5,
+    "label": "Drillemont (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "First Blood",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.8,
+    "y": 17.5,
+    "label": "Drillemont (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
@@ -258,32 +528,68 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Snowcloak"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.8,
+    "y": 17.5,
+    "label": "Drillemont (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "For the Greater Good",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 3.4,
+    "y": 21.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Tendrils of Intrigue",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.1,
+    "y": 28.5,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Chasing Ivy",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 10.2,
+    "y": 11.7,
+    "label": "Ilberd (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "In Flagrante Delicto",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 12.2,
+    "y": 13.3,
+    "label": "Ilberd (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "A Simple Plan",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
@@ -291,22 +597,46 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Akh Afah Amphitheatre (Hard)"
-   ]
+   ],
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "The Road Less Traveled",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 3.4,
+    "y": 21.3,
+    "label": "Moenbryda (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "Eyes Unclouded",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.7,
+    "y": 17,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
    "title": "The Reason Roaille",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.4 (Dreams of Ice)",
@@ -314,17 +644,35 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Dreams of Ice"
-   ]
+   ],
+   "target": {
+    "zone": "Northern Thanalan",
+    "x": 17.3,
+    "y": 18.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "Good Intentions",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "Bait and Switch",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 21.2,
+    "y": 21.1,
+    "label": "Ilberd (quest start)"
+   }
   },
   {
    "section": "Patch 2.5 (Before the Fall - Part 1)",
@@ -337,17 +685,35 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Keeper of the Lake"
-   ]
+   ],
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "Aether on Demand",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "On the Counteroffensive",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Northern Thanalan",
+    "x": 20.9,
+    "y": 22.2,
+    "label": "Edelstein (quest start)"
+   }
   },
   {
    "section": "Patch 2.5 (Before the Fall - Part 1)",
@@ -355,42 +721,90 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Chrysalis"
-   ]
+   ],
+   "target": {
+    "zone": "Northern Thanalan",
+    "x": 20.9,
+    "y": 22.2,
+    "label": "Edelstein (quest start)"
+   }
   },
   {
    "section": "Patch 2.5 (Before the Fall - Part 1)",
    "title": "In Memory of Moenbryda",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.3,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Mask of Grief",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Defenders for Ishgard",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "The Wyrm's Roar",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 18.6,
+    "y": 15.5,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Committed to the Cause",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Intercessory",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Volunteer Dragonslayers",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.3,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "An Allied Perspective",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.2,
+    "y": 8.4,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
@@ -398,47 +812,101 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Broken Bridges"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 18.1,
+    "y": 14.9,
+    "label": "Marcelain (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Administrative Decision",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "An Unexpected Ambition",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Ancient Ways, Timeless Wants",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Lower Decks",
+    "x": 4.7,
+    "y": 11.5,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Where We Are Needed",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "The Least among Us",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 17.3,
+    "y": 28.7,
+    "label": "unsettled scholar (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "A Time to Every Purpose",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.2,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "Come, but Not Gone",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Thal",
+    "x": 11.1,
+    "y": 11.6,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
    "title": "The Parting Glass",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Patch 2.55 (Before the Fall - Part 2)",
@@ -446,7 +914,13 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "My Left Arm"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.8,
+    "y": 17.5,
+    "label": "Haurchefant (quest start)"
+   }
   }
  ]
 }

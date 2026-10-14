@@ -1,0 +1,9434 @@
+{
+"To the Bannock": [
+{
+"level": 4,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+}
+],
+"Traitor in the Midst": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Back and Fourth": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Nald",
+"x": 8.6,
+"y": 9.1,
+"npc": "Ilberd"
+}
+],
+"Coming to Terms": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.8,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"The Intercession of Saints": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 26.7,
+"y": 17.0,
+"npc": "Alphinaud"
+}
+],
+"Strength in Unity": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 26.7,
+"y": 17.5,
+"npc": "Alphinaud"
+}
+],
+"Dark Words, Dark Deeds": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 12.8,
+"y": 17.5,
+"npc": "Drillemont"
+}
+],
+"First Blood": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 12.8,
+"y": 17.5,
+"npc": "Drillemont"
+}
+],
+"The Path of the Righteous": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 12.8,
+"y": 17.5,
+"npc": "Drillemont"
+}
+],
+"For the Greater Good": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 3.4,
+"y": 21.3,
+"npc": "Alphinaud"
+}
+],
+"Tendrils of Intrigue": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 26.1,
+"y": 28.5,
+"npc": "Alphinaud"
+}
+],
+"A Simple Plan": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"The Instruments of Our Deliverance": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Close to Home": [
+{
+"level": 1,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+},
+{
+"level": 1,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+},
+{
+"level": 1,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+},
+{
+"level": 1,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+},
+{
+"level": 1,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+},
+{
+"level": 1,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+},
+{
+"level": 1,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+},
+{
+"level": 1,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"The Road Less Traveled": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 3.4,
+"y": 21.3,
+"npc": "Moenbryda"
+}
+],
+"Eyes Unclouded": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 26.7,
+"y": 17.0,
+"npc": "Alphinaud"
+}
+],
+"The Reason Roaille": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Let Us Cling Together": [
+{
+"level": 50,
+"zone": "Northern Thanalan",
+"x": 17.3,
+"y": 18.8,
+"npc": "Alphinaud"
+}
+],
+"Spirithold Broken": [
+{
+"level": 9,
+"zone": "Central Shroud",
+"x": 23.5,
+"y": 19.9,
+"npc": "Galfrid"
+}
+],
+"Leia's Legacy": [
+{
+"level": 14,
+"zone": "Central Shroud",
+"x": 20.3,
+"y": 21.6,
+"npc": "Luquelot"
+}
+],
+"Surveying the Damage": [
+{
+"level": 4,
+"zone": "Central Shroud",
+"x": 25.5,
+"y": 19.4,
+"npc": "Monranguin"
+}
+],
+"On to Bentbranch": [
+{
+"level": 10,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+}
+],
+"Passing Muster": [
+{
+"level": 4,
+"zone": "Central Shroud",
+"x": 23.5,
+"y": 19.9,
+"npc": "Galfrid"
+}
+],
+"It's Probably Pirates": [
+{
+"level": 15,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+}
+],
+"Life, Materia and Everything": [
+{
+"level": 19,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Step Nine": [
+{
+"level": 4,
+"zone": "Central Thanalan",
+"x": 23.1,
+"y": 27.7,
+"npc": "Cicidoa"
+}
+],
+"Out of House and Home": [
+{
+"level": 4,
+"zone": "Central Thanalan",
+"x": 20.8,
+"y": 18.5,
+"npc": "Warin"
+}
+],
+"Way Down in the Hole": [
+{
+"level": 9,
+"zone": "Central Thanalan",
+"x": 20.8,
+"y": 18.4,
+"npc": "Zuzumeda"
+}
+],
+"Supply and Demands": [
+{
+"level": 10,
+"zone": "Western Thanalan",
+"x": 22.7,
+"y": 17.4,
+"npc": "Dadanen"
+}
+],
+"The Perfect Swarm": [
+{
+"level": 10,
+"zone": "Western Thanalan",
+"x": 26.3,
+"y": 18.3,
+"npc": "Drunken Stag"
+}
+],
+"Last Letter to Lost Hope": [
+{
+"level": 10,
+"zone": "Western Thanalan",
+"x": 22.7,
+"y": 17.2,
+"npc": "Fufulupa"
+}
+],
+"Passing the Blade": [
+{
+"level": 10,
+"zone": "Central Thanalan",
+"x": 23.4,
+"y": 16.0,
+"npc": "Leofric"
+}
+],
+"Following Footfalls": [
+{
+"level": 10,
+"zone": "Western Thanalan",
+"x": 22.7,
+"y": 17.2,
+"npc": "Fufulupa"
+}
+],
+"Storms on the Horizon": [
+{
+"level": 10,
+"zone": "Western Thanalan",
+"x": 17.9,
+"y": 16.1,
+"npc": "Nunuzofu"
+}
+],
+"Oh Captain, My Captain": [
+{
+"level": 14,
+"zone": "Western Thanalan",
+"x": 15.0,
+"y": 18.9,
+"npc": "Merilda"
+}
+],
+"Lord of the Inferno": [
+{
+"level": 20,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Good Intentions": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Bait and Switch": [
+{
+"level": 50,
+"zone": "Eastern Thanalan",
+"x": 21.2,
+"y": 21.1,
+"npc": "Ilberd"
+}
+],
+"Best-laid Schemes": [
+{
+"level": 50,
+"zone": "Eastern Thanalan",
+"x": 25.4,
+"y": 25.5,
+"npc": "Ilberd"
+}
+],
+"The Rising Chorus": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.0,
+"npc": "Tataru"
+}
+],
+"On the Counteroffensive": [
+{
+"level": 50,
+"zone": "Northern Thanalan",
+"x": 20.9,
+"y": 22.2,
+"npc": "Edelstein"
+}
+],
+"An Uninvited Ascian": [
+{
+"level": 50,
+"zone": "Northern Thanalan",
+"x": 20.9,
+"y": 22.2,
+"npc": "Edelstein"
+}
+],
+"Mask of Grief": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Defenders for Ishgard": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.3,
+"npc": "Alphinaud"
+}
+],
+"The Wyrm's Roar": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 18.6,
+"y": 15.5,
+"npc": "Alphinaud"
+}
+],
+"Committed to the Cause": [
+{
+"level": 50,
+"zone": "Intercessory",
+"x": 6.1,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"You Shall Not Trespass": [
+{
+"level": 10,
+"zone": "Central Shroud",
+"x": 20.3,
+"y": 22.0,
+"npc": "Keitha"
+}
+],
+"Don't Look Down": [
+{
+"level": 10,
+"zone": "Central Shroud",
+"x": 19.0,
+"y": 20.6,
+"npc": "Osha Jaab"
+}
+],
+"In the Grim Darkness of the Forest": [
+{
+"level": 10,
+"zone": "Central Shroud",
+"x": 17.6,
+"y": 19.2,
+"npc": "Theodore"
+}
+],
+"Threat Level Elevated": [
+{
+"level": 10,
+"zone": "Central Shroud",
+"x": 19.0,
+"y": 20.6,
+"npc": "Roseline"
+}
+],
+"Migrant Marauders": [
+{
+"level": 10,
+"zone": "Central Shroud",
+"x": 20.2,
+"y": 21.7,
+"npc": "Eylgar"
+}
+],
+"A Hearer Is Often Late": [
+{
+"level": 10,
+"zone": "Central Shroud",
+"x": 22.5,
+"y": 26.1,
+"npc": "Lothaire"
+}
+],
+"Salvaging the Scene": [
+{
+"level": 10,
+"zone": "Central Shroud",
+"x": 25.1,
+"y": 28.2,
+"npc": "Armelle"
+}
+],
+"Volunteer Dragonslayers": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.3,
+"npc": "Minfilia"
+}
+],
+"Sky-high": [
+{
+"level": 10,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+}
+],
+"Thanks a Million": [
+{
+"level": 10,
+"zone": "Middle La Noscea",
+"x": 15.8,
+"y": 16.5,
+"npc": "Wyrkrhit"
+}
+],
+"Relighting the Torch": [
+{
+"level": 10,
+"zone": "Western La Noscea",
+"x": 34.6,
+"y": 31.9,
+"npc": "Fraeloef"
+}
+],
+"On to the Drydocks": [
+{
+"level": 10,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 10.6,
+"y": 15.4,
+"npc": "H'naanza"
+}
+],
+"Without a Doubt": [
+{
+"level": 10,
+"zone": "Lower La Noscea",
+"x": 26.5,
+"y": 33.8,
+"npc": "Ahtbyrm"
+}
+],
+"Do Angry Pirates Dream": [
+{
+"level": 10,
+"zone": "Lower La Noscea",
+"x": 26.5,
+"y": 33.8,
+"npc": "Ahtbyrm"
+}
+],
+"Victory in Peril": [
+{
+"level": 14,
+"zone": "Lower La Noscea",
+"x": 24.9,
+"y": 35.2,
+"npc": "Ghimthota"
+}
+],
+"Righting the Shipwright": [
+{
+"level": 10,
+"zone": "Lower La Noscea",
+"x": 20.8,
+"y": 38.7,
+"npc": "Haldbroda"
+}
+],
+"An Allied Perspective": [
+{
+"level": 50,
+"zone": "Mor Dhona",
+"x": 22.2,
+"y": 8.4,
+"npc": "Tataru"
+}
+],
+"Administrative Decision": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"An Unexpected Ambition": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Ancient Ways, Timeless Wants": [
+{
+"level": 50,
+"zone": "Limsa Lominsa Lower Decks",
+"x": 4.7,
+"y": 11.5,
+"npc": "Tataru"
+}
+],
+"Where We Are Needed": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"The Least among Us": [
+{
+"level": 50,
+"zone": "South Shroud",
+"x": 17.3,
+"y": 28.7,
+"npc": "unsettled scholar"
+}
+],
+"A Time to Every Purpose": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Come, but Not Gone": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Thal",
+"x": 11.1,
+"y": 11.6,
+"npc": "Minfilia"
+}
+],
+"The Parting Glass": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"Before the Dawn": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 26.8,
+"y": 17.5,
+"npc": "Haurchefant"
+}
+],
+"In Memory of Moenbryda": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.3,
+"npc": "Minfilia"
+}
+],
+"Chasing Shadows": [
+{
+"level": 5,
+"zone": "Central Shroud",
+"x": 23.5,
+"y": 19.9,
+"npc": "Galfrid"
+}
+],
+"Dread Is in the Air": [
+{
+"level": 14,
+"zone": "Central Shroud",
+"x": 20.3,
+"y": 21.6,
+"npc": "Luquelot"
+}
+],
+"To Guard a Guardian": [
+{
+"level": 14,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+}
+],
+"Festive Endeavors": [
+{
+"level": 14,
+"zone": "Seat of the First Bow",
+"x": 3.6,
+"y": 3.5,
+"npc": "Lewin"
+}
+],
+"Renewing the Covenant": [
+{
+"level": 14,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+}
+],
+"On to Summerford": [
+{
+"level": 4,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+}
+],
+"Dressed to Call": [
+{
+"level": 4,
+"zone": "Middle La Noscea",
+"x": 25.6,
+"y": 17.0,
+"npc": "Staelwyrn"
+}
+],
+"Washed Up": [
+{
+"level": 5,
+"zone": "Middle La Noscea",
+"x": 25.6,
+"y": 17.0,
+"npc": "Staelwyrn"
+}
+],
+"Double Dealing": [
+{
+"level": 5,
+"zone": "Middle La Noscea",
+"x": 25.6,
+"y": 17.0,
+"npc": "Staelwyrn"
+}
+],
+"Loam Maintenance": [
+{
+"level": 5,
+"zone": "Middle La Noscea",
+"x": 25.6,
+"y": 17.2,
+"npc": "Gurcant"
+}
+],
+"Plowshares to Swords": [
+{
+"level": 5,
+"zone": "Middle La Noscea",
+"x": 21.5,
+"y": 15.3,
+"npc": "Pfrewahl"
+}
+],
+"Just Deserts": [
+{
+"level": 9,
+"zone": "Middle La Noscea",
+"x": 25.6,
+"y": 17.0,
+"npc": "Staelwyrn"
+}
+],
+"Give It to Me Raw": [
+{
+"level": 10,
+"zone": "Western Thanalan",
+"x": 26.3,
+"y": 18.3,
+"npc": "Drunken Stag"
+}
+],
+"The Gridanian Envoy": [
+{
+"level": 14,
+"zone": "Lotus Stand",
+"x": 6.2,
+"y": 6.1,
+"npc": "Kan-E-Senna"
+}
+],
+"The Scions of the Seventh Dawn": [
+{
+"level": 17,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"A Wild Rose by Any Other Name": [
+{
+"level": 17,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"A Hero in the Making": [
+{
+"level": 20,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Sylph-management": [
+{
+"level": 20,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Into the Beast's Maw": [
+{
+"level": 24,
+"zone": "South Shroud",
+"x": 18.2,
+"y": 19.9,
+"npc": "Buscarron"
+}
+],
+"Wrath of the Titan": [
+{
+"level": 30,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"All Good Things": [
+{
+"level": 34,
+"zone": "Upper La Noscea",
+"x": 30.1,
+"y": 23.2,
+"npc": "Y'shtola"
+}
+],
+"Eyes on Me": [
+{
+"level": 35,
+"zone": "Eastern Thanalan",
+"x": 11.3,
+"y": 21.3,
+"npc": "Marques"
+}
+],
+"Lady of the Vortex": [
+{
+"level": 44,
+"zone": "New Gridania",
+"x": 11.4,
+"y": 13.7,
+"npc": "Cid"
+}
+],
+"Reclamation": [
+{
+"level": 44,
+"zone": "Ul'dah - Steps of Nald",
+"x": 10.4,
+"y": 11.2,
+"npc": "Alphinaud"
+}
+],
+"Escape from Castrum Centri": [
+{
+"level": 46,
+"zone": "Mor Dhona",
+"x": 6.1,
+"y": 6.1,
+"npc": "Cid"
+}
+],
+"The Black Wolf's Ultimatum": [
+{
+"level": 46,
+"zone": "Ul'dah - Steps of Nald",
+"x": 10.4,
+"y": 11.3,
+"npc": "Minfilia"
+}
+],
+"The Ul'dahn Envoy": [
+{
+"level": 14,
+"zone": "Ul'dah - Steps of Nald",
+"x": 8.5,
+"y": 9.0,
+"npc": "Raubahn"
+}
+],
+"Lurkers in the Grotto": [
+{
+"level": 5,
+"zone": "Middle La Noscea",
+"x": 25.6,
+"y": 17.0,
+"npc": "Staelwyrn"
+}
+],
+"Feint and Strike": [
+{
+"level": 14,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+}
+],
+"A Mizzenmast Repast": [
+{
+"level": 14,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+}
+],
+"The Lominsan Envoy": [
+{
+"level": 14,
+"zone": "Command Room",
+"x": 3.6,
+"y": 3.4,
+"npc": "Merlwyb"
+}
+],
+"Underneath the Sultantree": [
+{
+"level": 4,
+"zone": "Central Thanalan",
+"x": 23.0,
+"y": 27.8,
+"npc": "Papashan"
+}
+],
+"Duty, Honor, Country": [
+{
+"level": 14,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"A Royal Reception": [
+{
+"level": 14,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"Dressed to Deceive": [
+{
+"level": 19,
+"zone": "Eastern Thanalan",
+"x": 13.9,
+"y": 23.6,
+"npc": "Isembard"
+}
+],
+"We Must Rebuild": [
+{
+"level": 4,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"Unsolved Mystery": [
+{
+"level": 17,
+"zone": "Eastern Thanalan",
+"x": 13.9,
+"y": 23.6,
+"npc": "Isembard"
+}
+],
+"What Poor People Think": [
+{
+"level": 18,
+"zone": "Eastern Thanalan",
+"x": 13.9,
+"y": 23.6,
+"npc": "Isembard"
+}
+],
+"A Proper Burial": [
+{
+"level": 18,
+"zone": "Eastern Thanalan",
+"x": 13.9,
+"y": 23.6,
+"npc": "Isembard"
+}
+],
+"For the Children": [
+{
+"level": 19,
+"zone": "Eastern Thanalan",
+"x": 13.9,
+"y": 23.6,
+"npc": "Isembard"
+}
+],
+"Amalj'aa Wrong Places": [
+{
+"level": 19,
+"zone": "Eastern Thanalan",
+"x": 13.9,
+"y": 23.6,
+"npc": "Isembard"
+}
+],
+"Takin' What They're Givin'": [
+{
+"level": 10,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"Secrets and Lies": [
+{
+"level": 14,
+"zone": "Western Thanalan",
+"x": 22.7,
+"y": 17.2,
+"npc": "Fufulupa"
+}
+],
+"A Matter of Tradition": [
+{
+"level": 14,
+"zone": "Heart of the Sworn",
+"x": 6.1,
+"y": 6.1,
+"npc": "Owyne"
+}
+],
+"Into a Copper Hell": [
+{
+"level": 17,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.7,
+"npc": "Momodi"
+}
+],
+"Nothing to See Here": [
+{
+"level": 4,
+"zone": "Central Thanalan",
+"x": 23.0,
+"y": 27.8,
+"npc": "Papashan"
+}
+],
+"Call of the Sea": [
+{
+"level": 14,
+"zone": "Old Gridania",
+"x": 8.1,
+"y": 11.2,
+"npc": "serpent officer"
+},
+{
+"level": 14,
+"zone": "Ul'dah - Steps of Thal",
+"x": 10.8,
+"y": 13.0,
+"npc": "Bartholomew"
+}
+],
+"Call of the Forest": [
+{
+"level": 15,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.7,
+"y": 11.1,
+"npc": "Baderon"
+}
+],
+"Fire in the Gloom": [
+{
+"level": 16,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+}
+],
+"Call of the Desert": [
+{
+"level": 16,
+"zone": "New Gridania",
+"x": 11.7,
+"y": 13.6,
+"npc": "Mother Miounne"
+}
+],
+"The Company You Keep (Twin Adder)": [
+{
+"level": 20,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.2,
+"npc": "serpent officer"
+}
+],
+"The Company You Keep (Maelstrom)": [
+{
+"level": 20,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.2,
+"npc": "storm officer"
+}
+],
+"The Company You Keep (Immortal Flames)": [
+{
+"level": 20,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.2,
+"npc": "flame officer"
+}
+],
+"Wood's Will Be Done": [
+{
+"level": 20,
+"zone": "New Gridania",
+"x": 9.9,
+"y": 11.1,
+"npc": "serpent personnel officer"
+}
+],
+"Till Sea Swallows All": [
+{
+"level": 20,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 13.2,
+"y": 12.7,
+"npc": "storm personnel officer"
+}
+],
+"For Coin and Country": [
+{
+"level": 20,
+"zone": "Ul'dah - Steps of Nald",
+"x": 8.4,
+"y": 9.1,
+"npc": "flame personnel officer"
+}
+],
+"Men of the Blue Tattoos": [
+{
+"level": 14,
+"zone": "Lower La Noscea",
+"x": 24.9,
+"y": 35.2,
+"npc": "Ghimthota"
+}
+],
+"High Society": [
+{
+"level": 14,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.2,
+"y": 6.0,
+"npc": "Reyner"
+}
+],
+"Sylphic Studies": [
+{
+"level": 20,
+"zone": "East Shroud",
+"x": 16.7,
+"y": 27.2,
+"npc": "Rolfe Hawthorne"
+}
+],
+"First Impressions": [
+{
+"level": 20,
+"zone": "East Shroud",
+"x": 16.7,
+"y": 27.2,
+"npc": "Rolfe Hawthorne"
+}
+],
+"First Contact": [
+{
+"level": 21,
+"zone": "East Shroud",
+"x": 16.7,
+"y": 27.2,
+"npc": "Rolfe Hawthorne"
+}
+],
+"Presence of the Enemy": [
+{
+"level": 21,
+"zone": "East Shroud",
+"x": 22.0,
+"y": 25.7,
+"npc": "Komuxio"
+}
+],
+"Brotherly Love": [
+{
+"level": 22,
+"zone": "East Shroud",
+"x": 22.0,
+"y": 25.7,
+"npc": "Komuxio"
+}
+],
+"Spirited Away": [
+{
+"level": 22,
+"zone": "East Shroud",
+"x": 22.0,
+"y": 25.7,
+"npc": "Komuxio"
+}
+],
+"Like Fine Wine": [
+{
+"level": 23,
+"zone": "Upper La Noscea",
+"x": 14.8,
+"y": 24.5,
+"npc": "Teteroon"
+}
+],
+"Sylphish Concerns": [
+{
+"level": 23,
+"zone": "South Shroud",
+"x": 18.2,
+"y": 19.9,
+"npc": "Buscarron"
+}
+],
+"A Simple Gift": [
+{
+"level": 24,
+"zone": "South Shroud",
+"x": 18.2,
+"y": 19.9,
+"npc": "Buscarron"
+}
+],
+"Believe in Your Sylph": [
+{
+"level": 24,
+"zone": "East Shroud",
+"x": 22.0,
+"y": 25.7,
+"npc": "Komuxio"
+}
+],
+"Back from the Wood": [
+{
+"level": 24,
+"zone": "New Gridania",
+"x": 9.7,
+"y": 11.1,
+"npc": "Vorsaile Heuloix"
+}
+],
+"Shadow of Darkness": [
+{
+"level": 24,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Highbridge Times": [
+{
+"level": 24,
+"zone": "Eastern Thanalan",
+"x": 20.2,
+"y": 21.4,
+"npc": "Hihibaru"
+}
+],
+"Where There Is Smoke": [
+{
+"level": 25,
+"zone": "Eastern Thanalan",
+"x": 20.2,
+"y": 21.4,
+"npc": "Hihibaru"
+}
+],
+"On to Little Ala Mhigo": [
+{
+"level": 25,
+"zone": "Eastern Thanalan",
+"x": 20.2,
+"y": 21.4,
+"npc": "Hihibaru"
+}
+],
+"Tea for Three": [
+{
+"level": 25,
+"zone": "Southern Thanalan",
+"x": 17.9,
+"y": 13.5,
+"npc": "Gisilbehrt"
+}
+],
+"Foot in the Door": [
+{
+"level": 25,
+"zone": "Southern Thanalan",
+"x": 17.9,
+"y": 13.5,
+"npc": "Gisilbehrt"
+}
+],
+"Meeting with the Resistance": [
+{
+"level": 26,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Killing Him Softly": [
+{
+"level": 26,
+"zone": "South Shroud",
+"x": 25.7,
+"y": 20.7,
+"npc": "Meffrid"
+}
+],
+"Helping Horn": [
+{
+"level": 27,
+"zone": "South Shroud",
+"x": 25.7,
+"y": 20.7,
+"npc": "Meffrid"
+}
+],
+"He Ain't Heavy": [
+{
+"level": 27,
+"zone": "South Shroud",
+"x": 25.7,
+"y": 20.7,
+"npc": "Meffrid"
+}
+],
+"Come Highly Recommended": [
+{
+"level": 27,
+"zone": "South Shroud",
+"x": 25.7,
+"y": 20.7,
+"npc": "Meffrid"
+}
+],
+"The Bear and the Young'uns' Cares": [
+{
+"level": 27,
+"zone": "Southern Thanalan",
+"x": 16.9,
+"y": 14.4,
+"npc": "Gundobald"
+}
+],
+"Wilred Wants You": [
+{
+"level": 27,
+"zone": "Southern Thanalan",
+"x": 17.0,
+"y": 14.4,
+"npc": "Hremfing"
+}
+],
+"Big Trouble in Little Ala Mhigo": [
+{
+"level": 27,
+"zone": "Southern Thanalan",
+"x": 16.9,
+"y": 14.4,
+"npc": "Gundobald"
+}
+],
+"Back to Square One": [
+{
+"level": 27,
+"zone": "Southern Thanalan",
+"x": 16.9,
+"y": 14.4,
+"npc": "Gundobald"
+}
+],
+"Seeing Eye to Winged Eye": [
+{
+"level": 28,
+"zone": "North Shroud",
+"x": 21.8,
+"y": 26.8,
+"npc": "Ivaurault"
+}
+],
+"Rock of Rancor": [
+{
+"level": 28,
+"zone": "North Shroud",
+"x": 21.8,
+"y": 26.8,
+"npc": "Aideen"
+}
+],
+"Power of Deduction": [
+{
+"level": 28,
+"zone": "North Shroud",
+"x": 21.8,
+"y": 26.8,
+"npc": "Medrod"
+}
+],
+"Secret of the White Lily": [
+{
+"level": 28,
+"zone": "North Shroud",
+"x": 19.7,
+"y": 25.4,
+"npc": "Aethelmaer"
+}
+],
+"Skeletons in Her Closet": [
+{
+"level": 28,
+"zone": "Old Gridania",
+"x": 12.0,
+"y": 4.6,
+"npc": "Ursandel"
+}
+],
+"Tales from the Tidus Slayer": [
+{
+"level": 30,
+"zone": "Lower La Noscea",
+"x": 35.7,
+"y": 15.9,
+"npc": "Trachtoum"
+}
+],
+"Hungry Hungry Goobbues": [
+{
+"level": 30,
+"zone": "Lower La Noscea",
+"x": 35.7,
+"y": 15.9,
+"npc": "Trachtoum"
+}
+],
+"The Lominsan Way": [
+{
+"level": 30,
+"zone": "Lower La Noscea",
+"x": 35.7,
+"y": 15.9,
+"npc": "Trachtoum"
+}
+],
+"Nix That": [
+{
+"level": 30,
+"zone": "Eastern La Noscea",
+"x": 32.7,
+"y": 30.6,
+"npc": "Wheiskaet"
+}
+],
+"A Modest Proposal": [
+{
+"level": 30,
+"zone": "Eastern La Noscea",
+"x": 32.7,
+"y": 30.6,
+"npc": "Wheiskaet"
+}
+],
+"The Perfect Prey": [
+{
+"level": 31,
+"zone": "Southern Thanalan",
+"x": 14.3,
+"y": 30.0,
+"npc": "U'odh Nunh"
+}
+],
+"When the Worm Turns": [
+{
+"level": 31,
+"zone": "Southern Thanalan",
+"x": 14.3,
+"y": 30.0,
+"npc": "U'odh Nunh"
+}
+],
+"There and Back Again": [
+{
+"level": 31,
+"zone": "Southern Thanalan",
+"x": 14.3,
+"y": 30.0,
+"npc": "U'odh Nunh"
+}
+],
+"The Things We Do for Cheese": [
+{
+"level": 32,
+"zone": "Eastern La Noscea",
+"x": 32.7,
+"y": 30.6,
+"npc": "Wheiskaet"
+}
+],
+"An Offer You Can Refuse": [
+{
+"level": 32,
+"zone": "Eastern La Noscea",
+"x": 21.7,
+"y": 21.2,
+"npc": "Shamani Lohmani"
+}
+],
+"It Won't Work": [
+{
+"level": 32,
+"zone": "Eastern La Noscea",
+"x": 21.7,
+"y": 21.2,
+"npc": "Shamani Lohmani"
+}
+],
+"Give a Man a Drink": [
+{
+"level": 33,
+"zone": "Eastern La Noscea",
+"x": 21.7,
+"y": 21.2,
+"npc": "Shamani Lohmani"
+}
+],
+"That Weight": [
+{
+"level": 33,
+"zone": "Eastern La Noscea",
+"x": 14.1,
+"y": 30.3,
+"npc": "Drest"
+}
+],
+"Battle Scars": [
+{
+"level": 33,
+"zone": "Eastern La Noscea",
+"x": 14.1,
+"y": 30.3,
+"npc": "Drest"
+}
+],
+"It Was a Very Good Year": [
+{
+"level": 33,
+"zone": "Eastern La Noscea",
+"x": 21.7,
+"y": 21.2,
+"npc": "Shamani Lohmani"
+}
+],
+"In the Company of Heroes": [
+{
+"level": 33,
+"zone": "Eastern La Noscea",
+"x": 32.7,
+"y": 30.5,
+"npc": "Y'shtola"
+}
+],
+"As You Wish": [
+{
+"level": 33,
+"zone": "Eastern La Noscea",
+"x": 32.7,
+"y": 30.6,
+"npc": "Wheiskaet"
+}
+],
+"Lord of Crags": [
+{
+"level": 34,
+"zone": "Upper La Noscea",
+"x": 31.1,
+"y": 24.1,
+"npc": "Riol"
+}
+],
+"Bringing out the Dead": [
+{
+"level": 35,
+"zone": "Eastern Thanalan",
+"x": 11.5,
+"y": 22.3,
+"npc": "Eluned"
+}
+],
+"Bury Me Not on the Lone Prairie": [
+{
+"level": 35,
+"zone": "Eastern Thanalan",
+"x": 11.5,
+"y": 22.3,
+"npc": "Eluned"
+}
+],
+"He Who Waited Behind": [
+{
+"level": 36,
+"zone": "Eastern Thanalan",
+"x": 11.2,
+"y": 21.3,
+"npc": "Iliud"
+}
+],
+"Cold Reception": [
+{
+"level": 36,
+"zone": "North Shroud",
+"x": 15.5,
+"y": 25.5,
+"npc": "Vortefaurt"
+}
+],
+"The Unending War": [
+{
+"level": 36,
+"zone": "Coerthas Central Highlands",
+"x": 24.9,
+"y": 28.6,
+"npc": "Ludovoix"
+}
+],
+"Men of Honor": [
+{
+"level": 36,
+"zone": "Coerthas Central Highlands",
+"x": 25.6,
+"y": 29.9,
+"npc": "Jocea"
+}
+],
+"Three for Three": [
+{
+"level": 36,
+"zone": "Coerthas Central Highlands",
+"x": 24.9,
+"y": 28.8,
+"npc": "Portelaine"
+}
+],
+"The Rose and the Unicorn": [
+{
+"level": 36,
+"zone": "Coerthas Central Highlands",
+"x": 24.8,
+"y": 28.9,
+"npc": "Carrilaut"
+}
+],
+"The Talk of Coerthas": [
+{
+"level": 37,
+"zone": "Coerthas Central Highlands",
+"x": 26.8,
+"y": 17.5,
+"npc": "Haurchefant"
+}
+],
+"Road to Redemption": [
+{
+"level": 38,
+"zone": "Coerthas Central Highlands",
+"x": 26.8,
+"y": 17.5,
+"npc": "Haurchefant"
+}
+],
+"Following the Evidence": [
+{
+"level": 38,
+"zone": "Coerthas Central Highlands",
+"x": 26.8,
+"y": 17.5,
+"npc": "Haurchefant"
+}
+],
+"In the Eyes of Gods and Men": [
+{
+"level": 38,
+"zone": "Coerthas Central Highlands",
+"x": 26.8,
+"y": 17.5,
+"npc": "Haurchefant"
+}
+],
+"Ye of Little Faith": [
+{
+"level": 39,
+"zone": "Coerthas Central Highlands",
+"x": 11.9,
+"y": 17.4,
+"npc": "Brunadier"
+}
+],
+"Factual Folklore": [
+{
+"level": 39,
+"zone": "Coerthas Central Highlands",
+"x": 12.9,
+"y": 17.6,
+"npc": "Haustefort"
+}
+],
+"Influencing Inquisitors": [
+{
+"level": 40,
+"zone": "Coerthas Central Highlands",
+"x": 13.2,
+"y": 15.5,
+"npc": "Cid"
+}
+],
+"By the Lights of Ishgard": [
+{
+"level": 40,
+"zone": "Coerthas Central Highlands",
+"x": 12.7,
+"y": 16.6,
+"npc": "Alphinaud"
+}
+],
+"Blood for Blood": [
+{
+"level": 40,
+"zone": "Coerthas Central Highlands",
+"x": 12.7,
+"y": 16.6,
+"npc": "Alphinaud"
+}
+],
+"The Heretic among Us": [
+{
+"level": 40,
+"zone": "Coerthas Central Highlands",
+"x": 12.8,
+"y": 17.5,
+"npc": "Drillemont"
+}
+],
+"In Pursuit of the Past": [
+{
+"level": 41,
+"zone": "Coerthas Central Highlands",
+"x": 12.7,
+"y": 16.6,
+"npc": "Alphinaud"
+}
+],
+"Into the Eye of the Storm": [
+{
+"level": 41,
+"zone": "New Gridania",
+"x": 11.4,
+"y": 13.7,
+"npc": "Cid"
+}
+],
+"Sealed with Science": [
+{
+"level": 41,
+"zone": "Eastern Thanalan",
+"x": 12.7,
+"y": 23.5,
+"npc": "Lamberteint"
+}
+],
+"With the Utmost Care": [
+{
+"level": 41,
+"zone": "Eastern Thanalan",
+"x": 21.5,
+"y": 22.0,
+"npc": "Hahasako"
+}
+],
+"A Promising Prospect": [
+{
+"level": 41,
+"zone": "Eastern Thanalan",
+"x": 12.7,
+"y": 23.5,
+"npc": "Lamberteint"
+}
+],
+"It's Probably Not Pirates": [
+{
+"level": 42,
+"zone": "Western La Noscea",
+"x": 27.9,
+"y": 27.0,
+"npc": "Ceana"
+}
+],
+"Representing the Representative": [
+{
+"level": 42,
+"zone": "Western La Noscea",
+"x": 27.9,
+"y": 27.0,
+"npc": "Ceana"
+}
+],
+"The Reluctant Researcher": [
+{
+"level": 42,
+"zone": "Western La Noscea",
+"x": 27.9,
+"y": 27.0,
+"npc": "Ceana"
+}
+],
+"Sweet Somethings": [
+{
+"level": 42,
+"zone": "Western La Noscea",
+"x": 16.2,
+"y": 30.7,
+"npc": "Davyd"
+}
+],
+"History Repeating": [
+{
+"level": 42,
+"zone": "Western La Noscea",
+"x": 16.2,
+"y": 30.7,
+"npc": "Davyd"
+}
+],
+"Better Late than Never": [
+{
+"level": 43,
+"zone": "Old Gridania",
+"x": 8.8,
+"y": 8.2,
+"npc": "Hedyn"
+}
+],
+"Casing the Castrum": [
+{
+"level": 44,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.2,
+"npc": "Y'shtola"
+}
+],
+"Eyes on the Empire": [
+{
+"level": 44,
+"zone": "Coerthas Central Highlands",
+"x": 24.9,
+"y": 28.8,
+"npc": "Portelaine"
+}
+],
+"Footprints in the Snow": [
+{
+"level": 44,
+"zone": "Coerthas Central Highlands",
+"x": 14.4,
+"y": 35.3,
+"npc": "Pierremons"
+}
+],
+"Monumental Hopes": [
+{
+"level": 44,
+"zone": "Coerthas Central Highlands",
+"x": 7.5,
+"y": 29.0,
+"npc": "Wedge"
+}
+],
+"Notorious Biggs": [
+{
+"level": 44,
+"zone": "Coerthas Central Highlands",
+"x": 7.5,
+"y": 29.0,
+"npc": "Wedge"
+}
+],
+"Come-Into-My-Castrum": [
+{
+"level": 44,
+"zone": "Coerthas Central Highlands",
+"x": 7.5,
+"y": 29.0,
+"npc": "Cid"
+}
+],
+"Getting Even with Garlemald": [
+{
+"level": 44,
+"zone": "Mor Dhona",
+"x": 22.6,
+"y": 7.5,
+"npc": "Glaumunt"
+}
+],
+"Drowning Out the Voices": [
+{
+"level": 45,
+"zone": "Mor Dhona",
+"x": 22.0,
+"y": 7.7,
+"npc": "Cid"
+}
+],
+"Acting the Part": [
+{
+"level": 45,
+"zone": "Mor Dhona",
+"x": 22.6,
+"y": 7.5,
+"npc": "Glaumunt"
+}
+],
+"Fool Me Twice": [
+{
+"level": 46,
+"zone": "Mor Dhona",
+"x": 22.6,
+"y": 7.5,
+"npc": "Glaumunt"
+}
+],
+"Every Little Thing She Does Is Magitek": [
+{
+"level": 46,
+"zone": "Mor Dhona",
+"x": 6.1,
+"y": 6.1,
+"npc": "Cid"
+}
+],
+"A Hero in Need": [
+{
+"level": 49,
+"zone": "Western Thanalan",
+"x": 12.1,
+"y": 12.0,
+"npc": "Allied communications officer"
+}
+],
+"The Price of Principles": [
+{
+"level": 50,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Hail to the King, Kupo": [
+{
+"level": 50,
+"zone": "New Gridania",
+"x": 9.7,
+"y": 11.1,
+"npc": "Vorsaile Heuloix"
+}
+],
+"You Have Selected Regicide": [
+{
+"level": 50,
+"zone": "Old Gridania",
+"x": 6.1,
+"y": 10.7,
+"npc": "E-Sumi-Yan"
+}
+],
+"On the Properties of Primals": [
+{
+"level": 50,
+"zone": "South Shroud",
+"x": 18.7,
+"y": 27.1,
+"npc": "Raya-O-Senna"
+}
+],
+"The Gifted": [
+{
+"level": 50,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"A Final Temptation": [
+{
+"level": 50,
+"zone": "Western Thanalan",
+"x": 22.7,
+"y": 17.1,
+"npc": "Thancred"
+}
+],
+"The Mother of Exiles": [
+{
+"level": 50,
+"zone": "Western Thanalan",
+"x": 22.7,
+"y": 17.1,
+"npc": "Thancred"
+}
+],
+"Why We Adventure": [
+{
+"level": 50,
+"zone": "Western Thanalan",
+"x": 11.5,
+"y": 14.4,
+"npc": "Hozan"
+}
+],
+"The Sea Rises": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.3,
+"npc": "Minfilia"
+}
+],
+"Scouts in Distress": [
+{
+"level": 50,
+"zone": "Western La Noscea",
+"x": 22.8,
+"y": 22.7,
+"npc": "Falkbryda"
+}
+],
+"The Gift of Eternity": [
+{
+"level": 50,
+"zone": "Western La Noscea",
+"x": 22.8,
+"y": 22.7,
+"npc": "Falkbryda"
+}
+],
+"Into the Heart of the Whorl": [
+{
+"level": 50,
+"zone": "Western La Noscea",
+"x": 13.1,
+"y": 13.5,
+"npc": "Merlwyb"
+}
+],
+"Lord of the Whorl": [
+{
+"level": 50,
+"zone": "Lower La Noscea",
+"x": 24.6,
+"y": 33.2,
+"npc": "Eynzahr Slafyrsyn"
+}
+],
+"When Yugiri Met the Fraternity": [
+{
+"level": 50,
+"zone": "Limsa Lominsa Lower Decks",
+"x": 11.4,
+"y": 10.9,
+"npc": "Zanthael"
+}
+],
+"Through the Maelstrom": [
+{
+"level": 50,
+"zone": "Limsa Lominsa Lower Decks",
+"x": 8.9,
+"y": 14.4,
+"npc": "Yugiri"
+}
+],
+"The Great Divide": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Desperate Times": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.6,
+"npc": "Alphinaud"
+}
+],
+"Revolution": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Nald",
+"x": 8.4,
+"y": 9.0,
+"npc": "Swift"
+}
+],
+"Stories We Tell": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Thal",
+"x": 10.7,
+"y": 12.9,
+"npc": "Alphinaud"
+}
+],
+"Lord of Levin": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"What Little Gods Are Made Of": [
+{
+"level": 50,
+"zone": "East Shroud",
+"x": 22.0,
+"y": 25.7,
+"npc": "serpent lieutenant"
+}
+],
+"Guardian of Eorzea": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Recruiting the Realm": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.2,
+"y": 5.3,
+"npc": "Alphinaud"
+}
+],
+"Heretical Harassment": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"When the Cold Sets In": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 26.8,
+"y": 17.5,
+"npc": "Haurchefant"
+}
+],
+"Brave New Companions": [
+{
+"level": 50,
+"zone": "Mor Dhona",
+"x": 21.9,
+"y": 7.8,
+"npc": "Slafborn"
+}
+],
+"Coming to Ishgard": [
+{
+"level": 50,
+"zone": "Intercessory",
+"x": 6.1,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"Taking in the Sights": [
+{
+"level": 50,
+"zone": "Fortemps Manor",
+"x": 6.1,
+"y": 6.3,
+"npc": "Alphinaud"
+}
+],
+"The Better Half": [
+{
+"level": 50,
+"zone": "Foundation",
+"x": 10.2,
+"y": 11.6,
+"npc": "House Fortemps manservant"
+}
+],
+"Over the Wall": [
+{
+"level": 50,
+"zone": "Fortemps Manor",
+"x": 6.2,
+"y": 5.9,
+"npc": "Artoirel"
+}
+],
+"Work in Progress": [
+{
+"level": 50,
+"zone": "Coerthas Western Highlands",
+"x": 32.7,
+"y": 38.4,
+"npc": "Redwald"
+}
+],
+"The First and Foremost": [
+{
+"level": 50,
+"zone": "Coerthas Western Highlands",
+"x": 31.5,
+"y": 37.9,
+"npc": "Rothe"
+}
+],
+"From on High": [
+{
+"level": 50,
+"zone": "Coerthas Western Highlands",
+"x": 32.6,
+"y": 28.6,
+"npc": "Thierremont"
+}
+],
+"Reconnaissance Lost": [
+{
+"level": 50,
+"zone": "Coerthas Western Highlands",
+"x": 32.7,
+"y": 38.4,
+"npc": "Redwald"
+}
+],
+"At the End of Our Hope": [
+{
+"level": 50,
+"zone": "Coerthas Western Highlands",
+"x": 24.3,
+"y": 25.6,
+"npc": "Artoirel"
+}
+],
+"Knights Be Not Proud": [
+{
+"level": 50,
+"zone": "Coerthas Western Highlands",
+"x": 31.9,
+"y": 12.1,
+"npc": "Artoirel"
+}
+],
+"Onwards and Upwards": [
+{
+"level": 50,
+"zone": "Fortemps Manor",
+"x": 6.0,
+"y": 6.1,
+"npc": "Emmanellain"
+}
+],
+"An Indispensable Ally": [
+{
+"level": 50,
+"zone": "The Sea of Clouds",
+"x": 17.0,
+"y": 37.4,
+"npc": "Laniaitte"
+}
+],
+"Meeting the Neighbors": [
+{
+"level": 50,
+"zone": "The Sea of Clouds",
+"x": 17.0,
+"y": 37.4,
+"npc": "Laniaitte"
+}
+],
+"Sense of Urgency": [
+{
+"level": 50,
+"zone": "The Sea of Clouds",
+"x": 15.4,
+"y": 37.8,
+"npc": "Marielle"
+}
+],
+"Hope Springs Eternal": [
+{
+"level": 50,
+"zone": "The Sea of Clouds",
+"x": 15.4,
+"y": 37.8,
+"npc": "Marielle"
+}
+],
+"A Series of Unfortunate Events": [
+{
+"level": 50,
+"zone": "The Sea of Clouds",
+"x": 23.9,
+"y": 33.1,
+"npc": "Honoroit"
+}
+],
+"A Reward Long in Coming": [
+{
+"level": 50,
+"zone": "The Sea of Clouds",
+"x": 9.0,
+"y": 32.3,
+"npc": "Emmanellain"
+}
+],
+"Divine Intervention": [
+{
+"level": 50,
+"zone": "Fortemps Manor",
+"x": 6.2,
+"y": 6.2,
+"npc": "House Fortemps steward"
+}
+],
+"Disclosure": [
+{
+"level": 50,
+"zone": "The Pillars",
+"x": 13.7,
+"y": 8.1,
+"npc": "Haurchefant"
+}
+],
+"Flame General Affairs": [
+{
+"level": 51,
+"zone": "Fortemps Manor",
+"x": 6.1,
+"y": 6.2,
+"npc": "Alphinaud"
+}
+],
+"In Search of Raubahn": [
+{
+"level": 51,
+"zone": "Mor Dhona",
+"x": 22.1,
+"y": 5.1,
+"npc": "Higiri"
+}
+],
+"Keeping the Flame Alive": [
+{
+"level": 51,
+"zone": "Eastern Thanalan",
+"x": 13.9,
+"y": 29.3,
+"npc": "Hozan"
+}
+],
+"To Siege or Not to Siege": [
+{
+"level": 51,
+"zone": "The Waking Sands",
+"x": 6.2,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"Alphinaud's Way": [
+{
+"level": 51,
+"zone": "Fortemps Manor",
+"x": 6.1,
+"y": 6.0,
+"npc": "Alphinaud"
+}
+],
+"In Search of Iceheart": [
+{
+"level": 51,
+"zone": "Foundation",
+"x": 13.4,
+"y": 11.1,
+"npc": "Alphinaud"
+}
+],
+"From One Heretic to Another": [
+{
+"level": 51,
+"zone": "Coerthas Western Highlands",
+"x": 31.8,
+"y": 12.1,
+"npc": "expedition leader"
+}
+],
+"Sounding Out the Amphitheatre": [
+{
+"level": 51,
+"zone": "Coerthas Western Highlands",
+"x": 31.6,
+"y": 11.7,
+"npc": "Alphinaud"
+}
+],
+"Camp of the Convictors": [
+{
+"level": 51,
+"zone": "Coerthas Western Highlands",
+"x": 17.0,
+"y": 22.8,
+"npc": "Alphinaud"
+}
+],
+"Purple Flame, Purple Flame": [
+{
+"level": 51,
+"zone": "Coerthas Western Highlands",
+"x": 16.4,
+"y": 22.5,
+"npc": "Estinien"
+}
+],
+"Where the Chocobos Roam": [
+{
+"level": 52,
+"zone": "Coerthas Western Highlands",
+"x": 8.8,
+"y": 14.8,
+"npc": "Ysayle"
+}
+],
+"Worse than Dragons": [
+{
+"level": 52,
+"zone": "The Dravanian Forelands",
+"x": 32.0,
+"y": 23.0,
+"npc": "Marcechamp"
+}
+],
+"The Trine Towers": [
+{
+"level": 52,
+"zone": "The Dravanian Forelands",
+"x": 25.9,
+"y": 22.4,
+"npc": "Ysayle"
+}
+],
+"Gifts for the Outcasts": [
+{
+"level": 52,
+"zone": "The Dravanian Forelands",
+"x": 17.6,
+"y": 24.8,
+"npc": "Ysayle"
+}
+],
+"The Nonmind": [
+{
+"level": 52,
+"zone": "The Dravanian Forelands",
+"x": 26.6,
+"y": 17.9,
+"npc": "Alphinaud"
+}
+],
+"A Gnathic Deity": [
+{
+"level": 53,
+"zone": "The Dravanian Forelands",
+"x": 24.1,
+"y": 19.6,
+"npc": "Ysayle"
+}
+],
+"Breaking into Hives": [
+{
+"level": 53,
+"zone": "The Dravanian Forelands",
+"x": 23.8,
+"y": 20.0,
+"npc": "Alphinaud"
+}
+],
+"Lord of the Hive": [
+{
+"level": 53,
+"zone": "The Dravanian Forelands",
+"x": 30.5,
+"y": 37.1,
+"npc": "Ysayle"
+}
+],
+"Mourn in Passing": [
+{
+"level": 53,
+"zone": "The Dravanian Forelands",
+"x": 23.8,
+"y": 19.6,
+"npc": "Alphinaud"
+}
+],
+"Beyond the Clouds": [
+{
+"level": 53,
+"zone": "The Churning Mists",
+"x": 27.4,
+"y": 34.9,
+"npc": "Alphinaud"
+}
+],
+"Mountaintop Diplomacy": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 29.9,
+"y": 35.7,
+"npc": "Alphinaud"
+}
+],
+"Moghan's Trial": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 30.1,
+"y": 36.5,
+"npc": "Moghan"
+}
+],
+"Mogmug's Trial": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 30.4,
+"y": 35.6,
+"npc": "Mogmug"
+}
+],
+"Mogwin's Trial": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 29.7,
+"y": 35.4,
+"npc": "Mogwin"
+}
+],
+"Moglin's Judgment": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 30.2,
+"y": 36.6,
+"npc": "Moglin"
+}
+],
+"Leaving Moghome": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 30.1,
+"y": 36.5,
+"npc": "Moghan"
+}
+],
+"The Road to Zenith": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 27.4,
+"y": 34.8,
+"npc": "Moghan"
+}
+],
+"Waiting for the Wind to Change": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 21.0,
+"y": 26.7,
+"npc": "Moghan"
+}
+],
+"Heart of Ice": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 17.4,
+"y": 33.8,
+"npc": "Moghan"
+}
+],
+"The Wyrm's Lair": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 7.4,
+"y": 26.8,
+"npc": "Alphinaud"
+}
+],
+"New Winds, Old Friends": [
+{
+"level": 54,
+"zone": "The Churning Mists",
+"x": 34.0,
+"y": 15.2,
+"npc": "Estinien"
+}
+],
+"A General Summons": [
+{
+"level": 54,
+"zone": "Foundation",
+"x": 8.0,
+"y": 10.5,
+"npc": "Tataru"
+}
+],
+"Awakening in Ul'dah": [
+{
+"level": 54,
+"zone": "Western Thanalan",
+"x": 16.9,
+"y": 30.1,
+"npc": "Alphinaud"
+}
+],
+"A Brave Resolution": [
+{
+"level": 54,
+"zone": "Ul'dah - Steps of Thal",
+"x": 10.8,
+"y": 12.8,
+"npc": "Alphinaud"
+}
+],
+"Ready to Fly": [
+{
+"level": 55,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Alphinaud"
+}
+],
+"Into the Aery": [
+{
+"level": 55,
+"zone": "Foundation",
+"x": 13.4,
+"y": 11.1,
+"npc": "Estinien"
+}
+],
+"The Song Begins": [
+{
+"level": 55,
+"zone": "The Churning Mists",
+"x": 33.6,
+"y": 15.5,
+"npc": "Estinien"
+}
+],
+"Unrest in Ishgard": [
+{
+"level": 56,
+"zone": "The Churning Mists",
+"x": 7.5,
+"y": 26.8,
+"npc": "Estinien"
+}
+],
+"He Who Would Not Be Denied": [
+{
+"level": 56,
+"zone": "Foundation",
+"x": 8.0,
+"y": 8.9,
+"npc": "Haurchefant"
+}
+],
+"Ill-weather Friends": [
+{
+"level": 56,
+"zone": "Fortemps Manor",
+"x": 6.1,
+"y": 6.3,
+"npc": "Alphinaud"
+}
+],
+"Fire and Blood": [
+{
+"level": 57,
+"zone": "Foundation",
+"x": 13.3,
+"y": 11.8,
+"npc": "Alphinaud"
+}
+],
+"A Knight's Calling": [
+{
+"level": 57,
+"zone": "Foundation",
+"x": 13.0,
+"y": 11.5,
+"npc": "Hilda"
+}
+],
+"The Sins of Antiquity": [
+{
+"level": 57,
+"zone": "The Pillars",
+"x": 11.5,
+"y": 11.2,
+"npc": "Alphinaud"
+}
+],
+"In Search of the Soleil": [
+{
+"level": 57,
+"zone": "Foundation",
+"x": 13.5,
+"y": 11.2,
+"npc": "Lucia"
+}
+],
+"Into the Blue": [
+{
+"level": 57,
+"zone": "Foundation",
+"x": 8.1,
+"y": 10.2,
+"npc": "Alphinaud"
+}
+],
+"Familiar Faces": [
+{
+"level": 57,
+"zone": "The Sea of Clouds",
+"x": 6.5,
+"y": 25.7,
+"npc": "Alphinaud"
+}
+],
+"Devourer of Worlds": [
+{
+"level": 57,
+"zone": "The Sea of Clouds",
+"x": 7.5,
+"y": 23.0,
+"npc": "Lonu Vanu"
+}
+],
+"Black and the White": [
+{
+"level": 57,
+"zone": "The Sea of Clouds",
+"x": 11.7,
+"y": 14.9,
+"npc": "Alphinaud"
+}
+],
+"Bolt, Chain, and Island": [
+{
+"level": 57,
+"zone": "The Sea of Clouds",
+"x": 10.9,
+"y": 13.6,
+"npc": "Alphinaud"
+}
+],
+"A Difference of Opinion": [
+{
+"level": 57,
+"zone": "The Sea of Clouds",
+"x": 19.4,
+"y": 11.7,
+"npc": "Alphinaud"
+}
+],
+"One Good Turn": [
+{
+"level": 57,
+"zone": "The Sea of Clouds",
+"x": 19.5,
+"y": 11.7,
+"npc": "Cid"
+}
+],
+"An Engineering Enterprise": [
+{
+"level": 57,
+"zone": "The Pillars",
+"x": 14.5,
+"y": 12.0,
+"npc": "Alphinaud"
+}
+],
+"Aetherial Trail": [
+{
+"level": 57,
+"zone": "Foundation",
+"x": 13.1,
+"y": 11.9,
+"npc": "Tataru"
+}
+],
+"Lost in the Lifestream": [
+{
+"level": 57,
+"zone": "Old Gridania",
+"x": 8.1,
+"y": 10.8,
+"npc": "Alphinaud"
+}
+],
+"Tataru's Surprise": [
+{
+"level": 57,
+"zone": "New Gridania",
+"x": 12.0,
+"y": 13.2,
+"npc": "Tataru"
+}
+],
+"Onward to Sharlayan": [
+{
+"level": 57,
+"zone": "New Gridania",
+"x": 12.0,
+"y": 13.2,
+"npc": "Y'shtola"
+}
+],
+"A Great New Nation": [
+{
+"level": 58,
+"zone": "The Dravanian Forelands",
+"x": 34.3,
+"y": 24.0,
+"npc": "Y'shtola"
+}
+],
+"Golems Begone": [
+{
+"level": 58,
+"zone": "Idyllshire",
+"x": 7.6,
+"y": 6.6,
+"npc": "Slowfix"
+}
+],
+"An Illuminati Incident": [
+{
+"level": 58,
+"zone": "Idyllshire",
+"x": 7.6,
+"y": 6.6,
+"npc": "Slowfix"
+}
+],
+"Leaving Idyllshire": [
+{
+"level": 58,
+"zone": "Idyllshire",
+"x": 7.6,
+"y": 6.6,
+"npc": "Slowfix"
+}
+],
+"Matoya's Cave": [
+{
+"level": 59,
+"zone": "Idyllshire",
+"x": 7.7,
+"y": 8.7,
+"npc": "Y'shtola"
+}
+],
+"Forbidden Knowledge": [
+{
+"level": 59,
+"zone": "Matoya's Cave",
+"x": 6.5,
+"y": 6.4,
+"npc": "Matoya"
+}
+],
+"An Eye for Aether": [
+{
+"level": 59,
+"zone": "Matoya's Cave",
+"x": 6.5,
+"y": 6.4,
+"npc": "Matoya"
+}
+],
+"Hour of Departure": [
+{
+"level": 59,
+"zone": "The Pillars",
+"x": 14.6,
+"y": 12.3,
+"npc": "Alphinaud"
+}
+],
+"The First Flight of the Excelsior": [
+{
+"level": 59,
+"zone": "The Pillars",
+"x": 14.6,
+"y": 12.3,
+"npc": "Alphinaud"
+}
+],
+"Systematic Exploration": [
+{
+"level": 59,
+"zone": "Azys Lla",
+"x": 9.6,
+"y": 11.3,
+"npc": "Cid"
+}
+],
+"In Node We Trust": [
+{
+"level": 59,
+"zone": "Azys Lla",
+"x": 9.8,
+"y": 11.0,
+"npc": "guidance node"
+}
+],
+"Chimerical Maintenance": [
+{
+"level": 59,
+"zone": "Azys Lla",
+"x": 27.3,
+"y": 10.2,
+"npc": "guidance node"
+}
+],
+"Close Encounters of the VIth Kind": [
+{
+"level": 59,
+"zone": "Azys Lla",
+"x": 35.3,
+"y": 24.1,
+"npc": "guidance node"
+}
+],
+"Fetters of Lament": [
+{
+"level": 59,
+"zone": "Azys Lla",
+"x": 18.6,
+"y": 31.7,
+"npc": "guidance node"
+}
+],
+"Heavensward": [
+{
+"level": 60,
+"zone": "Azys Lla",
+"x": 16.2,
+"y": 22.5,
+"npc": "guidance node"
+}
+],
+"The Spice of Life": [
+{
+"level": 56,
+"zone": "Foundation",
+"x": 13.2,
+"y": 12.3,
+"npc": "Alphinaud"
+}
+],
+"Noble Indiscretions": [
+{
+"level": 56,
+"zone": "Foundation",
+"x": 13.0,
+"y": 11.9,
+"npc": "Gibrillont"
+}
+],
+"A Child Apart": [
+{
+"level": 56,
+"zone": "Foundation",
+"x": 13.0,
+"y": 11.9,
+"npc": "Gibrillont"
+}
+],
+"Bloodlines": [
+{
+"level": 56,
+"zone": "Foundation",
+"x": 13.0,
+"y": 11.9,
+"npc": "Gibrillont"
+}
+],
+"An Uncertain Future": [
+{
+"level": 60,
+"zone": "Fortemps Manor",
+"x": 6.1,
+"y": 6.2,
+"npc": "Alphinaud"
+}
+],
+"Breaking the Cycle": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 13.5,
+"y": 11.2,
+"npc": "Alphinaud"
+}
+],
+"Another Time, Another Place": [
+{
+"level": 60,
+"zone": "The Dravanian Forelands",
+"x": 16.6,
+"y": 23.3,
+"npc": "Alphinaud"
+}
+],
+"In the Eye of the Beholder": [
+{
+"level": 60,
+"zone": "The Dravanian Hinterlands",
+"x": 13.0,
+"y": 36.6,
+"npc": "Krile"
+}
+],
+"A Little Slow, a Little Late": [
+{
+"level": 60,
+"zone": "The Dravanian Forelands",
+"x": 26.4,
+"y": 17.9,
+"npc": "Alphinaud"
+}
+],
+"Dreams of the Lost": [
+{
+"level": 60,
+"zone": "The Dravanian Forelands",
+"x": 27.0,
+"y": 32.7,
+"npc": "Alphinaud"
+}
+],
+"Against the Dying of the Light": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 13.8,
+"y": 11.1,
+"npc": "Lucia"
+}
+],
+"As Goes Light, So Goes Darkness": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 13.8,
+"y": 11.1,
+"npc": "Lucia"
+}
+],
+"As It Once Was": [
+{
+"level": 60,
+"zone": "The Pillars",
+"x": 11.6,
+"y": 11.2,
+"npc": "Tataru"
+}
+],
+"The Word of the Mother": [
+{
+"level": 60,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"This War of Ours": [
+{
+"level": 60,
+"zone": "Matoya's Cave",
+"x": 6.5,
+"y": 6.3,
+"npc": "Alphinaud"
+}
+],
+"Staunch Conviction": [
+{
+"level": 60,
+"zone": "Coerthas Western Highlands",
+"x": 32.2,
+"y": 38.5,
+"npc": "Lucia"
+}
+],
+"Once More, a Favor": [
+{
+"level": 60,
+"zone": "Coerthas Western Highlands",
+"x": 32.9,
+"y": 37.9,
+"npc": "Emmanellain"
+}
+],
+"For Those We Have Lost": [
+{
+"level": 60,
+"zone": "Coerthas Western Highlands",
+"x": 32.9,
+"y": 37.9,
+"npc": "Emmanellain"
+}
+],
+"Consequences": [
+{
+"level": 60,
+"zone": "Coerthas Western Highlands",
+"x": 30.9,
+"y": 37.7,
+"npc": "Thancred"
+}
+],
+"Choices": [
+{
+"level": 60,
+"zone": "Coerthas Western Highlands",
+"x": 32.7,
+"y": 38.0,
+"npc": "Thancred"
+}
+],
+"A Spectacle for the Ages": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 13.5,
+"y": 11.2,
+"npc": "Lucia"
+}
+],
+"For Those We Can Yet Save": [
+{
+"level": 60,
+"zone": "Coerthas Central Highlands",
+"x": 18.7,
+"y": 15.3,
+"npc": "Aymeric"
+}
+],
+"Causes and Costs": [
+{
+"level": 60,
+"zone": "Coerthas Western Highlands",
+"x": 32.6,
+"y": 37.8,
+"npc": "Alphinaud"
+}
+],
+"The Man Within": [
+{
+"level": 60,
+"zone": "The Pillars",
+"x": 11.6,
+"y": 11.2,
+"npc": "House Fortemps knight"
+}
+],
+"An Ally for Ishgard": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 13.4,
+"y": 11.2,
+"npc": "Alphinaud"
+}
+],
+"Winning Over the Wyrm": [
+{
+"level": 60,
+"zone": "The Dravanian Forelands",
+"x": 16.7,
+"y": 23.3,
+"npc": "Alphinaud"
+}
+],
+"An End to the Song": [
+{
+"level": 60,
+"zone": "The Churning Mists",
+"x": 7.5,
+"y": 26.8,
+"npc": "Aymeric"
+}
+],
+"Heroes of the Hour": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 11.4,
+"y": 13.3,
+"npc": "Alphinaud"
+}
+],
+"Litany of Peace": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 13.7,
+"y": 11.3,
+"npc": "Aymeric"
+}
+],
+"Promises Kept": [
+{
+"level": 60,
+"zone": "The Pillars",
+"x": 11.6,
+"y": 11.2,
+"npc": "House Fortemps knight"
+}
+],
+"Shadows of the First": [
+{
+"level": 60,
+"zone": "Fortemps Manor",
+"x": 6.2,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"Two Sides of a Coin": [
+{
+"level": 60,
+"zone": "Coerthas Central Highlands",
+"x": 33.6,
+"y": 15.3,
+"npc": "Alphinaud"
+}
+],
+"Unlikely Allies": [
+{
+"level": 60,
+"zone": "Outer La Noscea",
+"x": 18.7,
+"y": 17.3,
+"npc": "Bloeidin"
+}
+],
+"The Beast That Mourned at the Heart of the Mountain": [
+{
+"level": 60,
+"zone": "Outer La Noscea",
+"x": 20.7,
+"y": 17.0,
+"npc": "Ga Bu"
+}
+],
+"Beneath a Star-filled Sky": [
+{
+"level": 60,
+"zone": "Outer La Noscea",
+"x": 20.5,
+"y": 16.8,
+"npc": "Alphinaud"
+}
+],
+"When We Were Free": [
+{
+"level": 60,
+"zone": "Southern Thanalan",
+"x": 18.1,
+"y": 13.5,
+"npc": "Alphinaud"
+}
+],
+"Honorable Heroes": [
+{
+"level": 60,
+"zone": "Southern Thanalan",
+"x": 25.1,
+"y": 12.7,
+"npc": "Papalymo"
+}
+],
+"One Life for One World": [
+{
+"level": 60,
+"zone": "Southern Thanalan",
+"x": 19.4,
+"y": 11.9,
+"npc": "Alphinaud"
+}
+],
+"An Ending to Mark a New Beginning": [
+{
+"level": 60,
+"zone": "Southern Thanalan",
+"x": 21.5,
+"y": 21.4,
+"npc": "Alphinaud"
+}
+],
+"Tidings from Gyr Abania": [
+{
+"level": 60,
+"zone": "The Rising Stones",
+"x": 6.7,
+"y": 6.1,
+"npc": "Tataru"
+}
+],
+"An Envoy for Ishgard": [
+{
+"level": 60,
+"zone": "Foundation",
+"x": 13.8,
+"y": 11.1,
+"npc": "Lucia"
+}
+],
+"An Allied Decision": [
+{
+"level": 60,
+"zone": "New Gridania",
+"x": 11.4,
+"y": 11.5,
+"npc": "Aymeric"
+}
+],
+"Griffin, Griffin on the Wall": [
+{
+"level": 60,
+"zone": "Mor Dhona",
+"x": 22.2,
+"y": 8.4,
+"npc": "Alisaie"
+}
+],
+"Louisoix's Finest Student": [
+{
+"level": 60,
+"zone": "East Shroud",
+"x": 22.2,
+"y": 31.2,
+"npc": "Alphinaud"
+}
+],
+"The Obvious Solution": [
+{
+"level": 60,
+"zone": "The Rising Stones",
+"x": 6.0,
+"y": 6.0,
+"npc": "Alisaie"
+}
+],
+"The Greater Obeisance": [
+{
+"level": 60,
+"zone": "Old Gridania",
+"x": 8.2,
+"y": 10.9,
+"npc": "Alphinaud"
+}
+],
+"Fly Free, My Pretty": [
+{
+"level": 60,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.1,
+"npc": "Yda"
+}
+],
+"The Far Edge of Fate": [
+{
+"level": 60,
+"zone": "New Gridania",
+"x": 12.1,
+"y": 13.1,
+"npc": "Alphinaud"
+}
+],
+"Beyond the Great Wall": [
+{
+"level": 60,
+"zone": "The Rising Stones",
+"x": 6.0,
+"y": 6.0,
+"npc": "Alphinaud"
+}
+],
+"Lyse Takes the Lead": [
+{
+"level": 60,
+"zone": "The Fringes",
+"x": 9.2,
+"y": 11.4,
+"npc": "Lyse"
+}
+],
+"The Promise of a New Beginning": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 10.6,
+"y": 13.8,
+"npc": "Conrad"
+}
+],
+"A Haven for the Bold": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 14.6,
+"y": 9.4,
+"npc": "Alphinaud"
+}
+],
+"A Bargain Struck": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 12.5,
+"y": 11.2,
+"npc": "Alisaie"
+}
+],
+"A Friend of a Friend in Need": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 14.7,
+"y": 9.4,
+"npc": "M'naago"
+}
+],
+"Signed, Sealed, to Be Delivered": [
+{
+"level": 60,
+"zone": "The Fringes",
+"x": 19.6,
+"y": 10.5,
+"npc": "M'naago"
+}
+],
+"Best Served with Cold Steel": [
+{
+"level": 60,
+"zone": "The Fringes",
+"x": 9.4,
+"y": 11.4,
+"npc": "Raubahn"
+}
+],
+"Let Fill Your Hearts with Pride": [
+{
+"level": 60,
+"zone": "The Fringes",
+"x": 11.3,
+"y": 15.7,
+"npc": "M'naago"
+}
+],
+"A Familiar Face Forgotten": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 14.7,
+"y": 9.4,
+"npc": "Meffrid"
+}
+],
+"The Prodigal Daughter": [
+{
+"level": 60,
+"zone": "The Peaks",
+"x": 22.2,
+"y": 6.6,
+"npc": "Meffrid"
+}
+],
+"A Life More Ordinary": [
+{
+"level": 60,
+"zone": "The Peaks",
+"x": 23.4,
+"y": 6.3,
+"npc": "Meffrid"
+}
+],
+"The Color of Angry Qiqirn": [
+{
+"level": 60,
+"zone": "The Peaks",
+"x": 23.2,
+"y": 7.1,
+"npc": "Meffrid"
+}
+],
+"The Black Wolf's Pups": [
+{
+"level": 60,
+"zone": "The Peaks",
+"x": 15.8,
+"y": 15.7,
+"npc": "Lyse"
+}
+],
+"Homeward Bound": [
+{
+"level": 60,
+"zone": "The Peaks",
+"x": 18.7,
+"y": 13.5,
+"npc": "Meffrid"
+}
+],
+"Where Men Go as One": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 14.7,
+"y": 9.4,
+"npc": "Conrad"
+}
+],
+"Crossing the Velodyna": [
+{
+"level": 61,
+"zone": "Rhalgr's Reach",
+"x": 14.6,
+"y": 9.4,
+"npc": "Alphinaud"
+}
+],
+"In Crimson It Began": [
+{
+"level": 61,
+"zone": "The Fringes",
+"x": 9.4,
+"y": 11.4,
+"npc": "Pipin"
+}
+],
+"The Fires Fade": [
+{
+"level": 61,
+"zone": "Rhalgr's Reach",
+"x": 12.7,
+"y": 9.7,
+"npc": "Raubahn"
+}
+],
+"Bereft of Hearth and Home": [
+{
+"level": 61,
+"zone": "Rhalgr's Reach",
+"x": 8.5,
+"y": 9.6,
+"npc": "Pipin"
+}
+],
+"Divide and Conquer": [
+{
+"level": 61,
+"zone": "Rhalgr's Reach",
+"x": 9.4,
+"y": 10.9,
+"npc": "Conrad"
+}
+],
+"Lies, Damn Lies, and Pirates": [
+{
+"level": 61,
+"zone": "The Fringes",
+"x": 9.3,
+"y": 11.5,
+"npc": "Alisaie"
+}
+],
+"Tales from the Far East": [
+{
+"level": 61,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 11.5,
+"y": 10.5,
+"npc": "Alphinaud"
+}
+],
+"Not without Incident": [
+{
+"level": 61,
+"zone": "Mor Dhona",
+"x": 22.3,
+"y": 8.5,
+"npc": "Lyse"
+}
+],
+"The Man from Ul'dah": [
+{
+"level": 61,
+"zone": "Kugane",
+"x": 8.8,
+"y": 10.1,
+"npc": "Alphinaud"
+}
+],
+"Where the Streets Are Paved with Koban": [
+{
+"level": 61,
+"zone": "Kugane",
+"x": 11.6,
+"y": 10.4,
+"npc": "Hancock"
+}
+],
+"By the Grace of Lord Lolorito": [
+{
+"level": 61,
+"zone": "Kugane",
+"x": 13.2,
+"y": 14.3,
+"npc": "Hancock"
+}
+],
+"A Good Samurai Is Hard to Find": [
+{
+"level": 61,
+"zone": "Ruby Bazaar Offices",
+"x": 6.2,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"It's Probably a Trap": [
+{
+"level": 61,
+"zone": "Kugane",
+"x": 10.6,
+"y": 9.9,
+"npc": "Lyse"
+}
+],
+"Making the Catfish Sing": [
+{
+"level": 61,
+"zone": "Kugane",
+"x": 14.2,
+"y": 13.1,
+"npc": "Lyse"
+}
+],
+"Once More, to the Ruby Sea": [
+{
+"level": 62,
+"zone": "Kugane",
+"x": 13.8,
+"y": 9.3,
+"npc": "Gosetsu"
+}
+],
+"Open Water": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 38.6,
+"y": 38.5,
+"npc": "Soroban"
+}
+],
+"Boys with Boats": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 30.8,
+"y": 37.3,
+"npc": "Tansui"
+}
+],
+"To Bend with the Wind": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 29.6,
+"y": 36.6,
+"npc": "Soroban"
+}
+],
+"Confederate Consternation": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 20.3,
+"y": 9.5,
+"npc": "Alisaie"
+}
+],
+"Alisaie's Stones": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 22.1,
+"y": 9.4,
+"npc": "Hirase"
+}
+],
+"Under the Sea": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 23.1,
+"y": 8.1,
+"npc": "Rasho"
+}
+],
+"Of Kojin and Kami": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 29.9,
+"y": 17.1,
+"npc": "Soroban"
+}
+],
+"In Soroban We Trust": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 29.9,
+"y": 17.1,
+"npc": "Soroban"
+}
+],
+"Forever and Ever Apart": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 21.9,
+"y": 18.6,
+"npc": "Lyse"
+}
+],
+"In Darkness the Magatama Dreams": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 21.9,
+"y": 18.6,
+"npc": "Alisaie"
+}
+],
+"The Whims of the Divine": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 16.9,
+"y": 25.2,
+"npc": "Alisaie"
+}
+],
+"Breaking and Delivering": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 28.0,
+"y": 16.5,
+"npc": "Alisaie"
+}
+],
+"The Lord of the Revel": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 5.5,
+"y": 24.5,
+"npc": "Alisaie"
+}
+],
+"Tide Goes in, Imperials Go Out": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 6.2,
+"y": 12.4,
+"npc": "Lyse"
+}
+],
+"A Silence in Three Parts": [
+{
+"level": 63,
+"zone": "The Ruby Sea",
+"x": 6.2,
+"y": 12.3,
+"npc": "Gosetsu"
+}
+],
+"Life after Doma": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 32.1,
+"y": 18.4,
+"npc": "Gosetsu"
+}
+],
+"The Stubborn Remainder": [
+{
+"level": 64,
+"zone": "The House of the Fierce",
+"x": 5.1,
+"y": 5.9,
+"npc": "Yugiri"
+}
+],
+"The Ones We Leave Behind": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 31.2,
+"y": 19.2,
+"npc": "Yugiri"
+}
+],
+"A New Ruby Tithe": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 29.5,
+"y": 19.6,
+"npc": "Yugiri"
+}
+],
+"The Will to Live": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 29.6,
+"y": 34.0,
+"npc": "Yugiri"
+}
+],
+"Daughter of the Deep": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 30.6,
+"y": 36.7,
+"npc": "Yugiri"
+}
+],
+"The Time between the Seconds": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 12.2,
+"y": 32.2,
+"npc": "Yugiri"
+}
+],
+"All the Little Angels": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 31.3,
+"y": 29.0,
+"npc": "Isse"
+}
+],
+"The Search for Lord Hien": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 32.7,
+"y": 29.7,
+"npc": "Yugiri"
+}
+],
+"A Season for War": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 32.9,
+"y": 27.8,
+"npc": "Cirina"
+}
+],
+"An Impossible Dream": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 32.9,
+"y": 27.8,
+"npc": "Cirina"
+}
+],
+"Stars in the Dark": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 33.4,
+"y": 29.1,
+"npc": "Hien"
+}
+],
+"A Warrior's Welcome": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 31.2,
+"y": 12.1,
+"npc": "Cirina"
+}
+],
+"The Heart of Nations": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 31.2,
+"y": 12.1,
+"npc": "Cirina"
+}
+],
+"A Trial Before the Trial": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 31.2,
+"y": 12.0,
+"npc": "Hien"
+}
+],
+"In the Footsteps of Bardam the Brave": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 11.3,
+"y": 11.2,
+"npc": "Hien"
+}
+],
+"The Children of Azim": [
+{
+"level": 65,
+"zone": "The Azim Steppe",
+"x": 11.3,
+"y": 11.5,
+"npc": "Lyse"
+}
+],
+"The Labors of Magnai": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 20.9,
+"y": 22.9,
+"npc": "Baatu"
+}
+],
+"For Love of the Moon": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 20.9,
+"y": 22.7,
+"npc": "Hien"
+}
+],
+"Sworn Enemies of the Sun": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 20.7,
+"y": 22.8,
+"npc": "Magnai"
+}
+],
+"The Undying Ones": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 15.7,
+"y": 33.5,
+"npc": "Gosetsu"
+}
+],
+"A Final Peace": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 13.5,
+"y": 33.5,
+"npc": "Gosetsu"
+}
+],
+"As the Gods Will": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 7.4,
+"y": 33.8,
+"npc": "Gosetsu"
+}
+],
+"Naadam": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 31.5,
+"y": 11.3,
+"npc": "Cirina"
+}
+],
+"Glory to the Khagan": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 31.2,
+"y": 12.2,
+"npc": "Hien"
+}
+],
+"In Crimson They Walked": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 31.4,
+"y": 11.3,
+"npc": "Hien"
+}
+],
+"The Hour of Reckoning": [
+{
+"level": 66,
+"zone": "The Azim Steppe",
+"x": 18.1,
+"y": 37.9,
+"npc": "Hien"
+}
+],
+"The Room Where It Happened": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 25.0,
+"y": 13.1,
+"npc": "Alphinaud"
+}
+],
+"Seeds of Despair": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 25.0,
+"y": 13.1,
+"npc": "Alphinaud"
+}
+],
+"The Limits of Our Endurance": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 26.2,
+"y": 13.8,
+"npc": "Alisaie"
+}
+],
+"The Doma Within": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 28.2,
+"y": 25.6,
+"npc": "Lyse"
+}
+],
+"On the Eve of Destiny": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 15.7,
+"y": 9.2,
+"npc": "Hien"
+}
+],
+"The Die Is Cast": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 25.0,
+"y": 12.8,
+"npc": "Hien"
+}
+],
+"The World Turned Upside Down": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 13.7,
+"y": 12.4,
+"npc": "Alphinaud"
+}
+],
+"A Swift and Secret Departure": [
+{
+"level": 67,
+"zone": "Kugane",
+"x": 7.8,
+"y": 12.4,
+"npc": "Alphinaud"
+}
+],
+"While You Were Away": [
+{
+"level": 67,
+"zone": "Limsa Lominsa Lower Decks",
+"x": 4.1,
+"y": 12.0,
+"npc": "Alphinaud"
+}
+],
+"Rhalgr's Beacon": [
+{
+"level": 67,
+"zone": "The Fringes",
+"x": 9.4,
+"y": 11.4,
+"npc": "Raubahn"
+}
+],
+"The Fortunes of War": [
+{
+"level": 67,
+"zone": "The Fringes",
+"x": 19.7,
+"y": 25.2,
+"npc": "Conrad"
+}
+],
+"Rising Fortunes, Rising Spirits": [
+{
+"level": 67,
+"zone": "The Fringes",
+"x": 19.7,
+"y": 25.2,
+"npc": "Conrad"
+}
+],
+"The Lure of the Dream": [
+{
+"level": 67,
+"zone": "The Fringes",
+"x": 30.5,
+"y": 26.2,
+"npc": "Alphinaud"
+}
+],
+"The Lady of Bliss": [
+{
+"level": 67,
+"zone": "The Fringes",
+"x": 28.2,
+"y": 19.5,
+"npc": "Vajra"
+}
+],
+"The Silence of the Gods": [
+{
+"level": 67,
+"zone": "The Fringes",
+"x": 31.7,
+"y": 16.7,
+"npc": "Vajra"
+}
+],
+"The First of Many": [
+{
+"level": 68,
+"zone": "The Fringes",
+"x": 30.0,
+"y": 25.9,
+"npc": "Alphinaud"
+}
+],
+"Strong and Unified": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 15.8,
+"y": 35.4,
+"npc": "M'naago"
+}
+],
+"Hells Open": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 15.5,
+"y": 36.8,
+"npc": "Alisaie"
+}
+],
+"Heavens Weep": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 14.6,
+"y": 24.5,
+"npc": "Alisaie"
+}
+],
+"The Road Home": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 21.7,
+"y": 23.8,
+"npc": "Alphinaud"
+}
+],
+"For the Living and the Dead": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 15.8,
+"y": 35.4,
+"npc": "Alphinaud"
+}
+],
+"Above the Churning Waters": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 15.5,
+"y": 36.8,
+"npc": "Lyse"
+}
+],
+"The Path Forward": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 19.2,
+"y": 34.6,
+"npc": "Lyse"
+}
+],
+"With Tired Hands We Toil": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 15.5,
+"y": 36.8,
+"npc": "Alphinaud"
+}
+],
+"Where Courage Endures": [
+{
+"level": 68,
+"zone": "The Peaks",
+"x": 28.6,
+"y": 27.0,
+"npc": "Lyse"
+}
+],
+"The Price of Freedom": [
+{
+"level": 69,
+"zone": "The Peaks",
+"x": 26.6,
+"y": 29.9,
+"npc": "Alphinaud"
+}
+],
+"Raubahn's Invitation": [
+{
+"level": 69,
+"zone": "The Peaks",
+"x": 32.9,
+"y": 30.2,
+"npc": "Raubahn"
+}
+],
+"Liberty or Death": [
+{
+"level": 69,
+"zone": "The Peaks",
+"x": 26.7,
+"y": 36.4,
+"npc": "Raubahn"
+}
+],
+"The Lady in Red": [
+{
+"level": 69,
+"zone": "The Peaks",
+"x": 27.8,
+"y": 29.1,
+"npc": "Lyse"
+}
+],
+"Upon the Great Loch's Shore": [
+{
+"level": 69,
+"zone": "Rhalgr's Reach",
+"x": 10.2,
+"y": 10.7,
+"npc": "Lyse"
+}
+],
+"The Key to Victory": [
+{
+"level": 69,
+"zone": "The Lochs",
+"x": 8.5,
+"y": 21.4,
+"npc": "Alphinaud"
+}
+],
+"The Resonant": [
+{
+"level": 69,
+"zone": "The Lochs",
+"x": 22.8,
+"y": 36.8,
+"npc": "Lyse"
+}
+],
+"The Legacy of Our Fathers": [
+{
+"level": 69,
+"zone": "The Lochs",
+"x": 36.7,
+"y": 30.4,
+"npc": "Alphinaud"
+}
+],
+"The Measure of His Reach": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 8.0,
+"y": 21.8,
+"npc": "Raubahn"
+}
+],
+"Stormblood": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 32.7,
+"y": 22.9,
+"npc": "Pipin"
+}
+],
+"Here There Be Xaela": [
+{
+"level": 65,
+"zone": "Yanxia",
+"x": 30.4,
+"y": 20.0,
+"npc": "Yugiri"
+}
+],
+"Future Rust, Future Dust": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 14.3,
+"y": 8.9,
+"npc": "Beves"
+}
+],
+"A Dash of Green": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 12.8,
+"y": 11.0,
+"npc": "Ahelissa"
+}
+],
+"Ye Wayward Brothers": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 10.4,
+"y": 10.9,
+"npc": "Ananta battlemaid"
+}
+],
+"Token of Faith": [
+{
+"level": 60,
+"zone": "Rhalgr's Reach",
+"x": 11.7,
+"y": 11.3,
+"npc": "swarthy Resistance fighter"
+}
+],
+"The Last Voyage": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 23.7,
+"y": 10.0,
+"npc": "Aranami"
+}
+],
+"The Solace of the Sea": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 23.2,
+"y": 7.1,
+"npc": "Afumi"
+}
+],
+"A Glimpse of Madness": [
+{
+"level": 64,
+"zone": "Yanxia",
+"x": 27.0,
+"y": 13.9,
+"npc": "Liberation Front guard"
+}
+],
+"Path of No Return": [
+{
+"level": 64,
+"zone": "The House of the Fierce",
+"x": 5.1,
+"y": 5.6,
+"npc": "Gosetsu"
+}
+],
+"How Tataru Got Her Groove Back": [
+{
+"level": 67,
+"zone": "Ruby Bazaar Offices",
+"x": 6.1,
+"y": 6.1,
+"npc": "Tataru"
+}
+],
+"Broken Steel, Broken Men": [
+{
+"level": 67,
+"zone": "Yanxia",
+"x": 28.3,
+"y": 25.6,
+"npc": "Tsuranuki"
+}
+],
+"The Arrows of Misfortune": [
+{
+"level": 62,
+"zone": "The Ruby Sea",
+"x": 22.6,
+"y": 9.9,
+"npc": "Kajika"
+}
+],
+"Hard Country": [
+{
+"level": 60,
+"zone": "The Peaks",
+"x": 23.1,
+"y": 7.1,
+"npc": "Griseldis"
+}
+],
+"Death by a Thousand Rocks": [
+{
+"level": 60,
+"zone": "The Peaks",
+"x": 23.8,
+"y": 7.2,
+"npc": "Angry Coeurl"
+}
+],
+"Arenvald's Adventure": [
+{
+"level": 70,
+"zone": "Rhalgr's Reach",
+"x": 14.7,
+"y": 9.4,
+"npc": "Lyse"
+}
+],
+"The Darkness Below": [
+{
+"level": 70,
+"zone": "Rhalgr's Reach",
+"x": 12.2,
+"y": 12.4,
+"npc": "Alphinaud"
+}
+],
+"The Mad King's Trove": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 32.1,
+"y": 33.0,
+"npc": "Alphinaud"
+}
+],
+"The Butcher's Blood": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 32.2,
+"y": 33.0,
+"npc": "Arenvald"
+}
+],
+"Echoes of an Echo": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 37.0,
+"y": 34.3,
+"npc": "Lyse"
+}
+],
+"A Sultana's Strings": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 36.7,
+"y": 30.4,
+"npc": "Alphinaud"
+}
+],
+"A Sultana's Duty": [
+{
+"level": 70,
+"zone": "Ul'dah - Steps of Thal",
+"x": 9.1,
+"y": 11.2,
+"npc": "Nanamo Ul Namo"
+}
+],
+"A Sultana's Resolve": [
+{
+"level": 70,
+"zone": "The Gold Saucer",
+"x": 5.9,
+"y": 7.1,
+"npc": "Nanamo Ul Namo"
+}
+],
+"Securing the Saltery": [
+{
+"level": 70,
+"zone": "The Waking Sands",
+"x": 6.1,
+"y": 5.8,
+"npc": "Nanamo Ul Namo"
+}
+],
+"A Blissful Arrival": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 15.8,
+"y": 25.2,
+"npc": "Alphinaud"
+}
+],
+"Return of the Bull": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 28.3,
+"y": 23.0,
+"npc": "Raubahn"
+}
+],
+"Tidings from the East": [
+{
+"level": 70,
+"zone": "Rhalgr's Reach",
+"x": 14.7,
+"y": 9.4,
+"npc": "Lyse"
+}
+],
+"The Sword in the Store": [
+{
+"level": 70,
+"zone": "Kugane",
+"x": 11.0,
+"y": 7.0,
+"npc": "Alphinaud"
+}
+],
+"Hope on the Waves": [
+{
+"level": 70,
+"zone": "Kugane",
+"x": 11.3,
+"y": 9.7,
+"npc": "Yugiri"
+}
+],
+"Elation and Trepidation": [
+{
+"level": 70,
+"zone": "The Ruby Sea",
+"x": 5.7,
+"y": 15.8,
+"npc": "Yugiri"
+}
+],
+"Storm on the Horizon": [
+{
+"level": 70,
+"zone": "Yanxia",
+"x": 25.0,
+"y": 12.8,
+"npc": "Hien"
+}
+],
+"His Forgotten Home": [
+{
+"level": 70,
+"zone": "The Doman Enclave",
+"x": 6.7,
+"y": 7.2,
+"npc": "Alisaie"
+}
+],
+"A Guilty Conscience": [
+{
+"level": 70,
+"zone": "Yanxia",
+"x": 30.8,
+"y": 27.5,
+"npc": "Asahi"
+}
+],
+"Rise of a New Sun": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.1,
+"y": 6.1,
+"npc": "Hien"
+}
+],
+"Gosetsu and Tsuyu": [
+{
+"level": 70,
+"zone": "Ruby Bazaar Offices",
+"x": 6.1,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"Gone Like the Morning Dew": [
+{
+"level": 70,
+"zone": "The Doman Enclave",
+"x": 9.5,
+"y": 8.0,
+"npc": "Hien"
+}
+],
+"Fruits of Her Labor": [
+{
+"level": 70,
+"zone": "Yanxia",
+"x": 30.8,
+"y": 20.3,
+"npc": "Hien"
+}
+],
+"Conscripts and Contingencies": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.1,
+"y": 6.1,
+"npc": "Hien"
+}
+],
+"The Primary Agreement": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.1,
+"y": 6.1,
+"npc": "Hien"
+}
+],
+"Under the Moonlight": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.2,
+"y": 6.1,
+"npc": "Alisaie"
+}
+],
+"Emissary of the Dawn": [
+{
+"level": 70,
+"zone": "The Rising Stones",
+"x": 6.2,
+"y": 5.9,
+"npc": "Alisaie"
+}
+],
+"Sisterly Act": [
+{
+"level": 70,
+"zone": "The Rising Stones",
+"x": 6.2,
+"y": 5.9,
+"npc": "Alisaie"
+}
+],
+"Feel the Burn": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.1,
+"y": 6.1,
+"npc": "Hien"
+}
+],
+"Shadows in the Empire": [
+{
+"level": 70,
+"zone": "The Doman Enclave",
+"x": 8.9,
+"y": 8.6,
+"npc": "Hien"
+}
+],
+"A Power in Slumber": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.1,
+"y": 6.1,
+"npc": "Hien"
+}
+],
+"The Will of the Moon": [
+{
+"level": 70,
+"zone": "The Azim Steppe",
+"x": 31.5,
+"y": 11.4,
+"npc": "Y'shtola"
+}
+],
+"The Call": [
+{
+"level": 70,
+"zone": "The Azim Steppe",
+"x": 31.5,
+"y": 11.4,
+"npc": "Y'shtola"
+}
+],
+"Prelude in Violet": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 37.0,
+"y": 30.3,
+"npc": "Alisaie"
+}
+],
+"Soul Searching": [
+{
+"level": 70,
+"zone": "The Rising Stones",
+"x": 6.2,
+"y": 5.9,
+"npc": "Alisaie"
+}
+],
+"A Defector's Tidings": [
+{
+"level": 70,
+"zone": "The Dravanian Hinterlands",
+"x": 13.0,
+"y": 36.5,
+"npc": "Alisaie"
+}
+],
+"Seiryu's Wall": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.1,
+"y": 6.1,
+"npc": "Hien"
+}
+],
+"Parley on the Front Lines": [
+{
+"level": 70,
+"zone": "Kienkan",
+"x": 6.1,
+"y": 6.1,
+"npc": "Hien"
+}
+],
+"The Face of War": [
+{
+"level": 70,
+"zone": "Eorzean Alliance Headquarters",
+"x": 6.3,
+"y": 6.1,
+"npc": "Lyse"
+}
+],
+"A Brief Reprieve": [
+{
+"level": 70,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Hoary Boulder"
+}
+],
+"A Requiem for Heroes": [
+{
+"level": 70,
+"zone": "The Lochs",
+"x": 11.0,
+"y": 21.2,
+"npc": "Resistance fighter"
+}
+],
+"The Syrcus Trench": [
+{
+"level": 70,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Tataru"
+}
+],
+"City of the First": [
+{
+"level": 70,
+"zone": "The Crystarium",
+"x": 7.7,
+"y": 11.3,
+"npc": "Crystal Exarch"
+}
+],
+"Travelers of Norvrandt": [
+{
+"level": 70,
+"zone": "The Crystarium",
+"x": 12.5,
+"y": 11.3,
+"npc": "Crystal Exarch"
+}
+],
+"In Search of Alphinaud": [
+{
+"level": 70,
+"zone": "The Ocular",
+"x": 6.1,
+"y": 6.0,
+"npc": "Crystal Exarch"
+}
+],
+"A Still Tide": [
+{
+"level": 70,
+"zone": "Kholusia",
+"x": 37.6,
+"y": 26.6,
+"npc": "Szem Djenmai"
+}
+],
+"Open Arms, Closed Gate": [
+{
+"level": 70,
+"zone": "Kholusia",
+"x": 35.3,
+"y": 27.2,
+"npc": "Alphinaud"
+}
+],
+"A Fickle Existence": [
+{
+"level": 70,
+"zone": "Kholusia",
+"x": 24.8,
+"y": 35.1,
+"npc": "Alphinaud"
+}
+],
+"City of Final Pleasures": [
+{
+"level": 70,
+"zone": "Kholusia",
+"x": 14.9,
+"y": 29.3,
+"npc": "Alphinaud"
+}
+],
+"Free to Sightsee": [
+{
+"level": 70,
+"zone": "Eulmore",
+"x": 11.8,
+"y": 11.7,
+"npc": "Alphinaud"
+}
+],
+"A Taste of Honey": [
+{
+"level": 70,
+"zone": "Eulmore",
+"x": 10.8,
+"y": 10.9,
+"npc": "amiable maiden"
+}
+],
+"A Blessed Instrument": [
+{
+"level": 70,
+"zone": "Eulmore",
+"x": 11.8,
+"y": 11.7,
+"npc": "Alphinaud"
+}
+],
+"Emergent Splendor": [
+{
+"level": 70,
+"zone": "Eulmore",
+"x": 11.8,
+"y": 11.7,
+"npc": "Alphinaud"
+}
+],
+"In Search of Alisaie": [
+{
+"level": 70,
+"zone": "The Ocular",
+"x": 6.1,
+"y": 6.0,
+"npc": "Crystal Exarch"
+}
+],
+"City of the Mord": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 28.0,
+"y": 15.6,
+"npc": "Cassard"
+}
+],
+"Working Off the Meal": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 26.8,
+"y": 18.6,
+"npc": "Cassard"
+}
+],
+"A Desert Crossing": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 27.8,
+"y": 18.4,
+"npc": "Tesleen"
+}
+],
+"Following in Her Footprints": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 29.0,
+"y": 27.3,
+"npc": "Tesleen"
+}
+],
+"Culling Their Ranks": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 26.9,
+"y": 28.2,
+"npc": "Alisaie"
+}
+],
+"A Purchase of Fruit": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 29.0,
+"y": 27.3,
+"npc": "Tesleen"
+}
+],
+"The Time Left to Us": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 29.0,
+"y": 27.3,
+"npc": "Tesleen"
+}
+],
+"Tears on the Sand": [
+{
+"level": 70,
+"zone": "Amh Araeng",
+"x": 29.5,
+"y": 26.7,
+"npc": "Alisaie"
+}
+],
+"The Lightwardens": [
+{
+"level": 71,
+"zone": "The Ocular",
+"x": 6.1,
+"y": 6.0,
+"npc": "Crystal Exarch"
+}
+],
+"Warrior of Darkness": [
+{
+"level": 71,
+"zone": "Lakeland",
+"x": 35.2,
+"y": 7.3,
+"npc": "Crystal Exarch"
+}
+],
+"An Unwelcome Guest": [
+{
+"level": 72,
+"zone": "The Crystarium",
+"x": 12.6,
+"y": 16.3,
+"npc": "manager of suites"
+}
+],
+"The Crystarium's Resolve": [
+{
+"level": 72,
+"zone": "The Crystarium",
+"x": 9.9,
+"y": 7.1,
+"npc": "Crystal Exarch"
+}
+],
+"Logistics of War": [
+{
+"level": 72,
+"zone": "The Crystarium",
+"x": 8.5,
+"y": 9.8,
+"npc": "Szem Djenmai"
+}
+],
+"The Oracle of Light": [
+{
+"level": 72,
+"zone": "Lakeland",
+"x": 8.5,
+"y": 16.1,
+"npc": "Lyna"
+}
+],
+"Il Mheg, the Faerie Kingdom": [
+{
+"level": 72,
+"zone": "Il Mheg",
+"x": 8.8,
+"y": 35.5,
+"npc": "Thancred"
+}
+],
+"Sul Uin's Request": [
+{
+"level": 72,
+"zone": "Il Mheg",
+"x": 14.4,
+"y": 31.1,
+"npc": "Sul Uin"
+}
+],
+"Ys Iala's Errand": [
+{
+"level": 72,
+"zone": "Il Mheg",
+"x": 13.0,
+"y": 31.3,
+"npc": "Ys Iala"
+}
+],
+"Oul Sigun's Plea": [
+{
+"level": 72,
+"zone": "Il Mheg",
+"x": 15.7,
+"y": 30.6,
+"npc": "Oul Sigun"
+}
+],
+"Unto the Truth": [
+{
+"level": 72,
+"zone": "Il Mheg",
+"x": 13.4,
+"y": 30.3,
+"npc": "Thancred"
+}
+],
+"Courting Cooperation": [
+{
+"level": 72,
+"zone": "Il Mheg",
+"x": 8.6,
+"y": 17.0,
+"npc": "Urianger"
+}
+],
+"The Key to the Castle": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 14.4,
+"y": 31.1,
+"npc": "Sul Uin"
+}
+],
+"A Visit to the Nu Mou": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 15.5,
+"y": 25.1,
+"npc": "Urianger"
+}
+],
+"A Fitting Payment": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 18.6,
+"y": 4.5,
+"npc": "Wyd Aenc"
+}
+],
+"Spore Sweeper": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 19.8,
+"y": 4.2,
+"npc": "Ys Gyuf"
+}
+],
+"The Lawless Ones": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 19.5,
+"y": 4.7,
+"npc": "Wyd Lad"
+}
+],
+"The Elder's Answer": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 19.5,
+"y": 4.7,
+"npc": "Wyd Lad"
+}
+],
+"A Resounding Roar": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 30.6,
+"y": 7.3,
+"npc": "Urianger"
+}
+],
+"Memento of a Friend": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 30.6,
+"y": 7.6,
+"npc": "Seto"
+}
+],
+"Acht-la Ormh Inn": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 30.6,
+"y": 7.6,
+"npc": "Seto"
+}
+],
+"The Wheel Turns": [
+{
+"level": 73,
+"zone": "Il Mheg",
+"x": 14.0,
+"y": 31.0,
+"npc": "Thancred"
+}
+],
+"A Party Soon Divided": [
+{
+"level": 74,
+"zone": "The Crystarium",
+"x": 12.6,
+"y": 16.3,
+"npc": "manager of suites"
+}
+],
+"A Little Faith": [
+{
+"level": 74,
+"zone": "Lakeland",
+"x": 36.5,
+"y": 21.4,
+"npc": "Urianger"
+}
+],
+"Into the Dark": [
+{
+"level": 74,
+"zone": "Lakeland",
+"x": 35.5,
+"y": 19.6,
+"npc": "Urianger"
+}
+],
+"A Day in the Neighborhood": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 20.8,
+"y": 28.2,
+"npc": "Y'shtola"
+}
+],
+"A Helping Hand": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 19.1,
+"y": 29.2,
+"npc": "Runar"
+}
+],
+"Lost but Not Forgotten": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 19.7,
+"y": 27.5,
+"npc": "Runar"
+}
+],
+"Saying Good-bye": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 19.7,
+"y": 27.5,
+"npc": "Runar"
+}
+],
+"Stirring Up Trouble": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 20.8,
+"y": 28.2,
+"npc": "Y'shtola"
+}
+],
+"A Beeautiful Plan": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 16.8,
+"y": 20.1,
+"npc": "Y'shtola"
+}
+],
+"An Unwanted Proposal": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 11.0,
+"y": 20.8,
+"npc": "Y'shtola"
+}
+],
+"Put to the Proof": [
+{
+"level": 74,
+"zone": "The Rak'tika Greatwood",
+"x": 20.8,
+"y": 28.2,
+"npc": "Urianger"
+}
+],
+"Into the Wood": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 12.1,
+"y": 27.5,
+"npc": "Y'shtola"
+}
+],
+"Top of the Tree": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 30.6,
+"y": 20.4,
+"npc": "Cymet"
+}
+],
+"Look to the Stars": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 30.6,
+"y": 18.4,
+"npc": "Almet"
+}
+],
+"Mi Casa, Toupasa": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 25.0,
+"y": 10.8,
+"npc": "Almet"
+}
+],
+"Legend of the Not-so-hidden Temple": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 24.0,
+"y": 3.7,
+"npc": "Almet"
+}
+],
+"The Aftermath": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 24.8,
+"y": 10.8,
+"npc": "Almet"
+}
+],
+"In Good Faith": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 30.5,
+"y": 17.3,
+"npc": "Urianger"
+}
+],
+"The Burden of Knowledge": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 30.6,
+"y": 17.5,
+"npc": "Almet"
+}
+],
+"Bearing with It": [
+{
+"level": 75,
+"zone": "The Rak'tika Greatwood",
+"x": 38.5,
+"y": 13.6,
+"npc": "Y'shtola"
+}
+],
+"Out of the Wood": [
+{
+"level": 76,
+"zone": "The Rak'tika Greatwood",
+"x": 19.7,
+"y": 27.4,
+"npc": "Y'shtola"
+}
+],
+"When It Rains": [
+{
+"level": 76,
+"zone": "The Crystarium",
+"x": 12.6,
+"y": 16.3,
+"npc": "manager of suites"
+}
+],
+"Word from On High": [
+{
+"level": 76,
+"zone": "Lakeland",
+"x": 7.3,
+"y": 16.7,
+"npc": "Alisaie"
+}
+],
+"Small Favors": [
+{
+"level": 76,
+"zone": "Lakeland",
+"x": 6.9,
+"y": 18.6,
+"npc": "Lyna"
+}
+],
+"The Best Way Out": [
+{
+"level": 76,
+"zone": "The Crystarium",
+"x": 10.6,
+"y": 10.3,
+"npc": "Thancred"
+}
+],
+"Free Trade": [
+{
+"level": 76,
+"zone": "Amh Araeng",
+"x": 10.4,
+"y": 8.1,
+"npc": "Thancred"
+}
+],
+"The Trolley Problem": [
+{
+"level": 76,
+"zone": "Amh Araeng",
+"x": 13.4,
+"y": 9.7,
+"npc": "Zhun Zun"
+}
+],
+"Rust and Ruin": [
+{
+"level": 76,
+"zone": "Amh Araeng",
+"x": 23.3,
+"y": 9.6,
+"npc": "Thaffe"
+}
+],
+"On Track": [
+{
+"level": 76,
+"zone": "Amh Araeng",
+"x": 11.8,
+"y": 17.3,
+"npc": "Minfilia"
+},
+{
+"level": 95,
+"zone": "Shaaloani",
+"x": 28.5,
+"y": 30.5,
+"npc": "Erenville"
+}
+],
+"Down for Maintenance": [
+{
+"level": 76,
+"zone": "Amh Araeng",
+"x": 12.4,
+"y": 16.8,
+"npc": "Jeryk"
+}
+],
+"The Truth Hurts": [
+{
+"level": 76,
+"zone": "Amh Araeng",
+"x": 11.4,
+"y": 16.5,
+"npc": "Jeryk"
+}
+],
+"A Convenient Distraction": [
+{
+"level": 77,
+"zone": "Amh Araeng",
+"x": 12.2,
+"y": 17.4,
+"npc": "Thancred"
+}
+],
+"A Dirty Job": [
+{
+"level": 77,
+"zone": "Amh Araeng",
+"x": 9.6,
+"y": 22.3,
+"npc": "Guthjon"
+}
+],
+"Have a Heart": [
+{
+"level": 77,
+"zone": "Amh Araeng",
+"x": 14.6,
+"y": 23.0,
+"npc": "Guthjon"
+}
+],
+"Full Steam Ahead": [
+{
+"level": 77,
+"zone": "Amh Araeng",
+"x": 12.4,
+"y": 16.7,
+"npc": "Magnus"
+}
+],
+"Crossing Paths": [
+{
+"level": 77,
+"zone": "Amh Araeng",
+"x": 21.9,
+"y": 31.7,
+"npc": "Minfilia"
+}
+],
+"A Fresh Start": [
+{
+"level": 77,
+"zone": "Amh Araeng",
+"x": 15.9,
+"y": 29.2,
+"npc": "Ryne"
+}
+],
+"More than a Hunch": [
+{
+"level": 77,
+"zone": "Amh Araeng",
+"x": 12.9,
+"y": 30.8,
+"npc": "Ryne"
+}
+],
+"Return to Eulmore": [
+{
+"level": 77,
+"zone": "The Crystarium",
+"x": 12.6,
+"y": 16.3,
+"npc": "manager of suites"
+}
+],
+"A Feast of Lies": [
+{
+"level": 77,
+"zone": "Kholusia",
+"x": 24.8,
+"y": 32.8,
+"npc": "Urianger"
+}
+],
+"Paradise Fallen": [
+{
+"level": 77,
+"zone": "Eulmore",
+"x": 11.3,
+"y": 12.1,
+"npc": "Thancred"
+}
+],
+"The Ladder": [
+{
+"level": 78,
+"zone": "Eulmore",
+"x": 11.7,
+"y": 11.8,
+"npc": "Alphinaud"
+}
+],
+"The View from Above": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 12.4,
+"y": 23.1,
+"npc": "Urianger"
+}
+],
+"In Mt. Gulg's Shadow": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 19.0,
+"y": 17.7,
+"npc": "Alisaie"
+}
+],
+"A Gigantic Undertaking": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 12.6,
+"y": 20.4,
+"npc": "Alisaie"
+}
+],
+"Meet the Tholls": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 19.1,
+"y": 17.7,
+"npc": "Tristol"
+}
+],
+"A-Digging We Will Go": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 12.1,
+"y": 8.5,
+"npc": "Xamott"
+}
+],
+"The Duergar's Tewel": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 28.5,
+"y": 14.0,
+"npc": "Korutt"
+}
+],
+"Rich Veins of Hope": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 33.8,
+"y": 11.2,
+"npc": "Crystal Exarch"
+}
+],
+"That None Shall Ever Again": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 12.2,
+"y": 19.9,
+"npc": "Alphinaud"
+}
+],
+"A Breath of Respite": [
+{
+"level": 78,
+"zone": "Kholusia",
+"x": 18.7,
+"y": 17.7,
+"npc": "Chai-Nuzz"
+}
+],
+"Extinguishing the Last Light": [
+{
+"level": 79,
+"zone": "Kholusia",
+"x": 18.7,
+"y": 17.7,
+"npc": "Chai-Nuzz"
+}
+],
+"Reassuring the Masses": [
+{
+"level": 79,
+"zone": "The Crystarium",
+"x": 12.6,
+"y": 16.3,
+"npc": "manager of suites"
+}
+],
+"In His Garden": [
+{
+"level": 79,
+"zone": "The Crystarium",
+"x": 11.1,
+"y": 8.5,
+"npc": "Katliss"
+}
+],
+"The Unbroken Thread": [
+{
+"level": 79,
+"zone": "Lakeland",
+"x": 33.8,
+"y": 27.6,
+"npc": "Lyna"
+}
+],
+"To Storm-tossed Seas": [
+{
+"level": 79,
+"zone": "The Crystarium",
+"x": 12.4,
+"y": 8.0,
+"npc": "Urianger"
+}
+],
+"Waiting in the Depths": [
+{
+"level": 79,
+"zone": "The Tempest",
+"x": 27.1,
+"y": 4.5,
+"npc": "Thancred"
+}
+],
+"City of the Ancients": [
+{
+"level": 79,
+"zone": "The Tempest",
+"x": 33.1,
+"y": 16.9,
+"npc": "Y'shtola"
+}
+],
+"The Light of Inspiration": [
+{
+"level": 79,
+"zone": "The Tempest",
+"x": 22.1,
+"y": 11.0,
+"npc": "Y'shtola"
+}
+],
+"The Illuminated Land": [
+{
+"level": 80,
+"zone": "The Tempest",
+"x": 34.3,
+"y": 25.8,
+"npc": "Grenoldt"
+}
+],
+"The End of a World": [
+{
+"level": 80,
+"zone": "The Tempest",
+"x": 5.6,
+"y": 17.4,
+"npc": "Alisaie"
+}
+],
+"A Greater Purpose": [
+{
+"level": 80,
+"zone": "The Tempest",
+"x": 8.8,
+"y": 26.5,
+"npc": "Alphinaud"
+}
+],
+"Shadowbringers": [
+{
+"level": 80,
+"zone": "The Tempest",
+"x": 16.6,
+"y": 30.5,
+"npc": "Alisaie"
+}
+],
+"Shaken Resolve": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Tataru"
+}
+],
+"A Grand Adventure": [
+{
+"level": 80,
+"zone": "The Ocular",
+"x": 6.1,
+"y": 6.0,
+"npc": "Crystal Exarch"
+}
+],
+"A Welcome Guest": [
+{
+"level": 80,
+"zone": "Lakeland",
+"x": 19.2,
+"y": 34.6,
+"npc": "Alphinaud"
+}
+],
+"Good for the Soul": [
+{
+"level": 80,
+"zone": "Amh Araeng",
+"x": 28.8,
+"y": 27.6,
+"npc": "Beq Lugg"
+}
+],
+"Nowhere to Turn": [
+{
+"level": 80,
+"zone": "Amh Araeng",
+"x": 28.9,
+"y": 27.6,
+"npc": "Kai-Shirr"
+}
+],
+"A Notable Absence": [
+{
+"level": 80,
+"zone": "Eulmore",
+"x": 10.9,
+"y": 10.3,
+"npc": "Alphinaud"
+}
+],
+"For the People": [
+{
+"level": 80,
+"zone": "Eulmore",
+"x": 11.2,
+"y": 9.3,
+"npc": "Alphinaud"
+}
+],
+"Finding Good Help": [
+{
+"level": 80,
+"zone": "Kholusia",
+"x": 20.3,
+"y": 12.5,
+"npc": "Chai-Nuzz"
+}
+],
+"Moving Forward": [
+{
+"level": 80,
+"zone": "Kholusia",
+"x": 24.9,
+"y": 33.2,
+"npc": "Chai-Nuzz"
+}
+],
+"Vows of Virtue, Deeds of Cruelty": [
+{
+"level": 80,
+"zone": "Eulmore",
+"x": 11.8,
+"y": 11.7,
+"npc": "Alphinaud"
+}
+],
+"Old Enemies, New Threats": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.0,
+"npc": "Krile"
+}
+],
+"The Way Home": [
+{
+"level": 80,
+"zone": "The Lochs",
+"x": 36.3,
+"y": 31.8,
+"npc": "Krile"
+}
+],
+"Seeking Counsel": [
+{
+"level": 80,
+"zone": "The Ocular",
+"x": 6.1,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"Facing the Truth": [
+{
+"level": 80,
+"zone": "Lakeland",
+"x": 34.1,
+"y": 8.6,
+"npc": "Lyna"
+}
+],
+"A Sleep Disturbed": [
+{
+"level": 80,
+"zone": "The Ocular",
+"x": 6.1,
+"y": 6.0,
+"npc": "Crystal Exarch"
+}
+],
+"An Old Friend": [
+{
+"level": 80,
+"zone": "The Rak'tika Greatwood",
+"x": 30.5,
+"y": 18.3,
+"npc": "Y'shtola"
+}
+],
+"Deep Designs": [
+{
+"level": 80,
+"zone": "The Rak'tika Greatwood",
+"x": 8.7,
+"y": 21.9,
+"npc": "Y'shtola"
+}
+],
+"A Whale's Tale": [
+{
+"level": 80,
+"zone": "The Tempest",
+"x": 33.6,
+"y": 17.5,
+"npc": "Urianger"
+}
+],
+"Beneath the Surface": [
+{
+"level": 80,
+"zone": "Lakeland",
+"x": 26.2,
+"y": 32.6,
+"npc": "Urianger"
+}
+],
+"Echoes of a Fallen Star": [
+{
+"level": 80,
+"zone": "Kholusia",
+"x": 10.8,
+"y": 36.2,
+"npc": "Urianger"
+}
+],
+"In the Name of the Light": [
+{
+"level": 80,
+"zone": "The Crystarium",
+"x": 12.6,
+"y": 16.3,
+"npc": "manager of suites"
+}
+],
+"Heroic Dreams": [
+{
+"level": 80,
+"zone": "The Crystarium",
+"x": 10.7,
+"y": 10.2,
+"npc": "Eirwel"
+}
+],
+"Fraying Threads": [
+{
+"level": 80,
+"zone": "The Crystarium",
+"x": 7.1,
+"y": 9.6,
+"npc": "Ryne"
+}
+],
+"Food for the Soul": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Tataru"
+}
+],
+"Faded Memories": [
+{
+"level": 80,
+"zone": "The Crystarium",
+"x": 12.1,
+"y": 11.3,
+"npc": "Thancred"
+}
+],
+"Etched in the Stars": [
+{
+"level": 80,
+"zone": "The Tempest",
+"x": 13.8,
+"y": 36.6,
+"npc": ""
+}
+],
+"The Converging Light": [
+{
+"level": 80,
+"zone": "Kholusia",
+"x": 11.5,
+"y": 33.2,
+"npc": "Y'shtola"
+}
+],
+"Hope's Confluence": [
+{
+"level": 80,
+"zone": "The Crystarium",
+"x": 12.5,
+"y": 11.3,
+"npc": "Crystal Exarch"
+}
+],
+"Nothing Unsaid": [
+{
+"level": 80,
+"zone": "The Crystarium",
+"x": 12.3,
+"y": 11.3,
+"npc": "Y'shtola"
+}
+],
+"The Journey Continues": [
+{
+"level": 80,
+"zone": "Eulmore",
+"x": 11.6,
+"y": 12.2,
+"npc": "Alphinaud"
+}
+],
+"Unto the Morrow": [
+{
+"level": 80,
+"zone": "Il Mheg",
+"x": 8.8,
+"y": 16.8,
+"npc": "Urianger"
+}
+],
+"Reflections in Crystal": [
+{
+"level": 80,
+"zone": "The Crystarium",
+"x": 11.7,
+"y": 11.2,
+"npc": "Ryne"
+}
+],
+"Prudence at This Junction": [
+{
+"level": 4,
+"zone": "Central Thanalan",
+"x": 19.5,
+"y": 20.7,
+"npc": "Roger"
+}
+],
+"Heir Today, Gone Tomorrow": [
+{
+"level": 10,
+"zone": "Central Thanalan",
+"x": 23.4,
+"y": 16.0,
+"npc": "Leofric"
+}
+],
+"Eggs over Queasy": [
+{
+"level": 4,
+"zone": "Central Shroud",
+"x": 23.5,
+"y": 19.9,
+"npc": "Galfrid"
+}
+],
+"A Soldier's Breakfast": [
+{
+"level": 4,
+"zone": "Central Shroud",
+"x": 27.3,
+"y": 20.8,
+"npc": "Pauline"
+}
+],
+"We Come in Peace": [
+{
+"level": 20,
+"zone": "New Gridania",
+"x": 9.7,
+"y": 11.1,
+"npc": "Vorsaile Heuloix"
+}
+],
+"Dance Dance Diplomacy": [
+{
+"level": 21,
+"zone": "East Shroud",
+"x": 21.9,
+"y": 25.7,
+"npc": "Yda"
+}
+],
+"Forest Friend": [
+{
+"level": 21,
+"zone": "East Shroud",
+"x": 22.0,
+"y": 25.7,
+"npc": "Papalymo"
+}
+],
+"Druthers House Rules": [
+{
+"level": 22,
+"zone": "South Shroud",
+"x": 18.2,
+"y": 19.9,
+"npc": "Buscarron"
+}
+],
+"Never Forget": [
+{
+"level": 23,
+"zone": "South Shroud",
+"x": 18.2,
+"y": 19.9,
+"npc": "Buscarron"
+}
+],
+"Microbrewing": [
+{
+"level": 23,
+"zone": "Upper La Noscea",
+"x": 14.8,
+"y": 24.5,
+"npc": "Teteroon"
+}
+],
+"Nouveau Riche": [
+{
+"level": 23,
+"zone": "South Shroud",
+"x": 18.2,
+"y": 19.9,
+"npc": "Buscarron"
+}
+],
+"Terror at Fallgourd": [
+{
+"level": 27,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Ziz Is So Ridiculous": [
+{
+"level": 28,
+"zone": "North Shroud",
+"x": 21.8,
+"y": 26.8,
+"npc": "Aideen"
+}
+],
+"Trial by Turtle": [
+{
+"level": 30,
+"zone": "South Shroud",
+"x": 16.9,
+"y": 28.3,
+"npc": "Landenel"
+}
+],
+"What Do You Mean You Forgot the Wine": [
+{
+"level": 32,
+"zone": "Eastern La Noscea",
+"x": 32.7,
+"y": 30.6,
+"npc": "Wheiskaet"
+}
+],
+"You Can't Take It with You": [
+{
+"level": 35,
+"zone": "Eastern Thanalan",
+"x": 11.3,
+"y": 21.3,
+"npc": "Marques"
+}
+],
+"The Final Flight of the Enterprise": [
+{
+"level": 38,
+"zone": "Coerthas Central Highlands",
+"x": 26.8,
+"y": 17.5,
+"npc": "Haurchefant"
+}
+],
+"The Best Inventions": [
+{
+"level": 39,
+"zone": "Coerthas Central Highlands",
+"x": 13.2,
+"y": 15.5,
+"npc": "Cid"
+}
+],
+"The Curious Case of Giggity": [
+{
+"level": 43,
+"zone": "Western La Noscea",
+"x": 27.9,
+"y": 27.0,
+"npc": "Ceana"
+}
+],
+"Dressed for Conquest": [
+{
+"level": 45,
+"zone": "Mor Dhona",
+"x": 22.6,
+"y": 7.5,
+"npc": "Sark Malark"
+}
+],
+"Hearts on Fire": [
+{
+"level": 49,
+"zone": "Northern Thanalan",
+"x": 22.3,
+"y": 29.9,
+"npc": "Cracked Fist"
+}
+],
+"Rock the Castrum": [
+{
+"level": 50,
+"zone": "Northern Thanalan",
+"x": 20.9,
+"y": 22.2,
+"npc": "Edelstein"
+}
+],
+"Moving On": [
+{
+"level": 50,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"All Things in Time": [
+{
+"level": 50,
+"zone": "Eastern La Noscea",
+"x": 20.8,
+"y": 21.6,
+"npc": "F'lhaminn"
+}
+],
+"Laying the Foundation": [
+{
+"level": 50,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"It's Possibly a Primal": [
+{
+"level": 50,
+"zone": "Mor Dhona",
+"x": 21.9,
+"y": 7.8,
+"npc": "Slafborn"
+}
+],
+"Build on the Stone": [
+{
+"level": 50,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"Still Waters": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.2,
+"npc": "Minfilia"
+}
+],
+"Promises to Keep": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Thal",
+"x": 10.9,
+"y": 12.4,
+"npc": "Raubahn"
+}
+],
+"Yugiri's Game": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.6,
+"npc": "Alphinaud"
+}
+],
+"All Due Respect": [
+{
+"level": 50,
+"zone": "Ul'dah - Steps of Nald",
+"x": 11.7,
+"y": 9.6,
+"npc": "Alphinaud"
+}
+],
+"Shock and Awe": [
+{
+"level": 50,
+"zone": "Central Thanalan",
+"x": 25.3,
+"y": 15.4,
+"npc": "terrified refugee"
+}
+],
+"Reap the Whirlwind": [
+{
+"level": 50,
+"zone": "Central Thanalan",
+"x": 25.3,
+"y": 15.4,
+"npc": "terrified refugee"
+}
+],
+"Levin an Impression": [
+{
+"level": 50,
+"zone": "East Shroud",
+"x": 22.0,
+"y": 25.7,
+"npc": "serpent lieutenant"
+}
+],
+"Chasing Ivy": [
+{
+"level": 50,
+"zone": "New Gridania",
+"x": 10.2,
+"y": 11.7,
+"npc": "Ilberd"
+}
+],
+"In Flagrante Delicto": [
+{
+"level": 50,
+"zone": "New Gridania",
+"x": 12.2,
+"y": 13.3,
+"npc": "Ilberd"
+}
+],
+"Aether on Demand": [
+{
+"level": 50,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.1,
+"npc": "Alphinaud"
+}
+],
+"Alisaie's Quest": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.0,
+"npc": "Krile"
+}
+],
+"The Wisdom of Allag": [
+{
+"level": 80,
+"zone": "Azys Lla",
+"x": 4.7,
+"y": 9.8,
+"npc": "G'raha Tia"
+}
+],
+"Reviving the Legacy": [
+{
+"level": 80,
+"zone": "Azys Lla",
+"x": 35.4,
+"y": 15.6,
+"npc": "G'raha Tia"
+}
+],
+"Forget Us Not": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.0,
+"npc": "Alisaie"
+}
+],
+"Like Master, Like Pupil": [
+{
+"level": 80,
+"zone": "Limsa Lominsa Upper Decks",
+"x": 9.1,
+"y": 13.6,
+"npc": "Y'shtola"
+}
+],
+"The Admiral's Resolve": [
+{
+"level": 80,
+"zone": "The Dravanian Hinterlands",
+"x": 30.2,
+"y": 18.1,
+"npc": "Alphinaud"
+}
+],
+"The Search for Sicard": [
+{
+"level": 80,
+"zone": "Limsa Lominsa Lower Decks",
+"x": 11.2,
+"y": 11.0,
+"npc": "Alphinaud"
+}
+],
+"On Rough Seas": [
+{
+"level": 80,
+"zone": "Lower La Noscea",
+"x": 27.4,
+"y": 18.6,
+"npc": "Alphinaud"
+}
+],
+"The Great Ship Vylbrand": [
+{
+"level": 80,
+"zone": "Command Room",
+"x": 3.6,
+"y": 3.4,
+"npc": "Merlwyb"
+}
+],
+"Futures Rewritten": [
+{
+"level": 80,
+"zone": "Outer La Noscea",
+"x": 19.4,
+"y": 16.6,
+"npc": "Alphinaud"
+}
+],
+"Unto the Breach": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Alisaie"
+}
+],
+"Here Be Dragons": [
+{
+"level": 80,
+"zone": "The Lochs",
+"x": 36.4,
+"y": 32.1,
+"npc": "Alphinaud"
+}
+],
+"Righteous Indignation": [
+{
+"level": 80,
+"zone": "Azys Lla",
+"x": 12.2,
+"y": 25.5,
+"npc": "Estinien"
+}
+],
+"For Vengeance": [
+{
+"level": 80,
+"zone": "Azys Lla",
+"x": 17.1,
+"y": 22.2,
+"npc": "restrainment node"
+}
+],
+"The Flames of War": [
+{
+"level": 80,
+"zone": "Azys Lla",
+"x": 9.0,
+"y": 31.2,
+"npc": "G'raha Tia"
+}
+],
+"When the Dust Settles": [
+{
+"level": 80,
+"zone": "Ul'dah - Steps of Nald",
+"x": 10.8,
+"y": 11.6,
+"npc": "Alphinaud"
+}
+],
+"The Company We Keep": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Alisaie"
+}
+],
+"On Official Business": [
+{
+"level": 80,
+"zone": "The Fringes",
+"x": 8.6,
+"y": 11.4,
+"npc": "Alphinaud"
+}
+],
+"Death Unto Dawn": [
+{
+"level": 80,
+"zone": "Lotus Stand",
+"x": 6.2,
+"y": 6.1,
+"npc": "Kan-E-Senna"
+}
+],
+"The Next Ship to Sail": [
+{
+"level": 80,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 5.9,
+"npc": "Alphinaud"
+}
+],
+"Old Sharlayan, New to You": [
+{
+"level": 80,
+"zone": "Old Sharlayan",
+"x": 12.2,
+"y": 14.2,
+"npc": "Krile"
+}
+],
+"Hitting the Books": [
+{
+"level": 80,
+"zone": "Main Hall",
+"x": 6.1,
+"y": 6.1,
+"npc": "Krile"
+}
+],
+"A Seat at the Last Stand": [
+{
+"level": 80,
+"zone": "Old Sharlayan",
+"x": 5.6,
+"y": 11.6,
+"npc": "Alisaie"
+}
+],
+"A Labyrinthine Descent": [
+{
+"level": 80,
+"zone": "Old Sharlayan",
+"x": 11.8,
+"y": 12.8,
+"npc": "Alisaie"
+}
+],
+"Glorified Ratcatcher": [
+{
+"level": 80,
+"zone": "Labyrinthos",
+"x": 20.5,
+"y": 6.8,
+"npc": "Krile"
+}
+],
+"Deeper into the Maze": [
+{
+"level": 80,
+"zone": "Labyrinthos",
+"x": 29.4,
+"y": 11.1,
+"npc": "Alphinaud"
+}
+],
+"The Medial Circuit": [
+{
+"level": 80,
+"zone": "Labyrinthos",
+"x": 34.4,
+"y": 18.9,
+"npc": "Alisaie"
+}
+],
+"The Full Report, Warts and All": [
+{
+"level": 80,
+"zone": "Labyrinthos",
+"x": 28.0,
+"y": 15.9,
+"npc": "Alisaie"
+}
+],
+"A Guide of Sorts": [
+{
+"level": 80,
+"zone": "Labyrinthos",
+"x": 16.3,
+"y": 11.4,
+"npc": "Alisaie"
+}
+],
+"Estate Visitor": [
+{
+"level": 80,
+"zone": "Old Sharlayan",
+"x": 11.3,
+"y": 8.4,
+"npc": "Alisaie"
+}
+],
+"For Thavnair Bound": [
+{
+"level": 80,
+"zone": "Main Hall",
+"x": 6.2,
+"y": 6.2,
+"npc": "Thancred"
+}
+],
+"On Low Tide": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 25.3,
+"y": 33.3,
+"npc": "Thancred"
+}
+],
+"A Fisherman's Friend": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 25.5,
+"y": 36.3,
+"npc": "Matsya"
+}
+],
+"House of Divinities": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 25.5,
+"y": 33.8,
+"npc": "Estinien"
+}
+],
+"The Great Work": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 15.9,
+"y": 32.2,
+"npc": "Matsya"
+}
+],
+"Shadowed Footsteps": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 11.7,
+"y": 24.6,
+"npc": "Nidhana"
+}
+],
+"A Boy's Errand": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 11.3,
+"y": 23.9,
+"npc": "Nidhana"
+}
+],
+"Tipping the Scale": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 19.6,
+"y": 8.6,
+"npc": "Zeynuha"
+}
+],
+"The Satrap of Radz-at-Han": [
+{
+"level": 80,
+"zone": "Thavnair",
+"x": 11.6,
+"y": 21.9,
+"npc": "Thancred"
+}
+],
+"In the Dark of the Tower": [
+{
+"level": 81,
+"zone": "Main Hall",
+"x": 6.1,
+"y": 6.2,
+"npc": "Krile"
+}
+],
+"The Jewel of Thavnair": [
+{
+"level": 81,
+"zone": "Thavnair",
+"x": 10.1,
+"y": 9.9,
+"npc": "Thancred"
+}
+],
+"The Color of Joy": [
+{
+"level": 81,
+"zone": "Radz-at-Han",
+"x": 3.7,
+"y": 10.7,
+"npc": "Alphinaud"
+}
+],
+"Sound the Bell, School's In": [
+{
+"level": 82,
+"zone": "Old Sharlayan",
+"x": 9.5,
+"y": 11.3,
+"npc": "Krile"
+}
+],
+"A Capital Idea": [
+{
+"level": 82,
+"zone": "Old Sharlayan",
+"x": 3.4,
+"y": 9.1,
+"npc": "Krile"
+}
+],
+"Best of the Best": [
+{
+"level": 82,
+"zone": "The Lochs",
+"x": 36.4,
+"y": 32.0,
+"npc": "Maxima"
+}
+],
+"A Frosty Reception": [
+{
+"level": 82,
+"zone": "The Lochs",
+"x": 36.5,
+"y": 32.2,
+"npc": "Tataru"
+}
+],
+"Tracks in the Snow": [
+{
+"level": 82,
+"zone": "Garlemald",
+"x": 14.5,
+"y": 30.2,
+"npc": "Emmanellain"
+}
+],
+"How the Mighty Are Fallen": [
+{
+"level": 82,
+"zone": "Garlemald",
+"x": 32.8,
+"y": 24.5,
+"npc": "Licinia"
+}
+],
+"At the End of the Trail": [
+{
+"level": 82,
+"zone": "Garlemald",
+"x": 24.2,
+"y": 34.5,
+"npc": "Jareck"
+}
+],
+"A Way Forward": [
+{
+"level": 82,
+"zone": "Garlemald",
+"x": 33.6,
+"y": 25.5,
+"npc": "Alphinaud"
+}
+],
+"The Last Bastion": [
+{
+"level": 82,
+"zone": "Garlemald",
+"x": 22.8,
+"y": 24.5,
+"npc": "Jullus"
+}
+],
+"Personae non Gratae": [
+{
+"level": 82,
+"zone": "Garlemald",
+"x": 32.1,
+"y": 18.0,
+"npc": "Jullus"
+}
+],
+"His Park Materials": [
+{
+"level": 83,
+"zone": "Garlemald",
+"x": 32.1,
+"y": 18.0,
+"npc": "Jullus"
+}
+],
+"No Good Deed": [
+{
+"level": 83,
+"zone": "Garlemald",
+"x": 29.8,
+"y": 9.9,
+"npc": "Jullus"
+}
+],
+"Alea Iacta Est": [
+{
+"level": 83,
+"zone": "Garlemald",
+"x": 32.0,
+"y": 16.8,
+"npc": "Jullus"
+}
+],
+"Strange Bedfellows": [
+{
+"level": 83,
+"zone": "Garlemald",
+"x": 13.5,
+"y": 30.0,
+"npc": "Lucia"
+}
+],
+"In from the Cold": [
+{
+"level": 83,
+"zone": "Garlemald",
+"x": 14.5,
+"y": 29.9,
+"npc": "Lucia"
+}
+],
+"Gateway of the Gods": [
+{
+"level": 83,
+"zone": "Garlemald",
+"x": 14.1,
+"y": 29.5,
+"npc": "Lucia"
+}
+],
+"A Trip to the Moon": [
+{
+"level": 83,
+"zone": "The Nethergate",
+"x": 21.6,
+"y": 22.0,
+"npc": "G'raha Tia"
+}
+],
+"Sea of Sorrow": [
+{
+"level": 83,
+"zone": "Mare Lamentorum",
+"x": 13.8,
+"y": 32.5,
+"npc": "the watcher"
+}
+],
+"The Martyr": [
+{
+"level": 83,
+"zone": "Mare Lamentorum",
+"x": 25.3,
+"y": 30.9,
+"npc": "lustrous dog"
+}
+],
+"In Shadow's Wake": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 15.9,
+"y": 31.1,
+"npc": "the watcher"
+}
+],
+"Helping Hands": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 13.8,
+"y": 32.5,
+"npc": "the watcher"
+}
+],
+"A Harey Situation": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 21.6,
+"y": 14.2,
+"npc": "Thancred"
+}
+],
+"A Taste of the Moon": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 21.1,
+"y": 11.6,
+"npc": "Livingway"
+}
+],
+"Styled a Hero": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 12.4,
+"y": 9.1,
+"npc": "Livingway"
+}
+],
+"All's Vale That Endsvale": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 21.5,
+"y": 7.5,
+"npc": "Growingway"
+}
+],
+"Back to Old Tricks": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 33.8,
+"y": 8.3,
+"npc": "Thancred"
+}
+],
+"Setting Things Straight": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 22.9,
+"y": 21.0,
+"npc": "Urianger"
+}
+],
+"Heart of the Matter": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 28.8,
+"y": 9.0,
+"npc": "Growingway"
+}
+],
+"Returning Home": [
+{
+"level": 84,
+"zone": "Mare Lamentorum",
+"x": 9.3,
+"y": 32.8,
+"npc": "Y'shtola"
+}
+],
+"Skies Aflame": [
+{
+"level": 85,
+"zone": "Old Sharlayan",
+"x": 9.2,
+"y": 11.4,
+"npc": "Tataru"
+}
+],
+"The Blasphemy Unmasked": [
+{
+"level": 85,
+"zone": "Radz-at-Han",
+"x": 11.3,
+"y": 13.1,
+"npc": "Ahewann"
+}
+],
+"Amidst the Apocalypse": [
+{
+"level": 85,
+"zone": "Radz-at-Han",
+"x": 11.2,
+"y": 7.2,
+"npc": "Mihleel"
+}
+],
+"Beyond the Depths of Despair": [
+{
+"level": 85,
+"zone": "Radz-at-Han",
+"x": 8.1,
+"y": 13.5,
+"npc": "G'raha Tia"
+}
+],
+"That We Might Live": [
+{
+"level": 85,
+"zone": "Thavnair",
+"x": 30.1,
+"y": 16.5,
+"npc": "Alphinaud"
+}
+],
+"When All Hope Seems Lost": [
+{
+"level": 85,
+"zone": "Thavnair",
+"x": 29.1,
+"y": 16.4,
+"npc": "Matsya"
+}
+],
+"Warm Hearts, Rekindled Hopes": [
+{
+"level": 85,
+"zone": "Thavnair",
+"x": 32.3,
+"y": 26.3,
+"npc": "Alisaie"
+}
+],
+"Simple Pleasures": [
+{
+"level": 85,
+"zone": "Thavnair",
+"x": 20.7,
+"y": 15.1,
+"npc": "Estinien"
+}
+],
+"Under His Wing": [
+{
+"level": 85,
+"zone": "Thavnair",
+"x": 30.0,
+"y": 16.2,
+"npc": "Matsya"
+}
+],
+"At World's End": [
+{
+"level": 85,
+"zone": "Radz-at-Han",
+"x": 7.0,
+"y": 12.5,
+"npc": "Radiant Host soldier"
+}
+],
+"Return to the Crystarium": [
+{
+"level": 86,
+"zone": "Radz-at-Han",
+"x": 11.4,
+"y": 13.0,
+"npc": "G'raha Tia"
+}
+],
+"Hope Upon a Flower": [
+{
+"level": 86,
+"zone": "The Crystarium",
+"x": 9.9,
+"y": 7.1,
+"npc": "Ryne"
+}
+],
+"Petalouda Hunt": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 26.8,
+"y": 36.9,
+"npc": "Hythlodaeus"
+}
+],
+"In Search of Hermes": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 25.6,
+"y": 34.1,
+"npc": "Hythlodaeus"
+}
+],
+"Ponder, Warrant, Cherish, Welcome": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 28.9,
+"y": 24.7,
+"npc": "Hermes"
+}
+],
+"Lives Apart": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 24.5,
+"y": 22.5,
+"npc": "Hermes"
+}
+],
+"Their Greatest Contribution": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 32.7,
+"y": 22.8,
+"npc": "Emet-Selch"
+}
+],
+"Aether to Aether": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 24.2,
+"y": 23.3,
+"npc": "Hermes"
+}
+],
+"A Sentimental Gift": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 8.3,
+"y": 32.0,
+"npc": "Hermes"
+}
+],
+"Verdict and Execution": [
+{
+"level": 86,
+"zone": "Elpis",
+"x": 8.4,
+"y": 31.9,
+"npc": "Hermes"
+}
+],
+"Travelers at the Crossroads": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 8.8,
+"y": 31.6,
+"npc": "Hythlodaeus"
+}
+],
+"A Past, Not Yet Come to Pass": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 11.7,
+"y": 19.2,
+"npc": "Venat"
+}
+],
+"Witness to the Spectacle": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 9.6,
+"y": 18.0,
+"npc": "Venat"
+}
+],
+"Worthy of His Back": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 8.2,
+"y": 14.8,
+"npc": "Venat"
+}
+],
+"A Flower upon Your Return": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 8.9,
+"y": 22.7,
+"npc": "Venat"
+}
+],
+"Hunger in the Garden": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 13.4,
+"y": 6.3,
+"npc": "Hythlodaeus"
+}
+],
+"Words without Sound": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 20.6,
+"y": 9.0,
+"npc": "Emet-Selch"
+}
+],
+"Follow, Wander, Stumble, Listen": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 29.8,
+"y": 13.1,
+"npc": "Hythlodaeus"
+}
+],
+"Caging the Messenger": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 31.7,
+"y": 15.4,
+"npc": "Hythlodaeus"
+}
+],
+"Thou Must Live, Die, and Know": [
+{
+"level": 87,
+"zone": "Elpis",
+"x": 31.0,
+"y": 22.5,
+"npc": "Venat"
+}
+],
+"As the Heavens Burn": [
+{
+"level": 88,
+"zone": "Main Hall",
+"x": 6.1,
+"y": 6.1,
+"npc": "Krile"
+}
+],
+"Outside Help": [
+{
+"level": 88,
+"zone": "Garlemald",
+"x": 13.5,
+"y": 29.9,
+"npc": "Lucia"
+}
+],
+"Going Underground": [
+{
+"level": 88,
+"zone": "Old Sharlayan",
+"x": 11.3,
+"y": 6.6,
+"npc": "Fourchenault"
+}
+],
+"No Job Too Small": [
+{
+"level": 88,
+"zone": "Labyrinthos",
+"x": 21.1,
+"y": 34.3,
+"npc": "Alphinaud"
+}
+],
+"Wise Guides": [
+{
+"level": 88,
+"zone": "Labyrinthos",
+"x": 21.2,
+"y": 19.9,
+"npc": "Urianger"
+}
+],
+"Agriculture Shock": [
+{
+"level": 88,
+"zone": "Labyrinthos",
+"x": 29.0,
+"y": 27.5,
+"npc": "Cookingway"
+}
+],
+"Sage Council": [
+{
+"level": 88,
+"zone": "Labyrinthos",
+"x": 29.0,
+"y": 27.5,
+"npc": "Urianger"
+}
+],
+"Hither and Yarns": [
+{
+"level": 88,
+"zone": "Labyrinthos",
+"x": 19.9,
+"y": 20.3,
+"npc": "Urianger"
+}
+],
+"Once Forged": [
+{
+"level": 88,
+"zone": "Labyrinthos",
+"x": 7.3,
+"y": 27.9,
+"npc": "G'raha Tia"
+}
+],
+"Bonds of Adamant(ite)": [
+{
+"level": 88,
+"zone": "Labyrinthos",
+"x": 21.7,
+"y": 33.9,
+"npc": "Kokkol Dankkol"
+}
+],
+"Her Children, One and All": [
+{
+"level": 89,
+"zone": "Labyrinthos",
+"x": 13.4,
+"y": 27.6,
+"npc": "Fourchenault"
+}
+],
+"A Bold Decision": [
+{
+"level": 89,
+"zone": "Old Sharlayan",
+"x": 9.3,
+"y": 11.3,
+"npc": "Krile"
+}
+],
+"Friends Gathered": [
+{
+"level": 89,
+"zone": "Old Sharlayan",
+"x": 11.8,
+"y": 9.9,
+"npc": "Tataru"
+}
+],
+"Unto the Heavens": [
+{
+"level": 89,
+"zone": "Old Sharlayan",
+"x": 9.2,
+"y": 11.3,
+"npc": "Ojika Tsunjika"
+}
+],
+"A §trαnge New World": [
+{
+"level": 89,
+"zone": "Ultima Thule",
+"x": 13.9,
+"y": 33.6,
+"npc": "Alphinaud"
+}
+],
+"On Burdεned ωings": [
+{
+"level": 89,
+"zone": "Ultima Thule",
+"x": 12.0,
+"y": 27.7,
+"npc": "Urianger"
+}
+],
+"Α Test of Wιll": [
+{
+"level": 89,
+"zone": "Ultima Thule",
+"x": 10.0,
+"y": 17.7,
+"npc": "Estinien"
+}
+],
+"Roads Pαved││Sacri┣ice": [
+{
+"level": 89,
+"zone": "Ultima Thule",
+"x": 12.1,
+"y": 16.4,
+"npc": "Alphinaud"
+}
+],
+"F//εsh AbanΔon┨Δ": [
+{
+"level": 89,
+"zone": "Ultima Thule",
+"x": 22.1,
+"y": 10.8,
+"npc": "Coph-coodg"
+}
+],
+"Where Kn∞wledge Leads": [
+{
+"level": 89,
+"zone": "Ultima Thule",
+"x": 23.2,
+"y": 11.7,
+"npc": "Urianger"
+}
+],
+"Vic┨οry  ̈ ̈ ̈╳, │̆││ε Lost": [
+{
+"level": 90,
+"zone": "Ultima Thule",
+"x": 25.2,
+"y": 8.8,
+"npc": "G'raha Tia"
+}
+],
+"┣┨̈//̈ No┨ΦounΔ•••": [
+{
+"level": 90,
+"zone": "Ultima Thule",
+"x": 32.4,
+"y": 27.5,
+"npc": "G'raha Tia"
+}
+],
+"Hello, World": [
+{
+"level": 90,
+"zone": "Ultima Thule",
+"x": 37.5,
+"y": 25.5,
+"npc": "G'raha Tia"
+}
+],
+"Forge Ahead": [
+{
+"level": 90,
+"zone": "Ultima Thule",
+"x": 34.0,
+"y": 30.2,
+"npc": "Alphinaud"
+}
+],
+"You're Not Alone": [
+{
+"level": 90,
+"zone": "Ultima Thule",
+"x": 26.0,
+"y": 27.8,
+"npc": "Alisaie"
+}
+],
+"Endwalker": [
+{
+"level": 90,
+"zone": "Ultima Thule",
+"x": 21.6,
+"y": 21.6,
+"npc": "Alphinaud"
+}
+],
+"Operation Archon": [
+{
+"level": 49,
+"zone": "The Waking Sands",
+"x": 6.9,
+"y": 6.1,
+"npc": "Minfilia"
+}
+],
+"The Ultimate Weapon": [
+{
+"level": 50,
+"zone": "Northern Thanalan",
+"x": 15.6,
+"y": 17.0,
+"npc": "Raubahn"
+}
+],
+"Newfound Adventure": [
+{
+"level": 90,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.0,
+"npc": "Tataru"
+}
+],
+"Bountiful Ruins": [
+{
+"level": 90,
+"zone": "Mor Dhona",
+"x": 22.2,
+"y": 5.5,
+"npc": "Tataru"
+}
+],
+"Friends for the Road": [
+{
+"level": 90,
+"zone": "Thavnair",
+"x": 16.5,
+"y": 32.9,
+"npc": "Estinien"
+}
+],
+"Alzadaal's Legacy": [
+{
+"level": 90,
+"zone": "Thavnair",
+"x": 16.2,
+"y": 33.6,
+"npc": "Y'shtola"
+}
+],
+"A Brother's Grief": [
+{
+"level": 90,
+"zone": "Alzadaal's Legacy",
+"x": 13.1,
+"y": 9.8,
+"npc": "Y'shtola"
+}
+],
+"Sharing the Wealth": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 14.1,
+"y": 8.3,
+"npc": "Varshahn"
+}
+],
+"Bridging the Rift": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 4.4,
+"y": 9.8,
+"npc": "veteran Radiant"
+}
+],
+"Restricted Reading": [
+{
+"level": 90,
+"zone": "Old Sharlayan",
+"x": 9.3,
+"y": 11.3,
+"npc": "Montichaigne"
+}
+],
+"Void Theory": [
+{
+"level": 90,
+"zone": "Thavnair",
+"x": 11.9,
+"y": 22.0,
+"npc": "Y'shtola"
+}
+],
+"A Satrap's Duty": [
+{
+"level": 90,
+"zone": "Alzadaal's Legacy",
+"x": 13.2,
+"y": 9.6,
+"npc": "Y'shtola"
+}
+],
+"The Steps of Faith": [
+{
+"level": 50,
+"zone": "Coerthas Central Highlands",
+"x": 18.1,
+"y": 14.9,
+"npc": "Marcelain"
+}
+],
+"In Search of Azdaja": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 4.5,
+"y": 9.9,
+"npc": "Varshahn"
+}
+],
+"Shadowed Remnants": [
+{
+"level": 90,
+"zone": "The Fell Court of Troia",
+"x": 10.2,
+"y": 10.3,
+"npc": "Varshahn"
+}
+],
+"Where Everything Begins": [
+{
+"level": 90,
+"zone": "The Fell Court of Troia",
+"x": 11.8,
+"y": 11.8,
+"npc": "dark-robed voidsent"
+}
+],
+"Groping in the Dark": [
+{
+"level": 90,
+"zone": "The Fell Court of Troia",
+"x": 14.1,
+"y": 7.2,
+"npc": "Estinien"
+}
+],
+"Nowhere to Run": [
+{
+"level": 90,
+"zone": "Zero's Domain",
+"x": 5.2,
+"y": 6.8,
+"npc": "Zero"
+}
+],
+"The Wind Rises": [
+{
+"level": 90,
+"zone": "Zero's Domain",
+"x": 5.8,
+"y": 4.7,
+"npc": "Zero"
+}
+],
+"Return from the Void": [
+{
+"level": 90,
+"zone": "Zero's Domain",
+"x": 5.3,
+"y": 7.1,
+"npc": "Varshahn"
+}
+],
+"A World with Light and Life": [
+{
+"level": 90,
+"zone": "Meghaduta Guest Chambers",
+"x": 3.5,
+"y": 3.5,
+"npc": "Y'shtola"
+}
+],
+"Buried Memory": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 8.0,
+"y": 12.6,
+"npc": "Varshahn"
+}
+],
+"Once More unto the Void": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 4.5,
+"y": 9.9,
+"npc": "Varshahn"
+}
+],
+"A Cold Reunion": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 4.3,
+"y": 10.0,
+"npc": "Estinien"
+}
+],
+"Kindled Spirit": [
+{
+"level": 90,
+"zone": "Garlemald",
+"x": 14.1,
+"y": 31.2,
+"npc": "Alphinaud"
+}
+],
+"An Unforeseen Bargain": [
+{
+"level": 90,
+"zone": "Garlemald",
+"x": 31.7,
+"y": 18.3,
+"npc": "1st Legion soldier"
+}
+],
+"King of the Mountain": [
+{
+"level": 90,
+"zone": "Garlemald",
+"x": 32.1,
+"y": 16.6,
+"npc": "Alphinaud"
+}
+],
+"A Dragon's Resolve": [
+{
+"level": 90,
+"zone": "Lapis Manalis",
+"x": 12.7,
+"y": 8.8,
+"npc": "Varshahn"
+}
+],
+"Paths Barred": [
+{
+"level": 90,
+"zone": "Garlemald",
+"x": 30.8,
+"y": 35.7,
+"npc": "Zero"
+}
+],
+"Desires Untold": [
+{
+"level": 90,
+"zone": "Thavnair",
+"x": 10.1,
+"y": 10.1,
+"npc": "Nahbdeen"
+}
+],
+"Gods Revel, Lands Tremble": [
+{
+"level": 90,
+"zone": "Thavnair",
+"x": 20.7,
+"y": 8.8,
+"npc": "Zero"
+}
+],
+"Currying Flavor": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 4.5,
+"y": 9.9,
+"npc": "Varshahn"
+}
+],
+"Going Haam": [
+{
+"level": 90,
+"zone": "Estinien's Chambers",
+"x": 3.6,
+"y": 3.6,
+"npc": "Urianger"
+}
+],
+"Like Fear to Flame": [
+{
+"level": 90,
+"zone": "Old Sharlayan",
+"x": 14.1,
+"y": 16.0,
+"npc": "Urianger"
+}
+],
+"The Fallen Empire": [
+{
+"level": 90,
+"zone": "Garlemald",
+"x": 29.8,
+"y": 8.7,
+"npc": "Jullus"
+}
+],
+"Bonds of Trust": [
+{
+"level": 90,
+"zone": "Garlemald",
+"x": 31.7,
+"y": 17.4,
+"npc": "Jullus"
+}
+],
+"Lunar Rendezvous": [
+{
+"level": 90,
+"zone": "Garlemald",
+"x": 31.7,
+"y": 17.4,
+"npc": "Urianger"
+}
+],
+"The Red Side of the Moon": [
+{
+"level": 90,
+"zone": "Mare Lamentorum",
+"x": 24.7,
+"y": 9.1,
+"npc": "Urianger"
+}
+],
+"Abyssal Dark": [
+{
+"level": 90,
+"zone": "The Red Moon",
+"x": 5.9,
+"y": 2.8,
+"npc": "Zero"
+}
+],
+"The Dark Throne": [
+{
+"level": 90,
+"zone": "Mare Lamentorum",
+"x": 18.8,
+"y": 30.1,
+"npc": "Y'shtola"
+}
+],
+"Seeking the Light": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 4.5,
+"y": 9.9,
+"npc": "Varshahn"
+}
+],
+"Appealing to the Masses": [
+{
+"level": 90,
+"zone": "The Crystarium",
+"x": 11.7,
+"y": 11.2,
+"npc": "Ryne"
+}
+],
+"In Defiance of Fate": [
+{
+"level": 90,
+"zone": "Eulmore",
+"x": 11.8,
+"y": 11.1,
+"npc": "Zero"
+}
+],
+"Back to Action": [
+{
+"level": 90,
+"zone": "The Crystarium",
+"x": 7.1,
+"y": 11.0,
+"npc": "Ryne"
+}
+],
+"Down in the Dark": [
+{
+"level": 90,
+"zone": "The Red Moon",
+"x": 6.2,
+"y": 3.5,
+"npc": "Varshahn"
+}
+],
+"Reunited at Last": [
+{
+"level": 90,
+"zone": "The Red Moon",
+"x": 6.4,
+"y": 3.5,
+"npc": "Vrtra"
+}
+],
+"Growing Light": [
+{
+"level": 90,
+"zone": "Old Sharlayan",
+"x": 11.4,
+"y": 7.9,
+"npc": "Y'shtola"
+}
+],
+"When One Door Closes...": [
+{
+"level": 90,
+"zone": "Radz-at-Han",
+"x": 4.5,
+"y": 9.9,
+"npc": "Varshahn"
+}
+],
+"The Game Is Afoot": [
+{
+"level": 90,
+"zone": "Old Sharlayan",
+"x": 6.1,
+"y": 10.3,
+"npc": "G'raha Tia"
+}
+],
+"The Coming Dawn": [
+{
+"level": 90,
+"zone": "Old Sharlayan",
+"x": 10.1,
+"y": 14.0,
+"npc": "G'raha Tia"
+}
+],
+"A New World to Explore": [
+{
+"level": 90,
+"zone": "Old Sharlayan",
+"x": 9.2,
+"y": 11.3,
+"npc": "Ojika Tsunjika"
+}
+],
+"The Nation of Tuliyollal": [
+{
+"level": 90,
+"zone": "Tuliyollal",
+"x": 15.6,
+"y": 13.8,
+"npc": "Wuk Lamat"
+}
+],
+"A City of Stairs": [
+{
+"level": 90,
+"zone": "Tuliyollal",
+"x": 14.3,
+"y": 2.7,
+"npc": "Wuk Lamat"
+}
+],
+"A Saga in Stone": [
+{
+"level": 90,
+"zone": "Tuliyollal",
+"x": 9.5,
+"y": 13.5,
+"npc": "Krile"
+}
+],
+"The Rite of Succession": [
+{
+"level": 90,
+"zone": "Tuliyollal",
+"x": 9.8,
+"y": 4.6,
+"npc": "Erenville"
+}
+],
+"To Kozama'uka": [
+{
+"level": 90,
+"zone": "Tuliyollal",
+"x": 12.7,
+"y": 13.9,
+"npc": "helpful Hanu"
+}
+],
+"A Festive People": [
+{
+"level": 90,
+"zone": "Kozama'uka",
+"x": 16.2,
+"y": 10.1,
+"npc": "Wuk Lamat"
+}
+],
+"The Feat of Reeds": [
+{
+"level": 90,
+"zone": "Kozama'uka",
+"x": 19.0,
+"y": 12.7,
+"npc": "Wuk Lamat"
+}
+],
+"A Well-mannered Shipwright": [
+{
+"level": 90,
+"zone": "Kozama'uka",
+"x": 19.4,
+"y": 10.8,
+"npc": "Linuhanu"
+}
+],
+"The Lifting of Wings": [
+{
+"level": 90,
+"zone": "Kozama'uka",
+"x": 19.6,
+"y": 10.8,
+"npc": "Wuk Lamat"
+}
+],
+"Knowing the Hanuhanu": [
+{
+"level": 90,
+"zone": "Kozama'uka",
+"x": 19.5,
+"y": 10.8,
+"npc": "Wuk Evu"
+}
+],
+"To Urqopacha": [
+{
+"level": 90,
+"zone": "Tuliyollal",
+"x": 12.7,
+"y": 13.9,
+"npc": "approachable Pelu"
+}
+],
+"Traders of Happiness": [
+{
+"level": 90,
+"zone": "Urqopacha",
+"x": 29.0,
+"y": 13.7,
+"npc": "Wuk Lamat"
+}
+],
+"The Feat of Gold": [
+{
+"level": 90,
+"zone": "Urqopacha",
+"x": 25.7,
+"y": 12.1,
+"npc": "Erenville"
+}
+],
+"Mablu's Dream": [
+{
+"level": 90,
+"zone": "Urqopacha",
+"x": 29.5,
+"y": 17.1,
+"npc": "Wuk Lamat"
+}
+],
+"A Premium Deal": [
+{
+"level": 90,
+"zone": "Urqopacha",
+"x": 13.4,
+"y": 12.1,
+"npc": "Wuk Lamat"
+}
+],
+"Wuk Lamat in the Saddle": [
+{
+"level": 90,
+"zone": "Urqopacha",
+"x": 28.3,
+"y": 12.6,
+"npc": "Wuk Lamat"
+}
+],
+"Knowing the Pelupelu": [
+{
+"level": 90,
+"zone": "Urqopacha",
+"x": 21.1,
+"y": 8.5,
+"npc": "Mablu"
+}
+],
+"The Success of Others": [
+{
+"level": 91,
+"zone": "Tuliyollal",
+"x": 12.7,
+"y": 13.8,
+"npc": "Wuk Lamat"
+}
+],
+"For All Turali": [
+{
+"level": 91,
+"zone": "Tuliyollal",
+"x": 11.1,
+"y": 15.1,
+"npc": "Wuk Lamat"
+}
+],
+"A Leaking Workpot": [
+{
+"level": 92,
+"zone": "Kozama'uka",
+"x": 33.1,
+"y": 24.5,
+"npc": "Erenville"
+}
+],
+"Lending a Helphand": [
+{
+"level": 92,
+"zone": "Kozama'uka",
+"x": 12.1,
+"y": 28.4,
+"npc": "Rakorok"
+}
+],
+"The Feat of Pots": [
+{
+"level": 92,
+"zone": "Kozama'uka",
+"x": 12.5,
+"y": 28.4,
+"npc": "Koana"
+}
+],
+"A Father First": [
+{
+"level": 92,
+"zone": "Tuliyollal",
+"x": 16.2,
+"y": 11.3,
+"npc": "Wuk Lamat"
+}
+],
+"The Shape of Peace": [
+{
+"level": 92,
+"zone": "Tuliyollal",
+"x": 9.9,
+"y": 4.5,
+"npc": "Wuk Lamat"
+}
+],
+"Lost Promise": [
+{
+"level": 92,
+"zone": "Kozama'uka",
+"x": 10.9,
+"y": 28.3,
+"npc": "Koana"
+}
+],
+"A Brother's Duty": [
+{
+"level": 92,
+"zone": "Kozama'uka",
+"x": 32.4,
+"y": 24.6,
+"npc": "Koana"
+}
+],
+"Feeding the River": [
+{
+"level": 92,
+"zone": "Kozama'uka",
+"x": 33.7,
+"y": 25.3,
+"npc": "Koana"
+}
+],
+"Sibling Rescue": [
+{
+"level": 92,
+"zone": "Kozama'uka",
+"x": 31.9,
+"y": 25.5,
+"npc": "Koana"
+}
+],
+"History's Keepers": [
+{
+"level": 93,
+"zone": "Kozama'uka",
+"x": 33.7,
+"y": 25.3,
+"npc": "Wuk Lamat"
+}
+],
+"The Feat of Proof": [
+{
+"level": 93,
+"zone": "Urqopacha",
+"x": 28.9,
+"y": 33.7,
+"npc": "Alphinaud"
+}
+],
+"The High Luminary": [
+{
+"level": 93,
+"zone": "Urqopacha",
+"x": 13.2,
+"y": 32.5,
+"npc": "Wuk Lamat"
+}
+],
+"An Echo of Madness": [
+{
+"level": 93,
+"zone": "Urqopacha",
+"x": 29.6,
+"y": 33.8,
+"npc": "Alphinaud"
+}
+],
+"Pointing the Way": [
+{
+"level": 93,
+"zone": "Urqopacha",
+"x": 28.9,
+"y": 33.7,
+"npc": "Erenville"
+}
+],
+"The Skyruin": [
+{
+"level": 93,
+"zone": "Urqopacha",
+"x": 33.0,
+"y": 28.7,
+"npc": "Erenville"
+}
+],
+"The Feat of Ice": [
+{
+"level": 93,
+"zone": "Urqopacha",
+"x": 5.4,
+"y": 24.2,
+"npc": "Thancred"
+}
+],
+"The Promise of Peace": [
+{
+"level": 93,
+"zone": "Urqopacha",
+"x": 28.8,
+"y": 33.6,
+"npc": "Erenville"
+}
+],
+"The Leap to Yak T'el": [
+{
+"level": 94,
+"zone": "Tuliyollal",
+"x": 10.1,
+"y": 15.1,
+"npc": "Alphinaud"
+}
+],
+"Village of the Hunt": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 14.4,
+"y": 12.8,
+"npc": "Wuk Lamat"
+}
+],
+"A History of Violence": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 11.1,
+"y": 13.1,
+"npc": "Koana"
+}
+],
+"The Feat of Repast": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 31.0,
+"y": 14.3,
+"npc": "Koana"
+}
+],
+"A Father's Grief": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 11.1,
+"y": 13.1,
+"npc": "Alphinaud"
+}
+],
+"Taking a Stand": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 9.7,
+"y": 13.4,
+"npc": "Hunmu Rruk"
+}
+],
+"Into the Traverse": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 10.9,
+"y": 13.0,
+"npc": "Wuk Lamat"
+}
+],
+"City of Silence": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 36.3,
+"y": 31.8,
+"npc": "Wuk Lamat"
+}
+],
+"Blessed Siblings": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 26.2,
+"y": 34.3,
+"npc": "Miilal Ja"
+}
+],
+"Scale of Trust": [
+{
+"level": 94,
+"zone": "Yak T'el",
+"x": 35.9,
+"y": 32.4,
+"npc": "Alphinaud"
+}
+],
+"Mamook Speaks": [
+{
+"level": 95,
+"zone": "Yak T'el",
+"x": 21.2,
+"y": 21.5,
+"npc": "Wuk Lamat"
+}
+],
+"The Feat of the Brotherhood": [
+{
+"level": 95,
+"zone": "Yak T'el",
+"x": 21.2,
+"y": 21.5,
+"npc": "Wuk Lamat"
+}
+],
+"Road to the Golden City": [
+{
+"level": 95,
+"zone": "Yak T'el",
+"x": 31.6,
+"y": 32.7,
+"npc": "Ketenramm"
+}
+],
+"Dawn of a New Tomorrow": [
+{
+"level": 95,
+"zone": "Tuliyollal",
+"x": 10.0,
+"y": 15.2,
+"npc": "Peshekwa"
+}
+],
+"Ever Greater, Ever Brighter": [
+{
+"level": 95,
+"zone": "Tuliyollal",
+"x": 11.7,
+"y": 7.6,
+"npc": "Krile"
+}
+],
+"The Long Road to Xak Tural": [
+{
+"level": 95,
+"zone": "Tuliyollal",
+"x": 14.3,
+"y": 2.5,
+"npc": "Erenville"
+}
+],
+"Saddled Up": [
+{
+"level": 95,
+"zone": "Shaaloani",
+"x": 28.4,
+"y": 30.4,
+"npc": "Erenville"
+}
+],
+"Braced for Trouble": [
+{
+"level": 95,
+"zone": "Shaaloani",
+"x": 15.2,
+"y": 17.9,
+"npc": "Erenville"
+}
+],
+"Blowing Smoke": [
+{
+"level": 95,
+"zone": "Shaaloani",
+"x": 9.8,
+"y": 20.3,
+"npc": "Erenville"
+}
+],
+"Law of the Land": [
+{
+"level": 95,
+"zone": "Shaaloani",
+"x": 12.6,
+"y": 19.1,
+"npc": "Erenville"
+}
+],
+"One with Nature": [
+{
+"level": 96,
+"zone": "Shaaloani",
+"x": 14.5,
+"y": 19.4,
+"npc": "Erenville"
+}
+],
+"And the Land Would Tremble": [
+{
+"level": 96,
+"zone": "Shaaloani",
+"x": 28.4,
+"y": 12.6,
+"npc": "Erenville"
+}
+],
+"No Time for Tears": [
+{
+"level": 96,
+"zone": "Sunperch",
+"x": 5.8,
+"y": 4.7,
+"npc": "Wuk Lamat"
+}
+],
+"Pick up the Pieces": [
+{
+"level": 96,
+"zone": "Tuliyollal",
+"x": 14.7,
+"y": 11.5,
+"npc": "Alisaie"
+}
+],
+"Together as One": [
+{
+"level": 96,
+"zone": "Sunperch",
+"x": 6.2,
+"y": 4.4,
+"npc": "Wuk Lamat"
+}
+],
+"In Yyasulani's Shadow": [
+{
+"level": 96,
+"zone": "Tuliyollal",
+"x": 12.1,
+"y": 7.8,
+"npc": "Alphinaud"
+}
+],
+"Putting Plans into Locomotion": [
+{
+"level": 96,
+"zone": "Shaaloani",
+"x": 18.2,
+"y": 14.3,
+"npc": "G'raha Tia"
+}
+],
+"A Hot Commodity": [
+{
+"level": 96,
+"zone": "Shaaloani",
+"x": 15.2,
+"y": 17.9,
+"npc": "Iyaate"
+}
+],
+"All Aboard": [
+{
+"level": 97,
+"zone": "Shaaloani",
+"x": 18.7,
+"y": 13.9,
+"npc": "Wawlika"
+}
+],
+"The Land of Levin": [
+{
+"level": 97,
+"zone": "Heritage Found",
+"x": 34.5,
+"y": 35.4,
+"npc": "Erenville"
+}
+],
+"A Royal Welcome": [
+{
+"level": 97,
+"zone": "Heritage Found",
+"x": 27.2,
+"y": 18.1,
+"npc": "Alisaie"
+}
+],
+"A Day in the Life": [
+{
+"level": 97,
+"zone": "Heritage Found",
+"x": 17.9,
+"y": 10.6,
+"npc": "Sphene"
+}
+],
+"On the Cloud": [
+{
+"level": 97,
+"zone": "Heritage Found",
+"x": 19.2,
+"y": 14.5,
+"npc": "Sphene"
+}
+],
+"Gone and Forgotten": [
+{
+"level": 97,
+"zone": "Earthen Sky Hideout",
+"x": 6.1,
+"y": 6.3,
+"npc": "Erenville"
+}
+],
+"Embracing Oblivion": [
+{
+"level": 97,
+"zone": "Heritage Found",
+"x": 30.6,
+"y": 12.0,
+"npc": "Cahciua"
+}
+],
+"Solution Nine": [
+{
+"level": 97,
+"zone": "Earthen Sky Hideout",
+"x": 6.1,
+"y": 6.3,
+"npc": "Wuk Lamat"
+}
+],
+"The Queen's Tour": [
+{
+"level": 97,
+"zone": "Solution Nine",
+"x": 9.7,
+"y": 13.3,
+"npc": "Sphene"
+}
+],
+"Her People, Her Family": [
+{
+"level": 98,
+"zone": "Solution Nine",
+"x": 4.3,
+"y": 19.7,
+"npc": "Sphene"
+}
+],
+"Scales of Blue": [
+{
+"level": 98,
+"zone": "Solution Nine",
+"x": 15.1,
+"y": 14.3,
+"npc": "Wuk Lamat"
+}
+],
+"Gives You Teeth": [
+{
+"level": 98,
+"zone": "Solution Nine",
+"x": 18.4,
+"y": 18.3,
+"npc": "Tassos"
+}
+],
+"Little Footfalls": [
+{
+"level": 98,
+"zone": "The Backroom",
+"x": 6.2,
+"y": 6.4,
+"npc": "Wuk Lamat"
+}
+],
+"Drowned Vestiges": [
+{
+"level": 98,
+"zone": "Heritage Found",
+"x": 7.4,
+"y": 17.3,
+"npc": "Wuk Lamat"
+}
+],
+"Memories of a Knight": [
+{
+"level": 98,
+"zone": "Heritage Found",
+"x": 12.2,
+"y": 27.8,
+"npc": "Otis"
+}
+],
+"At a Crossroads": [
+{
+"level": 98,
+"zone": "Heritage Found",
+"x": 12.2,
+"y": 27.8,
+"npc": "Otis"
+}
+],
+"The Protector and the Destroyer": [
+{
+"level": 98,
+"zone": "Heritage Found",
+"x": 15.5,
+"y": 8.0,
+"npc": "Wuk Lamat"
+}
+],
+"A Comforting Hand": [
+{
+"level": 99,
+"zone": "Solution Nine",
+"x": 19.4,
+"y": 14.4,
+"npc": "Wuk Lamat"
+}
+],
+"Unto the Summit": [
+{
+"level": 99,
+"zone": "The Backroom",
+"x": 6.0,
+"y": 6.3,
+"npc": "Cahciua"
+}
+],
+"The Resilient Son": [
+{
+"level": 99,
+"zone": "Heritage Found",
+"x": 15.6,
+"y": 5.1,
+"npc": "Cahciua"
+}
+],
+"A New Family": [
+{
+"level": 99,
+"zone": "The Backroom",
+"x": 6.0,
+"y": 6.4,
+"npc": "Wuk Lamat"
+}
+],
+"In Pursuit of Sphene": [
+{
+"level": 99,
+"zone": "Tuliyollal",
+"x": 15.8,
+"y": 4.1,
+"npc": "Wuk Lamat"
+}
+],
+"Through the Gate of Gold": [
+{
+"level": 99,
+"zone": "Tuliyollal",
+"x": 12.4,
+"y": 13.0,
+"npc": "Wuk Lamat"
+}
+],
+"Those Who Live Forever": [
+{
+"level": 99,
+"zone": "Living Memory",
+"x": 21.5,
+"y": 28.7,
+"npc": "Wuk Lamat"
+}
+],
+"In Serenity and Sorrow": [
+{
+"level": 99,
+"zone": "Living Memory",
+"x": 16.2,
+"y": 32.2,
+"npc": "G'raha Tia"
+}
+],
+"The Land of Dreams": [
+{
+"level": 99,
+"zone": "Living Memory",
+"x": 7.5,
+"y": 27.8,
+"npc": "Cahciua"
+}
+],
+"A Knight of Alexandria": [
+{
+"level": 99,
+"zone": "Living Memory",
+"x": 29.2,
+"y": 32.6,
+"npc": "Wuk Lamat"
+}
+],
+"The Sanctuary of the Strong": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 36.4,
+"y": 25.8,
+"npc": "Cahciua"
+}
+],
+"The Taste of Family": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 28.4,
+"y": 15.6,
+"npc": "Krile"
+}
+],
+"Leafing through the Past": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 35.5,
+"y": 15.4,
+"npc": "Krile"
+}
+],
+"An Explorer's Delight": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 31.2,
+"y": 14.9,
+"npc": "Cahciua"
+}
+],
+"In Search of Discovery": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 16.7,
+"y": 20.1,
+"npc": "Cahciua"
+}
+],
+"A Journey Never-ending": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 11.1,
+"y": 12.6,
+"npc": "Cahciua"
+}
+],
+"Dawntrail": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 11.5,
+"y": 4.7,
+"npc": "Wuk Lamat"
+}
+],
+"A Royal Invitation": [
+{
+"level": 100,
+"zone": "Tuliyollal",
+"x": 10.1,
+"y": 15.1,
+"npc": "Bol Wuruq"
+}
+],
+"Alexandria Mourns": [
+{
+"level": 100,
+"zone": "The Backroom",
+"x": 6.0,
+"y": 6.4,
+"npc": "Gulool Ja"
+}
+],
+"In Search of the Past": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 6.3,
+"y": 15.3,
+"npc": "G'raha Tia"
+}
+],
+"Among the Abandoned": [
+{
+"level": 100,
+"zone": "Yuweyawata",
+"x": 11.9,
+"y": 13.0,
+"npc": "Krile"
+}
+],
+"Guidance of the Hhetso": [
+{
+"level": 100,
+"zone": "The Backroom",
+"x": 6.1,
+"y": 6.4,
+"npc": "Geode"
+}
+],
+"The Warmth of Family": [
+{
+"level": 100,
+"zone": "Shaaloani",
+"x": 27.4,
+"y": 10.9,
+"npc": "Koana"
+}
+],
+"Crossroads": [
+{
+"level": 100,
+"zone": "Shaaloani",
+"x": 18.1,
+"y": 14.0,
+"npc": "Wuk Lamat"
+}
+],
+"A Glimmer of the Past": [
+{
+"level": 100,
+"zone": "The Backroom",
+"x": 6.0,
+"y": 6.4,
+"npc": "Krile"
+}
+],
+"Memories of a Bygone Age": [
+{
+"level": 100,
+"zone": "Break Room",
+"x": 6.2,
+"y": 6.2,
+"npc": "Sphene"
+}
+],
+"In Search of Meaning": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 5.5,
+"y": 14.0,
+"npc": "Sphene"
+}
+],
+"A Jewel Shattered": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 17.2,
+"y": 19.7,
+"npc": "Sphene"
+}
+],
+"The Meeting": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 17.8,
+"y": 17.9,
+"npc": "Sphene"
+}
+],
+"Descent to the Foundation": [
+{
+"level": 100,
+"zone": "The Backroom",
+"x": 6.0,
+"y": 6.4,
+"npc": "Shale"
+}
+],
+"Shared Paths": [
+{
+"level": 100,
+"zone": "Throne Room",
+"x": 6.1,
+"y": 6.5,
+"npc": "Sphene"
+}
+],
+"Seekers of Eternity": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 4.3,
+"y": 19.7,
+"npc": "Sphene"
+}
+],
+"Targeted Tragedy": [
+{
+"level": 100,
+"zone": "The Backroom",
+"x": 6.0,
+"y": 6.4,
+"npc": "Shale"
+}
+],
+"The Endless Choice": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 4.3,
+"y": 19.0,
+"npc": "Wayakkwe"
+}
+],
+"My Memories and Yours": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 9.7,
+"y": 21.9,
+"npc": "Sphene"
+}
+],
+"A Darkness in the Heart": [
+{
+"level": 100,
+"zone": "Earthen Sky Hideout",
+"x": 6.3,
+"y": 5.9,
+"npc": "Shale"
+}
+],
+"Preservation Their Purpose": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 11.9,
+"y": 5.9,
+"npc": "Wuk Lamat"
+}
+],
+"A Calculated Evolution": [
+{
+"level": 100,
+"zone": "Containment Complex 10-29",
+"x": 6.4,
+"y": 6.7,
+"npc": "Shale"
+}
+],
+"One of Our Own": [
+{
+"level": 100,
+"zone": "The Backroom",
+"x": 6.1,
+"y": 6.4,
+"npc": "Sphene"
+}
+],
+"A Terminal Invitation": [
+{
+"level": 100,
+"zone": "Living Memory",
+"x": 21.5,
+"y": 36.9,
+"npc": "Y'shtola"
+}
+],
+"Blades in Waiting": [
+{
+"level": 100,
+"zone": "Heritage Found",
+"x": 18.6,
+"y": 11.6,
+"npc": "Sphene"
+}
+],
+"The Promise of Tomorrow": [
+{
+"level": 100,
+"zone": "The Backroom",
+"x": 6.1,
+"y": 6.4,
+"npc": "Shale"
+}
+],
+"With the Winds": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 11.9,
+"y": 6.4,
+"npc": "Alphinaud"
+}
+],
+"Through the Thunder": [
+{
+"level": 100,
+"zone": "Tuliyollal",
+"x": 16.0,
+"y": 14.5,
+"npc": "Krile"
+}
+],
+"Beyond the Mountains": [
+{
+"level": 100,
+"zone": "Alexandria Crater",
+"x": 6.0,
+"y": 6.5,
+"npc": "Krile"
+}
+],
+"Around the City": [
+{
+"level": 100,
+"zone": "Treno",
+"x": 11.5,
+"y": 11.6,
+"npc": "Lumull"
+}
+],
+"To Work": [
+{
+"level": 100,
+"zone": "Treno",
+"x": 11.5,
+"y": 11.6,
+"npc": "Lumull"
+}
+],
+"In Her Heart": [
+{
+"level": 100,
+"zone": "Treno",
+"x": 10.9,
+"y": 10.1,
+"npc": "Eyaney"
+}
+],
+"Toward Trouble": [
+{
+"level": 100,
+"zone": "Treno",
+"x": 10.9,
+"y": 10.1,
+"npc": "Krile"
+}
+],
+"Where We Call Home": [
+{
+"level": 100,
+"zone": "Treno",
+"x": 11.8,
+"y": 15.1,
+"npc": "Lumull"
+}
+],
+"Into the Mist": [
+{
+"level": 100,
+"zone": "Treno",
+"x": 11.6,
+"y": 12.3,
+"npc": "Krile"
+}
+],
+"In Fate's Footsteps": [
+{
+"level": 100,
+"zone": "Solution Nine",
+"x": 12.7,
+"y": 6.0,
+"npc": "Krile"
+}
+],
+"Two Worlds Entwined": [
+{
+"level": 100,
+"zone": "Main Hall",
+"x": 6.1,
+"y": 6.1,
+"npc": "G'raha Tia"
+}
+],
+"A Grave Presentiment": [
+{
+"level": 100,
+"zone": "Garlemald",
+"x": 32.1,
+"y": 16.9,
+"npc": "Thancred"
+}
+],
+"A Beacon from Beyond": [
+{
+"level": 100,
+"zone": "The Red Moon",
+"x": 6.1,
+"y": 3.8,
+"npc": "Zero"
+}
+],
+"Trail to the Heavens": [
+{
+"level": 100,
+"zone": "Mare Lamentorum",
+"x": 21.0,
+"y": 11.7,
+"npc": "Alphinaud"
+}
+],
+"A Winter's Dream": [
+{
+"level": 100,
+"zone": "The Rising Stones",
+"x": 6.1,
+"y": 6.0,
+"npc": "Tataru"
+}
+],
+"A Rush of Cold Wind": [
+{
+"level": 100,
+"zone": "Unmoored Isle",
+"x": 6.3,
+"y": 6.7,
+"npc": "Estinien"
+}
+],
+"The World Locked in Ice": [
+{
+"level": 100,
+"zone": "Unmoored Isle",
+"x": 6.2,
+"y": 5.8,
+"npc": "Visna"
+}
+],
+"Windborne": [
+{
+"level": 100,
+"zone": "Unmoored Isle",
+"x": 6.2,
+"y": 5.8,
+"npc": "Alphinaud"
+}
+]
+}

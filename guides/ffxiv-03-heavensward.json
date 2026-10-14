@@ -10,21 +10,33 @@
     "Foundation"
    ],
    "target": {
-    "zone": "Foundation",
-    "x": 9.9,
-    "y": 12.1,
-    "label": "Foundation aetheryte (attune here)"
+    "zone": "Intercessory",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
    }
   },
   {
    "section": "Levels 50-51 – Main chain",
    "title": "Taking in the Sights",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Fortemps Manor",
+    "x": 6.1,
+    "y": 6.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain",
    "title": "The Better Half",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 10.2,
+    "y": 11.6,
+    "label": "House Fortemps manservant (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
@@ -38,41 +50,77 @@
     "Anyx Trine"
    ],
    "target": {
-    "zone": "Coerthas Western Highlands",
-    "x": 32,
-    "y": 36.7,
-    "label": "Falcon's Nest aetheryte (attune here)"
+    "zone": "Fortemps Manor",
+    "x": 6.2,
+    "y": 5.9,
+    "label": "Artoirel (quest start)"
    }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
    "title": "Work in Progress",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.7,
+    "y": 38.4,
+    "label": "Redwald (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
    "title": "The First and Foremost",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 31.5,
+    "y": 37.9,
+    "label": "Rothe (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
    "title": "From on High",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.6,
+    "y": 28.6,
+    "label": "Thierremont (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
    "title": "Reconnaissance Lost",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.7,
+    "y": 38.4,
+    "label": "Redwald (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
    "title": "At the End of Our Hope",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 24.3,
+    "y": 25.6,
+    "label": "Artoirel (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
    "title": "Knights Be Not Proud",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 31.9,
+    "y": 12.1,
+    "label": "Artoirel (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
@@ -83,41 +131,77 @@
     "Camp Cloudtop"
    ],
    "target": {
-    "zone": "The Sea of Clouds",
-    "x": 10.2,
-    "y": 33.4,
-    "label": "Camp Cloudtop aetheryte (attune here)"
+    "zone": "Fortemps Manor",
+    "x": 6,
+    "y": 6.1,
+    "label": "Emmanellain (quest start)"
    }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "An Indispensable Ally",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 17,
+    "y": 37.4,
+    "label": "Laniaitte (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "Meeting the Neighbors",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 17,
+    "y": 37.4,
+    "label": "Laniaitte (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "Sense of Urgency",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 15.4,
+    "y": 37.8,
+    "label": "Marielle (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "Hope Springs Eternal",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 15.4,
+    "y": 37.8,
+    "label": "Marielle (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "A Series of Unfortunate Events",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 23.9,
+    "y": 33.1,
+    "label": "Honoroit (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
    "title": "A Reward Long in Coming",
-   "text": "Level 50 · Main Scenario Quest (meteor icon)"
+   "text": "Level 50 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 9,
+    "y": 32.3,
+    "label": "Emmanellain (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
@@ -125,7 +209,13 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Fortemps Manor",
+    "x": 6.2,
+    "y": 6.2,
+    "label": "House Fortemps steward (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
@@ -133,17 +223,35 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Lucky Number 7"
-   ]
+   ],
+   "target": {
+    "zone": "The Pillars",
+    "x": 13.7,
+    "y": 8.1,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "Flame General Affairs",
-   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Fortemps Manor",
+    "x": 6.1,
+    "y": 6.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "In Search of Raubahn",
-   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.1,
+    "y": 5.1,
+    "label": "Higiri (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
@@ -151,27 +259,57 @@
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Gaol Break"
-   ]
+   ],
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 13.9,
+    "y": 29.3,
+    "label": "Hozan (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "To Siege or Not to Siege",
-   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.2,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "Alphinaud's Way",
-   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Fortemps Manor",
+    "x": 6.1,
+    "y": 6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "In Search of Iceheart",
-   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.4,
+    "y": 11.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "From One Heretic to Another",
-   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 31.8,
+    "y": 12.1,
+    "label": "expedition leader (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
@@ -179,12 +317,24 @@
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 31.6,
+    "y": 11.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
    "title": "Camp of the Convictors",
-   "text": "Level 51 · Main Scenario Quest (meteor icon)"
+   "text": "Level 51 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 17,
+    "y": 22.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain (continued)",
@@ -192,42 +342,90 @@
    "text": "Level 51 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 16.4,
+    "y": 22.5,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "Where the Chocobos Roam",
-   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+   "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 8.8,
+    "y": 14.8,
+    "label": "Ysayle (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "Worse than Dragons",
-   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+   "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 32,
+    "y": 23,
+    "label": "Marcechamp (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "The Trine Towers",
-   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+   "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 25.9,
+    "y": 22.4,
+    "label": "Ysayle (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "Gifts for the Outcasts",
-   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+   "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 17.6,
+    "y": 24.8,
+    "label": "Ysayle (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "The Nonmind",
-   "text": "Level 52 · Main Scenario Quest (meteor icon)"
+   "text": "Level 52 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 26.6,
+    "y": 17.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "A Gnathic Deity",
-   "text": "Level 53 · Main Scenario Quest (meteor icon)"
+   "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 24.1,
+    "y": 19.6,
+    "label": "Ysayle (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "Breaking into Hives",
-   "text": "Level 53 · Main Scenario Quest (meteor icon)"
+   "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 23.8,
+    "y": 20,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
@@ -236,7 +434,13 @@
    "unlocks": [
     "Thok ast Thok (Hard)",
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 30.5,
+    "y": 37.1,
+    "label": "Ysayle (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
@@ -246,47 +450,101 @@
     "The Churning Mists",
     "Sohm Al",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 23.8,
+    "y": 19.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 52-53",
    "title": "Beyond the Clouds",
-   "text": "Level 53 · Main Scenario Quest (meteor icon)"
+   "text": "Level 53 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 27.4,
+    "y": 34.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Mountaintop Diplomacy",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 29.9,
+    "y": 35.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Moghan's Trial",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 30.1,
+    "y": 36.5,
+    "label": "Moghan (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Mogmug's Trial",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 30.4,
+    "y": 35.6,
+    "label": "Mogmug (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Mogwin's Trial",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 29.7,
+    "y": 35.4,
+    "label": "Mogwin (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Moglin's Judgment",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 30.2,
+    "y": 36.6,
+    "label": "Moglin (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Leaving Moghome",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 30.1,
+    "y": 36.5,
+    "label": "Moghan (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "The Road to Zenith",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 27.4,
+    "y": 34.8,
+    "label": "Moghan (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
@@ -294,42 +552,90 @@
    "text": "Level 54 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 21,
+    "y": 26.7,
+    "label": "Moghan (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Heart of Ice",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 17.4,
+    "y": 33.8,
+    "label": "Moghan (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "The Wyrm's Lair",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 7.4,
+    "y": 26.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "New Winds, Old Friends",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 34,
+    "y": 15.2,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "A General Summons",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 8,
+    "y": 10.5,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Awakening in Ul'dah",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 16.9,
+    "y": 30.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "A Brave Resolution",
-   "text": "Level 54 · Main Scenario Quest (meteor icon)"
+   "text": "Level 54 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Thal",
+    "x": 10.8,
+    "y": 12.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "Ready to Fly",
-   "text": "Level 55 · Main Scenario Quest (meteor icon)"
+   "text": "Level 55 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 5.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
@@ -338,12 +644,24 @@
    "unlocks": [
     "The Aery",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Foundation",
+    "x": 13.4,
+    "y": 11.1,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Levels 54-55",
    "title": "The Song Begins",
-   "text": "Level 55 · Main Scenario Quest (meteor icon)"
+   "text": "Level 55 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 33.6,
+    "y": 15.5,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
@@ -351,42 +669,90 @@
    "text": "Level 56 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Orthodox Mayhem"
-   ]
+   ],
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 7.5,
+    "y": 26.8,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "He Who Would Not Be Denied",
-   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+   "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 8,
+    "y": 8.9,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Ill-weather Friends",
-   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+   "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Fortemps Manor",
+    "x": 6.1,
+    "y": 6.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "The Spice of Life",
-   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+   "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.2,
+    "y": 12.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Noble Indiscretions",
-   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+   "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13,
+    "y": 11.9,
+    "label": "Gibrillont (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "A Child Apart",
-   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+   "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13,
+    "y": 11.9,
+    "label": "Gibrillont (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Bloodlines",
-   "text": "Level 56 · Main Scenario Quest (meteor icon)"
+   "text": "Level 56 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13,
+    "y": 11.9,
+    "label": "Gibrillont (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Fire and Blood",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.3,
+    "y": 11.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
@@ -394,7 +760,13 @@
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Vault"
-   ]
+   ],
+   "target": {
+    "zone": "Foundation",
+    "x": 13,
+    "y": 11.5,
+    "label": "Hilda (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
@@ -402,12 +774,24 @@
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "You Say You Want a Revolution"
-   ]
+   ],
+   "target": {
+    "zone": "The Pillars",
+    "x": 11.5,
+    "y": 11.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "In Search of the Soleil",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.5,
+    "y": 11.2,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
@@ -418,26 +802,44 @@
     "Ok' Zundu"
    ],
    "target": {
-    "zone": "The Sea of Clouds",
-    "x": 10.3,
-    "y": 14.2,
-    "label": "Ok' Zundu aetheryte (attune here)"
+    "zone": "Foundation",
+    "x": 8.1,
+    "y": 10.2,
+    "label": "Alphinaud (quest start)"
    }
   },
   {
    "section": "Levels 56-57",
    "title": "Familiar Faces",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 6.5,
+    "y": 25.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Devourer of Worlds",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 7.5,
+    "y": 23,
+    "label": "Lonu Vanu (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Black and the White",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 11.7,
+    "y": 14.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
@@ -447,12 +849,24 @@
     "The Limitless Blue (Hard)",
     "Aether Current",
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 10.9,
+    "y": 13.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "A Difference of Opinion",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 19.4,
+    "y": 11.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
@@ -460,32 +874,68 @@
    "text": "Level 57 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Faith That Drives Us"
-   ]
+   ],
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 19.5,
+    "y": 11.7,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "An Engineering Enterprise",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Pillars",
+    "x": 14.5,
+    "y": 12,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Aetherial Trail",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.1,
+    "y": 11.9,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Lost in the Lifestream",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Gridania",
+    "x": 8.1,
+    "y": 10.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Tataru's Surprise",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 12,
+    "y": 13.2,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Levels 56-57",
    "title": "Onward to Sharlayan",
-   "text": "Level 57 · Main Scenario Quest (meteor icon)"
+   "text": "Level 57 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 12,
+    "y": 13.2,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -496,26 +946,44 @@
     "Idyllshire"
    ],
    "target": {
-    "zone": "Idyllshire",
-    "x": 7.5,
-    "y": 5.7,
-    "label": "Idyllshire aetheryte (attune here)"
+    "zone": "The Dravanian Forelands",
+    "x": 34.3,
+    "y": 24,
+    "label": "Y'shtola (quest start)"
    }
   },
   {
    "section": "Levels 58-60",
    "title": "Golems Begone",
-   "text": "Level 58 · Main Scenario Quest (meteor icon)"
+   "text": "Level 58 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Idyllshire",
+    "x": 7.6,
+    "y": 6.6,
+    "label": "Slowfix (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
    "title": "An Illuminati Incident",
-   "text": "Level 58 · Main Scenario Quest (meteor icon)"
+   "text": "Level 58 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Idyllshire",
+    "x": 7.6,
+    "y": 6.6,
+    "label": "Slowfix (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
    "title": "Leaving Idyllshire",
-   "text": "Level 58 · Main Scenario Quest (meteor icon)"
+   "text": "Level 58 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Idyllshire",
+    "x": 7.6,
+    "y": 6.6,
+    "label": "Slowfix (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -524,7 +992,13 @@
    "unlocks": [
     "Matoya's Cave (zone)",
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Idyllshire",
+    "x": 7.7,
+    "y": 8.7,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -533,12 +1007,24 @@
    "unlocks": [
     "The Great Gubal Library",
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Matoya's Cave",
+    "x": 6.5,
+    "y": 6.4,
+    "label": "Matoya (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
    "title": "An Eye for Aether",
-   "text": "Level 59 · Main Scenario Quest (meteor icon)"
+   "text": "Level 59 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Matoya's Cave",
+    "x": 6.5,
+    "y": 6.4,
+    "label": "Matoya (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -546,7 +1032,13 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Hope Enkindled"
-   ]
+   ],
+   "target": {
+    "zone": "The Pillars",
+    "x": 14.6,
+    "y": 12.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -557,10 +1049,10 @@
     "Helix"
    ],
    "target": {
-    "zone": "Azys Lla",
-    "x": 8,
-    "y": 10.6,
-    "label": "Helix aetheryte (attune here)"
+    "zone": "The Pillars",
+    "x": 14.6,
+    "y": 12.3,
+    "label": "Alphinaud (quest start)"
    }
   },
   {
@@ -569,7 +1061,13 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 9.6,
+    "y": 11.3,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -577,7 +1075,13 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 9.8,
+    "y": 11,
+    "label": "guidance node (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -585,7 +1089,13 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 27.3,
+    "y": 10.2,
+    "label": "guidance node (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -594,7 +1104,13 @@
    "unlocks": [
     "Aether Current",
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 35.3,
+    "y": 24.1,
+    "label": "guidance node (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -602,7 +1118,13 @@
    "text": "Level 59 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Aether Current"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 18.6,
+    "y": 31.7,
+    "label": "guidance node (quest start)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -613,7 +1135,13 @@
     "The Singularity Reactor",
     "Looking Up",
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 16.2,
+    "y": 22.5,
+    "label": "guidance node (quest start)"
+   }
   }
  ]
 }

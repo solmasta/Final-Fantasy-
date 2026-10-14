@@ -4,12 +4,24 @@
   {
    "section": "Patch 7.1 (Crossroads)",
    "title": "A Royal Invitation",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 10.1,
+    "y": 15.1,
+    "label": "Bol Wuruq (quest start)"
+   }
   },
   {
    "section": "Patch 7.1 (Crossroads)",
    "title": "Alexandria Mourns",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Backroom",
+    "x": 6,
+    "y": 6.4,
+    "label": "Gulool Ja (quest start)"
+   }
   },
   {
    "section": "Patch 7.1 (Crossroads)",
@@ -17,22 +29,46 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Yuweyawata Field Station"
-   ]
+   ],
+   "target": {
+    "zone": "Solution Nine",
+    "x": 6.3,
+    "y": 15.3,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Patch 7.1 (Crossroads)",
    "title": "Among the Abandoned",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Yuweyawata",
+    "x": 11.9,
+    "y": 13,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 7.1 (Crossroads)",
    "title": "Guidance of the Hhetso",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Backroom",
+    "x": 6.1,
+    "y": 6.4,
+    "label": "Geode (quest start)"
+   }
   },
   {
    "section": "Patch 7.1 (Crossroads)",
    "title": "The Warmth of Family",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Shaaloani",
+    "x": 27.4,
+    "y": 10.9,
+    "label": "Koana (quest start)"
+   }
   },
   {
    "section": "Patch 7.1 (Crossroads)",
@@ -40,32 +76,68 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Crossroads"
-   ]
+   ],
+   "target": {
+    "zone": "Shaaloani",
+    "x": 18.1,
+    "y": 14,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "A Glimmer of the Past",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Backroom",
+    "x": 6,
+    "y": 6.4,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "Memories of a Bygone Age",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Break Room",
+    "x": 6.2,
+    "y": 6.2,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "In Search of Meaning",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 5.5,
+    "y": 14,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "A Jewel Shattered",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 17.2,
+    "y": 19.7,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "The Meeting",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 17.8,
+    "y": 17.9,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
@@ -74,12 +146,24 @@
    "unlocks": [
     "The Underkeep",
     "Recollection"
-   ]
+   ],
+   "target": {
+    "zone": "The Backroom",
+    "x": 6,
+    "y": 6.4,
+    "label": "Shale (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
    "title": "Shared Paths",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Throne Room",
+    "x": 6.1,
+    "y": 6.5,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.2 (Seekers of Eternity)",
@@ -87,42 +171,90 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Seekers of Eternity"
-   ]
+   ],
+   "target": {
+    "zone": "Solution Nine",
+    "x": 4.3,
+    "y": 19.7,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "Targeted Tragedy",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Backroom",
+    "x": 6,
+    "y": 6.4,
+    "label": "Shale (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "The Endless Choice",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 4.3,
+    "y": 19,
+    "label": "Wayakkwe (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "My Memories and Yours",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 9.7,
+    "y": 21.9,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "A Darkness in the Heart",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Earthen Sky Hideout",
+    "x": 6.3,
+    "y": 5.9,
+    "label": "Shale (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "Preservation Their Purpose",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 11.9,
+    "y": 5.9,
+    "label": "Wuk Lamat (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "A Calculated Evolution",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Containment Complex 10-29",
+    "x": 6.4,
+    "y": 6.7,
+    "label": "Shale (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "One of Our Own",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Backroom",
+    "x": 6.1,
+    "y": 6.4,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
@@ -131,12 +263,24 @@
    "unlocks": [
     "The Meso Terminal",
     "The Ageless Necropolis"
-   ]
+   ],
+   "target": {
+    "zone": "Living Memory",
+    "x": 21.5,
+    "y": 36.9,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
    "title": "Blades in Waiting",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heritage Found",
+    "x": 18.6,
+    "y": 11.6,
+    "label": "Sphene (quest start)"
+   }
   },
   {
    "section": "Patch 7.3 (The Promise of Tomorrow)",
@@ -144,17 +288,35 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "In Memoriam"
-   ]
+   ],
+   "target": {
+    "zone": "The Backroom",
+    "x": 6.1,
+    "y": 6.4,
+    "label": "Shale (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
    "title": "With the Winds",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 11.9,
+    "y": 6.4,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
    "title": "Through the Thunder",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 16,
+    "y": 14.5,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
@@ -162,27 +324,57 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mistwake"
-   ]
+   ],
+   "target": {
+    "zone": "Alexandria Crater",
+    "x": 6,
+    "y": 6.5,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
    "title": "Around the City",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Treno",
+    "x": 11.5,
+    "y": 11.6,
+    "label": "Lumull (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
    "title": "To Work",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Treno",
+    "x": 11.5,
+    "y": 11.6,
+    "label": "Lumull (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
    "title": "In Her Heart",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Treno",
+    "x": 10.9,
+    "y": 10.1,
+    "label": "Eyaney (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
    "title": "Toward Trouble",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Treno",
+    "x": 10.9,
+    "y": 10.1,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
@@ -190,7 +382,13 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Hell on Rails"
-   ]
+   ],
+   "target": {
+    "zone": "Treno",
+    "x": 11.8,
+    "y": 15.1,
+    "label": "Lumull (quest start)"
+   }
   },
   {
    "section": "Patch 7.4 (Into the Mist)",
@@ -198,12 +396,24 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Into the Mist"
-   ]
+   ],
+   "target": {
+    "zone": "Treno",
+    "x": 11.6,
+    "y": 12.3,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
    "title": "In Fate's Footsteps",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Solution Nine",
+    "x": 12.7,
+    "y": 6,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
@@ -211,7 +421,13 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Clyteum"
-   ]
+   ],
+   "target": {
+    "zone": "Main Hall",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
@@ -219,12 +435,24 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Unmaking"
-   ]
+   ],
+   "target": {
+    "zone": "Garlemald",
+    "x": 32.1,
+    "y": 16.9,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
    "title": "A Beacon from Beyond",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Red Moon",
+    "x": 6.1,
+    "y": 3.8,
+    "label": "Zero (quest start)"
+   }
   },
   {
    "section": "Patch 7.5 (Trail to the Heavens - Part 1)",
@@ -232,22 +460,46 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Trail to the Heavens"
-   ]
+   ],
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 21,
+    "y": 11.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
    "title": "A Winter's Dream",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
    "title": "A Rush of Cold Wind",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Unmoored Isle",
+    "x": 6.3,
+    "y": 6.7,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
    "title": "The World Locked in Ice",
-   "text": "Level 100 · Main Scenario Quest (meteor icon)"
+   "text": "Level 100 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Unmoored Isle",
+    "x": 6.2,
+    "y": 5.8,
+    "label": "Visna (quest start)"
+   }
   },
   {
    "section": "Patch 7.56 (Trail to the Heavens - Part 2)",
@@ -255,7 +507,13 @@
    "text": "Level 100 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Onward and Upward"
-   ]
+   ],
+   "target": {
+    "zone": "Unmoored Isle",
+    "x": 6.2,
+    "y": 5.8,
+    "label": "Alphinaud (quest start)"
+   }
   }
  ]
 }

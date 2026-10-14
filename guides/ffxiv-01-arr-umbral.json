@@ -7,37 +7,79 @@
    "text": "Level 1 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Return"
-   ]
+   ],
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.7,
+    "y": 13.6,
+    "label": "Mother Miounne (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "To the Bannock",
-   "text": "Level 4 · Main Scenario Quest (meteor icon)"
+   "text": "Level 4 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.7,
+    "y": 13.6,
+    "label": "Mother Miounne (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Passing Muster",
-   "text": "Level 5 · Main Scenario Quest (meteor icon)"
+   "text": "Level 5 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 23.5,
+    "y": 19.9,
+    "label": "Galfrid (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Chasing Shadows",
-   "text": "Level 5 · Main Scenario Quest (meteor icon)"
+   "text": "Level 5 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 23.5,
+    "y": 19.9,
+    "label": "Galfrid (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Eggs over Queasy",
-   "text": "Level 7 · Main Scenario Quest (meteor icon)"
+   "text": "Level 7 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 23.5,
+    "y": 19.9,
+    "label": "Galfrid (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Surveying the Damage",
-   "text": "Level 8 · Main Scenario Quest (meteor icon)"
+   "text": "Level 8 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 25.5,
+    "y": 19.4,
+    "label": "Monranguin (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "A Soldier's Breakfast",
-   "text": "Level 9 · Main Scenario Quest (meteor icon)"
+   "text": "Level 9 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 27.3,
+    "y": 20.8,
+    "label": "Pauline (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
@@ -46,72 +88,156 @@
    "unlocks": [
     "Inn Rooms",
     "Guildleves"
-   ]
+   ],
+   "target": {
+    "zone": "Central Shroud",
+    "x": 23.5,
+    "y": 19.9,
+    "label": "Galfrid (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "On to Bentbranch",
-   "text": "Level 10 · Main Scenario Quest (meteor icon)"
+   "text": "Level 10 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.7,
+    "y": 13.6,
+    "label": "Mother Miounne (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "You Shall Not Trespass",
-   "text": "Level 10 · Main Scenario Quest (meteor icon)"
+   "text": "Level 10 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 20.3,
+    "y": 22,
+    "label": "Keitha (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Don't Look Down",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 19,
+    "y": 20.6,
+    "label": "Osha Jaab (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "In the Grim Darkness of the Forest",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 17.6,
+    "y": 19.2,
+    "label": "Theodore (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Threat Level Elevated",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 19,
+    "y": 20.6,
+    "label": "Roseline (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Migrant Marauders",
-   "text": "Level 12 · Main Scenario Quest (meteor icon)"
+   "text": "Level 12 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 20.2,
+    "y": 21.7,
+    "label": "Eylgar (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "A Hearer Is Often Late",
-   "text": "Level 13 · Main Scenario Quest (meteor icon)"
+   "text": "Level 13 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 22.5,
+    "y": 26.1,
+    "label": "Lothaire (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Salvaging the Scene",
-   "text": "Level 13 · Main Scenario Quest (meteor icon)"
+   "text": "Level 13 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 25.1,
+    "y": 28.2,
+    "label": "Armelle (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Leia's Legacy",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 20.3,
+    "y": 21.6,
+    "label": "Luquelot (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Dread Is in the Air",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Shroud",
+    "x": 20.3,
+    "y": 21.6,
+    "label": "Luquelot (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "To Guard a Guardian",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.7,
+    "y": 13.6,
+    "label": "Mother Miounne (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Festive Endeavors",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Seat of the First Bow",
+    "x": 3.6,
+    "y": 3.5,
+    "label": "Lewin (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Renewing the Covenant",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.7,
+    "y": 13.6,
+    "label": "Mother Miounne (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
@@ -120,12 +246,24 @@
    "unlocks": [
     "Airships",
     "Gone from Gridania"
-   ]
+   ],
+   "target": {
+    "zone": "Lotus Stand",
+    "x": 6.2,
+    "y": 6.1,
+    "label": "Kan-E-Senna (quest start)"
+   }
   },
   {
    "section": "Gridania start (Lancer / Archer / Conjurer)",
    "title": "Call of the Sea",
-   "text": "Level 15 · Main Scenario Quest (meteor icon)"
+   "text": "Level 15 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Gridania",
+    "x": 8.1,
+    "y": 11.2,
+    "label": "serpent officer (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
@@ -133,42 +271,90 @@
    "text": "Level 1 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Return"
-   ]
+   ],
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.7,
+    "y": 11.1,
+    "label": "Baderon (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "On to Summerford",
-   "text": "Level 4 · Main Scenario Quest (meteor icon)"
+   "text": "Level 4 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.7,
+    "y": 11.1,
+    "label": "Baderon (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Dressed to Call",
-   "text": "Level 5 · Main Scenario Quest (meteor icon)"
+   "text": "Level 5 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 25.6,
+    "y": 17,
+    "label": "Staelwyrn (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Lurkers in the Grotto",
-   "text": "Level 5 · Main Scenario Quest (meteor icon)"
+   "text": "Level 5 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 25.6,
+    "y": 17,
+    "label": "Staelwyrn (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Washed Up",
-   "text": "Level 7 · Main Scenario Quest (meteor icon)"
+   "text": "Level 7 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 25.6,
+    "y": 17,
+    "label": "Staelwyrn (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Double Dealing",
-   "text": "Level 8 · Main Scenario Quest (meteor icon)"
+   "text": "Level 8 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 25.6,
+    "y": 17,
+    "label": "Staelwyrn (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Loam Maintenance",
-   "text": "Level 9 · Main Scenario Quest (meteor icon)"
+   "text": "Level 9 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 25.6,
+    "y": 17.2,
+    "label": "Gurcant (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Plowshares to Swords",
-   "text": "Level 9 · Main Scenario Quest (meteor icon)"
+   "text": "Level 9 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 21.5,
+    "y": 15.3,
+    "label": "Pfrewahl (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
@@ -177,67 +363,145 @@
    "unlocks": [
     "Inn Rooms",
     "Guildleves"
-   ]
+   ],
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 25.6,
+    "y": 17,
+    "label": "Staelwyrn (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Sky-high",
-   "text": "Level 10 · Main Scenario Quest (meteor icon)"
+   "text": "Level 10 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.7,
+    "y": 11.1,
+    "label": "Baderon (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Thanks a Million",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Middle La Noscea",
+    "x": 15.8,
+    "y": 16.5,
+    "label": "Wyrkrhit (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Relighting the Torch",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 34.6,
+    "y": 31.9,
+    "label": "Fraeloef (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "On to the Drydocks",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 10.6,
+    "y": 15.4,
+    "label": "H'naanza (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Without a Doubt",
-   "text": "Level 12 · Main Scenario Quest (meteor icon)"
+   "text": "Level 12 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 26.5,
+    "y": 33.8,
+    "label": "Ahtbyrm (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Righting the Shipwright",
-   "text": "Level 12 · Main Scenario Quest (meteor icon)"
+   "text": "Level 12 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 20.8,
+    "y": 38.7,
+    "label": "Haldbroda (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Do Angry Pirates Dream",
-   "text": "Level 13 · Main Scenario Quest (meteor icon)"
+   "text": "Level 13 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 26.5,
+    "y": 33.8,
+    "label": "Ahtbyrm (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Victory in Peril",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 24.9,
+    "y": 35.2,
+    "label": "Ghimthota (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Men of the Blue Tattoos",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 24.9,
+    "y": 35.2,
+    "label": "Ghimthota (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "Feint and Strike",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.7,
+    "y": 11.1,
+    "label": "Baderon (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "High Society",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.2,
+    "y": 6,
+    "label": "Reyner (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
    "title": "A Mizzenmast Repast",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.7,
+    "y": 11.1,
+    "label": "Baderon (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
@@ -246,7 +510,13 @@
    "unlocks": [
     "Airships",
     "Leaving Limsa Lominsa"
-   ]
+   ],
+   "target": {
+    "zone": "Command Room",
+    "x": 3.6,
+    "y": 3.4,
+    "label": "Merlwyb (quest start)"
+   }
   },
   {
    "section": "Limsa Lominsa start (Marauder / Arcanist)",
@@ -259,37 +529,79 @@
    "text": "Level 1 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Return"
-   ]
+   ],
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "We Must Rebuild",
-   "text": "Level 4 · Main Scenario Quest (meteor icon)"
+   "text": "Level 4 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Nothing to See Here",
-   "text": "Level 5 · Main Scenario Quest (meteor icon)"
+   "text": "Level 5 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 23,
+    "y": 27.8,
+    "label": "Papashan (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Underneath the Sultantree",
-   "text": "Level 5 · Main Scenario Quest (meteor icon)"
+   "text": "Level 5 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 23,
+    "y": 27.8,
+    "label": "Papashan (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Step Nine",
-   "text": "Level 6 · Main Scenario Quest (meteor icon)"
+   "text": "Level 6 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 23.1,
+    "y": 27.7,
+    "label": "Cicidoa (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Prudence at This Junction",
-   "text": "Level 8 · Main Scenario Quest (meteor icon)"
+   "text": "Level 8 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 19.5,
+    "y": 20.7,
+    "label": "Roger (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Out of House and Home",
-   "text": "Level 9 · Main Scenario Quest (meteor icon)"
+   "text": "Level 9 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 20.8,
+    "y": 18.5,
+    "label": "Warin (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
@@ -298,77 +610,167 @@
    "unlocks": [
     "Inn Rooms",
     "Guildleves"
-   ]
+   ],
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 20.8,
+    "y": 18.4,
+    "label": "Zuzumeda (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Takin' What They're Givin'",
-   "text": "Level 10 · Main Scenario Quest (meteor icon)"
+   "text": "Level 10 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Supply and Demands",
-   "text": "Level 10 · Main Scenario Quest (meteor icon)"
+   "text": "Level 10 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 22.7,
+    "y": 17.4,
+    "label": "Dadanen (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Give It to Me Raw",
-   "text": "Level 10 · Main Scenario Quest (meteor icon)"
+   "text": "Level 10 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 26.3,
+    "y": 18.3,
+    "label": "Drunken Stag (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "The Perfect Swarm",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 26.3,
+    "y": 18.3,
+    "label": "Drunken Stag (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Last Letter to Lost Hope",
-   "text": "Level 11 · Main Scenario Quest (meteor icon)"
+   "text": "Level 11 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 22.7,
+    "y": 17.2,
+    "label": "Fufulupa (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Heir Today, Gone Tomorrow",
-   "text": "Level 12 · Main Scenario Quest (meteor icon)"
+   "text": "Level 12 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 23.4,
+    "y": 16,
+    "label": "Leofric (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Passing the Blade",
-   "text": "Level 12 · Main Scenario Quest (meteor icon)"
+   "text": "Level 12 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Central Thanalan",
+    "x": 23.4,
+    "y": 16,
+    "label": "Leofric (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Following Footfalls",
-   "text": "Level 13 · Main Scenario Quest (meteor icon)"
+   "text": "Level 13 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 22.7,
+    "y": 17.2,
+    "label": "Fufulupa (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Storms on the Horizon",
-   "text": "Level 13 · Main Scenario Quest (meteor icon)"
+   "text": "Level 13 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 17.9,
+    "y": 16.1,
+    "label": "Nunuzofu (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Oh Captain, My Captain",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 15,
+    "y": 18.9,
+    "label": "Merilda (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Secrets and Lies",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 22.7,
+    "y": 17.2,
+    "label": "Fufulupa (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Duty, Honor, Country",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "A Matter of Tradition",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Heart of the Sworn",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Owyne (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "A Royal Reception",
-   "text": "Level 14 · Main Scenario Quest (meteor icon)"
+   "text": "Level 14 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
@@ -377,12 +779,24 @@
    "unlocks": [
     "Airships",
     "Out of Ul'dah"
-   ]
+   ],
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 8.5,
+    "y": 9,
+    "label": "Raubahn (quest start)"
+   }
   },
   {
    "section": "Ul'dah start (Gladiator / Pugilist / Thaumaturge)",
    "title": "Call of the Sea",
-   "text": "Level 15 · Main Scenario Quest (meteor icon)"
+   "text": "Level 15 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Thal",
+    "x": 10.8,
+    "y": 13,
+    "label": "Bartholomew (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -392,12 +806,24 @@
     "Party Finder",
     "Sastasha",
     "Duty Support"
-   ]
+   ],
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.7,
+    "y": 11.1,
+    "label": "Baderon (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Call of the Forest",
-   "text": "Level 15 · Main Scenario Quest (meteor icon)"
+   "text": "Level 15 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 11.7,
+    "y": 11.1,
+    "label": "Baderon (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -405,12 +831,24 @@
    "text": "Level 16 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Tam-Tara Deepcroft"
-   ]
+   ],
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.7,
+    "y": 13.6,
+    "label": "Mother Miounne (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Call of the Desert",
-   "text": "Level 16 · Main Scenario Quest (meteor icon)"
+   "text": "Level 16 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.7,
+    "y": 13.6,
+    "label": "Mother Miounne (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -418,7 +856,13 @@
    "text": "Level 17 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Copperbell Mines"
-   ]
+   ],
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -426,47 +870,101 @@
    "text": "Level 17 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Retainers"
-   ]
+   ],
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 11.7,
+    "y": 9.7,
+    "label": "Momodi (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "A Wild Rose by Any Other Name",
-   "text": "Level 17 · Main Scenario Quest (meteor icon)"
+   "text": "Level 17 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Unsolved Mystery",
-   "text": "Level 17 · Main Scenario Quest (meteor icon)"
+   "text": "Level 17 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 13.9,
+    "y": 23.6,
+    "label": "Isembard (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "What Poor People Think",
-   "text": "Level 18 · Main Scenario Quest (meteor icon)"
+   "text": "Level 18 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 13.9,
+    "y": 23.6,
+    "label": "Isembard (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "A Proper Burial",
-   "text": "Level 18 · Main Scenario Quest (meteor icon)"
+   "text": "Level 18 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 13.9,
+    "y": 23.6,
+    "label": "Isembard (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "For the Children",
-   "text": "Level 19 · Main Scenario Quest (meteor icon)"
+   "text": "Level 19 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 13.9,
+    "y": 23.6,
+    "label": "Isembard (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Amalj'aa Wrong Places",
-   "text": "Level 19 · Main Scenario Quest (meteor icon)"
+   "text": "Level 19 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 13.9,
+    "y": 23.6,
+    "label": "Isembard (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Dressed to Deceive",
-   "text": "Level 19 · Main Scenario Quest (meteor icon)"
+   "text": "Level 19 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 13.9,
+    "y": 23.6,
+    "label": "Isembard (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Life, Materia and Everything",
-   "text": "Level 19 · Main Scenario Quest (meteor icon)"
+   "text": "Level 19 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -474,12 +972,24 @@
    "text": "Level 20 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Bowl of Embers"
-   ]
+   ],
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "A Hero in the Making",
-   "text": "Level 20 · Main Scenario Quest (meteor icon)"
+   "text": "Level 20 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -487,12 +997,24 @@
    "text": "Level 20 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Immortal Flames"
-   ]
+   ],
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.2,
+    "label": "flame officer (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "For Coin and Country",
-   "text": "Level 20 · Main Scenario Quest (meteor icon)"
+   "text": "Level 20 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 8.4,
+    "y": 9.1,
+    "label": "flame personnel officer (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -500,12 +1022,24 @@
    "text": "Level 20 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Maelstrom"
-   ]
+   ],
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.2,
+    "label": "storm officer (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Till Sea Swallows All",
-   "text": "Level 20 · Main Scenario Quest (meteor icon)"
+   "text": "Level 20 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Limsa Lominsa Upper Decks",
+    "x": 13.2,
+    "y": 12.7,
+    "label": "storm personnel officer (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -513,12 +1047,24 @@
    "text": "Level 20 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Order of the Twin Adder"
-   ]
+   ],
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.2,
+    "label": "serpent officer (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Wood's Will Be Done",
-   "text": "Level 20 · Main Scenario Quest (meteor icon)"
+   "text": "Level 20 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 9.9,
+    "y": 11.1,
+    "label": "serpent personnel officer (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
@@ -526,42 +1072,90 @@
    "text": "Level 20 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Job Quests"
-   ]
+   ],
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "We Come in Peace",
-   "text": "Level 20 · Main Scenario Quest (meteor icon)"
+   "text": "Level 20 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 9.7,
+    "y": 11.1,
+    "label": "Vorsaile Heuloix (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "Sylphic Studies",
-   "text": "Level 20 · Main Scenario Quest (meteor icon)"
+   "text": "Level 20 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 16.7,
+    "y": 27.2,
+    "label": "Rolfe Hawthorne (quest start)"
+   }
   },
   {
    "section": "Levels 15-20 (all starting cities)",
    "title": "First Impressions",
-   "text": "Level 20 · Main Scenario Quest (meteor icon)"
+   "text": "Level 20 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 16.7,
+    "y": 27.2,
+    "label": "Rolfe Hawthorne (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "First Contact",
-   "text": "Level 21 · Main Scenario Quest (meteor icon)"
+   "text": "Level 21 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 16.7,
+    "y": 27.2,
+    "label": "Rolfe Hawthorne (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Dance Dance Diplomacy",
-   "text": "Level 21 · Main Scenario Quest (meteor icon)"
+   "text": "Level 21 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 21.9,
+    "y": 25.7,
+    "label": "Yda (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Forest Friend",
-   "text": "Level 21 · Main Scenario Quest (meteor icon)"
+   "text": "Level 21 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 22,
+    "y": 25.7,
+    "label": "Papalymo (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Presence of the Enemy",
-   "text": "Level 21 · Main Scenario Quest (meteor icon)"
+   "text": "Level 21 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 22,
+    "y": 25.7,
+    "label": "Komuxio (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
@@ -569,42 +1163,90 @@
    "text": "Level 22 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "East Shroud",
+    "x": 22,
+    "y": 25.7,
+    "label": "Komuxio (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Spirited Away",
-   "text": "Level 22 · Main Scenario Quest (meteor icon)"
+   "text": "Level 22 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 22,
+    "y": 25.7,
+    "label": "Komuxio (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Druthers House Rules",
-   "text": "Level 22 · Main Scenario Quest (meteor icon)"
+   "text": "Level 22 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 18.2,
+    "y": 19.9,
+    "label": "Buscarron (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Never Forget",
-   "text": "Level 23 · Main Scenario Quest (meteor icon)"
+   "text": "Level 23 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 18.2,
+    "y": 19.9,
+    "label": "Buscarron (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Microbrewing",
-   "text": "Level 23 · Main Scenario Quest (meteor icon)"
+   "text": "Level 23 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Upper La Noscea",
+    "x": 14.8,
+    "y": 24.5,
+    "label": "Teteroon (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Like Fine Wine",
-   "text": "Level 23 · Main Scenario Quest (meteor icon)"
+   "text": "Level 23 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Upper La Noscea",
+    "x": 14.8,
+    "y": 24.5,
+    "label": "Teteroon (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Sylphish Concerns",
-   "text": "Level 23 · Main Scenario Quest (meteor icon)"
+   "text": "Level 23 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 18.2,
+    "y": 19.9,
+    "label": "Buscarron (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Nouveau Riche",
-   "text": "Level 23 · Main Scenario Quest (meteor icon)"
+   "text": "Level 23 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 18.2,
+    "y": 19.9,
+    "label": "Buscarron (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
@@ -612,17 +1254,35 @@
    "text": "Level 24 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Thousand Maws of Toto-Rak"
-   ]
+   ],
+   "target": {
+    "zone": "South Shroud",
+    "x": 18.2,
+    "y": 19.9,
+    "label": "Buscarron (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "A Simple Gift",
-   "text": "Level 24 · Main Scenario Quest (meteor icon)"
+   "text": "Level 24 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 18.2,
+    "y": 19.9,
+    "label": "Buscarron (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Believe in Your Sylph",
-   "text": "Level 24 · Main Scenario Quest (meteor icon)"
+   "text": "Level 24 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "East Shroud",
+    "x": 22,
+    "y": 25.7,
+    "label": "Komuxio (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
@@ -630,57 +1290,123 @@
    "text": "Level 24 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Back from the Wood"
-   ]
+   ],
+   "target": {
+    "zone": "New Gridania",
+    "x": 9.7,
+    "y": 11.1,
+    "label": "Vorsaile Heuloix (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Shadow of Darkness",
-   "text": "Level 24 · Main Scenario Quest (meteor icon)"
+   "text": "Level 24 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Highbridge Times",
-   "text": "Level 24 · Main Scenario Quest (meteor icon)"
+   "text": "Level 24 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 20.2,
+    "y": 21.4,
+    "label": "Hihibaru (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Where There Is Smoke",
-   "text": "Level 25 · Main Scenario Quest (meteor icon)"
+   "text": "Level 25 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 20.2,
+    "y": 21.4,
+    "label": "Hihibaru (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "On to Little Ala Mhigo",
-   "text": "Level 25 · Main Scenario Quest (meteor icon)"
+   "text": "Level 25 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 20.2,
+    "y": 21.4,
+    "label": "Hihibaru (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Tea for Three",
-   "text": "Level 25 · Main Scenario Quest (meteor icon)"
+   "text": "Level 25 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 17.9,
+    "y": 13.5,
+    "label": "Gisilbehrt (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Foot in the Door",
-   "text": "Level 25 · Main Scenario Quest (meteor icon)"
+   "text": "Level 25 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 17.9,
+    "y": 13.5,
+    "label": "Gisilbehrt (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Meeting with the Resistance",
-   "text": "Level 26 · Main Scenario Quest (meteor icon)"
+   "text": "Level 26 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Killing Him Softly",
-   "text": "Level 26 · Main Scenario Quest (meteor icon)"
+   "text": "Level 26 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 25.7,
+    "y": 20.7,
+    "label": "Meffrid (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Helping Horn",
-   "text": "Level 27 · Main Scenario Quest (meteor icon)"
+   "text": "Level 27 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 25.7,
+    "y": 20.7,
+    "label": "Meffrid (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "He Ain't Heavy",
-   "text": "Level 27 · Main Scenario Quest (meteor icon)"
+   "text": "Level 27 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 25.7,
+    "y": 20.7,
+    "label": "Meffrid (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
@@ -688,47 +1414,101 @@
    "text": "Level 27 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "South Shroud",
+    "x": 25.7,
+    "y": 20.7,
+    "label": "Meffrid (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "The Bear and the Young'uns' Cares",
-   "text": "Level 27 · Main Scenario Quest (meteor icon)"
+   "text": "Level 27 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 16.9,
+    "y": 14.4,
+    "label": "Gundobald (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Wilred Wants You",
-   "text": "Level 27 · Main Scenario Quest (meteor icon)"
+   "text": "Level 27 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 17,
+    "y": 14.4,
+    "label": "Hremfing (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Big Trouble in Little Ala Mhigo",
-   "text": "Level 27 · Main Scenario Quest (meteor icon)"
+   "text": "Level 27 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 16.9,
+    "y": 14.4,
+    "label": "Gundobald (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Back to Square One",
-   "text": "Level 27 · Main Scenario Quest (meteor icon)"
+   "text": "Level 27 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 16.9,
+    "y": 14.4,
+    "label": "Gundobald (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Terror at Fallgourd",
-   "text": "Level 27 · Main Scenario Quest (meteor icon)"
+   "text": "Level 27 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Ziz Is So Ridiculous",
-   "text": "Level 28 · Main Scenario Quest (meteor icon)"
+   "text": "Level 28 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "North Shroud",
+    "x": 21.8,
+    "y": 26.8,
+    "label": "Aideen (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Seeing Eye to Winged Eye",
-   "text": "Level 28 · Main Scenario Quest (meteor icon)"
+   "text": "Level 28 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "North Shroud",
+    "x": 21.8,
+    "y": 26.8,
+    "label": "Ivaurault (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Rock of Rancor",
-   "text": "Level 28 · Main Scenario Quest (meteor icon)"
+   "text": "Level 28 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "North Shroud",
+    "x": 21.8,
+    "y": 26.8,
+    "label": "Aideen (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
@@ -736,12 +1516,24 @@
    "text": "Level 28 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "North Shroud",
+    "x": 21.8,
+    "y": 26.8,
+    "label": "Medrod (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Secret of the White Lily",
-   "text": "Level 28 · Main Scenario Quest (meteor icon)"
+   "text": "Level 28 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "North Shroud",
+    "x": 19.7,
+    "y": 25.4,
+    "label": "Aethelmaer (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
@@ -750,47 +1542,101 @@
    "unlocks": [
     "Haukke Manor",
     "Skeletons"
-   ]
+   ],
+   "target": {
+    "zone": "Old Gridania",
+    "x": 12,
+    "y": 4.6,
+    "label": "Ursandel (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Wrath of the Titan",
-   "text": "Level 30 · Main Scenario Quest (meteor icon)"
+   "text": "Level 30 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Tales from the Tidus Slayer",
-   "text": "Level 30 · Main Scenario Quest (meteor icon)"
+   "text": "Level 30 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 35.7,
+    "y": 15.9,
+    "label": "Trachtoum (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Hungry Hungry Goobbues",
-   "text": "Level 30 · Main Scenario Quest (meteor icon)"
+   "text": "Level 30 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 35.7,
+    "y": 15.9,
+    "label": "Trachtoum (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "The Lominsan Way",
-   "text": "Level 30 · Main Scenario Quest (meteor icon)"
+   "text": "Level 30 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lower La Noscea",
+    "x": 35.7,
+    "y": 15.9,
+    "label": "Trachtoum (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Nix That",
-   "text": "Level 30 · Main Scenario Quest (meteor icon)"
+   "text": "Level 30 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 32.7,
+    "y": 30.6,
+    "label": "Wheiskaet (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "A Modest Proposal",
-   "text": "Level 30 · Main Scenario Quest (meteor icon)"
+   "text": "Level 30 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 32.7,
+    "y": 30.6,
+    "label": "Wheiskaet (quest start)"
+   }
   },
   {
    "section": "Levels 21-30",
    "title": "Trial by Turtle",
-   "text": "Level 30 · Main Scenario Quest (meteor icon)"
+   "text": "Level 30 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "South Shroud",
+    "x": 16.9,
+    "y": 28.3,
+    "label": "Landenel (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "The Perfect Prey",
-   "text": "Level 31 · Main Scenario Quest (meteor icon)"
+   "text": "Level 31 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 14.3,
+    "y": 30,
+    "label": "U'odh Nunh (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
@@ -798,12 +1644,24 @@
    "text": "Level 31 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 14.3,
+    "y": 30,
+    "label": "U'odh Nunh (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "There and Back Again",
-   "text": "Level 31 · Main Scenario Quest (meteor icon)"
+   "text": "Level 31 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 14.3,
+    "y": 30,
+    "label": "U'odh Nunh (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
@@ -811,42 +1669,90 @@
    "text": "Level 32 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Brayflox's Longstop"
-   ]
+   ],
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 32.7,
+    "y": 30.6,
+    "label": "Wheiskaet (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "What Do You Mean You Forgot the Wine",
-   "text": "Level 32 · Main Scenario Quest (meteor icon)"
+   "text": "Level 32 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 32.7,
+    "y": 30.6,
+    "label": "Wheiskaet (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "An Offer You Can Refuse",
-   "text": "Level 32 · Main Scenario Quest (meteor icon)"
+   "text": "Level 32 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 21.7,
+    "y": 21.2,
+    "label": "Shamani Lohmani (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "It Won't Work",
-   "text": "Level 32 · Main Scenario Quest (meteor icon)"
+   "text": "Level 32 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 21.7,
+    "y": 21.2,
+    "label": "Shamani Lohmani (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Give a Man a Drink",
-   "text": "Level 33 · Main Scenario Quest (meteor icon)"
+   "text": "Level 33 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 21.7,
+    "y": 21.2,
+    "label": "Shamani Lohmani (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "That Weight",
-   "text": "Level 33 · Main Scenario Quest (meteor icon)"
+   "text": "Level 33 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 14.1,
+    "y": 30.3,
+    "label": "Drest (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Battle Scars",
-   "text": "Level 33 · Main Scenario Quest (meteor icon)"
+   "text": "Level 33 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 14.1,
+    "y": 30.3,
+    "label": "Drest (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "It Was a Very Good Year",
-   "text": "Level 33 · Main Scenario Quest (meteor icon)"
+   "text": "Level 33 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 21.7,
+    "y": 21.2,
+    "label": "Shamani Lohmani (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
@@ -854,12 +1760,24 @@
    "text": "Level 33 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 32.7,
+    "y": 30.5,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "As You Wish",
-   "text": "Level 33 · Main Scenario Quest (meteor icon)"
+   "text": "Level 33 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern La Noscea",
+    "x": 32.7,
+    "y": 30.6,
+    "label": "Wheiskaet (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
@@ -868,7 +1786,13 @@
    "unlocks": [
     "The Navel",
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Upper La Noscea",
+    "x": 31.1,
+    "y": 24.1,
+    "label": "Riol (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
@@ -876,22 +1800,46 @@
    "text": "Level 34 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Those Who Wait"
-   ]
+   ],
+   "target": {
+    "zone": "Upper La Noscea",
+    "x": 30.1,
+    "y": 23.2,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "You Can't Take It with You",
-   "text": "Level 35 · Main Scenario Quest (meteor icon)"
+   "text": "Level 35 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 11.3,
+    "y": 21.3,
+    "label": "Marques (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Bringing out the Dead",
-   "text": "Level 35 · Main Scenario Quest (meteor icon)"
+   "text": "Level 35 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 11.5,
+    "y": 22.3,
+    "label": "Eluned (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Bury Me Not on the Lone Prairie",
-   "text": "Level 35 · Main Scenario Quest (meteor icon)"
+   "text": "Level 35 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 11.5,
+    "y": 22.3,
+    "label": "Eluned (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
@@ -899,97 +1847,211 @@
    "text": "Level 35 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 11.3,
+    "y": 21.3,
+    "label": "Marques (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "He Who Waited Behind",
-   "text": "Level 36 · Main Scenario Quest (meteor icon)"
+   "text": "Level 36 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 11.2,
+    "y": 21.3,
+    "label": "Iliud (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Cold Reception",
-   "text": "Level 36 · Main Scenario Quest (meteor icon)"
+   "text": "Level 36 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "North Shroud",
+    "x": 15.5,
+    "y": 25.5,
+    "label": "Vortefaurt (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "The Unending War",
-   "text": "Level 36 · Main Scenario Quest (meteor icon)"
+   "text": "Level 36 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 24.9,
+    "y": 28.6,
+    "label": "Ludovoix (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Men of Honor",
-   "text": "Level 36 · Main Scenario Quest (meteor icon)"
+   "text": "Level 36 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 25.6,
+    "y": 29.9,
+    "label": "Jocea (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Three for Three",
-   "text": "Level 36 · Main Scenario Quest (meteor icon)"
+   "text": "Level 36 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 24.9,
+    "y": 28.8,
+    "label": "Portelaine (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "The Rose and the Unicorn",
-   "text": "Level 36 · Main Scenario Quest (meteor icon)"
+   "text": "Level 36 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 24.8,
+    "y": 28.9,
+    "label": "Carrilaut (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "The Talk of Coerthas",
-   "text": "Level 37 · Main Scenario Quest (meteor icon)"
+   "text": "Level 37 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.8,
+    "y": 17.5,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Road to Redemption",
-   "text": "Level 38 · Main Scenario Quest (meteor icon)"
+   "text": "Level 38 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.8,
+    "y": 17.5,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Following the Evidence",
-   "text": "Level 38 · Main Scenario Quest (meteor icon)"
+   "text": "Level 38 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.8,
+    "y": 17.5,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "In the Eyes of Gods and Men",
-   "text": "Level 38 · Main Scenario Quest (meteor icon)"
+   "text": "Level 38 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.8,
+    "y": 17.5,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "The Final Flight of the Enterprise",
-   "text": "Level 38 · Main Scenario Quest (meteor icon)"
+   "text": "Level 38 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 26.8,
+    "y": 17.5,
+    "label": "Haurchefant (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Ye of Little Faith",
-   "text": "Level 39 · Main Scenario Quest (meteor icon)"
+   "text": "Level 39 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 11.9,
+    "y": 17.4,
+    "label": "Brunadier (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Factual Folklore",
-   "text": "Level 39 · Main Scenario Quest (meteor icon)"
+   "text": "Level 39 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.9,
+    "y": 17.6,
+    "label": "Haustefort (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "The Best Inventions",
-   "text": "Level 39 · Main Scenario Quest (meteor icon)"
+   "text": "Level 39 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 13.2,
+    "y": 15.5,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Influencing Inquisitors",
-   "text": "Level 40 · Main Scenario Quest (meteor icon)"
+   "text": "Level 40 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 13.2,
+    "y": 15.5,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "By the Lights of Ishgard",
-   "text": "Level 40 · Main Scenario Quest (meteor icon)"
+   "text": "Level 40 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.7,
+    "y": 16.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "Blood for Blood",
-   "text": "Level 40 · Main Scenario Quest (meteor icon)"
+   "text": "Level 40 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.7,
+    "y": 16.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 31-40",
    "title": "The Heretic among Us",
-   "text": "Level 40 · Main Scenario Quest (meteor icon)"
+   "text": "Level 40 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.8,
+    "y": 17.5,
+    "label": "Drillemont (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -999,37 +2061,79 @@
     "The Stone Vigil",
     "Mount Speed Increase",
     "History Repeating"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 12.7,
+    "y": 16.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Into the Eye of the Storm",
-   "text": "Level 41 · Main Scenario Quest (meteor icon)"
+   "text": "Level 41 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.4,
+    "y": 13.7,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Sealed with Science",
-   "text": "Level 41 · Main Scenario Quest (meteor icon)"
+   "text": "Level 41 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 12.7,
+    "y": 23.5,
+    "label": "Lamberteint (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "With the Utmost Care",
-   "text": "Level 41 · Main Scenario Quest (meteor icon)"
+   "text": "Level 41 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 21.5,
+    "y": 22,
+    "label": "Hahasako (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "A Promising Prospect",
-   "text": "Level 41 · Main Scenario Quest (meteor icon)"
+   "text": "Level 41 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eastern Thanalan",
+    "x": 12.7,
+    "y": 23.5,
+    "label": "Lamberteint (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "It's Probably Not Pirates",
-   "text": "Level 42 · Main Scenario Quest (meteor icon)"
+   "text": "Level 42 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 27.9,
+    "y": 27,
+    "label": "Ceana (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Representing the Representative",
-   "text": "Level 42 · Main Scenario Quest (meteor icon)"
+   "text": "Level 42 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 27.9,
+    "y": 27,
+    "label": "Ceana (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1037,12 +2141,24 @@
    "text": "Level 42 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Isles of Umbra"
-   ]
+   ],
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 27.9,
+    "y": 27,
+    "label": "Ceana (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Sweet Somethings",
-   "text": "Level 42 · Main Scenario Quest (meteor icon)"
+   "text": "Level 42 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 16.2,
+    "y": 30.7,
+    "label": "Davyd (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1050,17 +2166,35 @@
    "text": "Level 42 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 16.2,
+    "y": 30.7,
+    "label": "Davyd (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "The Curious Case of Giggity",
-   "text": "Level 43 · Main Scenario Quest (meteor icon)"
+   "text": "Level 43 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western La Noscea",
+    "x": 27.9,
+    "y": 27,
+    "label": "Ceana (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Better Late than Never",
-   "text": "Level 43 · Main Scenario Quest (meteor icon)"
+   "text": "Level 43 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Gridania",
+    "x": 8.8,
+    "y": 8.2,
+    "label": "Hedyn (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1069,52 +2203,112 @@
    "unlocks": [
     "The Howling Eye",
     "Free Wing Night"
-   ]
+   ],
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.4,
+    "y": 13.7,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Reclamation",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 10.4,
+    "y": 11.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Casing the Castrum",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.2,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Eyes on the Empire",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 24.9,
+    "y": 28.8,
+    "label": "Portelaine (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Footprints in the Snow",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 14.4,
+    "y": 35.3,
+    "label": "Pierremons (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Monumental Hopes",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 7.5,
+    "y": 29,
+    "label": "Wedge (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Notorious Biggs",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 7.5,
+    "y": 29,
+    "label": "Wedge (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Come-Into-My-Castrum",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 7.5,
+    "y": 29,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Getting Even with Garlemald",
-   "text": "Level 44 · Main Scenario Quest (meteor icon)"
+   "text": "Level 44 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.6,
+    "y": 7.5,
+    "label": "Glaumunt (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Drowning Out the Voices",
-   "text": "Level 46 · Main Scenario Quest (meteor icon)"
+   "text": "Level 46 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22,
+    "y": 7.7,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1122,17 +2316,35 @@
    "text": "Level 46 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Imperial Salute"
-   ]
+   ],
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.6,
+    "y": 7.5,
+    "label": "Glaumunt (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Dressed for Conquest",
-   "text": "Level 46 · Main Scenario Quest (meteor icon)"
+   "text": "Level 46 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.6,
+    "y": 7.5,
+    "label": "Sark Malark (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Fool Me Twice",
-   "text": "Level 46 · Main Scenario Quest (meteor icon)"
+   "text": "Level 46 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.6,
+    "y": 7.5,
+    "label": "Glaumunt (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1140,27 +2352,57 @@
    "text": "Level 46 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Speed Increase"
-   ]
+   ],
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Escape from Castrum Centri",
-   "text": "Level 46 · Main Scenario Quest (meteor icon)"
+   "text": "Level 46 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Cid (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "The Black Wolf's Ultimatum",
-   "text": "Level 46 · Main Scenario Quest (meteor icon)"
+   "text": "Level 46 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Ul'dah - Steps of Nald",
+    "x": 10.4,
+    "y": 11.3,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "Operation Archon",
-   "text": "Level 49 · Main Scenario Quest (meteor icon)"
+   "text": "Level 49 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Waking Sands",
+    "x": 6.9,
+    "y": 6.1,
+    "label": "Minfilia (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
    "title": "A Hero in Need",
-   "text": "Level 49 · Main Scenario Quest (meteor icon)"
+   "text": "Level 49 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Western Thanalan",
+    "x": 12.1,
+    "y": 12,
+    "label": "Allied communications officer (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1168,7 +2410,13 @@
    "text": "Level 49 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Hall of the Novice tactical training"
-   ]
+   ],
+   "target": {
+    "zone": "Northern Thanalan",
+    "x": 22.3,
+    "y": 29.9,
+    "label": "Cracked Fist (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1176,7 +2424,13 @@
    "text": "Level 50 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Castrum Meridianum"
-   ]
+   ],
+   "target": {
+    "zone": "Northern Thanalan",
+    "x": 20.9,
+    "y": 22.2,
+    "label": "Edelstein (quest start)"
+   }
   },
   {
    "section": "Levels 41-50",
@@ -1187,7 +2441,13 @@
     "The Porta Decumana",
     "Mount Speed Increase",
     "Warrior of Light"
-   ]
+   ],
+   "target": {
+    "zone": "Northern Thanalan",
+    "x": 15.6,
+    "y": 17,
+    "label": "Raubahn (quest start)"
+   }
   }
  ]
 }

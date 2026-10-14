@@ -7,17 +7,35 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Unending Codex"
-   ]
+   ],
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Bountiful Ruins",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.2,
+    "y": 5.5,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Friends for the Road",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 16.5,
+    "y": 32.9,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
@@ -25,32 +43,68 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Alzadaal's Legacy (duty)"
-   ]
+   ],
+   "target": {
+    "zone": "Thavnair",
+    "x": 16.2,
+    "y": 33.6,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "A Brother's Grief",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Alzadaal's Legacy",
+    "x": 13.1,
+    "y": 9.8,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Sharing the Wealth",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 14.1,
+    "y": 8.3,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Bridging the Rift",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 4.4,
+    "y": 9.8,
+    "label": "veteran Radiant (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Restricted Reading",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 9.3,
+    "y": 11.3,
+    "label": "Montichaigne (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
    "title": "Void Theory",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Thavnair",
+    "x": 11.9,
+    "y": 22,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 6.1 (Newfound Adventure)",
@@ -58,7 +112,13 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Newfound Adventure"
-   ]
+   ],
+   "target": {
+    "zone": "Alzadaal's Legacy",
+    "x": 13.2,
+    "y": 9.6,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
@@ -66,27 +126,57 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Fell Court of Troia (duty)"
-   ]
+   ],
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 4.5,
+    "y": 9.9,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Shadowed Remnants",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Fell Court of Troia",
+    "x": 10.2,
+    "y": 10.3,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Where Everything Begins",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Fell Court of Troia",
+    "x": 11.8,
+    "y": 11.8,
+    "label": "dark-robed voidsent (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Groping in the Dark",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Fell Court of Troia",
+    "x": 14.1,
+    "y": 7.2,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Nowhere to Run",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Zero's Domain",
+    "x": 5.2,
+    "y": 6.8,
+    "label": "Zero (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
@@ -94,17 +184,35 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Storm's Crown"
-   ]
+   ],
+   "target": {
+    "zone": "Zero's Domain",
+    "x": 5.8,
+    "y": 4.7,
+    "label": "Zero (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
    "title": "Return from the Void",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Zero's Domain",
+    "x": 5.3,
+    "y": 7.1,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
    "title": "A World with Light and Life",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Meghaduta Guest Chambers",
+    "x": 3.5,
+    "y": 3.5,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 6.2 (Buried Memory)",
@@ -112,27 +220,57 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Into the Light"
-   ]
+   ],
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 8,
+    "y": 12.6,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "Once More unto the Void",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 4.5,
+    "y": 9.9,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "A Cold Reunion",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 4.3,
+    "y": 10,
+    "label": "Estinien (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "Kindled Spirit",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 14.1,
+    "y": 31.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "An Unforeseen Bargain",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 31.7,
+    "y": 18.3,
+    "label": "1st Legion soldier (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
@@ -140,17 +278,35 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Lapis Manalis"
-   ]
+   ],
+   "target": {
+    "zone": "Garlemald",
+    "x": 32.1,
+    "y": 16.6,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "A Dragon's Resolve",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Lapis Manalis",
+    "x": 12.7,
+    "y": 8.8,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
    "title": "Paths Barred",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 30.8,
+    "y": 35.7,
+    "label": "Zero (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
@@ -158,7 +314,13 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mount Ordeals"
-   ]
+   ],
+   "target": {
+    "zone": "Thavnair",
+    "x": 10.1,
+    "y": 10.1,
+    "label": "Nahbdeen (quest start)"
+   }
   },
   {
    "section": "Patch 6.3 (Gods Revel, Lands Tremble)",
@@ -166,12 +328,24 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Hallowed and Harrowed"
-   ]
+   ],
+   "target": {
+    "zone": "Thavnair",
+    "x": 20.7,
+    "y": 8.8,
+    "label": "Zero (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Currying Flavor",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 4.5,
+    "y": 9.9,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
@@ -179,32 +353,68 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Aetherfont"
-   ]
+   ],
+   "target": {
+    "zone": "Estinien's Chambers",
+    "x": 3.6,
+    "y": 3.6,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Like Fear to Flame",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 14.1,
+    "y": 16,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "The Fallen Empire",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 29.8,
+    "y": 8.7,
+    "label": "Jullus (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Bonds of Trust",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 31.7,
+    "y": 17.4,
+    "label": "Jullus (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "Lunar Rendezvous",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Garlemald",
+    "x": 31.7,
+    "y": 17.4,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
    "title": "The Red Side of the Moon",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 24.7,
+    "y": 9.1,
+    "label": "Urianger (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
@@ -212,7 +422,13 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Voidcast Dais"
-   ]
+   ],
+   "target": {
+    "zone": "The Red Moon",
+    "x": 5.9,
+    "y": 2.8,
+    "label": "Zero (quest start)"
+   }
   },
   {
    "section": "Patch 6.4 (The Dark Throne)",
@@ -220,27 +436,57 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "You Win or You Dais"
-   ]
+   ],
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 18.8,
+    "y": 30.1,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Seeking the Light",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 4.5,
+    "y": 9.9,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Appealing to the Masses",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 11.7,
+    "y": 11.2,
+    "label": "Ryne (quest start)"
+   }
   },
   {
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "In Defiance of Fate",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.8,
+    "y": 11.1,
+    "label": "Zero (quest start)"
+   }
   },
   {
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Back to Action",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Crystarium",
+    "x": 7.1,
+    "y": 11,
+    "label": "Ryne (quest start)"
+   }
   },
   {
    "section": "Patch 6.5 (Growing Light - Part 1)",
@@ -249,12 +495,24 @@
    "unlocks": [
     "The Lunar Subterrane",
     "The Abyssal Fracture"
-   ]
+   ],
+   "target": {
+    "zone": "The Red Moon",
+    "x": 6.2,
+    "y": 3.5,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.5 (Growing Light - Part 1)",
    "title": "Reunited at Last",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Red Moon",
+    "x": 6.4,
+    "y": 3.5,
+    "label": "Vrtra (quest start)"
+   }
   },
   {
    "section": "Patch 6.5 (Growing Light - Part 1)",
@@ -262,17 +520,35 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "For Others to Follow"
-   ]
+   ],
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 11.4,
+    "y": 7.9,
+    "label": "Y'shtola (quest start)"
+   }
   },
   {
    "section": "Patch 6.55 (Growing Light - Part 2)",
    "title": "When One Door Closes...",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 4.5,
+    "y": 9.9,
+    "label": "Varshahn (quest start)"
+   }
   },
   {
    "section": "Patch 6.55 (Growing Light - Part 2)",
    "title": "The Game Is Afoot",
-   "text": "Level 90 · Main Scenario Quest (meteor icon)"
+   "text": "Level 90 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 6.1,
+    "y": 10.3,
+    "label": "G'raha Tia (quest start)"
+   }
   },
   {
    "section": "Patch 6.55 (Growing Light - Part 2)",
@@ -280,7 +556,13 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Tomorrows Unknown"
-   ]
+   ],
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 10.1,
+    "y": 14,
+    "label": "G'raha Tia (quest start)"
+   }
   }
  ]
 }

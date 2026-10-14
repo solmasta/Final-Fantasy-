@@ -4,37 +4,79 @@
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "An Uncertain Future",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Fortemps Manor",
+    "x": 6.1,
+    "y": 6.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Breaking the Cycle",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.5,
+    "y": 11.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Another Time, Another Place",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 16.6,
+    "y": 23.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "In the Eye of the Beholder",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Hinterlands",
+    "x": 13,
+    "y": 36.6,
+    "label": "Krile (quest start)"
+   }
   },
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "A Little Slow, a Little Late",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 26.4,
+    "y": 17.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Dreams of the Lost",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 27,
+    "y": 32.7,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
    "title": "Against the Dying of the Light",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.8,
+    "y": 11.1,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Patch 3.1 (As Goes Light, So Goes Darkness)",
@@ -42,12 +84,24 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "So It Goes"
-   ]
+   ],
+   "target": {
+    "zone": "Foundation",
+    "x": 13.8,
+    "y": 11.1,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "As It Once Was",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Pillars",
+    "x": 11.6,
+    "y": 11.2,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
@@ -55,37 +109,79 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Antitower"
-   ]
+   ],
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "This War of Ours",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Matoya's Cave",
+    "x": 6.5,
+    "y": 6.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Staunch Conviction",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.2,
+    "y": 38.5,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Once More, a Favor",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.9,
+    "y": 37.9,
+    "label": "Emmanellain (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "For Those We Have Lost",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.9,
+    "y": 37.9,
+    "label": "Emmanellain (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Consequences",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 30.9,
+    "y": 37.7,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "Choices",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.7,
+    "y": 38,
+    "label": "Thancred (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
@@ -93,12 +189,24 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Victory"
-   ]
+   ],
+   "target": {
+    "zone": "Foundation",
+    "x": 13.5,
+    "y": 11.2,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
    "title": "For Those We Can Yet Save",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 18.7,
+    "y": 15.3,
+    "label": "Aymeric (quest start)"
+   }
   },
   {
    "section": "Patch 3.2 (The Gears of Change)",
@@ -107,17 +215,35 @@
    "unlocks": [
     "Battle Stance",
     "First Gear"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32.6,
+    "y": 37.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.3 (Revenge of the Horde)",
    "title": "The Man Within",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Pillars",
+    "x": 11.6,
+    "y": 11.2,
+    "label": "House Fortemps knight (quest start)"
+   }
   },
   {
    "section": "Patch 3.3 (Revenge of the Horde)",
    "title": "An Ally for Ishgard",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.4,
+    "y": 11.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.3 (Revenge of the Horde)",
@@ -125,7 +251,13 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Sohr Khai"
-   ]
+   ],
+   "target": {
+    "zone": "The Dravanian Forelands",
+    "x": 16.7,
+    "y": 23.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.3 (Revenge of the Horde)",
@@ -133,12 +265,24 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Final Steps of Faith"
-   ]
+   ],
+   "target": {
+    "zone": "The Churning Mists",
+    "x": 7.5,
+    "y": 26.8,
+    "label": "Aymeric (quest start)"
+   }
   },
   {
    "section": "Patch 3.3 (Revenge of the Horde)",
    "title": "Heroes of the Hour",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 11.4,
+    "y": 13.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.3 (Revenge of the Horde)",
@@ -146,12 +290,24 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Floor the Horde"
-   ]
+   ],
+   "target": {
+    "zone": "Foundation",
+    "x": 13.7,
+    "y": 11.3,
+    "label": "Aymeric (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Promises Kept",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Pillars",
+    "x": 11.6,
+    "y": 11.2,
+    "label": "House Fortemps knight (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
@@ -159,42 +315,90 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Xelphatol"
-   ]
+   ],
+   "target": {
+    "zone": "Fortemps Manor",
+    "x": 6.2,
+    "y": 6.1,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Two Sides of a Coin",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Coerthas Central Highlands",
+    "x": 33.6,
+    "y": 15.3,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Unlikely Allies",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Outer La Noscea",
+    "x": 18.7,
+    "y": 17.3,
+    "label": "Bloeidin (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "The Beast That Mourned at the Heart of the Mountain",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Outer La Noscea",
+    "x": 20.7,
+    "y": 17,
+    "label": "Ga Bu (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Beneath a Star-filled Sky",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Outer La Noscea",
+    "x": 20.5,
+    "y": 16.8,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "When We Were Free",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 18.1,
+    "y": 13.5,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "Honorable Heroes",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 25.1,
+    "y": 12.7,
+    "label": "Papalymo (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
    "title": "One Life for One World",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 19.4,
+    "y": 11.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.4 (Soul Surrender)",
@@ -202,22 +406,46 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "No Retreat, No Surrender"
-   ]
+   ],
+   "target": {
+    "zone": "Southern Thanalan",
+    "x": 21.5,
+    "y": 21.4,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
    "title": "Tidings from Gyr Abania",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.7,
+    "y": 6.1,
+    "label": "Tataru (quest start)"
+   }
   },
   {
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
    "title": "An Envoy for Ishgard",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Foundation",
+    "x": 13.8,
+    "y": 11.1,
+    "label": "Lucia (quest start)"
+   }
   },
   {
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
    "title": "An Allied Decision",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "New Gridania",
+    "x": 11.4,
+    "y": 11.5,
+    "label": "Aymeric (quest start)"
+   }
   },
   {
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
@@ -225,7 +453,13 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Baelsar's Wall"
-   ]
+   ],
+   "target": {
+    "zone": "Mor Dhona",
+    "x": 22.2,
+    "y": 8.4,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 3.5 (The Far Edge of Fate - Part 1)",
@@ -233,22 +467,46 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "School's Out Forever"
-   ]
+   ],
+   "target": {
+    "zone": "East Shroud",
+    "x": 22.2,
+    "y": 31.2,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
    "title": "The Obvious Solution",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6,
+    "y": 6,
+    "label": "Alisaie (quest start)"
+   }
   },
   {
    "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
    "title": "The Greater Obeisance",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "Old Gridania",
+    "x": 8.2,
+    "y": 10.9,
+    "label": "Alphinaud (quest start)"
+   }
   },
   {
    "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
    "title": "Fly Free, My Pretty",
-   "text": "Level 60 · Main Scenario Quest (meteor icon)"
+   "text": "Level 60 · Main Scenario Quest (meteor icon)",
+   "target": {
+    "zone": "The Rising Stones",
+    "x": 6.1,
+    "y": 6.1,
+    "label": "Yda (quest start)"
+   }
   },
   {
    "section": "Patch 3.56 (The Far Edge of Fate - Part 2)",
@@ -256,7 +514,13 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Five Minutes of Fate"
-   ]
+   ],
+   "target": {
+    "zone": "New Gridania",
+    "x": 12.1,
+    "y": 13.1,
+    "label": "Alphinaud (quest start)"
+   }
   }
  ]
 }
