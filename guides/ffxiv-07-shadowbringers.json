@@ -15,7 +15,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Crystarium"
-   ]
+   ],
+   "target": {
+    "zone": "The Crystarium",
+    "x": 9.9,
+    "y": 11.2,
+    "label": "The Crystarium aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 70-71 – Main chain",
@@ -29,7 +35,13 @@
    "unlocks": [
     "Kholusia (South)",
     "Stilltide"
-   ]
+   ],
+   "target": {
+    "zone": "Kholusia",
+    "x": 34.8,
+    "y": 27.2,
+    "label": "Stilltide aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
@@ -52,7 +64,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Eulmore"
-   ]
+   ],
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.2,
+    "y": 11.2,
+    "label": "Eulmore aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 70-71 – Alphinaud chain",
@@ -81,7 +99,13 @@
    "unlocks": [
     "Amh Araeng (East)",
     "Mord Souq"
-   ]
+   ],
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 26.4,
+    "y": 17,
+    "label": "Mord Souq aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 70-71 – Alisaie chain",
@@ -170,7 +194,13 @@
    "unlocks": [
     "Il Mheg",
     "Lydha Lran"
-   ]
+   ],
+   "target": {
+    "zone": "Il Mheg",
+    "x": 14.5,
+    "y": 31.7,
+    "label": "Lydha Lran aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -216,7 +246,13 @@
    "text": "Level 73 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Pla Enni"
-   ]
+   ],
+   "target": {
+    "zone": "Il Mheg",
+    "x": 20,
+    "y": 4.3,
+    "label": "Pla Enni aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 72-73",
@@ -277,7 +313,13 @@
    "unlocks": [
     "The Rak'tika Greatwood",
     "Slitherbough"
-   ]
+   ],
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 19.4,
+    "y": 27.4,
+    "label": "Slitherbough aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 74-75",
@@ -325,7 +367,13 @@
    "text": "Level 75 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Fanow"
-   ]
+   ],
+   "target": {
+    "zone": "The Rak'tika Greatwood",
+    "x": 29.1,
+    "y": 17.5,
+    "label": "Fanow aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 74-75",
@@ -416,7 +464,13 @@
    "unlocks": [
     "Amh Araeng (West)",
     "Twine"
-   ]
+   ],
+   "target": {
+    "zone": "Amh Araeng",
+    "x": 11.2,
+    "y": 17.2,
+    "label": "Twine aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 76-77",
@@ -486,7 +540,13 @@
    "text": "Level 77 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Eulmore"
-   ]
+   ],
+   "target": {
+    "zone": "Eulmore",
+    "x": 11.2,
+    "y": 11.2,
+    "label": "Eulmore aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 76-77",
@@ -505,7 +565,13 @@
    "unlocks": [
     "Kholusia (North)",
     "Tomra"
-   ]
+   ],
+   "target": {
+    "zone": "Kholusia",
+    "x": 12.9,
+    "y": 9,
+    "label": "Tomra aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 78-80",
@@ -580,7 +646,13 @@
    "unlocks": [
     "The Tempest",
     "The Ondo Cups"
-   ]
+   ],
+   "target": {
+    "zone": "The Tempest",
+    "x": 32.7,
+    "y": 17.5,
+    "label": "The Ondo Cups aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 78-80",
@@ -608,7 +680,13 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Macarenses Angle"
-   ]
+   ],
+   "target": {
+    "zone": "The Tempest",
+    "x": 18.6,
+    "y": 25.8,
+    "label": "The Macarenses Angle aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 78-80",

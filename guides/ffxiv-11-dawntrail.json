@@ -7,7 +7,13 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Tuliyollal"
-   ]
+   ],
+   "target": {
+    "zone": "Tuliyollal",
+    "x": 12.9,
+    "y": 11.1,
+    "label": "Tuliyollal aetheryte (attune here)"
+   }
   },
   {
    "section": "Level 90 – Main chain",
@@ -36,7 +42,13 @@
    "unlocks": [
     "Kozama'uka (North)",
     "Ok'hanu"
-   ]
+   ],
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 18,
+    "y": 20,
+    "label": "Ok'hanu aetheryte (attune here)"
+   }
   },
   {
    "section": "Level 90 – Kozama'uka chain",
@@ -70,7 +82,13 @@
    "unlocks": [
     "Urqopacha (North)",
     "Wachunpelo"
-   ]
+   ],
+   "target": {
+    "zone": "Urqopacha",
+    "x": 28.1,
+    "y": 13.1,
+    "label": "Wachunpelo aetheryte (attune here)"
+   }
   },
   {
    "section": "Level 90 – Urqopacha chain",
@@ -117,7 +135,13 @@
     "Earthenshire",
     "Ihuykatumu",
     "A Promise for the People"
-   ]
+   ],
+   "target": {
+    "zone": "Kozama'uka",
+    "x": 32.2,
+    "y": 25.5,
+    "label": "Many Fires aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -177,7 +201,13 @@
    "unlocks": [
     "Urqopacha (South)",
     "Worlar's Echo"
-   ]
+   ],
+   "target": {
+    "zone": "Urqopacha",
+    "x": 30.5,
+    "y": 34.2,
+    "label": "Worlar's Echo aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 92-93",
@@ -233,7 +263,13 @@
    "unlocks": [
     "Yak T'el",
     "Iq Br'aax"
-   ]
+   ],
+   "target": {
+    "zone": "Yak T'el",
+    "x": 13.5,
+    "y": 12.9,
+    "label": "Iq Br'aax aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -266,7 +302,13 @@
    "text": "Level 94 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Mamook"
-   ]
+   ],
+   "target": {
+    "zone": "Yak T'el",
+    "x": 35.9,
+    "y": 32,
+    "label": "Mamook aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -324,7 +366,13 @@
     "Hhusatahwi",
     "Sheshenewezi Springs",
     "Mehwahhetsoan"
-   ]
+   ],
+   "target": {
+    "zone": "Shaaloani",
+    "x": 29,
+    "y": 30.8,
+    "label": "Hhusatahwi aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 94-95",
@@ -442,7 +490,13 @@
    "text": "Level 97 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Solution Nine"
-   ]
+   ],
+   "target": {
+    "zone": "Solution Nine",
+    "x": 12.3,
+    "y": 14.2,
+    "label": "Solution Nine aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 96-97",
@@ -532,7 +586,13 @@
    "unlocks": [
     "Living Memory",
     "Leynode Mnemo"
-   ]
+   ],
+   "target": {
+    "zone": "Living Memory",
+    "x": 21.5,
+    "y": 37.3,
+    "label": "Leynode Mnemo aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 98-99",

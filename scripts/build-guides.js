@@ -3,6 +3,21 @@
 const fs = require('fs'), path = require('path');
 const root = path.join(__dirname, '..');
 const dataDir = path.join(root, 'data'), outDir = path.join(root, 'guides');
+
+// Aetheryte coordinates (data/aetherytes.json). A quest step that lists an aetheryte
+// under "unlocks" gets that aetheryte as its direction-arrow target.
+const norm = n => n.toLowerCase().replace(/^the /, '').replace(/[^a-z0-9]+/g, ' ').trim();
+const aetherytes = JSON.parse(fs.readFileSync(path.join(dataDir, 'aetherytes.json'), 'utf8'));
+const byName = new Map(aetherytes.map(a => [norm(a.name), a]));
+const ALIAS = { 'old gridania': 'new gridania', 'ishgard': 'foundation', 'limsa lominsa': 'limsa lominsa lower decks', 'ul dah': 'ul dah steps of nald',
+  'tuliyollal': 'tuliyollal', 'solution nine': 'solution nine', 'old sharlayan': 'old sharlayan', 'radz at han': 'radz at han', 'doman enclave': 'doman enclave' };
+function aetheryteFor(unlocks) {
+  for (const u of unlocks || []) {
+    const k = norm(u.replace(/\s*\(.*\)\s*$/, ''));
+    const a = byName.get(ALIAS[k] || k);
+    if (a) return { zone: a.zone, x: a.x, y: a.y, label: `${a.name} aetheryte (attune here)` };
+  }
+}
 for (const f of fs.readdirSync(dataDir).filter(f => /^msq-.*\.txt$/.test(f)).sort()) {
   let title, out, section;
   const steps = [];
@@ -13,6 +28,7 @@ for (const f of fs.readdirSync(dataDir).filter(f => /^msq-.*\.txt$/.test(f)).sor
     const [name, level, unlocks] = line.split('|');
     const step = { section, title: name, text: `Level ${level} · Main Scenario Quest (meteor icon)` };
     if (unlocks) step.unlocks = unlocks.split(';').map(s => s.trim());
+    const tgt = aetheryteFor(step.unlocks); if (tgt) step.target = tgt;
     steps.push(step);
   }
   fs.writeFileSync(path.join(outDir, out + '.json'), JSON.stringify({ title: `FFXIV MSQ – ${title}`, steps }, null, 1));

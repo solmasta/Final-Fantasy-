@@ -1,0 +1,110 @@
+# region|zone|name|x|y   (sources: trialsoffantasy.com aetheryte checklist; ffxiv.consolegameswiki.com zone pages)
+La Noscea|Limsa Lominsa Lower Decks|Limsa Lominsa Lower Decks|9.5|11.2
+La Noscea|Middle La Noscea|Summerford Farms|26.0|16.3
+La Noscea|Lower La Noscea|Moraby Drydocks|24.6|34.9
+La Noscea|Eastern La Noscea|Costa del Sol|31.2|30.8
+La Noscea|Eastern La Noscea|Wineport|21.0|21.5
+La Noscea|Western La Noscea|Swiftperch|34.5|31.7
+La Noscea|Western La Noscea|Aleport|26.7|25.8
+La Noscea|Upper La Noscea|Camp Bronze Lake|30.2|23.3
+La Noscea|Outer La Noscea|Camp Overlook|19.1|17.2
+La Noscea|Wolves' Den Pier|Wolves' Den Pier|5.4|5.8
+The Black Shroud|Old Gridania|New Gridania|11.9|11.8
+The Black Shroud|Central Shroud|Bentbranch Meadows|21.7|22.2
+The Black Shroud|East Shroud|Hawthorne Hut|17.7|27.4
+The Black Shroud|South Shroud|Quarrymill|25.0|20.1
+The Black Shroud|South Shroud|Camp Tranquil|16.8|28.5
+The Black Shroud|North Shroud|Fallgourd Float|20.6|26.1
+Thanalan|Ul'dah|Ul'dah - Steps of Nald|8.3|7.8
+Thanalan|Western Thanalan|Horizon|22.8|16.9
+Thanalan|Central Thanalan|Black Brush Station|21.1|18.1
+Thanalan|Eastern Thanalan|Camp Drybone|13.7|24.3
+Thanalan|Southern Thanalan|Little Ala Mhigo|18.2|13.1
+Thanalan|Southern Thanalan|Forgotten Springs|14.9|29.6
+Thanalan|Northern Thanalan|Camp Bluefog|21.8|30.5
+Thanalan|Northern Thanalan|Ceruleum Processing Plant|20.9|20.8
+Thanalan|The Gold Saucer|Gold Saucer|6.1|6.1
+Coerthas|Foundation|Foundation|9.9|12.1
+Coerthas|Coerthas Central Highlands|Camp Dragonhead|25.9|16.8
+Coerthas|Coerthas Western Highlands|Falcon's Nest|32.0|36.7
+Mor Dhona|Mor Dhona|Revenant's Toll|22.2|8.1
+Abalathia's Spine|The Sea of Clouds|Camp Cloudtop|10.2|33.4
+Abalathia's Spine|The Sea of Clouds|Ok' Zundu|10.3|14.2
+Abalathia's Spine|Azys Lla|Helix|8.0|10.6
+Dravania|Idyllshire|Idyllshire|7.5|5.7
+Dravania|The Dravanian Forelands|Tailfeather|33.2|23.1
+Dravania|The Dravanian Forelands|Anyx Trine|16.4|23.2
+Dravania|The Churning Mists|Moghome|27.7|34.4
+Dravania|The Churning Mists|Zenith|10.8|28.8
+Gyr Abania|Rhalgr's Reach|Rhalgr's Reach|12.8|13.1
+Gyr Abania|The Fringes|Castrum Oriens|8.8|11.2
+Gyr Abania|The Fringes|The Peering Stones|29.7|26.4
+Gyr Abania|The Peaks|Ala Gannha|23.7|6.5
+Gyr Abania|The Peaks|Ala Ghiri|16.0|36.4
+Gyr Abania|The Lochs|Porta Praetoria|8.4|21.1
+Gyr Abania|The Lochs|The Ala Mhigan Quarter|33.7|34.6
+Hingashi|Kugane|Kugane|12.1|10.4
+Othard|The Ruby Sea|Tamamizu|28.6|16.2
+Othard|The Ruby Sea|Onokoro|23.2|9.8
+Othard|Yanxia|Namai|30.1|19.6
+Othard|Yanxia|The House of the Fierce|26.4|13.4
+Othard|The Azim Steppe|Reunion|32.5|28.2
+Othard|The Azim Steppe|The Dawn Throne|23.0|22.2
+Othard|The Azim Steppe|Dhoro Iloh|6.3|23.7
+Othard|The Azim Steppe|The Doman Enclave|7.4|6.5
+Norvrandt|The Crystarium|The Crystarium|9.9|11.2
+Norvrandt|Eulmore|Eulmore|11.2|11.2
+Norvrandt|Lakeland|Fort Jobb|36.5|20.9
+Norvrandt|Lakeland|The Ostall Imperative|6.7|16.8
+Norvrandt|Kholusia|Stilltide|34.8|27.2
+Norvrandt|Kholusia|Wright|16.6|29.1
+Norvrandt|Kholusia|Tomra|12.9|9.0
+Norvrandt|Amh Araeng|Mord Souq|26.4|17.0
+Norvrandt|Amh Araeng|Inn at Journey's Head|29.4|27.6
+Norvrandt|Amh Araeng|Twine|11.2|17.2
+Norvrandt|Il Mheg|Lydha Lran|14.5|31.7
+Norvrandt|Il Mheg|Pla Enni|20.0|4.3
+Norvrandt|Il Mheg|Wolekdorf|29.0|7.7
+Norvrandt|The Rak'tika Greatwood|Slitherbough|19.4|27.4
+Norvrandt|The Rak'tika Greatwood|Fanow|29.1|17.5
+Norvrandt|The Tempest|The Ondo Cups|32.7|17.5
+Norvrandt|The Tempest|The Macarenses Angle|18.6|25.8
+Ilsabard|Thavnair|Palaka's Stand|29.5|16.5
+Ilsabard|Thavnair|Yedlihmad|25.3|34.0
+Ilsabard|Thavnair|The Great Work|10.9|22.2
+Ilsabard|Old Sharlayan|Old Sharlayan|11.2|11.2
+Ilsabard|Radz-at-Han|Radz-at-Han|11.7|10.6
+Ilsabard|Labyrinthos|Aporia|6.9|27.4
+Ilsabard|Labyrinthos|The Archeion|30.3|11.9
+Ilsabard|Labyrinthos|Sharlayan Hamlet|24.6|20.3
+Ilsabard|Garlemald|Camp Broken Glass|13.3|31.1
+Ilsabard|Garlemald|Tertium|31.7|18.0
+The Sea of Stars|Mare Lamentorum|Sinus Lacrimarum|10.6|34.3
+The Sea of Stars|Mare Lamentorum|Bestways Burrow|21.7|11.1
+The World Unsundered|Elpis|Anagnorisis|24.6|24.0
+The World Unsundered|Elpis|The Twelve Wonders|8.3|32.3
+The World Unsundered|Elpis|Poieten Oikos|10.8|17.0
+The Sea of Stars|Ultima Thule|Reah Tahra|10.5|26.7
+The Sea of Stars|Ultima Thule|Abode of the Ea|22.7|8.3
+The Sea of Stars|Ultima Thule|Base Omicron|31.3|28.0
+Yok Tural|Tuliyollal|Tuliyollal|12.9|11.1
+Yok Tural|Urqopacha|Wachunpelo|28.1|13.1
+Yok Tural|Urqopacha|Worlar's Echo|30.5|34.2
+Yok Tural|Kozama'uka|Ok'hanu|18.0|20.0
+Yok Tural|Kozama'uka|Many Fires|32.2|25.5
+Yok Tural|Kozama'uka|Earthenshire|11.8|27.8
+Yok Tural|Kozama'uka|Dock Poga|37.2|16.8
+Yok Tural|Yak T'el|Iq Br'aax|13.5|12.9
+Yok Tural|Yak T'el|Mamook|35.9|32.0
+Xak Tural|Shaaloani|Hhusatahwi|29.0|30.8
+Xak Tural|Shaaloani|Sheshenewezi Springs|15.6|19.2
+Xak Tural|Shaaloani|Mehwahhetsoan|27.7|10.1
+Xak Tural|Heritage Found|Yyasulani Station|31.7|25.7
+Xak Tural|Heritage Found|The Outskirts|17.0|9.8
+Xak Tural|Heritage Found|Electrope Strike|17.0|23.9
+Xak Tural|Solution Nine|Solution Nine|12.3|14.2
+Unlost World|Living Memory|Leynode Mnemo|21.5|37.3
+Unlost World|Living Memory|Leynode Pyro|34.7|15.7
+Unlost World|Living Memory|Leynode Aero|16.4|13.5
+Other|Bozjan Southern Front|Utya's Aegis|14.8|29.9
+Other|Zadnor|Camp Vrdelnis|35.0|34.6

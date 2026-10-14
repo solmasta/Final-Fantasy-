@@ -8,7 +8,13 @@
    "unlocks": [
     "The Fringes (West)",
     "Castrum Oriens"
-   ]
+   ],
+   "target": {
+    "zone": "The Fringes",
+    "x": 8.8,
+    "y": 11.2,
+    "label": "Castrum Oriens aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 60-61 – Main chain",
@@ -16,7 +22,13 @@
    "text": "Level 60 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Rhalgr's Reach"
-   ]
+   ],
+   "target": {
+    "zone": "Rhalgr's Reach",
+    "x": 12.8,
+    "y": 13.1,
+    "label": "Rhalgr's Reach aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 60-61 – Main chain",
@@ -63,7 +75,13 @@
    "unlocks": [
     "The Peaks (North)",
     "Ala Gannha"
-   ]
+   ],
+   "target": {
+    "zone": "The Peaks",
+    "x": 23.7,
+    "y": 6.5,
+    "label": "Ala Gannha aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 60-61 – Meffrid chain",
@@ -168,7 +186,13 @@
     "Kugane",
     "The Sirensong Sea",
     "Incidentally Speaking"
-   ]
+   ],
+   "target": {
+    "zone": "Kugane",
+    "x": 12.1,
+    "y": 10.4,
+    "label": "Kugane aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 60-61 – Main chain (continued)",
@@ -231,7 +255,13 @@
    "unlocks": [
     "Eastern Bow",
     "Onokoro"
-   ]
+   ],
+   "target": {
+    "zone": "The Ruby Sea",
+    "x": 23.2,
+    "y": 9.8,
+    "label": "Onokoro aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 62-63",
@@ -259,7 +289,13 @@
    "text": "Level 62 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Tamamizu"
-   ]
+   ],
+   "target": {
+    "zone": "The Ruby Sea",
+    "x": 28.6,
+    "y": 16.2,
+    "label": "Tamamizu aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 62-63",
@@ -320,7 +356,13 @@
    "unlocks": [
     "Yanxia (South)",
     "Namai"
-   ]
+   ],
+   "target": {
+    "zone": "Yanxia",
+    "x": 30.1,
+    "y": 19.6,
+    "label": "Namai aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 64-65",
@@ -496,7 +538,13 @@
    "unlocks": [
     "Yanxia (North)",
     "The House of the Fierce"
-   ]
+   ],
+   "target": {
+    "zone": "Yanxia",
+    "x": 26.4,
+    "y": 13.4,
+    "label": "The House of the Fierce aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 66-67",
@@ -576,7 +624,13 @@
    "unlocks": [
     "The Fringes (East)",
     "The Peering Stones"
-   ]
+   ],
+   "target": {
+    "zone": "The Fringes",
+    "x": 29.7,
+    "y": 26.4,
+    "label": "The Peering Stones aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 66-67",
@@ -607,7 +661,13 @@
    "unlocks": [
     "The Peaks (South)",
     "Ala Ghiri"
-   ]
+   ],
+   "target": {
+    "zone": "The Peaks",
+    "x": 16,
+    "y": 36.4,
+    "label": "Ala Ghiri aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 68-70",
@@ -691,7 +751,13 @@
    "unlocks": [
     "The Lochs",
     "Porta Praetoria"
-   ]
+   ],
+   "target": {
+    "zone": "The Lochs",
+    "x": 8.4,
+    "y": 21.1,
+    "label": "Porta Praetoria aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 68-70",
@@ -705,7 +771,13 @@
    "unlocks": [
     "Mount Speed Increase",
     "The Ala Mhigan Quarter"
-   ]
+   ],
+   "target": {
+    "zone": "The Lochs",
+    "x": 33.7,
+    "y": 34.6,
+    "label": "The Ala Mhigan Quarter aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 68-70",

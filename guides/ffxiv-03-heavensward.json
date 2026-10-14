@@ -8,7 +8,13 @@
    "unlocks": [
     "Ishgard",
     "Foundation"
-   ]
+   ],
+   "target": {
+    "zone": "Foundation",
+    "x": 9.9,
+    "y": 12.1,
+    "label": "Foundation aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 50-51 – Main chain",
@@ -30,7 +36,13 @@
     "The Dravanian Forelands",
     "Tailfeather",
     "Anyx Trine"
-   ]
+   ],
+   "target": {
+    "zone": "Coerthas Western Highlands",
+    "x": 32,
+    "y": 36.7,
+    "label": "Falcon's Nest aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 50-51 – Artoirel chain",
@@ -69,7 +81,13 @@
    "unlocks": [
     "The Sea of Clouds (South)",
     "Camp Cloudtop"
-   ]
+   ],
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 10.2,
+    "y": 33.4,
+    "label": "Camp Cloudtop aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 50-51 – Emmanellain chain",
@@ -398,7 +416,13 @@
    "unlocks": [
     "The Sea of Clouds (North)",
     "Ok' Zundu"
-   ]
+   ],
+   "target": {
+    "zone": "The Sea of Clouds",
+    "x": 10.3,
+    "y": 14.2,
+    "label": "Ok' Zundu aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 56-57",
@@ -470,7 +494,13 @@
    "unlocks": [
     "The Dravanian Hinterlands",
     "Idyllshire"
-   ]
+   ],
+   "target": {
+    "zone": "Idyllshire",
+    "x": 7.5,
+    "y": 5.7,
+    "label": "Idyllshire aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 58-60",
@@ -525,7 +555,13 @@
    "unlocks": [
     "Azys Lla",
     "Helix"
-   ]
+   ],
+   "target": {
+    "zone": "Azys Lla",
+    "x": 8,
+    "y": 10.6,
+    "label": "Helix aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 58-60",

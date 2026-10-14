@@ -1,0 +1,271 @@
+<title>Eorzea Guide Overlay</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&family=Spectral:wght@500;600&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+/* Layout: left rail (guide, search, quest list) + right working area (current step, navigator). One column on phones. */
+:root {
+  --bg: #eef1f6; --panel: #ffffff; --panel2: #e4e9f2; --line: #ccd4e3;
+  --fg: #172033; --muted: #55627d; --accent: #1f5fbf; --accent-fg: #ffffff;
+  --gold: #a66b00; --good: #1c7a46; --warn: #a66b00;
+  --f-display: "Spectral", Georgia, serif; --f-body: "Barlow", system-ui, sans-serif; --f-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0c1220; --panel: #131c30; --panel2: #1b2742; --line: #2a3857;
+  --fg: #e6ecfa; --muted: #93a2c4; --accent: #6aa5ff; --accent-fg: #07101f;
+  --gold: #f2c35a; --good: #5fd18f; --warn: #f2c35a; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --bg: #0c1220; --panel: #131c30; --panel2: #1b2742; --line: #2a3857;
+  --fg: #e6ecfa; --muted: #93a2c4; --accent: #6aa5ff; --accent-fg: #07101f;
+  --gold: #f2c35a; --good: #5fd18f; --warn: #f2c35a; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--f-body); padding-inline: 16px; padding-block: 14px 28px; }
+.app { max-width: 1120px; margin: 0 auto; display: grid; gap: 14px; }
+header.top { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; justify-content: space-between; }
+h1 { font: 600 22px var(--f-display); margin: 0; letter-spacing: .01em; }
+.timers { display: flex; flex-wrap: wrap; gap: 8px; font-family: var(--f-mono); font-size: 12.5px; }
+.timers span { background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 4px 9px; font-variant-numeric: tabular-nums; }
+.timers b { color: var(--gold); font-weight: 500; }
+.cols { display: grid; grid-template-columns: minmax(0, 340px) minmax(0, 1fr); gap: 14px; align-items: start; }
+@media (max-width: 820px) { .cols { grid-template-columns: minmax(0, 1fr); } }
+.rail, .work { display: grid; gap: 12px; min-width: 0; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px; min-width: 0; }
+label.l { display: block; font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+select, input[type=search], input[type=text], input[type=number] { width: 100%; background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; font: inherit; }
+select:focus-visible, input:focus-visible, button:focus-visible, .q:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+.rail .card { display: grid; gap: 10px; }
+#list { position: relative; max-height: 52vh; overflow-y: auto; margin: 0 -6px; padding: 0 6px; display: grid; gap: 1px; align-content: start; }
+@media (max-width: 820px) { #list { max-height: 40vh; } }
+.sec { position: sticky; top: 0; background: var(--panel); color: var(--gold); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; padding: 8px 4px 3px; }
+.q { display: grid; grid-template-columns: 2.6em 1fr; gap: 6px; text-align: left; background: none; border: 0; color: var(--fg); font: inherit; padding: 5px 6px; border-radius: 6px; cursor: pointer; }
+.q:hover { background: var(--panel2); }
+.q .n { color: var(--muted); font-family: var(--f-mono); font-size: 12px; text-align: right; padding-top: 2px; font-variant-numeric: tabular-nums; }
+.q.done { color: var(--muted); }
+.q.done .t { text-decoration: line-through; text-decoration-color: var(--line); }
+.q.cur { background: var(--accent); color: var(--accent-fg); }
+.q.cur .n { color: inherit; }
+.stephead { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 12px; align-items: baseline; }
+.sect { color: var(--gold); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; }
+.count { color: var(--muted); font-family: var(--f-mono); font-size: 12.5px; font-variant-numeric: tabular-nums; }
+h2 { font: 600 28px/1.2 var(--f-display); margin: 6px 0 4px; text-wrap: balance; }
+.lvl { color: var(--muted); margin: 0 0 10px; }
+.bar { height: 5px; border-radius: 3px; background: var(--panel2); overflow: hidden; margin: 8px 0 14px; }
+.bar i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .2s; }
+.blk { margin-top: 10px; }
+.blk h3 { margin: 0 0 3px; font: 600 11.5px var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.blk ul { margin: 0; padding-left: 18px; }
+.blk li { margin: 2px 0; }
+.next { margin-top: 14px; padding-top: 10px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
+.btns { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+button.b { background: var(--panel2); color: var(--fg); border: 1px solid var(--line); border-radius: 7px; padding: 9px 14px; font: 500 14px var(--f-body); cursor: pointer; }
+button.b:hover { border-color: var(--accent); }
+button.b.main { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+.kbd { color: var(--muted); font-size: 12.5px; margin-top: 8px; }
+.nav { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 14px 18px; align-items: center; }
+@media (max-width: 560px) { .nav { grid-template-columns: minmax(0, 1fr); justify-items: center; } .nav .fields { justify-self: stretch; } }
+.compass { width: 150px; height: 150px; }
+.compass .ring { fill: var(--bg); stroke: var(--line); stroke-width: 2; }
+.compass text { fill: var(--muted); font: 600 11px var(--f-body); text-anchor: middle; }
+.compass .needle { fill: var(--gold); transition: transform .3s; transform-origin: 75px 75px; }
+.compass .tail { fill: var(--muted); opacity: .5; transition: transform .3s; transform-origin: 75px 75px; }
+.readout { font: 600 20px var(--f-display); margin: 0 0 8px; }
+.readout small { display: block; font: 400 13px var(--f-body); color: var(--muted); margin-top: 2px; }
+.fields { display: grid; gap: 10px; min-width: 0; }
+.pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+.hint { color: var(--muted); font-size: 13px; margin: 0; }
+.row2 { display: flex; flex-wrap: wrap; gap: 8px; }
+.row2 .b { padding: 6px 10px; font-size: 13px; }
+.theme { background: none; border: 1px solid var(--line); color: var(--muted); border-radius: 6px; padding: 4px 9px; cursor: pointer; font: 500 12.5px var(--f-body); }
+.top .right { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+</style>
+
+<div class="app">
+  <header class="top">
+    <h1>Eorzea Guide Overlay</h1>
+    <div class="right">
+      <div class="timers"><span>Daily reset <b id="tDaily">–</b></span><span>Weekly reset <b id="tWeekly">–</b></span></div>
+      <button class="theme" id="theme" type="button">Theme</button>
+    </div>
+  </header>
+
+  <div class="cols">
+    <aside class="rail">
+      <div class="card">
+        <div><label class="l" for="guide">Guide</label><select id="guide"></select></div>
+        <div><label class="l" for="search">Find a quest or place</label><input id="search" type="search" placeholder="e.g. Sastasha, Ishgard, Praetorium"></div>
+        <div id="list" role="list"></div>
+      </div>
+    </aside>
+
+    <main class="work">
+      <section class="card" id="step" aria-live="polite"></section>
+
+      <section class="card">
+        <div class="nav">
+          <svg class="compass" viewBox="0 0 150 150" role="img" aria-label="Direction to target">
+            <circle class="ring" cx="75" cy="75" r="70"/>
+            <text x="75" y="19">N</text><text x="136" y="79">E</text><text x="75" y="141">S</text><text x="14" y="79">W</text>
+            <g id="needle"><polygon class="needle" points="75,26 87,78 75,70 63,78"/><polygon class="tail" points="75,124 66,82 75,88 84,82"/></g>
+          </svg>
+          <div class="fields">
+            <p class="readout" id="readout">Enter your position</p>
+            <div class="pair">
+              <div><label class="l" for="px">You: X</label><input id="px" type="number" step="0.1" inputmode="decimal" placeholder="11.2"></div>
+              <div><label class="l" for="py">You: Y</label><input id="py" type="number" step="0.1" inputmode="decimal" placeholder="13.5"></div>
+              <div><label class="l" for="tx">Target: X</label><input id="tx" type="number" step="0.1" inputmode="decimal" placeholder="20.0"></div>
+              <div><label class="l" for="ty">Target: Y</label><input id="ty" type="number" step="0.1" inputmode="decimal" placeholder="25.0"></div>
+            </div>
+            <div><label class="l" for="aeth">Aim at an aetheryte</label><select id="aeth"></select></div>
+            <div><label class="l" for="paste">Or paste your coordinates</label><input id="paste" type="text" placeholder="( 11.2 , 13.5 )  then Enter"></div>
+            <p class="hint">Read your X, Y under the in-game minimap. The arrow points relative to the map, so set the minimap to fixed north. Steps that unlock an aetheryte fill in the target for you.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+</div>
+
+<script>
+const GUIDES = /*GUIDES*/[];
+const AETH = /*AETH*/[];
+const $ = id => document.getElementById(id);
+const el = (t, c, x) => { const e = document.createElement(t); if (c) e.className = c; if (x != null) e.textContent = x; return e; };
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('eorzea.' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem('eorzea.' + k, JSON.stringify(v)); } catch {} }
+};
+const guideOrder = GUIDES.slice().sort((a, b) => a.id.localeCompare(b.id));
+let gid = store.get('guide', null);
+if (!guideOrder.some(g => g.id === gid)) gid = (guideOrder.find(g => g.id.includes('01-arr')) || guideOrder[0]).id;
+const pos = store.get('pos', {});          // current step per guide
+let query = '';
+
+const cur = () => guideOrder.find(g => g.id === gid);
+const idx = () => Math.min(Math.max(pos[gid] || 0, 0), cur().steps.length - 1);
+function setIdx(i) { pos[gid] = Math.min(Math.max(i, 0), cur().steps.length - 1); store.set('pos', pos); render(); }
+
+/* ---------- guide + list ---------- */
+$('guide').replaceChildren(...guideOrder.map(g => { const o = el('option', '', g.title); o.value = g.id; return o; }));
+$('guide').value = gid;
+$('guide').onchange = e => { gid = e.target.value; store.set('guide', gid); query = ''; $('search').value = ''; render(); };
+$('search').oninput = e => { query = e.target.value.trim().toLowerCase(); renderList(); };
+
+const haystack = s => [s.title, s.section, ...(s.unlocks || []), ...(s.dungeons || []), ...(s.trials || []), ...(s.raids || []), ...(s.zones || []), ...(s.cities || []), ...(s.other || [])].join(' ').toLowerCase();
+
+function renderList() {
+  const g = cur(), i = idx(), list = $('list');
+  list.replaceChildren();
+  let lastSec = null, shown = 0, curBtn = null;
+  g.steps.forEach((s, n) => {
+    if (query && !haystack(s).includes(query)) return;
+    if (s.section !== lastSec) { list.append(el('div', 'sec', s.section || '')); lastSec = s.section; }
+    const b = el('button', 'q' + (n < i ? ' done' : '') + (n === i ? ' cur' : ''));
+    b.type = 'button'; b.setAttribute('role', 'listitem');
+    b.append(el('span', 'n', n + 1), el('span', 't', s.title));
+    b.onclick = () => setIdx(n);
+    list.append(b); shown++;
+    if (n === i) curBtn = b;
+  });
+  if (!shown) list.append(el('div', 'hint', 'Nothing matches that search.'));
+  if (curBtn && !query) list.scrollTop = curBtn.offsetTop - list.clientHeight / 2 + 20;
+}
+
+/* ---------- step ---------- */
+const BLOCKS = [['do','Do'],['unlocks','Unlocks'],['zones','Overworld zones'],['cities','Cities & housing'],['dungeons','Dungeons'],['trials','Trials'],['raids','Raids'],['other','Other duties & areas'],['items','Items'],['tips','Tips'],['boss','Boss']];
+function renderStep() {
+  const g = cur(), i = idx(), s = g.steps[i], box = $('step');
+  box.replaceChildren();
+  const head = el('div', 'stephead');
+  head.append(el('span', 'sect', s.section || ''), el('span', 'count', `${i + 1} / ${g.steps.length}`));
+  const bar = el('div', 'bar'); const fill = el('i'); fill.style.width = ((i + 1) / g.steps.length * 100) + '%'; bar.append(fill);
+  box.append(head, el('h2', '', s.title));
+  if (s.text) box.append(el('p', 'lvl', s.text));
+  box.append(bar);
+  for (const [k, label] of BLOCKS) {
+    const v = s[k]; if (!v || !v.length) continue;
+    const b = el('div', 'blk'); b.append(el('h3', '', label));
+    if (typeof v === 'string') b.append(document.createTextNode(v));
+    else { const ul = el('ul'); v.forEach(x => ul.append(el('li', '', x))); b.append(ul); }
+    box.append(b);
+  }
+  if (s.target) {
+    const b = el('div', 'blk'); b.append(el('h3', '', 'Go to'));
+    b.append(document.createTextNode(`${s.target.label || 'Target'}${s.target.zone ? ' in ' + s.target.zone : ''} (${s.target.x}, ${s.target.y})`));
+    box.append(b);
+  }
+  const nx = g.steps[i + 1];
+  if (nx) box.append(el('div', 'next', 'Next: ' + nx.title));
+  const btns = el('div', 'btns');
+  const prev = el('button', 'b', 'Back'); prev.type = 'button'; prev.disabled = i === 0; prev.onclick = () => setIdx(i - 1);
+  const next = el('button', 'b main', i === g.steps.length - 1 ? 'Finished' : 'Done, next'); next.type = 'button'; next.disabled = i === g.steps.length - 1; next.onclick = () => setIdx(i + 1);
+  btns.append(prev, next);
+  box.append(btns, el('div', 'kbd', 'Keys: ← back, → next'));
+  if (s.target) { $('tx').value = s.target.x; $('ty').value = s.target.y; updateNav(); }
+}
+
+/* ---------- navigator ---------- */
+function parseCoords(t) { const m = String(t).match(/(-?\d+(?:\.\d+)?)\D+?(-?\d+(?:\.\d+)?)/); return m ? { x: +m[1], y: +m[2] } : null; }
+const DIRS = ['N','NE','E','SE','S','SW','W','NW'];
+function updateNav() {
+  const v = id => $(id).value === '' ? null : parseFloat($(id).value);
+  const px = v('px'), py = v('py'), tx = v('tx'), ty = v('ty');
+  store.set('me', { px, py });
+  const out = $('readout'); out.replaceChildren();
+  if (px == null || py == null || tx == null || ty == null) {
+    $('needle').style.transform = '';
+    out.append(document.createTextNode(px == null || py == null ? 'Enter your position' : 'Enter a target'));
+    return;
+  }
+  const dx = tx - px, dy = ty - py, dist = Math.hypot(dx, dy);
+  const deg = (Math.atan2(dx, -dy) * 180 / Math.PI + 360) % 360;
+  $('needle').querySelectorAll('polygon').forEach(p => p.style.transform = `rotate(${deg}deg)`);
+  out.append(document.createTextNode(dist < 1.5 ? 'You have arrived' : `${DIRS[Math.round(deg / 45) % 8]}, ${dist.toFixed(1)} units`));
+  out.append(el('small', '', 'Map coordinates: X grows east, Y grows south.'));
+}
+['px','py','tx','ty'].forEach(id => $(id).addEventListener('input', updateNav));
+$('paste').addEventListener('keydown', e => {
+  if (e.key !== 'Enter') return;
+  const p = parseCoords(e.target.value); if (!p) return;
+  $('px').value = p.x; $('py').value = p.y; e.target.value = ''; updateNav();
+});
+(function restoreMe() { const m = store.get('me', null); if (m && m.px != null) { $('px').value = m.px; $('py').value = m.py; } })();
+
+/* ---------- aetheryte picker ---------- */
+(function () {
+  const sel = $('aeth'); sel.append(Object.assign(el('option', '', 'Choose an aetheryte…'), { value: '' }));
+  const groups = new Map();
+  AETH.forEach((a, i) => { const k = a.region + ' · ' + a.zone; if (!groups.has(k)) groups.set(k, []); groups.get(k).push([a, i]); });
+  groups.forEach((items, k) => {
+    const og = el('optgroup'); og.label = k;
+    items.forEach(([a, i]) => og.append(Object.assign(el('option', '', `${a.name} (${a.x}, ${a.y})`), { value: i })));
+    sel.append(og);
+  });
+  sel.onchange = () => { if (sel.value === '') return; const a = AETH[+sel.value]; $('tx').value = a.x; $('ty').value = a.y; updateNav(); };
+})();
+
+/* ---------- timers (FFXIV: daily 15:00 UTC, weekly Tue 08:00 UTC) ---------- */
+const fmt = ms => { const m = Math.floor(ms / 60000), d = Math.floor(m / 1440), h = Math.floor(m % 1440 / 60); return (d ? d + 'd ' : '') + h + 'h ' + String(m % 60).padStart(2, '0') + 'm'; };
+function tick() {
+  const now = new Date();
+  let daily = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 15); if (daily <= now) daily += 864e5;
+  let weekly = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 8);
+  weekly += ((2 - new Date(weekly).getUTCDay() + 7) % 7) * 864e5; if (weekly <= now) weekly += 7 * 864e5;
+  $('tDaily').textContent = fmt(daily - now); $('tWeekly').textContent = fmt(weekly - now);
+}
+tick(); setInterval(tick, 20000);
+
+/* ---------- misc ---------- */
+document.addEventListener('keydown', e => {
+  if (/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)) return;
+  if (e.key === 'ArrowRight') setIdx(idx() + 1); else if (e.key === 'ArrowLeft') setIdx(idx() - 1);
+});
+$('theme').onclick = () => {
+  const r = document.documentElement, dark = r.dataset.theme ? r.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  r.dataset.theme = dark ? 'light' : 'dark'; store.set('theme', r.dataset.theme);
+};
+{ const t = store.get('theme', null); if (t) document.documentElement.dataset.theme = t; }
+
+function render() { renderStep(); renderList(); }
+render();
+</script>

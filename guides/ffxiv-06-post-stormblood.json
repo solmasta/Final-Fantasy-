@@ -94,7 +94,13 @@
    "text": "Level 70 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "The Doman Enclave"
-   ]
+   ],
+   "target": {
+    "zone": "The Azim Steppe",
+    "x": 7.4,
+    "y": 6.5,
+    "label": "The Doman Enclave aetheryte (attune here)"
+   }
   },
   {
    "section": "Patch 4.2 (Rise of a New Sun)",

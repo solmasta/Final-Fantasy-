@@ -1,0 +1,765 @@
+[
+{
+"region": "La Noscea",
+"zone": "Limsa Lominsa Lower Decks",
+"name": "Limsa Lominsa Lower Decks",
+"x": 9.5,
+"y": 11.2
+},
+{
+"region": "La Noscea",
+"zone": "Middle La Noscea",
+"name": "Summerford Farms",
+"x": 26.0,
+"y": 16.3
+},
+{
+"region": "La Noscea",
+"zone": "Lower La Noscea",
+"name": "Moraby Drydocks",
+"x": 24.6,
+"y": 34.9
+},
+{
+"region": "La Noscea",
+"zone": "Eastern La Noscea",
+"name": "Costa del Sol",
+"x": 31.2,
+"y": 30.8
+},
+{
+"region": "La Noscea",
+"zone": "Eastern La Noscea",
+"name": "Wineport",
+"x": 21.0,
+"y": 21.5
+},
+{
+"region": "La Noscea",
+"zone": "Western La Noscea",
+"name": "Swiftperch",
+"x": 34.5,
+"y": 31.7
+},
+{
+"region": "La Noscea",
+"zone": "Western La Noscea",
+"name": "Aleport",
+"x": 26.7,
+"y": 25.8
+},
+{
+"region": "La Noscea",
+"zone": "Upper La Noscea",
+"name": "Camp Bronze Lake",
+"x": 30.2,
+"y": 23.3
+},
+{
+"region": "La Noscea",
+"zone": "Outer La Noscea",
+"name": "Camp Overlook",
+"x": 19.1,
+"y": 17.2
+},
+{
+"region": "La Noscea",
+"zone": "Wolves' Den Pier",
+"name": "Wolves' Den Pier",
+"x": 5.4,
+"y": 5.8
+},
+{
+"region": "The Black Shroud",
+"zone": "Old Gridania",
+"name": "New Gridania",
+"x": 11.9,
+"y": 11.8
+},
+{
+"region": "The Black Shroud",
+"zone": "Central Shroud",
+"name": "Bentbranch Meadows",
+"x": 21.7,
+"y": 22.2
+},
+{
+"region": "The Black Shroud",
+"zone": "East Shroud",
+"name": "Hawthorne Hut",
+"x": 17.7,
+"y": 27.4
+},
+{
+"region": "The Black Shroud",
+"zone": "South Shroud",
+"name": "Quarrymill",
+"x": 25.0,
+"y": 20.1
+},
+{
+"region": "The Black Shroud",
+"zone": "South Shroud",
+"name": "Camp Tranquil",
+"x": 16.8,
+"y": 28.5
+},
+{
+"region": "The Black Shroud",
+"zone": "North Shroud",
+"name": "Fallgourd Float",
+"x": 20.6,
+"y": 26.1
+},
+{
+"region": "Thanalan",
+"zone": "Ul'dah",
+"name": "Ul'dah - Steps of Nald",
+"x": 8.3,
+"y": 7.8
+},
+{
+"region": "Thanalan",
+"zone": "Western Thanalan",
+"name": "Horizon",
+"x": 22.8,
+"y": 16.9
+},
+{
+"region": "Thanalan",
+"zone": "Central Thanalan",
+"name": "Black Brush Station",
+"x": 21.1,
+"y": 18.1
+},
+{
+"region": "Thanalan",
+"zone": "Eastern Thanalan",
+"name": "Camp Drybone",
+"x": 13.7,
+"y": 24.3
+},
+{
+"region": "Thanalan",
+"zone": "Southern Thanalan",
+"name": "Little Ala Mhigo",
+"x": 18.2,
+"y": 13.1
+},
+{
+"region": "Thanalan",
+"zone": "Southern Thanalan",
+"name": "Forgotten Springs",
+"x": 14.9,
+"y": 29.6
+},
+{
+"region": "Thanalan",
+"zone": "Northern Thanalan",
+"name": "Camp Bluefog",
+"x": 21.8,
+"y": 30.5
+},
+{
+"region": "Thanalan",
+"zone": "Northern Thanalan",
+"name": "Ceruleum Processing Plant",
+"x": 20.9,
+"y": 20.8
+},
+{
+"region": "Thanalan",
+"zone": "The Gold Saucer",
+"name": "Gold Saucer",
+"x": 6.1,
+"y": 6.1
+},
+{
+"region": "Coerthas",
+"zone": "Foundation",
+"name": "Foundation",
+"x": 9.9,
+"y": 12.1
+},
+{
+"region": "Coerthas",
+"zone": "Coerthas Central Highlands",
+"name": "Camp Dragonhead",
+"x": 25.9,
+"y": 16.8
+},
+{
+"region": "Coerthas",
+"zone": "Coerthas Western Highlands",
+"name": "Falcon's Nest",
+"x": 32.0,
+"y": 36.7
+},
+{
+"region": "Mor Dhona",
+"zone": "Mor Dhona",
+"name": "Revenant's Toll",
+"x": 22.2,
+"y": 8.1
+},
+{
+"region": "Abalathia's Spine",
+"zone": "The Sea of Clouds",
+"name": "Camp Cloudtop",
+"x": 10.2,
+"y": 33.4
+},
+{
+"region": "Abalathia's Spine",
+"zone": "The Sea of Clouds",
+"name": "Ok' Zundu",
+"x": 10.3,
+"y": 14.2
+},
+{
+"region": "Abalathia's Spine",
+"zone": "Azys Lla",
+"name": "Helix",
+"x": 8.0,
+"y": 10.6
+},
+{
+"region": "Dravania",
+"zone": "Idyllshire",
+"name": "Idyllshire",
+"x": 7.5,
+"y": 5.7
+},
+{
+"region": "Dravania",
+"zone": "The Dravanian Forelands",
+"name": "Tailfeather",
+"x": 33.2,
+"y": 23.1
+},
+{
+"region": "Dravania",
+"zone": "The Dravanian Forelands",
+"name": "Anyx Trine",
+"x": 16.4,
+"y": 23.2
+},
+{
+"region": "Dravania",
+"zone": "The Churning Mists",
+"name": "Moghome",
+"x": 27.7,
+"y": 34.4
+},
+{
+"region": "Dravania",
+"zone": "The Churning Mists",
+"name": "Zenith",
+"x": 10.8,
+"y": 28.8
+},
+{
+"region": "Gyr Abania",
+"zone": "Rhalgr's Reach",
+"name": "Rhalgr's Reach",
+"x": 12.8,
+"y": 13.1
+},
+{
+"region": "Gyr Abania",
+"zone": "The Fringes",
+"name": "Castrum Oriens",
+"x": 8.8,
+"y": 11.2
+},
+{
+"region": "Gyr Abania",
+"zone": "The Fringes",
+"name": "The Peering Stones",
+"x": 29.7,
+"y": 26.4
+},
+{
+"region": "Gyr Abania",
+"zone": "The Peaks",
+"name": "Ala Gannha",
+"x": 23.7,
+"y": 6.5
+},
+{
+"region": "Gyr Abania",
+"zone": "The Peaks",
+"name": "Ala Ghiri",
+"x": 16.0,
+"y": 36.4
+},
+{
+"region": "Gyr Abania",
+"zone": "The Lochs",
+"name": "Porta Praetoria",
+"x": 8.4,
+"y": 21.1
+},
+{
+"region": "Gyr Abania",
+"zone": "The Lochs",
+"name": "The Ala Mhigan Quarter",
+"x": 33.7,
+"y": 34.6
+},
+{
+"region": "Hingashi",
+"zone": "Kugane",
+"name": "Kugane",
+"x": 12.1,
+"y": 10.4
+},
+{
+"region": "Othard",
+"zone": "The Ruby Sea",
+"name": "Tamamizu",
+"x": 28.6,
+"y": 16.2
+},
+{
+"region": "Othard",
+"zone": "The Ruby Sea",
+"name": "Onokoro",
+"x": 23.2,
+"y": 9.8
+},
+{
+"region": "Othard",
+"zone": "Yanxia",
+"name": "Namai",
+"x": 30.1,
+"y": 19.6
+},
+{
+"region": "Othard",
+"zone": "Yanxia",
+"name": "The House of the Fierce",
+"x": 26.4,
+"y": 13.4
+},
+{
+"region": "Othard",
+"zone": "The Azim Steppe",
+"name": "Reunion",
+"x": 32.5,
+"y": 28.2
+},
+{
+"region": "Othard",
+"zone": "The Azim Steppe",
+"name": "The Dawn Throne",
+"x": 23.0,
+"y": 22.2
+},
+{
+"region": "Othard",
+"zone": "The Azim Steppe",
+"name": "Dhoro Iloh",
+"x": 6.3,
+"y": 23.7
+},
+{
+"region": "Othard",
+"zone": "The Azim Steppe",
+"name": "The Doman Enclave",
+"x": 7.4,
+"y": 6.5
+},
+{
+"region": "Norvrandt",
+"zone": "The Crystarium",
+"name": "The Crystarium",
+"x": 9.9,
+"y": 11.2
+},
+{
+"region": "Norvrandt",
+"zone": "Eulmore",
+"name": "Eulmore",
+"x": 11.2,
+"y": 11.2
+},
+{
+"region": "Norvrandt",
+"zone": "Lakeland",
+"name": "Fort Jobb",
+"x": 36.5,
+"y": 20.9
+},
+{
+"region": "Norvrandt",
+"zone": "Lakeland",
+"name": "The Ostall Imperative",
+"x": 6.7,
+"y": 16.8
+},
+{
+"region": "Norvrandt",
+"zone": "Kholusia",
+"name": "Stilltide",
+"x": 34.8,
+"y": 27.2
+},
+{
+"region": "Norvrandt",
+"zone": "Kholusia",
+"name": "Wright",
+"x": 16.6,
+"y": 29.1
+},
+{
+"region": "Norvrandt",
+"zone": "Kholusia",
+"name": "Tomra",
+"x": 12.9,
+"y": 9.0
+},
+{
+"region": "Norvrandt",
+"zone": "Amh Araeng",
+"name": "Mord Souq",
+"x": 26.4,
+"y": 17.0
+},
+{
+"region": "Norvrandt",
+"zone": "Amh Araeng",
+"name": "Inn at Journey's Head",
+"x": 29.4,
+"y": 27.6
+},
+{
+"region": "Norvrandt",
+"zone": "Amh Araeng",
+"name": "Twine",
+"x": 11.2,
+"y": 17.2
+},
+{
+"region": "Norvrandt",
+"zone": "Il Mheg",
+"name": "Lydha Lran",
+"x": 14.5,
+"y": 31.7
+},
+{
+"region": "Norvrandt",
+"zone": "Il Mheg",
+"name": "Pla Enni",
+"x": 20.0,
+"y": 4.3
+},
+{
+"region": "Norvrandt",
+"zone": "Il Mheg",
+"name": "Wolekdorf",
+"x": 29.0,
+"y": 7.7
+},
+{
+"region": "Norvrandt",
+"zone": "The Rak'tika Greatwood",
+"name": "Slitherbough",
+"x": 19.4,
+"y": 27.4
+},
+{
+"region": "Norvrandt",
+"zone": "The Rak'tika Greatwood",
+"name": "Fanow",
+"x": 29.1,
+"y": 17.5
+},
+{
+"region": "Norvrandt",
+"zone": "The Tempest",
+"name": "The Ondo Cups",
+"x": 32.7,
+"y": 17.5
+},
+{
+"region": "Norvrandt",
+"zone": "The Tempest",
+"name": "The Macarenses Angle",
+"x": 18.6,
+"y": 25.8
+},
+{
+"region": "Ilsabard",
+"zone": "Thavnair",
+"name": "Palaka's Stand",
+"x": 29.5,
+"y": 16.5
+},
+{
+"region": "Ilsabard",
+"zone": "Thavnair",
+"name": "Yedlihmad",
+"x": 25.3,
+"y": 34.0
+},
+{
+"region": "Ilsabard",
+"zone": "Thavnair",
+"name": "The Great Work",
+"x": 10.9,
+"y": 22.2
+},
+{
+"region": "Ilsabard",
+"zone": "Old Sharlayan",
+"name": "Old Sharlayan",
+"x": 11.2,
+"y": 11.2
+},
+{
+"region": "Ilsabard",
+"zone": "Radz-at-Han",
+"name": "Radz-at-Han",
+"x": 11.7,
+"y": 10.6
+},
+{
+"region": "Ilsabard",
+"zone": "Labyrinthos",
+"name": "Aporia",
+"x": 6.9,
+"y": 27.4
+},
+{
+"region": "Ilsabard",
+"zone": "Labyrinthos",
+"name": "The Archeion",
+"x": 30.3,
+"y": 11.9
+},
+{
+"region": "Ilsabard",
+"zone": "Labyrinthos",
+"name": "Sharlayan Hamlet",
+"x": 24.6,
+"y": 20.3
+},
+{
+"region": "Ilsabard",
+"zone": "Garlemald",
+"name": "Camp Broken Glass",
+"x": 13.3,
+"y": 31.1
+},
+{
+"region": "Ilsabard",
+"zone": "Garlemald",
+"name": "Tertium",
+"x": 31.7,
+"y": 18.0
+},
+{
+"region": "The Sea of Stars",
+"zone": "Mare Lamentorum",
+"name": "Sinus Lacrimarum",
+"x": 10.6,
+"y": 34.3
+},
+{
+"region": "The Sea of Stars",
+"zone": "Mare Lamentorum",
+"name": "Bestways Burrow",
+"x": 21.7,
+"y": 11.1
+},
+{
+"region": "The World Unsundered",
+"zone": "Elpis",
+"name": "Anagnorisis",
+"x": 24.6,
+"y": 24.0
+},
+{
+"region": "The World Unsundered",
+"zone": "Elpis",
+"name": "The Twelve Wonders",
+"x": 8.3,
+"y": 32.3
+},
+{
+"region": "The World Unsundered",
+"zone": "Elpis",
+"name": "Poieten Oikos",
+"x": 10.8,
+"y": 17.0
+},
+{
+"region": "The Sea of Stars",
+"zone": "Ultima Thule",
+"name": "Reah Tahra",
+"x": 10.5,
+"y": 26.7
+},
+{
+"region": "The Sea of Stars",
+"zone": "Ultima Thule",
+"name": "Abode of the Ea",
+"x": 22.7,
+"y": 8.3
+},
+{
+"region": "The Sea of Stars",
+"zone": "Ultima Thule",
+"name": "Base Omicron",
+"x": 31.3,
+"y": 28.0
+},
+{
+"region": "Yok Tural",
+"zone": "Tuliyollal",
+"name": "Tuliyollal",
+"x": 12.9,
+"y": 11.1
+},
+{
+"region": "Yok Tural",
+"zone": "Urqopacha",
+"name": "Wachunpelo",
+"x": 28.1,
+"y": 13.1
+},
+{
+"region": "Yok Tural",
+"zone": "Urqopacha",
+"name": "Worlar's Echo",
+"x": 30.5,
+"y": 34.2
+},
+{
+"region": "Yok Tural",
+"zone": "Kozama'uka",
+"name": "Ok'hanu",
+"x": 18.0,
+"y": 20.0
+},
+{
+"region": "Yok Tural",
+"zone": "Kozama'uka",
+"name": "Many Fires",
+"x": 32.2,
+"y": 25.5
+},
+{
+"region": "Yok Tural",
+"zone": "Kozama'uka",
+"name": "Earthenshire",
+"x": 11.8,
+"y": 27.8
+},
+{
+"region": "Yok Tural",
+"zone": "Kozama'uka",
+"name": "Dock Poga",
+"x": 37.2,
+"y": 16.8
+},
+{
+"region": "Yok Tural",
+"zone": "Yak T'el",
+"name": "Iq Br'aax",
+"x": 13.5,
+"y": 12.9
+},
+{
+"region": "Yok Tural",
+"zone": "Yak T'el",
+"name": "Mamook",
+"x": 35.9,
+"y": 32.0
+},
+{
+"region": "Xak Tural",
+"zone": "Shaaloani",
+"name": "Hhusatahwi",
+"x": 29.0,
+"y": 30.8
+},
+{
+"region": "Xak Tural",
+"zone": "Shaaloani",
+"name": "Sheshenewezi Springs",
+"x": 15.6,
+"y": 19.2
+},
+{
+"region": "Xak Tural",
+"zone": "Shaaloani",
+"name": "Mehwahhetsoan",
+"x": 27.7,
+"y": 10.1
+},
+{
+"region": "Xak Tural",
+"zone": "Heritage Found",
+"name": "Yyasulani Station",
+"x": 31.7,
+"y": 25.7
+},
+{
+"region": "Xak Tural",
+"zone": "Heritage Found",
+"name": "The Outskirts",
+"x": 17.0,
+"y": 9.8
+},
+{
+"region": "Xak Tural",
+"zone": "Heritage Found",
+"name": "Electrope Strike",
+"x": 17.0,
+"y": 23.9
+},
+{
+"region": "Xak Tural",
+"zone": "Solution Nine",
+"name": "Solution Nine",
+"x": 12.3,
+"y": 14.2
+},
+{
+"region": "Unlost World",
+"zone": "Living Memory",
+"name": "Leynode Mnemo",
+"x": 21.5,
+"y": 37.3
+},
+{
+"region": "Unlost World",
+"zone": "Living Memory",
+"name": "Leynode Pyro",
+"x": 34.7,
+"y": 15.7
+},
+{
+"region": "Unlost World",
+"zone": "Living Memory",
+"name": "Leynode Aero",
+"x": 16.4,
+"y": 13.5
+},
+{
+"region": "Other",
+"zone": "Bozjan Southern Front",
+"name": "Utya's Aegis",
+"x": 14.8,
+"y": 29.9
+},
+{
+"region": "Other",
+"zone": "Zadnor",
+"name": "Camp Vrdelnis",
+"x": 35.0,
+"y": 34.6
+}
+]

@@ -7,7 +7,13 @@
    "text": "Level 80 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Old Sharlayan"
-   ]
+   ],
+   "target": {
+    "zone": "Old Sharlayan",
+    "x": 11.2,
+    "y": 11.2,
+    "label": "Old Sharlayan aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 80-81 – Main chain",
@@ -31,7 +37,13 @@
    "unlocks": [
     "Labyrinthos (North)",
     "The Archeion"
-   ]
+   ],
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 30.3,
+    "y": 11.9,
+    "label": "The Archeion aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 80-81 – Old Sharlayan chain",
@@ -71,7 +83,13 @@
     "Thavnair (West)",
     "Yedlihmad",
     "The Great Work"
-   ]
+   ],
+   "target": {
+    "zone": "Thavnair",
+    "x": 25.3,
+    "y": 34,
+    "label": "Yedlihmad aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 80-81 – Thavnair chain",
@@ -127,7 +145,13 @@
    "text": "Level 81 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Radz-at-Han"
-   ]
+   ],
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 11.7,
+    "y": 10.6,
+    "label": "Radz-at-Han aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 80-81 – Main chain (continued)",
@@ -159,7 +183,13 @@
    "unlocks": [
     "Garlemald",
     "Camp Broken Glass"
-   ]
+   ],
+   "target": {
+    "zone": "Garlemald",
+    "x": 13.3,
+    "y": 31.1,
+    "label": "Camp Broken Glass aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -212,7 +242,13 @@
    "text": "Level 83 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Tertium"
-   ]
+   ],
+   "target": {
+    "zone": "Garlemald",
+    "x": 31.7,
+    "y": 18,
+    "label": "Tertium aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -235,7 +271,13 @@
    "unlocks": [
     "Sinus Lacrimarum",
     "Mare Lamentorum"
-   ]
+   ],
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 10.6,
+    "y": 34.3,
+    "label": "Sinus Lacrimarum aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 82-83",
@@ -262,7 +304,13 @@
    "text": "Level 84 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Bestways Burrow"
-   ]
+   ],
+   "target": {
+    "zone": "Mare Lamentorum",
+    "x": 21.7,
+    "y": 11.1,
+    "label": "Bestways Burrow aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -335,7 +383,13 @@
    "unlocks": [
     "Thavnair (East)",
     "Palaka's Stand"
-   ]
+   ],
+   "target": {
+    "zone": "Thavnair",
+    "x": 29.5,
+    "y": 16.5,
+    "label": "Palaka's Stand aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 84-85",
@@ -373,7 +427,13 @@
     "Endwalker Role Quests",
     "Oh, Higher",
     "Radz-at-Han"
-   ]
+   ],
+   "target": {
+    "zone": "Radz-at-Han",
+    "x": 11.7,
+    "y": 10.6,
+    "label": "Radz-at-Han aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 86-87",
@@ -388,7 +448,13 @@
     "Elpis",
     "Anagnorisis",
     "The Twelve Wonders"
-   ]
+   ],
+   "target": {
+    "zone": "Elpis",
+    "x": 24.6,
+    "y": 24,
+    "label": "Anagnorisis aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 86-87",
@@ -436,7 +502,13 @@
    "text": "Level 87 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Poieten Oikos"
-   ]
+   ],
+   "target": {
+    "zone": "Elpis",
+    "x": 10.8,
+    "y": 17,
+    "label": "Poieten Oikos aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 86-87",
@@ -508,7 +580,13 @@
     "Labyrinthos (South)",
     "Sharlayan Hamlet",
     "Aporia"
-   ]
+   ],
+   "target": {
+    "zone": "Labyrinthos",
+    "x": 24.6,
+    "y": 20.3,
+    "label": "Sharlayan Hamlet aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -587,7 +665,13 @@
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Reah Tahra"
-   ]
+   ],
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 10.5,
+    "y": 26.7,
+    "label": "Reah Tahra aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -600,7 +684,13 @@
    "text": "Level 89 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Abode of the Ea"
-   ]
+   ],
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 22.7,
+    "y": 8.3,
+    "label": "Abode of the Ea aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 88-90",
@@ -618,7 +708,13 @@
    "text": "Level 90 · Main Scenario Quest (meteor icon)",
    "unlocks": [
     "Base Omicron"
-   ]
+   ],
+   "target": {
+    "zone": "Ultima Thule",
+    "x": 31.3,
+    "y": 28,
+    "label": "Base Omicron aetheryte (attune here)"
+   }
   },
   {
    "section": "Levels 88-90",

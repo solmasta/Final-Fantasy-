@@ -55,6 +55,14 @@ Tell the overlay where you are in one of two ways: **copy** your coordinates (e.
 
 Check your files with `npm run validate`.
 
+### Browser version
+
+`npm run build-web` builds `web/index.html`, a single-page version of the overlay (all guides embedded, aetheryte picker, direction arrow, reset timers) that runs in any browser, for a second monitor or a phone.
+
+### Coordinates
+
+`data/aetherytes.txt` holds 109 aetheryte coordinates (base game through Dawntrail), gathered from the Trials of Fantasy aetheryte checklist and the FFXIV Online Wiki zone pages. Quest steps that unlock an aetheryte get it as their arrow target automatically (58 steps). City-aethernet shards and Dawntrail's smaller sub-zone aetherytes are not included. Values come from third-party pages and have not been checked in game.
+
 ### Included guides
 
 `guides/ffxiv-00-locations.json` is a region-by-region reference (zones, cities, dungeons, trials, raids; from `data/locations.txt`). `guides/ffxiv-01…12` cover the entire Main Scenario Quest line from A Realm Reborn through Patch 7.56 (one guide per story arc; every quest with its level and what it unlocks). They are generated from the quest lists in `data/msq-*.txt` – edit those and run `npm run build-guides` to regenerate (e.g. when a new patch adds quests).
